@@ -1,0 +1,52 @@
+{
+ "metas": [
+  {
+   "id": "tt0057565",
+   "type": "movie",
+   "name": "High and Low",
+   "poster": "https://images.metahub.space/poster/medium/tt0057565/img",
+   "releaseInfo": "1963"
+  },
+  {
+   "id": "tt0094562",
+   "type": "movie",
+   "name": "Tanner '88",
+   "poster": "https://images.metahub.space/poster/medium/tt0094562/img",
+   "releaseInfo": "1988"
+  },
+  {
+   "id": "tt0078872",
+   "type": "movie",
+   "name": "The Black Stallion",
+   "poster": "https://images.metahub.space/poster/medium/tt0078872/img",
+   "releaseInfo": "1979"
+  },
+  {
+   "id": "tt0057012",
+   "type": "movie",
+   "name": "Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb",
+   "poster": "https://images.metahub.space/poster/medium/tt0057012/img"
+  },
+  {
+   "id": "tt0063350",
+   "type": "movie",
+   "name": "Night of the Living Dead",
+   "poster": "https://images.metahub.space/poster/medium/tt0063350/img",
+   "releaseInfo": "1968"
+  },
+  {
+   "id": "tt0064665",
+   "type": "movie",
+   "name": "Midnight Cowboy",
+   "poster": "https://images.metahub.space/poster/medium/tt0064665/img",
+   "releaseInfo": "1969"
+  },
+  {
+   "id": "tt0105151",
+   "type": "movie",
+   "name": "The Player",
+   "poster": "https://images.metahub.space/poster/medium/tt0105151/img",
+   "releaseInfo": "1992"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "metas": [
+  {
+   "id": "tt0040522",
+   "type": "movie",
+   "name": "Bicycle Thieves",
+   "poster": "https://images.metahub.space/poster/medium/tt0040522/img",
+   "releaseInfo": "1948"
+  },
+  {
+   "id": "tt0056663",
+   "type": "movie",
+   "name": "Vivre Sa Vie",
+   "poster": "https://images.metahub.space/poster/medium/tt0056663/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0058182",
+   "type": "movie",
+   "name": "A Hard Day's Night",
+   "poster": "https://images.metahub.space/poster/medium/tt0058182/img",
+   "releaseInfo": "1964"
+  },
+  {
+   "id": "tt0041154",
+   "type": "movie",
+   "name": "Late Spring",
+   "poster": "https://images.metahub.space/poster/medium/tt0041154/img",
+   "releaseInfo": "1949"
+  },
+  {
+   "id": "tt0061781",
+   "type": "movie",
+   "name": "The Firemen's Ball",
+   "poster": "https://images.metahub.space/poster/medium/tt0061781/img",
+   "releaseInfo": "1967"
+  },
+  {
+   "id": "tt0080196",
+   "type": "movie",
+   "name": "Berlin Alexanderplatz",
+   "poster": "https://images.metahub.space/poster/medium/tt0080196/img",
+   "releaseInfo": "1980"
+  },
+  {
+   "id": "tt0055032",
+   "type": "movie",
+   "name": "Jules and Jim",
+   "poster": "https://images.metahub.space/poster/medium/tt0055032/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0055913",
+   "type": "movie",
+   "name": "Divorce Italian Style",
+   "poster": "https://images.metahub.space/poster/medium/tt0055913/img",
+   "releaseInfo": "1961"
+  },
+  {
+   "id": "tt0057207",
+   "type": "movie",
+   "name": "Judex",
+   "poster": "https://images.metahub.space/poster/medium/tt0057207/img",
+   "releaseInfo": "1963"
+  }
+ ]
+}

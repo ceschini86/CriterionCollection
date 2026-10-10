@@ -1,0 +1,81 @@
+{
+ "metas": [
+  {
+   "id": "tt0047478",
+   "type": "movie",
+   "name": "Seven Samurai",
+   "poster": "https://images.metahub.space/poster/medium/tt0047478/img",
+   "releaseInfo": "1954"
+  },
+  {
+   "id": "tt0053270",
+   "type": "movie",
+   "name": "Shadows",
+   "poster": "https://images.metahub.space/poster/medium/tt0053270/img",
+   "releaseInfo": "1960"
+  },
+  {
+   "id": "tt0062952",
+   "type": "movie",
+   "name": "Faces",
+   "poster": "https://images.metahub.space/poster/medium/tt0062952/img",
+   "releaseInfo": "1968"
+  },
+  {
+   "id": "tt0072417",
+   "type": "movie",
+   "name": "A Woman Under the Influence",
+   "poster": "https://images.metahub.space/poster/medium/tt0072417/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt0074749",
+   "type": "movie",
+   "name": "The Killing of a Chinese Bookie",
+   "poster": "https://images.metahub.space/poster/medium/tt0074749/img",
+   "releaseInfo": "1976"
+  },
+  {
+   "id": "tt0079672",
+   "type": "movie",
+   "name": "Opening Night",
+   "poster": "https://images.metahub.space/poster/medium/tt0079672/img",
+   "releaseInfo": "1977"
+  },
+  {
+   "id": "tt0346794",
+   "type": "movie",
+   "name": "A Constant Forge",
+   "poster": "https://images.metahub.space/poster/medium/tt0346794/img",
+   "releaseInfo": "2000"
+  },
+  {
+   "id": "tt0047528",
+   "type": "movie",
+   "name": "La Strada",
+   "poster": "https://images.metahub.space/poster/medium/tt0047528/img",
+   "releaseInfo": "1954"
+  },
+  {
+   "id": "tt0107653",
+   "type": "movie",
+   "name": "Naked",
+   "poster": "https://images.metahub.space/poster/medium/tt0107653/img",
+   "releaseInfo": "1993"
+  },
+  {
+   "id": "tt0021749",
+   "type": "movie",
+   "name": "City Lights",
+   "poster": "https://images.metahub.space/poster/medium/tt0021749/img",
+   "releaseInfo": "1931"
+  },
+  {
+   "id": "tt0037674",
+   "type": "movie",
+   "name": "Children of Paradise",
+   "poster": "https://images.metahub.space/poster/medium/tt0037674/img",
+   "releaseInfo": "1945"
+  }
+ ]
+}

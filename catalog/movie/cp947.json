@@ -1,0 +1,53 @@
+{
+ "metas": [
+  {
+   "id": "tt0117589",
+   "type": "movie",
+   "name": "Secrets & Lies",
+   "poster": "https://images.metahub.space/poster/medium/tt0117589/img",
+   "releaseInfo": "1996"
+  },
+  {
+   "id": "tt0154420",
+   "type": "movie",
+   "name": "The Celebration",
+   "poster": "https://images.metahub.space/poster/medium/tt0154420/img",
+   "releaseInfo": "1998"
+  },
+  {
+   "id": "tt0367089",
+   "type": "movie",
+   "name": "The Squid and the Whale",
+   "poster": "https://images.metahub.space/poster/medium/tt0367089/img",
+   "releaseInfo": "2005"
+  },
+  {
+   "id": "tt17009710",
+   "type": "movie",
+   "name": "Anatomy of a Fall",
+   "poster": "https://images.metahub.space/poster/medium/tt17009710/img",
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tt0272338",
+   "type": "movie",
+   "name": "Punch-Drunk Love",
+   "poster": "https://images.metahub.space/poster/medium/tt0272338/img",
+   "releaseInfo": "2002"
+  },
+  {
+   "id": "tt10370710",
+   "type": "movie",
+   "name": "The Worst Person in the World",
+   "poster": "https://images.metahub.space/poster/medium/tt10370710/img",
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tt0120601",
+   "type": "movie",
+   "name": "Being John Malkovich",
+   "poster": "https://images.metahub.space/poster/medium/tt0120601/img",
+   "releaseInfo": "1999"
+  }
+ ]
+}

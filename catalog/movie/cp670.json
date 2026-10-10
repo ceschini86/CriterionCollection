@@ -1,0 +1,83 @@
+{
+ "metas": [
+  {
+   "id": "tt0031971",
+   "type": "movie",
+   "name": "Stagecoach",
+   "poster": "https://images.metahub.space/poster/medium/tt0031971/img",
+   "releaseInfo": "1939"
+  },
+  {
+   "id": "tt0040724",
+   "type": "movie",
+   "name": "Red River",
+   "poster": "https://images.metahub.space/poster/medium/tt0040724/img",
+   "releaseInfo": "1948"
+  },
+  {
+   "id": "tt0050407",
+   "type": "movie",
+   "name": "Forty Guns",
+   "poster": "https://images.metahub.space/poster/medium/tt0050407/img",
+   "releaseInfo": "1957"
+  },
+  {
+   "id": "tt0042531",
+   "type": "movie",
+   "name": "The Gunfighter",
+   "poster": "https://images.metahub.space/poster/medium/tt0042531/img",
+   "releaseInfo": "1950"
+  },
+  {
+   "id": "tt0042490",
+   "type": "movie",
+   "name": "The Furies",
+   "poster": "https://images.metahub.space/poster/medium/tt0042490/img",
+   "releaseInfo": "1950"
+  },
+  {
+   "id": "tt0050086",
+   "type": "movie",
+   "name": "3:10 to Yuma",
+   "poster": "https://images.metahub.space/poster/medium/tt0050086/img",
+   "releaseInfo": "1957"
+  },
+  {
+   "id": "tt0067411",
+   "type": "movie",
+   "name": "McCabe & Mrs. Miller",
+   "poster": "https://images.metahub.space/poster/medium/tt0067411/img",
+   "releaseInfo": "1971"
+  },
+  {
+   "id": "tt0051047",
+   "type": "movie",
+   "name": "The Tall T",
+   "poster": "https://images.metahub.space/poster/medium/tt0051047/img"
+  },
+  {
+   "id": "tt0050296",
+   "type": "movie",
+   "name": "Decision At Sundown",
+   "poster": "https://images.metahub.space/poster/medium/tt0050296/img"
+  },
+  {
+   "id": "tt0051437",
+   "type": "movie",
+   "name": "Buchanan Rides Alone",
+   "poster": "https://images.metahub.space/poster/medium/tt0051437/img"
+  },
+  {
+   "id": "tt0053220",
+   "type": "movie",
+   "name": "Ride Lonesome",
+   "poster": "https://images.metahub.space/poster/medium/tt0053220/img"
+  },
+  {
+   "id": "tt0053729",
+   "type": "movie",
+   "name": "Comanche Station",
+   "poster": "https://images.metahub.space/poster/medium/tt0053729/img"
+  }
+ ]
+}

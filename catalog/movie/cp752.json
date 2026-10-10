@@ -1,0 +1,38 @@
+{
+ "metas": [
+  {
+   "id": "tt0057012",
+   "type": "movie",
+   "name": "Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb",
+   "poster": "https://images.metahub.space/poster/medium/tt0057012/img"
+  },
+  {
+   "id": "tt0058083",
+   "type": "movie",
+   "name": "Fail-Safe",
+   "poster": "https://images.metahub.space/poster/medium/tt0058083/img",
+   "releaseInfo": "1964"
+  },
+  {
+   "id": "tt0100150",
+   "type": "movie",
+   "name": "Miller's Crossing",
+   "poster": "https://images.metahub.space/poster/medium/tt0100150/img",
+   "releaseInfo": "1990"
+  },
+  {
+   "id": "tt0086979",
+   "type": "movie",
+   "name": "Blood Simple",
+   "poster": "https://images.metahub.space/poster/medium/tt0086979/img",
+   "releaseInfo": "1984"
+  },
+  {
+   "id": "tt0096257",
+   "type": "movie",
+   "name": "The Thin Blue Line",
+   "poster": "https://images.metahub.space/poster/medium/tt0096257/img",
+   "releaseInfo": "1988"
+  }
+ ]
+}

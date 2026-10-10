@@ -1,0 +1,46 @@
+{
+ "metas": [
+  {
+   "id": "tt0929425",
+   "type": "movie",
+   "name": "Gomorrah",
+   "poster": "https://images.metahub.space/poster/medium/tt0929425/img",
+   "releaseInfo": "2008"
+  },
+  {
+   "id": "tt0052832",
+   "type": "movie",
+   "name": "The Fugitive Kind",
+   "poster": "https://images.metahub.space/poster/medium/tt0052832/img",
+   "releaseInfo": "1959"
+  },
+  {
+   "id": "tt0986233",
+   "type": "movie",
+   "name": "Hunger",
+   "poster": "https://images.metahub.space/poster/medium/tt0986233/img",
+   "releaseInfo": "2008"
+  },
+  {
+   "id": "tt0048424",
+   "type": "movie",
+   "name": "The Night of the Hunter",
+   "poster": "https://images.metahub.space/poster/medium/tt0048424/img",
+   "releaseInfo": "1955"
+  },
+  {
+   "id": "tt0106677",
+   "type": "movie",
+   "name": "Dazed and Confused",
+   "poster": "https://images.metahub.space/poster/medium/tt0106677/img",
+   "releaseInfo": "1993"
+  },
+  {
+   "id": "tt0027977",
+   "type": "movie",
+   "name": "Modern Times",
+   "poster": "https://images.metahub.space/poster/medium/tt0027977/img",
+   "releaseInfo": "1936"
+  }
+ ]
+}

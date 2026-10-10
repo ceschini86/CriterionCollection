@@ -1,0 +1,38 @@
+{
+ "metas": [
+  {
+   "id": "tt0027977",
+   "type": "movie",
+   "name": "Modern Times",
+   "poster": "https://images.metahub.space/poster/medium/tt0027977/img",
+   "releaseInfo": "1936"
+  },
+  {
+   "id": "tt0040522",
+   "type": "movie",
+   "name": "Bicycle Thieves",
+   "poster": "https://images.metahub.space/poster/medium/tt0040522/img",
+   "releaseInfo": "1948"
+  },
+  {
+   "id": "tt0092337",
+   "type": "movie",
+   "name": "Dekalog",
+   "poster": "https://images.metahub.space/poster/medium/tt0092337/img"
+  },
+  {
+   "id": "tt0086979",
+   "type": "movie",
+   "name": "Blood Simple",
+   "poster": "https://images.metahub.space/poster/medium/tt0086979/img",
+   "releaseInfo": "1984"
+  },
+  {
+   "id": "tt0064276",
+   "type": "movie",
+   "name": "Easy Rider",
+   "poster": "https://images.metahub.space/poster/medium/tt0064276/img",
+   "releaseInfo": "1969"
+  }
+ ]
+}

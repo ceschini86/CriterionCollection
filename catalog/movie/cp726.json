@@ -1,0 +1,52 @@
+{
+ "metas": [
+  {
+   "id": "tt0013257",
+   "type": "movie",
+   "name": "Häxan",
+   "poster": "https://images.metahub.space/poster/medium/tt0013257/img",
+   "releaseInfo": "1922"
+  },
+  {
+   "id": "tt0076299",
+   "type": "movie",
+   "name": "The Last Wave",
+   "poster": "https://images.metahub.space/poster/medium/tt0076299/img",
+   "releaseInfo": "1977"
+  },
+  {
+   "id": "tt0122136",
+   "type": "movie",
+   "name": "Kuroneko",
+   "poster": "https://images.metahub.space/poster/medium/tt0122136/img",
+   "releaseInfo": "1968"
+  },
+  {
+   "id": "tt0058430",
+   "type": "movie",
+   "name": "Onibaba",
+   "poster": "https://images.metahub.space/poster/medium/tt0058430/img",
+   "releaseInfo": "1964"
+  },
+  {
+   "id": "tt0166924",
+   "type": "movie",
+   "name": "Mulholland Dr",
+   "poster": "https://images.metahub.space/poster/medium/tt0166924/img"
+  },
+  {
+   "id": "tt0049902",
+   "type": "movie",
+   "name": "A Man Escaped",
+   "poster": "https://images.metahub.space/poster/medium/tt0049902/img",
+   "releaseInfo": "1956"
+  },
+  {
+   "id": "tt0046438",
+   "type": "movie",
+   "name": "Tokyo Story",
+   "poster": "https://images.metahub.space/poster/medium/tt0046438/img",
+   "releaseInfo": "1953"
+  }
+ ]
+}

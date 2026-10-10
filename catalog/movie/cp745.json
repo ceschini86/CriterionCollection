@@ -1,0 +1,74 @@
+{
+ "metas": [
+  {
+   "id": "tt1233334",
+   "type": "movie",
+   "name": "Pariah",
+   "poster": "https://images.metahub.space/poster/medium/tt1233334/img",
+   "releaseInfo": "2011"
+  },
+  {
+   "id": "tt0063646",
+   "type": "movie",
+   "name": "The Story of a Three-Day Pass",
+   "poster": "https://images.metahub.space/poster/medium/tt0063646/img",
+   "releaseInfo": "1968"
+  },
+  {
+   "id": "tt0066550",
+   "type": "movie",
+   "name": "Watermelon Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0066550/img",
+   "releaseInfo": "1970"
+  },
+  {
+   "id": "tt0067810",
+   "type": "movie",
+   "name": "Sweet Sweetback's Baadasssss Song",
+   "poster": "https://images.metahub.space/poster/medium/tt0067810/img",
+   "releaseInfo": "1971"
+  },
+  {
+   "id": "tt0069996",
+   "type": "movie",
+   "name": "Don't Play Us Cheap",
+   "poster": "https://images.metahub.space/poster/medium/tt0069996/img",
+   "releaseInfo": "1973"
+  },
+  {
+   "id": "tt0100791",
+   "type": "movie",
+   "name": "To Sleep with Anger",
+   "poster": "https://images.metahub.space/poster/medium/tt0100791/img",
+   "releaseInfo": "1990"
+  },
+  {
+   "id": "tt1133989",
+   "type": "movie",
+   "name": "Medicine for Melancholy",
+   "poster": "https://images.metahub.space/poster/medium/tt1133989/img",
+   "releaseInfo": "2008"
+  },
+  {
+   "id": "tt0071334",
+   "type": "movie",
+   "name": "Claudine",
+   "poster": "https://images.metahub.space/poster/medium/tt0071334/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt0093509",
+   "type": "movie",
+   "name": "Matewan",
+   "poster": "https://images.metahub.space/poster/medium/tt0093509/img",
+   "releaseInfo": "1987"
+  },
+  {
+   "id": "tt0055353",
+   "type": "movie",
+   "name": "A Raisin in the Sun",
+   "poster": "https://images.metahub.space/poster/medium/tt0055353/img",
+   "releaseInfo": "1961"
+  }
+ ]
+}

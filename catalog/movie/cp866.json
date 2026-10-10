@@ -1,0 +1,44 @@
+{
+ "metas": [
+  {
+   "id": "tt0054331",
+   "type": "movie",
+   "name": "Spartacus",
+   "poster": "https://images.metahub.space/poster/medium/tt0054331/img",
+   "releaseInfo": "1960"
+  },
+  {
+   "id": "tt0093378",
+   "type": "movie",
+   "name": "La Bamba",
+   "poster": "https://images.metahub.space/poster/medium/tt0093378/img",
+   "releaseInfo": "1987"
+  },
+  {
+   "id": "tt0072281",
+   "type": "movie",
+   "name": "The Three Musketeers",
+   "poster": "https://images.metahub.space/poster/medium/tt0072281/img"
+  },
+  {
+   "id": "tt0073012",
+   "type": "movie",
+   "name": "The Four Musketeers",
+   "poster": "https://images.metahub.space/poster/medium/tt0073012/img"
+  },
+  {
+   "id": "tt0107554",
+   "type": "movie",
+   "name": "Menace II Society",
+   "poster": "https://images.metahub.space/poster/medium/tt0107554/img",
+   "releaseInfo": "1993"
+  },
+  {
+   "id": "tt0053146",
+   "type": "movie",
+   "name": "Black Orpheus",
+   "poster": "https://images.metahub.space/poster/medium/tt0053146/img",
+   "releaseInfo": "1959"
+  }
+ ]
+}

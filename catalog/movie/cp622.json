@@ -1,0 +1,32 @@
+{
+ "metas": [
+  {
+   "id": "tt0063268",
+   "type": "movie",
+   "name": "Mandabi",
+   "poster": "https://images.metahub.space/poster/medium/tt0063268/img",
+   "releaseInfo": "1968"
+  },
+  {
+   "id": "tt0060758",
+   "type": "movie",
+   "name": "Black Girl",
+   "poster": "https://images.metahub.space/poster/medium/tt0060758/img",
+   "releaseInfo": "1966"
+  },
+  {
+   "id": "tt0040522",
+   "type": "movie",
+   "name": "Bicycle Thieves",
+   "poster": "https://images.metahub.space/poster/medium/tt0040522/img",
+   "releaseInfo": "1948"
+  },
+  {
+   "id": "tt0100234",
+   "type": "movie",
+   "name": "Close-Up",
+   "poster": "https://images.metahub.space/poster/medium/tt0100234/img",
+   "releaseInfo": "1990"
+  }
+ ]
+}

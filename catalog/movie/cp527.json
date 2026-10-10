@@ -1,0 +1,60 @@
+{
+ "metas": [
+  {
+   "id": "tt0028827",
+   "type": "movie",
+   "name": "Elephant Boy",
+   "poster": "https://images.metahub.space/poster/medium/tt0028827/img",
+   "releaseInfo": "1937"
+  },
+  {
+   "id": "tt0030082",
+   "type": "movie",
+   "name": "The Drum",
+   "poster": "https://images.metahub.space/poster/medium/tt0030082/img",
+   "releaseInfo": "1938"
+  },
+  {
+   "id": "tt0034928",
+   "type": "movie",
+   "name": "Jungle Book",
+   "poster": "https://images.metahub.space/poster/medium/tt0034928/img",
+   "releaseInfo": "1942"
+  },
+  {
+   "id": "tt0033152",
+   "type": "movie",
+   "name": "The Thief of Bagdad",
+   "poster": "https://images.metahub.space/poster/medium/tt0033152/img",
+   "releaseInfo": "1940"
+  },
+  {
+   "id": "tt0051808",
+   "type": "movie",
+   "name": "The Hidden Fortress",
+   "poster": "https://images.metahub.space/poster/medium/tt0051808/img",
+   "releaseInfo": "1958"
+  },
+  {
+   "id": "tt0032976",
+   "type": "movie",
+   "name": "Rebecca",
+   "poster": "https://images.metahub.space/poster/medium/tt0032976/img",
+   "releaseInfo": "1940"
+  },
+  {
+   "id": "tt0104797",
+   "type": "movie",
+   "name": "Malcolm X",
+   "poster": "https://images.metahub.space/poster/medium/tt0104797/img",
+   "releaseInfo": "1992"
+  },
+  {
+   "id": "tt0028010",
+   "type": "movie",
+   "name": "My Man Godfrey",
+   "poster": "https://images.metahub.space/poster/medium/tt0028010/img",
+   "releaseInfo": "1936"
+  }
+ ]
+}

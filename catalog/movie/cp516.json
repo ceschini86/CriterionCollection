@@ -1,0 +1,46 @@
+{
+ "metas": [
+  {
+   "id": "tt0245712",
+   "type": "movie",
+   "name": "Amores perros",
+   "poster": "https://images.metahub.space/poster/medium/tt0245712/img",
+   "releaseInfo": "2000"
+  },
+  {
+   "id": "tt0095675",
+   "type": "movie",
+   "name": "Women on the Verge of a Nervous Breakdown",
+   "poster": "https://images.metahub.space/poster/medium/tt0095675/img",
+   "releaseInfo": "1988"
+  },
+  {
+   "id": "tt0058279",
+   "type": "movie",
+   "name": "Kwaidan",
+   "poster": "https://images.metahub.space/poster/medium/tt0058279/img",
+   "releaseInfo": "1965"
+  },
+  {
+   "id": "tt0081398",
+   "type": "movie",
+   "name": "Raging Bull",
+   "poster": "https://images.metahub.space/poster/medium/tt0081398/img",
+   "releaseInfo": "1980"
+  },
+  {
+   "id": "tt0086216",
+   "type": "movie",
+   "name": "Rumble Fish",
+   "poster": "https://images.metahub.space/poster/medium/tt0086216/img",
+   "releaseInfo": "1983"
+  },
+  {
+   "id": "tt0165078",
+   "type": "movie",
+   "name": "After Life",
+   "poster": "https://images.metahub.space/poster/medium/tt0165078/img",
+   "releaseInfo": "1999"
+  }
+ ]
+}

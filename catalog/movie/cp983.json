@@ -1,0 +1,53 @@
+{
+ "metas": [
+  {
+   "id": "tt17009710",
+   "type": "movie",
+   "name": "Anatomy of a Fall",
+   "poster": "https://images.metahub.space/poster/medium/tt17009710/img",
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tt0199725",
+   "type": "movie",
+   "name": "Love & Basketball",
+   "poster": "https://images.metahub.space/poster/medium/tt0199725/img",
+   "releaseInfo": "2000"
+  },
+  {
+   "id": "tt2347569",
+   "type": "movie",
+   "name": "Frances Ha",
+   "poster": "https://images.metahub.space/poster/medium/tt2347569/img",
+   "releaseInfo": "2013"
+  },
+  {
+   "id": "tt0091867",
+   "type": "movie",
+   "name": "A Room with a View",
+   "poster": "https://images.metahub.space/poster/medium/tt0091867/img",
+   "releaseInfo": "1986"
+  },
+  {
+   "id": "tt5580390",
+   "type": "movie",
+   "name": "The Shape of Water",
+   "poster": "https://images.metahub.space/poster/medium/tt5580390/img",
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tt0102456",
+   "type": "movie",
+   "name": "Mississippi Masala",
+   "poster": "https://images.metahub.space/poster/medium/tt0102456/img",
+   "releaseInfo": "1991"
+  },
+  {
+   "id": "tt0046187",
+   "type": "movie",
+   "name": "Pickup on South Street",
+   "poster": "https://images.metahub.space/poster/medium/tt0046187/img",
+   "releaseInfo": "1953"
+  }
+ ]
+}

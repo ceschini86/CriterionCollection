@@ -1,0 +1,60 @@
+{
+ "metas": [
+  {
+   "id": "tt0072443",
+   "type": "movie",
+   "name": "Mirror",
+   "poster": "https://images.metahub.space/poster/medium/tt0072443/img",
+   "releaseInfo": "1975"
+  },
+  {
+   "id": "tt21192142",
+   "type": "movie",
+   "name": "All of Us Strangers",
+   "poster": "https://images.metahub.space/poster/medium/tt21192142/img",
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tt0061395",
+   "type": "movie",
+   "name": "Belle de Jour",
+   "poster": "https://images.metahub.space/poster/medium/tt0061395/img",
+   "releaseInfo": "1967"
+  },
+  {
+   "id": "tt1440266",
+   "type": "movie",
+   "name": "Pina",
+   "poster": "https://images.metahub.space/poster/medium/tt1440266/img",
+   "releaseInfo": "2011"
+  },
+  {
+   "id": "tt0084805",
+   "type": "movie",
+   "name": "Tootsie",
+   "poster": "https://images.metahub.space/poster/medium/tt0084805/img",
+   "releaseInfo": "1982"
+  },
+  {
+   "id": "tt0058985",
+   "type": "movie",
+   "name": "Happiness",
+   "poster": "https://images.metahub.space/poster/medium/tt0058985/img",
+   "releaseInfo": "1965"
+  },
+  {
+   "id": "tt0082926",
+   "type": "movie",
+   "name": "Polyester",
+   "poster": "https://images.metahub.space/poster/medium/tt0082926/img",
+   "releaseInfo": "1981"
+  },
+  {
+   "id": "tt0084565",
+   "type": "movie",
+   "name": "Querelle",
+   "poster": "https://images.metahub.space/poster/medium/tt0084565/img",
+   "releaseInfo": "1982"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "metas": [
+  {
+   "id": "tt0058946",
+   "type": "movie",
+   "name": "The Battle of Algiers",
+   "poster": "https://images.metahub.space/poster/medium/tt0058946/img",
+   "releaseInfo": "1966"
+  },
+  {
+   "id": "tt0069191",
+   "type": "movie",
+   "name": "Roma",
+   "poster": "https://images.metahub.space/poster/medium/tt0069191/img"
+  },
+  {
+   "id": "tt0078754",
+   "type": "movie",
+   "name": "All That Jazz",
+   "poster": "https://images.metahub.space/poster/medium/tt0078754/img",
+   "releaseInfo": "1979"
+  },
+  {
+   "id": "tt0087414",
+   "type": "movie",
+   "name": "The Hit",
+   "poster": "https://images.metahub.space/poster/medium/tt0087414/img",
+   "releaseInfo": "1984"
+  },
+  {
+   "id": "tt0039677",
+   "type": "movie",
+   "name": "Odd Man Out",
+   "poster": "https://images.metahub.space/poster/medium/tt0039677/img",
+   "releaseInfo": "1947"
+  }
+ ]
+}

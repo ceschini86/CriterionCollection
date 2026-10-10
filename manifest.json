@@ -1,0 +1,2097 @@
+{
+ "id": "br.mateus.criterion-closet",
+ "version": "1.0.0",
+ "name": "Criterion Closet Picks",
+ "description": "Um catálogo por visita ao Criterion Closet.",
+ "resources": [
+  "catalog"
+ ],
+ "types": [
+  "movie"
+ ],
+ "idPrefixes": [
+  "tt"
+ ],
+ "catalogs": [
+  {
+   "type": "movie",
+   "id": "criterion-all",
+   "name": "Criterion Collection",
+   "extra": [
+    {
+     "name": "skip"
+    }
+   ]
+  },
+  {
+   "type": "movie",
+   "id": "cp1012",
+   "name": "Glenn Close"
+  },
+  {
+   "type": "movie",
+   "id": "cp1013",
+   "name": "Aaron Sorkin"
+  },
+  {
+   "type": "movie",
+   "id": "cp1010",
+   "name": "Mahershala Ali"
+  },
+  {
+   "type": "movie",
+   "id": "cp1007",
+   "name": "Ben Mankiewicz"
+  },
+  {
+   "type": "movie",
+   "id": "cp1011",
+   "name": "Sharon Horgan"
+  },
+  {
+   "type": "movie",
+   "id": "cp1003",
+   "name": "Jack Coyne"
+  },
+  {
+   "type": "movie",
+   "id": "cp1008",
+   "name": "Isaac Mizrahi"
+  },
+  {
+   "type": "movie",
+   "id": "cp1006",
+   "name": "Karen O and Barnaby Clay"
+  },
+  {
+   "type": "movie",
+   "id": "cp996",
+   "name": "Terry Zwigoff"
+  },
+  {
+   "type": "movie",
+   "id": "cp1004",
+   "name": "Dakota Fanning"
+  },
+  {
+   "type": "movie",
+   "id": "cp1005",
+   "name": "Vincent D’Onofrio"
+  },
+  {
+   "type": "movie",
+   "id": "cp1001",
+   "name": "Wes Anderson (Mobile)"
+  },
+  {
+   "type": "movie",
+   "id": "cp1002",
+   "name": "Jason Sudeikis"
+  },
+  {
+   "type": "movie",
+   "id": "cp995",
+   "name": "Matthew McConaughey"
+  },
+  {
+   "type": "movie",
+   "id": "cp993",
+   "name": "Danny McBride"
+  },
+  {
+   "type": "movie",
+   "id": "cp1000",
+   "name": "Joan Chen"
+  },
+  {
+   "type": "movie",
+   "id": "cp998",
+   "name": "Adam Scott"
+  },
+  {
+   "type": "movie",
+   "id": "cp992",
+   "name": "Colman Domingo"
+  },
+  {
+   "type": "movie",
+   "id": "cp981",
+   "name": "John Leguizamo"
+  },
+  {
+   "type": "movie",
+   "id": "cp983",
+   "name": "Mindy Kaling"
+  },
+  {
+   "type": "movie",
+   "id": "cp982",
+   "name": "Camila Mendes"
+  },
+  {
+   "type": "movie",
+   "id": "cp991",
+   "name": "Eric Andre"
+  },
+  {
+   "type": "movie",
+   "id": "cp990",
+   "name": "Thomas Bangalter"
+  },
+  {
+   "type": "movie",
+   "id": "cp984",
+   "name": "Christopher Nolan"
+  },
+  {
+   "type": "movie",
+   "id": "cp985",
+   "name": "Matt Damon"
+  },
+  {
+   "type": "movie",
+   "id": "cp989",
+   "name": "Fred Armisen and Carrie Brownstein"
+  },
+  {
+   "type": "movie",
+   "id": "cp986",
+   "name": "Cooper Hoffman"
+  },
+  {
+   "type": "movie",
+   "id": "cp977",
+   "name": "Billy Eichner"
+  },
+  {
+   "type": "movie",
+   "id": "cp975",
+   "name": "Noah Wyle"
+  },
+  {
+   "type": "movie",
+   "id": "cp978",
+   "name": "Geena Davis"
+  },
+  {
+   "type": "movie",
+   "id": "cp979",
+   "name": "David Tennant"
+  },
+  {
+   "type": "movie",
+   "id": "cp972",
+   "name": "Matthew Rhys"
+  },
+  {
+   "type": "movie",
+   "id": "cp974",
+   "name": "Hannah Einbinder"
+  },
+  {
+   "type": "movie",
+   "id": "cp970",
+   "name": "Lisa Kudrow"
+  },
+  {
+   "type": "movie",
+   "id": "cp971",
+   "name": "John C. Reilly"
+  },
+  {
+   "type": "movie",
+   "id": "cp642",
+   "name": "St. Vincent"
+  },
+  {
+   "type": "movie",
+   "id": "cp641",
+   "name": "Callum Turner"
+  },
+  {
+   "type": "movie",
+   "id": "cp980",
+   "name": "Finneas"
+  },
+  {
+   "type": "movie",
+   "id": "cp969",
+   "name": "John Cameron Mitchell"
+  },
+  {
+   "type": "movie",
+   "id": "cp968",
+   "name": "Bob the Drag Queen"
+  },
+  {
+   "type": "movie",
+   "id": "cp967",
+   "name": "Paul Rudd"
+  },
+  {
+   "type": "movie",
+   "id": "cp966",
+   "name": "Robert De Niro"
+  },
+  {
+   "type": "movie",
+   "id": "cp963",
+   "name": "Boots Riley"
+  },
+  {
+   "type": "movie",
+   "id": "cp965",
+   "name": "Thierry Frémaux"
+  },
+  {
+   "type": "movie",
+   "id": "cp962",
+   "name": "Eiza González"
+  },
+  {
+   "type": "movie",
+   "id": "cp961",
+   "name": "Ira Sachs"
+  },
+  {
+   "type": "movie",
+   "id": "cp834",
+   "name": "Ryan Coogler"
+  },
+  {
+   "type": "movie",
+   "id": "cp918",
+   "name": "Stellan Skarsgård"
+  },
+  {
+   "type": "movie",
+   "id": "cp958",
+   "name": "Steve Zahn"
+  },
+  {
+   "type": "movie",
+   "id": "cp959",
+   "name": "Richard Gadd"
+  },
+  {
+   "type": "movie",
+   "id": "cp960",
+   "name": "Elijah Wood"
+  },
+  {
+   "type": "movie",
+   "id": "cp957",
+   "name": "Oscar Isaac"
+  },
+  {
+   "type": "movie",
+   "id": "cp956",
+   "name": "Bob Odenkirk"
+  },
+  {
+   "type": "movie",
+   "id": "cp850",
+   "name": "Danny Boyle"
+  },
+  {
+   "type": "movie",
+   "id": "cp921",
+   "name": "Reginald Hudlin"
+  },
+  {
+   "type": "movie",
+   "id": "cp955",
+   "name": "Jon Hamm"
+  },
+  {
+   "type": "movie",
+   "id": "cp952",
+   "name": "Elisabeth Moss"
+  },
+  {
+   "type": "movie",
+   "id": "cp949",
+   "name": "Jack Harlow"
+  },
+  {
+   "type": "movie",
+   "id": "cp945",
+   "name": "John Slattery"
+  },
+  {
+   "type": "movie",
+   "id": "cp898",
+   "name": "Nia DaCosta"
+  },
+  {
+   "type": "movie",
+   "id": "cp892",
+   "name": "Wagner Moura"
+  },
+  {
+   "type": "movie",
+   "id": "cp950",
+   "name": "Sophy Romvari"
+  },
+  {
+   "type": "movie",
+   "id": "cp948",
+   "name": "Steven Knight"
+  },
+  {
+   "type": "movie",
+   "id": "cp932",
+   "name": "Christoph Waltz"
+  },
+  {
+   "type": "movie",
+   "id": "cp947",
+   "name": "Jamie Demetriou"
+  },
+  {
+   "type": "movie",
+   "id": "cp946",
+   "name": "Kim Morgan"
+  },
+  {
+   "type": "movie",
+   "id": "cp944",
+   "name": "Sofia Coppola & Marc Jacobs"
+  },
+  {
+   "type": "movie",
+   "id": "cp943",
+   "name": "Cary Elwes"
+  },
+  {
+   "type": "movie",
+   "id": "cp900",
+   "name": "Yorgos Lanthimos"
+  },
+  {
+   "type": "movie",
+   "id": "cp939",
+   "name": "Jim Jarmusch"
+  },
+  {
+   "type": "movie",
+   "id": "cp941",
+   "name": "Sergei Loznitsa"
+  },
+  {
+   "type": "movie",
+   "id": "cp936",
+   "name": "Maggie Gyllenhaal"
+  },
+  {
+   "type": "movie",
+   "id": "cp933",
+   "name": "Cameron Crowe"
+  },
+  {
+   "type": "movie",
+   "id": "cp931",
+   "name": "Halle Berry"
+  },
+  {
+   "type": "movie",
+   "id": "cp924",
+   "name": "Charli XCX"
+  },
+  {
+   "type": "movie",
+   "id": "cp938",
+   "name": "Mitski"
+  },
+  {
+   "type": "movie",
+   "id": "cp937",
+   "name": "Shinichiro Watanabe"
+  },
+  {
+   "type": "movie",
+   "id": "cp928",
+   "name": "Laura Dern"
+  },
+  {
+   "type": "movie",
+   "id": "cp929",
+   "name": "Diego Calva"
+  },
+  {
+   "type": "movie",
+   "id": "cp923",
+   "name": "Nicholas Britell"
+  },
+  {
+   "type": "movie",
+   "id": "cp925",
+   "name": "Mary Bronstein"
+  },
+  {
+   "type": "movie",
+   "id": "cp926",
+   "name": "Alex Winter"
+  },
+  {
+   "type": "movie",
+   "id": "cp927",
+   "name": "Paul Smith"
+  },
+  {
+   "type": "movie",
+   "id": "cp920",
+   "name": "Jodie Foster"
+  },
+  {
+   "type": "movie",
+   "id": "cp780",
+   "name": "Atom Egoyan"
+  },
+  {
+   "type": "movie",
+   "id": "cp913",
+   "name": "Rose Byrne"
+  },
+  {
+   "type": "movie",
+   "id": "cp912",
+   "name": "Ted Danson & Mary Steenburgen"
+  },
+  {
+   "type": "movie",
+   "id": "cp917",
+   "name": "Jafar Panahi"
+  },
+  {
+   "type": "movie",
+   "id": "cp916",
+   "name": "Lav Diaz"
+  },
+  {
+   "type": "movie",
+   "id": "cp915",
+   "name": "Will Arnett"
+  },
+  {
+   "type": "movie",
+   "id": "cp914",
+   "name": "Florence Welch"
+  },
+  {
+   "type": "movie",
+   "id": "cp911",
+   "name": "Guillermo del Toro (Mobile)"
+  },
+  {
+   "type": "movie",
+   "id": "cp910",
+   "name": "Lucy Liu"
+  },
+  {
+   "type": "movie",
+   "id": "cp909",
+   "name": "Vince Staples"
+  },
+  {
+   "type": "movie",
+   "id": "cp905",
+   "name": "Bi Gan"
+  },
+  {
+   "type": "movie",
+   "id": "cp901",
+   "name": "David Remnick"
+  },
+  {
+   "type": "movie",
+   "id": "cp902",
+   "name": "Rian Johnson"
+  },
+  {
+   "type": "movie",
+   "id": "cp908",
+   "name": "Tom Rothman"
+  },
+  {
+   "type": "movie",
+   "id": "cp581",
+   "name": "Udo Kier"
+  },
+  {
+   "type": "movie",
+   "id": "cp895",
+   "name": "Rachel Sennott"
+  },
+  {
+   "type": "movie",
+   "id": "cp897",
+   "name": "Derek Cianfrance"
+  },
+  {
+   "type": "movie",
+   "id": "cp887",
+   "name": "Edgar Wright"
+  },
+  {
+   "type": "movie",
+   "id": "cp894",
+   "name": "Kathryn Bigelow"
+  },
+  {
+   "type": "movie",
+   "id": "cp891",
+   "name": "Kahlil Joseph"
+  },
+  {
+   "type": "movie",
+   "id": "cp890",
+   "name": "Claire Danes"
+  },
+  {
+   "type": "movie",
+   "id": "cp893",
+   "name": "Elle Fanning"
+  },
+  {
+   "type": "movie",
+   "id": "cp886",
+   "name": "Billy Crudup"
+  },
+  {
+   "type": "movie",
+   "id": "cp884",
+   "name": "Nick Offerman"
+  },
+  {
+   "type": "movie",
+   "id": "cp879",
+   "name": "Tracy Letts"
+  },
+  {
+   "type": "movie",
+   "id": "cp880",
+   "name": "Benny Safdie"
+  },
+  {
+   "type": "movie",
+   "id": "cp882",
+   "name": "June Squibb"
+  },
+  {
+   "type": "movie",
+   "id": "cp874",
+   "name": "Cillian Murphy"
+  },
+  {
+   "type": "movie",
+   "id": "cp875",
+   "name": "Diane Kruger"
+  },
+  {
+   "type": "movie",
+   "id": "cp878",
+   "name": "Ethel Cain"
+  },
+  {
+   "type": "movie",
+   "id": "cp877",
+   "name": "Luca Guadagnino"
+  },
+  {
+   "type": "movie",
+   "id": "cp870",
+   "name": "ANOHNI"
+  },
+  {
+   "type": "movie",
+   "id": "cp873",
+   "name": "Marion Cotillard"
+  },
+  {
+   "type": "movie",
+   "id": "cp871",
+   "name": "Jay Duplass"
+  },
+  {
+   "type": "movie",
+   "id": "cp872",
+   "name": "Mark Duplass"
+  },
+  {
+   "type": "movie",
+   "id": "cp869",
+   "name": "Josh Brolin"
+  },
+  {
+   "type": "movie",
+   "id": "cp868",
+   "name": "Alicia Silverstone"
+  },
+  {
+   "type": "movie",
+   "id": "cp866",
+   "name": "Wyclef Jean"
+  },
+  {
+   "type": "movie",
+   "id": "cp863",
+   "name": "David Byrne"
+  },
+  {
+   "type": "movie",
+   "id": "cp804",
+   "name": "Ben Affleck"
+  },
+  {
+   "type": "movie",
+   "id": "cp800",
+   "name": "Seth Rogen & Evan Goldberg"
+  },
+  {
+   "type": "movie",
+   "id": "cp833",
+   "name": "Seth Meyers"
+  },
+  {
+   "type": "movie",
+   "id": "cp865",
+   "name": "Judd Apatow"
+  },
+  {
+   "type": "movie",
+   "id": "cp864",
+   "name": "Kristin Scott Thomas"
+  },
+  {
+   "type": "movie",
+   "id": "cp854",
+   "name": "Betsey Johnson"
+  },
+  {
+   "type": "movie",
+   "id": "cp860",
+   "name": "Margaret Qualley"
+  },
+  {
+   "type": "movie",
+   "id": "cp862",
+   "name": "Matt Dillon"
+  },
+  {
+   "type": "movie",
+   "id": "cp855",
+   "name": "Peter Wolf"
+  },
+  {
+   "type": "movie",
+   "id": "cp852",
+   "name": "RZA"
+  },
+  {
+   "type": "movie",
+   "id": "cp857",
+   "name": "Jamie Lee Curtis"
+  },
+  {
+   "type": "movie",
+   "id": "cp847",
+   "name": "Matthew Broderick"
+  },
+  {
+   "type": "movie",
+   "id": "cp853",
+   "name": "Ronan Farrow"
+  },
+  {
+   "type": "movie",
+   "id": "cp859",
+   "name": "Joseph Kosinski"
+  },
+  {
+   "type": "movie",
+   "id": "cp757",
+   "name": "Pamela Anderson"
+  },
+  {
+   "type": "movie",
+   "id": "cp762",
+   "name": "Mikey Madison"
+  },
+  {
+   "type": "movie",
+   "id": "cp799",
+   "name": "Bowen Yang"
+  },
+  {
+   "type": "movie",
+   "id": "cp856",
+   "name": "Ari Aster"
+  },
+  {
+   "type": "movie",
+   "id": "cp842",
+   "name": "David Cronenberg"
+  },
+  {
+   "type": "movie",
+   "id": "cp841",
+   "name": "Dick Cavett"
+  },
+  {
+   "type": "movie",
+   "id": "cp835",
+   "name": "Rob Delaney"
+  },
+  {
+   "type": "movie",
+   "id": "cp846",
+   "name": "Simon Pegg"
+  },
+  {
+   "type": "movie",
+   "id": "cp848",
+   "name": "Tunde Adebimpe"
+  },
+  {
+   "type": "movie",
+   "id": "cp849",
+   "name": "Barbie Ferreira"
+  },
+  {
+   "type": "movie",
+   "id": "cp845",
+   "name": "Paul W. Downs"
+  },
+  {
+   "type": "movie",
+   "id": "cp843",
+   "name": "Lena Dunham"
+  },
+  {
+   "type": "movie",
+   "id": "cp808",
+   "name": "Aimee Lou Wood"
+  },
+  {
+   "type": "movie",
+   "id": "cp819",
+   "name": "Questlove"
+  },
+  {
+   "type": "movie",
+   "id": "cp839",
+   "name": "Steve Coogan"
+  },
+  {
+   "type": "movie",
+   "id": "cp836",
+   "name": "Charles Burnett"
+  },
+  {
+   "type": "movie",
+   "id": "cp838",
+   "name": "François Girard"
+  },
+  {
+   "type": "movie",
+   "id": "cp821",
+   "name": "Diego Luna"
+  },
+  {
+   "type": "movie",
+   "id": "cp820",
+   "name": "Natasha Lyonne"
+  },
+  {
+   "type": "movie",
+   "id": "cp831",
+   "name": "Michelle Zauner"
+  },
+  {
+   "type": "movie",
+   "id": "cp822",
+   "name": "Katya Zamolodchikova"
+  },
+  {
+   "type": "movie",
+   "id": "cp823",
+   "name": "Michael Cera"
+  },
+  {
+   "type": "movie",
+   "id": "cp809",
+   "name": "Claude Lelouch"
+  },
+  {
+   "type": "movie",
+   "id": "cp807",
+   "name": "Jia Zhangke"
+  },
+  {
+   "type": "movie",
+   "id": "cp801",
+   "name": "Rosamund Pike"
+  },
+  {
+   "type": "movie",
+   "id": "cp798",
+   "name": "Rosanna Arquette"
+  },
+  {
+   "type": "movie",
+   "id": "cp796",
+   "name": "Amy Irving"
+  },
+  {
+   "type": "movie",
+   "id": "cp795",
+   "name": "Griffin Dunne"
+  },
+  {
+   "type": "movie",
+   "id": "cp806",
+   "name": "Joel Potrykus"
+  },
+  {
+   "type": "movie",
+   "id": "cp788",
+   "name": "Julia Fox"
+  },
+  {
+   "type": "movie",
+   "id": "cp786",
+   "name": "Julia Garner"
+  },
+  {
+   "type": "movie",
+   "id": "cp792",
+   "name": "Alain Guiraudie"
+  },
+  {
+   "type": "movie",
+   "id": "cp794",
+   "name": "Kevin Bacon"
+  },
+  {
+   "type": "movie",
+   "id": "cp790",
+   "name": "Carrie Coon"
+  },
+  {
+   "type": "movie",
+   "id": "cp789",
+   "name": "Karyn Kusama"
+  },
+  {
+   "type": "movie",
+   "id": "cp785",
+   "name": "Azazel Jacobs"
+  },
+  {
+   "type": "movie",
+   "id": "cp797",
+   "name": "Mark Rylance"
+  },
+  {
+   "type": "movie",
+   "id": "cp779",
+   "name": "Brady Corbet"
+  },
+  {
+   "type": "movie",
+   "id": "cp774",
+   "name": "Zeinabu irene Davis"
+  },
+  {
+   "type": "movie",
+   "id": "cp775",
+   "name": "Ken Burns"
+  },
+  {
+   "type": "movie",
+   "id": "cp777",
+   "name": "Harris Dickinson"
+  },
+  {
+   "type": "movie",
+   "id": "cp778",
+   "name": "Nick Lowe"
+  },
+  {
+   "type": "movie",
+   "id": "cp776",
+   "name": "Maura Tierney"
+  },
+  {
+   "type": "movie",
+   "id": "cp747",
+   "name": "Eric Bana"
+  },
+  {
+   "type": "movie",
+   "id": "cp771",
+   "name": "Denis Villeneuve"
+  },
+  {
+   "type": "movie",
+   "id": "cp731",
+   "name": "Edward Berger"
+  },
+  {
+   "type": "movie",
+   "id": "cp769",
+   "name": "Robert Eggers"
+  },
+  {
+   "type": "movie",
+   "id": "cp772",
+   "name": "Chiara Mastroianni"
+  },
+  {
+   "type": "movie",
+   "id": "cp773",
+   "name": "John Lithgow"
+  },
+  {
+   "type": "movie",
+   "id": "cp768",
+   "name": "John David Washington and Malcolm Washington"
+  },
+  {
+   "type": "movie",
+   "id": "cp770",
+   "name": "Nicholas Hoult"
+  },
+  {
+   "type": "movie",
+   "id": "cp765",
+   "name": "Juliette Binoche and Ralph Fiennes"
+  },
+  {
+   "type": "movie",
+   "id": "cp763",
+   "name": "Francis Ford Coppola"
+  },
+  {
+   "type": "movie",
+   "id": "cp741",
+   "name": "Isabelle Huppert"
+  },
+  {
+   "type": "movie",
+   "id": "cp737",
+   "name": "Payal Kapadia"
+  },
+  {
+   "type": "movie",
+   "id": "cp766",
+   "name": "Pablo Larraín"
+  },
+  {
+   "type": "movie",
+   "id": "cp764",
+   "name": "Jacques Audiard"
+  },
+  {
+   "type": "movie",
+   "id": "cp767",
+   "name": "Walter Salles"
+  },
+  {
+   "type": "movie",
+   "id": "cp759",
+   "name": "Maura Delpero"
+  },
+  {
+   "type": "movie",
+   "id": "cp760",
+   "name": "Kevin Smith"
+  },
+  {
+   "type": "movie",
+   "id": "cp761",
+   "name": "Andrew Stanton"
+  },
+  {
+   "type": "movie",
+   "id": "cp756",
+   "name": "RaMell Ross"
+  },
+  {
+   "type": "movie",
+   "id": "cp758",
+   "name": "Norman Reedus"
+  },
+  {
+   "type": "movie",
+   "id": "cp748",
+   "name": "Jarvis Cocker"
+  },
+  {
+   "type": "movie",
+   "id": "cp745",
+   "name": "André Holland"
+  },
+  {
+   "type": "movie",
+   "id": "cp684",
+   "name": "Jude Law"
+  },
+  {
+   "type": "movie",
+   "id": "cp746",
+   "name": "Johnnie To"
+  },
+  {
+   "type": "movie",
+   "id": "cp749",
+   "name": "Marianne Jean-Baptiste & Mike Leigh"
+  },
+  {
+   "type": "movie",
+   "id": "cp752",
+   "name": "Barry Sonnenfeld"
+  },
+  {
+   "type": "movie",
+   "id": "cp751",
+   "name": "Gints Zilbalodis"
+  },
+  {
+   "type": "movie",
+   "id": "cp670",
+   "name": "Viggo Mortensen"
+  },
+  {
+   "type": "movie",
+   "id": "cp734",
+   "name": "Amelia Dimoldenberg"
+  },
+  {
+   "type": "movie",
+   "id": "cp738",
+   "name": "Nathalie Emmanuel"
+  },
+  {
+   "type": "movie",
+   "id": "cp733",
+   "name": "Janelle Monáe"
+  },
+  {
+   "type": "movie",
+   "id": "cp730",
+   "name": "Andrew Garfield"
+  },
+  {
+   "type": "movie",
+   "id": "cp677",
+   "name": "Winona Ryder"
+  },
+  {
+   "type": "movie",
+   "id": "cp721",
+   "name": "Dylan Baker"
+  },
+  {
+   "type": "movie",
+   "id": "cp634",
+   "name": "Wim Wenders"
+  },
+  {
+   "type": "movie",
+   "id": "cp729",
+   "name": "Anna Kendrick"
+  },
+  {
+   "type": "movie",
+   "id": "cp726",
+   "name": "Jennifer Kent"
+  },
+  {
+   "type": "movie",
+   "id": "cp725",
+   "name": "JR"
+  },
+  {
+   "type": "movie",
+   "id": "cp720",
+   "name": "Bill Hader"
+  },
+  {
+   "type": "movie",
+   "id": "cp675",
+   "name": "Zoë Kravitz and Channing Tatum"
+  },
+  {
+   "type": "movie",
+   "id": "cp556",
+   "name": "Michael Shannon"
+  },
+  {
+   "type": "movie",
+   "id": "cp736",
+   "name": "Jeremy Pope"
+  },
+  {
+   "type": "movie",
+   "id": "cp682",
+   "name": "Lee Daniels"
+  },
+  {
+   "type": "movie",
+   "id": "cp674",
+   "name": "Lily Gladstone & Erica Tremblay"
+  },
+  {
+   "type": "movie",
+   "id": "cp544",
+   "name": "Ari Aster (2023)"
+  },
+  {
+   "type": "movie",
+   "id": "cp676",
+   "name": "Carol Kane"
+  },
+  {
+   "type": "movie",
+   "id": "cp584",
+   "name": "Roger Corman"
+  },
+  {
+   "type": "movie",
+   "id": "cp647",
+   "name": "Maya and Ethan Hawke"
+  },
+  {
+   "type": "movie",
+   "id": "cp666",
+   "name": "Ayo Edebiri"
+  },
+  {
+   "type": "movie",
+   "id": "cp639",
+   "name": "Molly Ringwald"
+  },
+  {
+   "type": "movie",
+   "id": "cp619",
+   "name": "Dan Levy"
+  },
+  {
+   "type": "movie",
+   "id": "cp618",
+   "name": "Willem Dafoe"
+  },
+  {
+   "type": "movie",
+   "id": "cp548",
+   "name": "Charlie Day"
+  },
+  {
+   "type": "movie",
+   "id": "cp486",
+   "name": "Cate Blanchett and Todd Field"
+  },
+  {
+   "type": "movie",
+   "id": "cp509",
+   "name": "Marc Maron"
+  },
+  {
+   "type": "movie",
+   "id": "cp591",
+   "name": "Todd Haynes"
+  },
+  {
+   "type": "movie",
+   "id": "cp631",
+   "name": "Paul Giamatti"
+  },
+  {
+   "type": "movie",
+   "id": "cp658",
+   "name": "Jane Schoenbrun"
+  },
+  {
+   "type": "movie",
+   "id": "cp685",
+   "name": "Greg Gonzalez"
+  },
+  {
+   "type": "movie",
+   "id": "cp683",
+   "name": "Agnieszka Holland"
+  },
+  {
+   "type": "movie",
+   "id": "cp673",
+   "name": "Jeremy Thomas"
+  },
+  {
+   "type": "movie",
+   "id": "cp668",
+   "name": "Koji Yakusho"
+  },
+  {
+   "type": "movie",
+   "id": "cp681",
+   "name": "Jerry Schatzberg"
+  },
+  {
+   "type": "movie",
+   "id": "cp542",
+   "name": "William Friedkin"
+  },
+  {
+   "type": "movie",
+   "id": "cp579",
+   "name": "Hideo Kojima"
+  },
+  {
+   "type": "movie",
+   "id": "cp595",
+   "name": "Jason Schwartzman"
+  },
+  {
+   "type": "movie",
+   "id": "cp422",
+   "name": "John Waters"
+  },
+  {
+   "type": "movie",
+   "id": "cp472",
+   "name": "Agnès Varda"
+  },
+  {
+   "type": "movie",
+   "id": "cp487",
+   "name": "Kyle MacLachlan"
+  },
+  {
+   "type": "movie",
+   "id": "cp483",
+   "name": "Sarita Choudhury"
+  },
+  {
+   "type": "movie",
+   "id": "cp616",
+   "name": "Gael Garcia Bernal"
+  },
+  {
+   "type": "movie",
+   "id": "cp431",
+   "name": "Kim Cattrall"
+  },
+  {
+   "type": "movie",
+   "id": "cp476",
+   "name": "Josh and Benny Safdie"
+  },
+  {
+   "type": "movie",
+   "id": "cp470",
+   "name": "Barry Jenkins"
+  },
+  {
+   "type": "movie",
+   "id": "cp645",
+   "name": "Guillermo del Toro"
+  },
+  {
+   "type": "movie",
+   "id": "cp482",
+   "name": "Charlotte Gainsbourg"
+  },
+  {
+   "type": "movie",
+   "id": "cp447",
+   "name": "Paul Dano"
+  },
+  {
+   "type": "movie",
+   "id": "cp585",
+   "name": "​Luis Guzmán"
+  },
+  {
+   "type": "movie",
+   "id": "cp442",
+   "name": "Terry Gilliam"
+  },
+  {
+   "type": "movie",
+   "id": "cp530",
+   "name": "Bong Joon Ho"
+  },
+  {
+   "type": "movie",
+   "id": "cp539",
+   "name": "Minnie Driver"
+  },
+  {
+   "type": "movie",
+   "id": "cp491",
+   "name": "Michael Cera (2014)"
+  },
+  {
+   "type": "movie",
+   "id": "cp488",
+   "name": "Bill Hader (2011)"
+  },
+  {
+   "type": "movie",
+   "id": "cp537",
+   "name": "Louis Garrel"
+  },
+  {
+   "type": "movie",
+   "id": "cp672",
+   "name": "Paul Scheer"
+  },
+  {
+   "type": "movie",
+   "id": "cp671",
+   "name": "Gina Gershon"
+  },
+  {
+   "type": "movie",
+   "id": "cp663",
+   "name": "Bill Pope"
+  },
+  {
+   "type": "movie",
+   "id": "cp662",
+   "name": "Annie Baker and Lucian Johnston"
+  },
+  {
+   "type": "movie",
+   "id": "cp664",
+   "name": "Catherine Breillat"
+  },
+  {
+   "type": "movie",
+   "id": "cp660",
+   "name": "DEVO: Gerald Casale and Mark Mothersbaugh"
+  },
+  {
+   "type": "movie",
+   "id": "cp661",
+   "name": "Jeremy O. Harris"
+  },
+  {
+   "type": "movie",
+   "id": "cp659",
+   "name": "Tim Blake Nelson"
+  },
+  {
+   "type": "movie",
+   "id": "cp653",
+   "name": "Cheryl Dunye"
+  },
+  {
+   "type": "movie",
+   "id": "cp536",
+   "name": "Pauline Chalamet"
+  },
+  {
+   "type": "movie",
+   "id": "cp638",
+   "name": "Ben Gibbards"
+  },
+  {
+   "type": "movie",
+   "id": "cp637",
+   "name": "Joel Kim Booster"
+  },
+  {
+   "type": "movie",
+   "id": "cp630",
+   "name": "Nuri Bilge Ceylan"
+  },
+  {
+   "type": "movie",
+   "id": "cp636",
+   "name": "Chelsea Peretti"
+  },
+  {
+   "type": "movie",
+   "id": "cp632",
+   "name": "Julio Torres"
+  },
+  {
+   "type": "movie",
+   "id": "cp633",
+   "name": "Matteo Garrone"
+  },
+  {
+   "type": "movie",
+   "id": "cp623",
+   "name": "Justine Triet"
+  },
+  {
+   "type": "movie",
+   "id": "cp467",
+   "name": "Yorgos Lanthimos & Ariane Labed"
+  },
+  {
+   "type": "movie",
+   "id": "cp626",
+   "name": "Joel Edgerton"
+  },
+  {
+   "type": "movie",
+   "id": "cp582",
+   "name": "Rebecca Miller"
+  },
+  {
+   "type": "movie",
+   "id": "cp621",
+   "name": "Charles Melton"
+  },
+  {
+   "type": "movie",
+   "id": "cp620",
+   "name": "Lila Avilés"
+  },
+  {
+   "type": "movie",
+   "id": "cp624",
+   "name": "Kleber Mendonça Filho"
+  },
+  {
+   "type": "movie",
+   "id": "cp625",
+   "name": "Lina Rodriguez"
+  },
+  {
+   "type": "movie",
+   "id": "cp490",
+   "name": "Edgar Wright (2)"
+  },
+  {
+   "type": "movie",
+   "id": "cp611",
+   "name": "Brit Marling and Zal Batmanglij"
+  },
+  {
+   "type": "movie",
+   "id": "cp594",
+   "name": "Hari Nef"
+  },
+  {
+   "type": "movie",
+   "id": "cp576",
+   "name": "Patton Oswalt"
+  },
+  {
+   "type": "movie",
+   "id": "cp522",
+   "name": "Daniels"
+  },
+  {
+   "type": "movie",
+   "id": "cp575",
+   "name": "Park Chan-wook"
+  },
+  {
+   "type": "movie",
+   "id": "cp644",
+   "name": "Kerry Condon"
+  },
+  {
+   "type": "movie",
+   "id": "cp651",
+   "name": "Manuel Garcia-Rulfo"
+  },
+  {
+   "type": "movie",
+   "id": "cp648",
+   "name": "Adrian Utley"
+  },
+  {
+   "type": "movie",
+   "id": "cp622",
+   "name": "Rosine Mbakam"
+  },
+  {
+   "type": "movie",
+   "id": "cp612",
+   "name": "Hlynur Pálmason"
+  },
+  {
+   "type": "movie",
+   "id": "cp566",
+   "name": "Roger & James Deakins"
+  },
+  {
+   "type": "movie",
+   "id": "cp451",
+   "name": "Anna Karina"
+  },
+  {
+   "type": "movie",
+   "id": "cp471",
+   "name": "Ben Wheatley"
+  },
+  {
+   "type": "movie",
+   "id": "cp551",
+   "name": "Alessandro Borghi, Felix van Groeningen, and Charlotte Vandermeersch"
+  },
+  {
+   "type": "movie",
+   "id": "cp427",
+   "name": "Nathan Lane"
+  },
+  {
+   "type": "movie",
+   "id": "cp588",
+   "name": "Paul B. Preciado"
+  },
+  {
+   "type": "movie",
+   "id": "cp589",
+   "name": "Tyler Mitchell"
+  },
+  {
+   "type": "movie",
+   "id": "cp592",
+   "name": "Mark Bridges"
+  },
+  {
+   "type": "movie",
+   "id": "cp564",
+   "name": "Rickie Lee Jones"
+  },
+  {
+   "type": "movie",
+   "id": "cp569",
+   "name": "Mary Harron"
+  },
+  {
+   "type": "movie",
+   "id": "cp436",
+   "name": "Matthew Modine"
+  },
+  {
+   "type": "movie",
+   "id": "cp559",
+   "name": "Susanna Hoffs"
+  },
+  {
+   "type": "movie",
+   "id": "cp560",
+   "name": "Agnès B."
+  },
+  {
+   "type": "movie",
+   "id": "cp554",
+   "name": "Gregg Araki"
+  },
+  {
+   "type": "movie",
+   "id": "cp552",
+   "name": "Carl Franklin"
+  },
+  {
+   "type": "movie",
+   "id": "cp555",
+   "name": "Trace Lysette"
+  },
+  {
+   "type": "movie",
+   "id": "cp557",
+   "name": "Yo La Tengo"
+  },
+  {
+   "type": "movie",
+   "id": "cp535",
+   "name": "Cauleen Smith"
+  },
+  {
+   "type": "movie",
+   "id": "cp514",
+   "name": "Frederick Wiseman"
+  },
+  {
+   "type": "movie",
+   "id": "cp489",
+   "name": "Robert Downey Sr."
+  },
+  {
+   "type": "movie",
+   "id": "cp517",
+   "name": "Vicky Krieps"
+  },
+  {
+   "type": "movie",
+   "id": "cp521",
+   "name": "John Darnielle"
+  },
+  {
+   "type": "movie",
+   "id": "cp454",
+   "name": "Leslie Harris"
+  },
+  {
+   "type": "movie",
+   "id": "cp510",
+   "name": "Sally Potter"
+  },
+  {
+   "type": "movie",
+   "id": "cp492",
+   "name": "Gina Prince-Bythewood"
+  },
+  {
+   "type": "movie",
+   "id": "cp493",
+   "name": "Wilco"
+  },
+  {
+   "type": "movie",
+   "id": "cp525",
+   "name": "Alec Baldwin"
+  },
+  {
+   "type": "movie",
+   "id": "cp421",
+   "name": "Kemp Powers"
+  },
+  {
+   "type": "movie",
+   "id": "cp426",
+   "name": "Colin Quinn"
+  },
+  {
+   "type": "movie",
+   "id": "cp515",
+   "name": "Elvis Mitchell"
+  },
+  {
+   "type": "movie",
+   "id": "cp512",
+   "name": "Amir Naderi"
+  },
+  {
+   "type": "movie",
+   "id": "cp469",
+   "name": "Phil Rosenthal"
+  },
+  {
+   "type": "movie",
+   "id": "cp441",
+   "name": "Isabel Sandoval"
+  },
+  {
+   "type": "movie",
+   "id": "cp433",
+   "name": "John Dwyer"
+  },
+  {
+   "type": "movie",
+   "id": "cp439",
+   "name": "Lucrecia Martel"
+  },
+  {
+   "type": "movie",
+   "id": "cp428",
+   "name": "Claire Denis"
+  },
+  {
+   "type": "movie",
+   "id": "cp571",
+   "name": "Anton Corbijn"
+  },
+  {
+   "type": "movie",
+   "id": "cp434",
+   "name": "Peter Sarsgaard"
+  },
+  {
+   "type": "movie",
+   "id": "cp425",
+   "name": "Richard E. Grant"
+  },
+  {
+   "type": "movie",
+   "id": "cp429",
+   "name": "John Sayles"
+  },
+  {
+   "type": "movie",
+   "id": "cp481",
+   "name": "Garrett Bradley"
+  },
+  {
+   "type": "movie",
+   "id": "cp465",
+   "name": "Amy Heckerling"
+  },
+  {
+   "type": "movie",
+   "id": "cp457",
+   "name": "Alicia Malone"
+  },
+  {
+   "type": "movie",
+   "id": "cp449",
+   "name": "Jacqueline Novak and John Early"
+  },
+  {
+   "type": "movie",
+   "id": "cp526",
+   "name": "Alfonso Cuarón and Paweł Pawlikowski"
+  },
+  {
+   "type": "movie",
+   "id": "cp420",
+   "name": "Rodarte"
+  },
+  {
+   "type": "movie",
+   "id": "cp437",
+   "name": "James L. Brooks"
+  },
+  {
+   "type": "movie",
+   "id": "cp423",
+   "name": "M.I.A. and Stephen Loveridge"
+  },
+  {
+   "type": "movie",
+   "id": "cp443",
+   "name": "Five Comics"
+  },
+  {
+   "type": "movie",
+   "id": "cp474",
+   "name": "Aubrey Plaza and Jeff Baena"
+  },
+  {
+   "type": "movie",
+   "id": "cp466",
+   "name": "Tim Robbins"
+  },
+  {
+   "type": "movie",
+   "id": "cp448",
+   "name": "Tavi Gevinson"
+  },
+  {
+   "type": "movie",
+   "id": "cp430",
+   "name": "Jenni Olson"
+  },
+  {
+   "type": "movie",
+   "id": "cp480",
+   "name": "Theodore Witcher"
+  },
+  {
+   "type": "movie",
+   "id": "cp455",
+   "name": "Karina Longworth"
+  },
+  {
+   "type": "movie",
+   "id": "cp478",
+   "name": "Alexander Payne"
+  },
+  {
+   "type": "movie",
+   "id": "cp485",
+   "name": "Owen Kline"
+  },
+  {
+   "type": "movie",
+   "id": "cp440",
+   "name": "Euzhan Palcy"
+  },
+  {
+   "type": "movie",
+   "id": "cp473",
+   "name": "Matías Piñeiro"
+  },
+  {
+   "type": "movie",
+   "id": "cp475",
+   "name": "Barry Levinson"
+  },
+  {
+   "type": "movie",
+   "id": "cp445",
+   "name": "Marco Bellocchio"
+  },
+  {
+   "type": "movie",
+   "id": "cp435",
+   "name": "Desiree Akhavan"
+  },
+  {
+   "type": "movie",
+   "id": "cp419",
+   "name": "Joanna Hogg"
+  },
+  {
+   "type": "movie",
+   "id": "cp516",
+   "name": "Rodrigo Prieto"
+  },
+  {
+   "type": "movie",
+   "id": "cp424",
+   "name": "Ben Sinclair"
+  },
+  {
+   "type": "movie",
+   "id": "cp527",
+   "name": "Floyd Norman"
+  },
+  {
+   "type": "movie",
+   "id": "cp667",
+   "name": "Bill and Turner Ross"
+  },
+  {
+   "type": "movie",
+   "id": "cp590",
+   "name": "Raven Jackson"
+  },
+  {
+   "type": "movie",
+   "id": "cp565",
+   "name": "Jean-Pierre and Luc Dardenne"
+  },
+  {
+   "type": "movie",
+   "id": "cp513",
+   "name": "Jerzy Skolimowski"
+  },
+  {
+   "type": "movie",
+   "id": "cp532",
+   "name": "Sara Dosa"
+  },
+  {
+   "type": "movie",
+   "id": "cp550",
+   "name": "Benjamin Millepied"
+  },
+  {
+   "type": "movie",
+   "id": "cp561",
+   "name": "Raúl Castillo"
+  },
+  {
+   "type": "movie",
+   "id": "cp580",
+   "name": "Alan Palomo"
+  },
+  {
+   "type": "movie",
+   "id": "cp461",
+   "name": "Cristian Mungiu"
+  },
+  {
+   "type": "movie",
+   "id": "cp458",
+   "name": "Sean Baker"
+  },
+  {
+   "type": "movie",
+   "id": "cp597",
+   "name": "The Quay Brothers"
+  },
+  {
+   "type": "movie",
+   "id": "cp603",
+   "name": "Patrick Brice"
+  },
+  {
+   "type": "movie",
+   "id": "cp463",
+   "name": "Laurie Anderson"
+  },
+  {
+   "type": "movie",
+   "id": "cp599",
+   "name": "Harris Savides"
+  },
+  {
+   "type": "movie",
+   "id": "cp604",
+   "name": "Jack Garfein"
+  },
+  {
+   "type": "movie",
+   "id": "cp540",
+   "name": "Richard Ayoade"
+  },
+  {
+   "type": "movie",
+   "id": "cp464",
+   "name": "Charlotte Rampling and Andrew Haigh"
+  },
+  {
+   "type": "movie",
+   "id": "cp538",
+   "name": "Mike Leigh"
+  },
+  {
+   "type": "movie",
+   "id": "cp479",
+   "name": "Laura Albert & Jeff Feuerzeig"
+  },
+  {
+   "type": "movie",
+   "id": "cp606",
+   "name": "Philip Kaufman"
+  },
+  {
+   "type": "movie",
+   "id": "cp541",
+   "name": "Nicolas Winding Refn"
+  },
+  {
+   "type": "movie",
+   "id": "cp598",
+   "name": "Guy Maddin"
+  },
+  {
+   "type": "movie",
+   "id": "cp610",
+   "name": "Volker Schlöndorff"
+  },
+  {
+   "type": "movie",
+   "id": "cp605",
+   "name": "James Acheson"
+  },
+  {
+   "type": "movie",
+   "id": "cp652",
+   "name": "Ryusuke Hamaguchi"
+  },
+  {
+   "type": "movie",
+   "id": "cp528",
+   "name": "André Bonzel"
+  },
+  {
+   "type": "movie",
+   "id": "cp453",
+   "name": "Joachim Trier"
+  },
+  {
+   "type": "movie",
+   "id": "cp600",
+   "name": "Ira Sachs (2)"
+  },
+  {
+   "type": "movie",
+   "id": "cp607",
+   "name": "The Wolfpack"
+  },
+  {
+   "type": "movie",
+   "id": "cp529",
+   "name": "André Gregory and Wallace Shawn"
+  },
+  {
+   "type": "movie",
+   "id": "cp462",
+   "name": "Asif Kapadia"
+  },
+  {
+   "type": "movie",
+   "id": "cp608",
+   "name": "Ruben Östlund"
+  },
+  {
+   "type": "movie",
+   "id": "cp432",
+   "name": "Gaspar Noé"
+  },
+  {
+   "type": "movie",
+   "id": "cp446",
+   "name": "Ethan Hawke and Jonathan Marc Sherman"
+  },
+  {
+   "type": "movie",
+   "id": "cp520",
+   "name": "Charlotte Wells"
+  },
+  {
+   "type": "movie",
+   "id": "cp477",
+   "name": "Lee Unkrich"
+  },
+  {
+   "type": "movie",
+   "id": "cp609",
+   "name": "Slavoj Žižek"
+  },
+  {
+   "type": "movie",
+   "id": "cp602",
+   "name": "Michael K. Williams"
+  },
+  {
+   "type": "movie",
+   "id": "cp484",
+   "name": "Renate Reinsve"
+  },
+  {
+   "type": "movie",
+   "id": "cp627",
+   "name": "Barbara Sukowa"
+  },
+  {
+   "type": "movie",
+   "id": "cp587",
+   "name": "Alden Ehrenreich"
+  },
+  {
+   "type": "movie",
+   "id": "cp494",
+   "name": "Saul Williams and Anisia Uzeyman"
+  },
+  {
+   "type": "movie",
+   "id": "cp640",
+   "name": "Bertrand Bonello"
+  },
+  {
+   "type": "movie",
+   "id": "cp452",
+   "name": "Chris Eigeman"
+  },
+  {
+   "type": "movie",
+   "id": "cp511",
+   "name": "Ron Shelton"
+  },
+  {
+   "type": "movie",
+   "id": "cp438",
+   "name": "Flying Lotus"
+  },
+  {
+   "type": "movie",
+   "id": "cp519",
+   "name": "Elegance Bratton"
+  },
+  {
+   "type": "movie",
+   "id": "cp628",
+   "name": "Neal Brennan"
+  },
+  {
+   "type": "movie",
+   "id": "cp570",
+   "name": "Christian Petzold"
+  }
+ ]
+}

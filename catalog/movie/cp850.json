@@ -1,0 +1,60 @@
+{
+ "metas": [
+  {
+   "id": "tt0078754",
+   "type": "movie",
+   "name": "All That Jazz",
+   "poster": "https://images.metahub.space/poster/medium/tt0078754/img",
+   "releaseInfo": "1979"
+  },
+  {
+   "id": "tt28607951",
+   "type": "movie",
+   "name": "Anora",
+   "poster": "https://images.metahub.space/poster/medium/tt28607951/img",
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tt1000769",
+   "type": "movie",
+   "name": "Prince of Broadway",
+   "poster": "https://images.metahub.space/poster/medium/tt1000769/img",
+   "releaseInfo": "2010"
+  },
+  {
+   "id": "tt0099703",
+   "type": "movie",
+   "name": "The Grifters",
+   "poster": "https://images.metahub.space/poster/medium/tt0099703/img",
+   "releaseInfo": "1990"
+  },
+  {
+   "id": "tt1232776",
+   "type": "movie",
+   "name": "Fish Tank",
+   "poster": "https://images.metahub.space/poster/medium/tt1232776/img",
+   "releaseInfo": "2009"
+  },
+  {
+   "id": "tt0086979",
+   "type": "movie",
+   "name": "Blood Simple",
+   "poster": "https://images.metahub.space/poster/medium/tt0086979/img",
+   "releaseInfo": "1984"
+  },
+  {
+   "id": "tt0058604",
+   "type": "movie",
+   "name": "I Am Cuba",
+   "poster": "https://images.metahub.space/poster/medium/tt0058604/img",
+   "releaseInfo": "1964"
+  },
+  {
+   "id": "tt0063291",
+   "type": "movie",
+   "name": "Memories of Underdevelopment",
+   "poster": "https://images.metahub.space/poster/medium/tt0063291/img",
+   "releaseInfo": "1968"
+  }
+ ]
+}

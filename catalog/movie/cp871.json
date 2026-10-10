@@ -1,0 +1,39 @@
+{
+ "metas": [
+  {
+   "id": "tt0102943",
+   "type": "movie",
+   "name": "Slacker",
+   "poster": "https://images.metahub.space/poster/medium/tt0102943/img",
+   "releaseInfo": "1990"
+  },
+  {
+   "id": "tt0477348",
+   "type": "movie",
+   "name": "No Country for Old Men",
+   "poster": "https://images.metahub.space/poster/medium/tt0477348/img",
+   "releaseInfo": "2007"
+  },
+  {
+   "id": "tt0065867",
+   "type": "movie",
+   "name": "Husbands",
+   "poster": "https://images.metahub.space/poster/medium/tt0065867/img",
+   "releaseInfo": "1970"
+  },
+  {
+   "id": "tt0117589",
+   "type": "movie",
+   "name": "Secrets & Lies",
+   "poster": "https://images.metahub.space/poster/medium/tt0117589/img",
+   "releaseInfo": "1996"
+  },
+  {
+   "id": "tt0100234",
+   "type": "movie",
+   "name": "Close-Up",
+   "poster": "https://images.metahub.space/poster/medium/tt0100234/img",
+   "releaseInfo": "1990"
+  }
+ ]
+}

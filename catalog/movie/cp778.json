@@ -1,0 +1,32 @@
+{
+ "metas": [
+  {
+   "id": "tt0038574",
+   "type": "movie",
+   "name": "Great Expectations",
+   "poster": "https://images.metahub.space/poster/medium/tt0038574/img",
+   "releaseInfo": "1946"
+  },
+  {
+   "id": "tt0087995",
+   "type": "movie",
+   "name": "Repo Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0087995/img",
+   "releaseInfo": "1984"
+  },
+  {
+   "id": "tt0055257",
+   "type": "movie",
+   "name": "One-Eyed Jacks",
+   "poster": "https://images.metahub.space/poster/medium/tt0055257/img",
+   "releaseInfo": "1961"
+  },
+  {
+   "id": "tt0059183",
+   "type": "movie",
+   "name": "The Flight of the Phoenix",
+   "poster": "https://images.metahub.space/poster/medium/tt0059183/img",
+   "releaseInfo": "1965"
+  }
+ ]
+}

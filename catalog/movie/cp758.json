@@ -1,0 +1,32 @@
+{
+ "metas": [
+  {
+   "id": "tt0090756",
+   "type": "movie",
+   "name": "Blue Velvet",
+   "poster": "https://images.metahub.space/poster/medium/tt0090756/img",
+   "releaseInfo": "1986"
+  },
+  {
+   "id": "tt0063555",
+   "type": "movie",
+   "name": "The Color of Pomegranates",
+   "poster": "https://images.metahub.space/poster/medium/tt0063555/img",
+   "releaseInfo": "1969"
+  },
+  {
+   "id": "tt0086541",
+   "type": "movie",
+   "name": "Videodrome",
+   "poster": "https://images.metahub.space/poster/medium/tt0086541/img",
+   "releaseInfo": "1983"
+  },
+  {
+   "id": "tt0102494",
+   "type": "movie",
+   "name": "My Own Private Idaho",
+   "poster": "https://images.metahub.space/poster/medium/tt0102494/img",
+   "releaseInfo": "1991"
+  }
+ ]
+}

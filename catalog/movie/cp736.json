@@ -1,0 +1,75 @@
+{
+ "metas": [
+  {
+   "id": "tt0112857",
+   "type": "movie",
+   "name": "Devil in a Blue Dress",
+   "poster": "https://images.metahub.space/poster/medium/tt0112857/img",
+   "releaseInfo": "1995"
+  },
+  {
+   "id": "tt0100332",
+   "type": "movie",
+   "name": "Paris Is Burning",
+   "poster": "https://images.metahub.space/poster/medium/tt0100332/img",
+   "releaseInfo": "1991"
+  },
+  {
+   "id": "tt0097216",
+   "type": "movie",
+   "name": "Do the Right Thing",
+   "poster": "https://images.metahub.space/poster/medium/tt0097216/img",
+   "releaseInfo": "1989"
+  },
+  {
+   "id": "tt10612922",
+   "type": "movie",
+   "name": "One Night in Miami...",
+   "poster": "https://images.metahub.space/poster/medium/tt10612922/img",
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tt0091018",
+   "type": "movie",
+   "name": "Ethnic Notions",
+   "poster": "https://images.metahub.space/poster/medium/tt0091018/img"
+  },
+  {
+   "id": "tt0103099",
+   "type": "movie",
+   "name": "Tongues Untied",
+   "poster": "https://images.metahub.space/poster/medium/tt0103099/img"
+  },
+  {
+   "id": "tt0136697",
+   "type": "movie",
+   "name": "Affirmations",
+   "poster": "https://images.metahub.space/poster/medium/tt0136697/img"
+  },
+  {
+   "id": "tt0103984",
+   "type": "movie",
+   "name": "Color Adjustment",
+   "poster": "https://images.metahub.space/poster/medium/tt0103984/img"
+  },
+  {
+   "id": "tt0137129",
+   "type": "movie",
+   "name": "Non Je Ne Regrette Rien No Regret",
+   "poster": "https://images.metahub.space/poster/medium/tt0137129/img"
+  },
+  {
+   "id": "tt0109285",
+   "type": "movie",
+   "name": "Black Is Black Ain T",
+   "poster": "https://images.metahub.space/poster/medium/tt0109285/img"
+  },
+  {
+   "id": "tt0032904",
+   "type": "movie",
+   "name": "The Philadelphia Story",
+   "poster": "https://images.metahub.space/poster/medium/tt0032904/img",
+   "releaseInfo": "1940"
+  }
+ ]
+}

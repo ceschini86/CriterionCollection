@@ -1,0 +1,121 @@
+{
+ "metas": [
+  {
+   "id": "tt0245574",
+   "type": "movie",
+   "name": "Y tu mamá también",
+   "poster": "https://images.metahub.space/poster/medium/tt0245574/img",
+   "releaseInfo": "2001"
+  },
+  {
+   "id": "tt0054599",
+   "type": "movie",
+   "name": "Accattone",
+   "poster": "https://images.metahub.space/poster/medium/tt0054599/img",
+   "releaseInfo": "1961"
+  },
+  {
+   "id": "tt0056215",
+   "type": "movie",
+   "name": "Mamma Roma",
+   "poster": "https://images.metahub.space/poster/medium/tt0056215/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0057960",
+   "type": "movie",
+   "name": "Love Meetings",
+   "poster": "https://images.metahub.space/poster/medium/tt0057960/img",
+   "releaseInfo": "1965"
+  },
+  {
+   "id": "tt0058715",
+   "type": "movie",
+   "name": "The Gospel According To Matthew",
+   "poster": "https://images.metahub.space/poster/medium/tt0058715/img"
+  },
+  {
+   "id": "tt0061132",
+   "type": "movie",
+   "name": "The Hawks and the Sparrows",
+   "poster": "https://images.metahub.space/poster/medium/tt0061132/img",
+   "releaseInfo": "1966"
+  },
+  {
+   "id": "tt0061613",
+   "type": "movie",
+   "name": "Oedipus Rex",
+   "poster": "https://images.metahub.space/poster/medium/tt0061613/img",
+   "releaseInfo": "1967"
+  },
+  {
+   "id": "tt0063678",
+   "type": "movie",
+   "name": "Teorema",
+   "poster": "https://images.metahub.space/poster/medium/tt0063678/img",
+   "releaseInfo": "1968"
+  },
+  {
+   "id": "tt0064828",
+   "type": "movie",
+   "name": "Porcile",
+   "poster": "https://images.metahub.space/poster/medium/tt0064828/img"
+  },
+  {
+   "id": "tt0066065",
+   "type": "movie",
+   "name": "Medea",
+   "poster": "https://images.metahub.space/poster/medium/tt0066065/img",
+   "releaseInfo": "1969"
+  },
+  {
+   "id": "tt0108394",
+   "type": "movie",
+   "name": "Three Colors: Blue",
+   "poster": "https://images.metahub.space/poster/medium/tt0108394/img",
+   "releaseInfo": "1993"
+  },
+  {
+   "id": "tt0111507",
+   "type": "movie",
+   "name": "Three Colors: White",
+   "poster": "https://images.metahub.space/poster/medium/tt0111507/img",
+   "releaseInfo": "1994"
+  },
+  {
+   "id": "tt0111495",
+   "type": "movie",
+   "name": "Three Colors: Red",
+   "poster": "https://images.metahub.space/poster/medium/tt0111495/img",
+   "releaseInfo": "1994"
+  },
+  {
+   "id": "tt0080196",
+   "type": "movie",
+   "name": "Berlin Alexanderplatz",
+   "poster": "https://images.metahub.space/poster/medium/tt0080196/img",
+   "releaseInfo": "1980"
+  },
+  {
+   "id": "tt1065073",
+   "type": "movie",
+   "name": "Boyhood",
+   "poster": "https://images.metahub.space/poster/medium/tt1065073/img",
+   "releaseInfo": "2014"
+  },
+  {
+   "id": "tt0185125",
+   "type": "movie",
+   "name": "All About My Mother",
+   "poster": "https://images.metahub.space/poster/medium/tt0185125/img",
+   "releaseInfo": "1999"
+  },
+  {
+   "id": "tt1020773",
+   "type": "movie",
+   "name": "Certified Copy",
+   "poster": "https://images.metahub.space/poster/medium/tt1020773/img",
+   "releaseInfo": "2010"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "metas": [
+  {
+   "id": "tt0073076",
+   "type": "movie",
+   "name": "Grey Gardens",
+   "poster": "https://images.metahub.space/poster/medium/tt0073076/img",
+   "releaseInfo": "1976"
+  },
+  {
+   "id": "tt0047296",
+   "type": "movie",
+   "name": "On the Waterfront",
+   "poster": "https://images.metahub.space/poster/medium/tt0047296/img",
+   "releaseInfo": "1954"
+  },
+  {
+   "id": "tt0248845",
+   "type": "movie",
+   "name": "Hedwig and the Angry Inch",
+   "poster": "https://images.metahub.space/poster/medium/tt0248845/img",
+   "releaseInfo": "2001"
+  },
+  {
+   "id": "tt17009710",
+   "type": "movie",
+   "name": "Anatomy of a Fall",
+   "poster": "https://images.metahub.space/poster/medium/tt17009710/img",
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tt27714581",
+   "type": "movie",
+   "name": "Sentimental Value",
+   "poster": "https://images.metahub.space/poster/medium/tt27714581/img",
+   "releaseInfo": "2025"
+  }
+ ]
+}

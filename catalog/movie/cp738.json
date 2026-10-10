@@ -1,0 +1,32 @@
+{
+ "metas": [
+  {
+   "id": "tt0040725",
+   "type": "movie",
+   "name": "The Red Shoes",
+   "poster": "https://images.metahub.space/poster/medium/tt0040725/img",
+   "releaseInfo": "1948"
+  },
+  {
+   "id": "tt0199725",
+   "type": "movie",
+   "name": "Love & Basketball",
+   "poster": "https://images.metahub.space/poster/medium/tt0199725/img",
+   "releaseInfo": "2000"
+  },
+  {
+   "id": "tt0100332",
+   "type": "movie",
+   "name": "Paris Is Burning",
+   "poster": "https://images.metahub.space/poster/medium/tt0100332/img",
+   "releaseInfo": "1991"
+  },
+  {
+   "id": "tt10370710",
+   "type": "movie",
+   "name": "The Worst Person in the World",
+   "poster": "https://images.metahub.space/poster/medium/tt10370710/img",
+   "releaseInfo": "2021"
+  }
+ ]
+}

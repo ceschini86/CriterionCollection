@@ -1,0 +1,46 @@
+{
+ "metas": [
+  {
+   "id": "tt0079944",
+   "type": "movie",
+   "name": "Stalker",
+   "poster": "https://images.metahub.space/poster/medium/tt0079944/img",
+   "releaseInfo": "1979"
+  },
+  {
+   "id": "tt0054189",
+   "type": "movie",
+   "name": "Purple Noon",
+   "poster": "https://images.metahub.space/poster/medium/tt0054189/img",
+   "releaseInfo": "1960"
+  },
+  {
+   "id": "tt0046268",
+   "type": "movie",
+   "name": "The Wages of Fear",
+   "poster": "https://images.metahub.space/poster/medium/tt0046268/img",
+   "releaseInfo": "1953"
+  },
+  {
+   "id": "tt0085859",
+   "type": "movie",
+   "name": "Local Hero",
+   "poster": "https://images.metahub.space/poster/medium/tt0085859/img",
+   "releaseInfo": "1983"
+  },
+  {
+   "id": "tt0091538",
+   "type": "movie",
+   "name": "Mona Lisa",
+   "poster": "https://images.metahub.space/poster/medium/tt0091538/img",
+   "releaseInfo": "1986"
+  },
+  {
+   "id": "tt0048424",
+   "type": "movie",
+   "name": "The Night of the Hunter",
+   "poster": "https://images.metahub.space/poster/medium/tt0048424/img",
+   "releaseInfo": "1955"
+  }
+ ]
+}

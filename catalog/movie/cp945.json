@@ -1,0 +1,39 @@
+{
+ "metas": [
+  {
+   "id": "tt0073692",
+   "type": "movie",
+   "name": "Shampoo",
+   "poster": "https://images.metahub.space/poster/medium/tt0073692/img",
+   "releaseInfo": "1975"
+  },
+  {
+   "id": "tt0477348",
+   "type": "movie",
+   "name": "No Country for Old Men",
+   "poster": "https://images.metahub.space/poster/medium/tt0477348/img",
+   "releaseInfo": "2007"
+  },
+  {
+   "id": "tt0028597",
+   "type": "movie",
+   "name": "The Awful Truth",
+   "poster": "https://images.metahub.space/poster/medium/tt0028597/img",
+   "releaseInfo": "1937"
+  },
+  {
+   "id": "tt0087414",
+   "type": "movie",
+   "name": "The Hit",
+   "poster": "https://images.metahub.space/poster/medium/tt0087414/img",
+   "releaseInfo": "1984"
+  },
+  {
+   "id": "tt0070077",
+   "type": "movie",
+   "name": "The Friends of Eddie Coyle",
+   "poster": "https://images.metahub.space/poster/medium/tt0070077/img",
+   "releaseInfo": "1973"
+  }
+ ]
+}

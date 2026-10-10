@@ -1,0 +1,704 @@
+{
+ "metas": [
+  {
+   "id": "tt0040636",
+   "type": "movie",
+   "name": "The Naked City",
+   "poster": "https://images.metahub.space/poster/medium/tt0040636/img",
+   "releaseInfo": "1948"
+  },
+  {
+   "id": "tt0047094",
+   "type": "movie",
+   "name": "Hobson's Choice",
+   "poster": "https://images.metahub.space/poster/medium/tt0047094/img",
+   "releaseInfo": "1954"
+  },
+  {
+   "id": "tt0053270",
+   "type": "movie",
+   "name": "Shadows",
+   "poster": "https://images.metahub.space/poster/medium/tt0053270/img",
+   "releaseInfo": "1960"
+  },
+  {
+   "id": "tt0057171",
+   "type": "movie",
+   "name": "Yesterday, Today and Tomorrow",
+   "poster": "https://images.metahub.space/poster/medium/tt0057171/img",
+   "releaseInfo": "1963"
+  },
+  {
+   "id": "tt0048579",
+   "type": "movie",
+   "name": "Samurai II: Duel at Ichijoji Temple",
+   "poster": "https://images.metahub.space/poster/medium/tt0048579/img",
+   "releaseInfo": "1955"
+  },
+  {
+   "id": "tt0053121",
+   "type": "movie",
+   "name": "Fires on the Plain",
+   "poster": "https://images.metahub.space/poster/medium/tt0053121/img",
+   "releaseInfo": "1959"
+  },
+  {
+   "id": "tt0057344",
+   "type": "movie",
+   "name": "Any Number Can Win",
+   "poster": "https://images.metahub.space/poster/medium/tt0057344/img",
+   "releaseInfo": "1963"
+  },
+  {
+   "id": "tt0045361",
+   "type": "movie",
+   "name": "Él",
+   "poster": "https://images.metahub.space/poster/medium/tt0045361/img",
+   "releaseInfo": "1953"
+  },
+  {
+   "id": "tt0063198",
+   "type": "movie",
+   "name": "Death by Hanging",
+   "poster": "https://images.metahub.space/poster/medium/tt0063198/img",
+   "releaseInfo": "1968"
+  },
+  {
+   "id": "tt0022080",
+   "type": "movie",
+   "name": "Limite",
+   "poster": "https://images.metahub.space/poster/medium/tt0022080/img",
+   "releaseInfo": "1931"
+  },
+  {
+   "id": "tt5929754",
+   "type": "movie",
+   "name": "Wildlife",
+   "poster": "https://images.metahub.space/poster/medium/tt5929754/img",
+   "releaseInfo": "2018"
+  },
+  {
+   "id": "tt0116962",
+   "type": "movie",
+   "name": "Mahjong",
+   "poster": "https://images.metahub.space/poster/medium/tt0116962/img",
+   "releaseInfo": "1996"
+  },
+  {
+   "id": "tt0104373",
+   "type": "movie",
+   "name": "Guelwaar",
+   "poster": "https://images.metahub.space/poster/medium/tt0104373/img",
+   "releaseInfo": "1993"
+  },
+  {
+   "id": "tt0057935",
+   "type": "movie",
+   "name": "Charulata",
+   "poster": "https://images.metahub.space/poster/medium/tt0057935/img",
+   "releaseInfo": "1964"
+  },
+  {
+   "id": "tt0460829",
+   "type": "movie",
+   "name": "Inland Empire",
+   "poster": "https://images.metahub.space/poster/medium/tt0460829/img",
+   "releaseInfo": "2006"
+  },
+  {
+   "id": "tt11380884",
+   "type": "movie",
+   "name": "Farewell Amor",
+   "poster": "https://images.metahub.space/poster/medium/tt11380884/img",
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tt0179389",
+   "type": "movie",
+   "name": "Uncle Yanco",
+   "poster": "https://images.metahub.space/poster/medium/tt0179389/img",
+   "releaseInfo": "1967"
+  },
+  {
+   "id": "tt0061996",
+   "type": "movie",
+   "name": "Mouchette",
+   "poster": "https://images.metahub.space/poster/medium/tt0061996/img",
+   "releaseInfo": "1967"
+  },
+  {
+   "id": "tt0412990",
+   "type": "movie",
+   "name": "Meeting the Man: James Baldwin in Paris",
+   "poster": "https://images.metahub.space/poster/medium/tt0412990/img",
+   "releaseInfo": "1971"
+  },
+  {
+   "id": "tt0101279",
+   "type": "movie",
+   "name": "The Stranger",
+   "poster": "https://images.metahub.space/poster/medium/tt0101279/img",
+   "releaseInfo": "1991"
+  },
+  {
+   "id": "tt32538648",
+   "type": "movie",
+   "name": "Romería",
+   "poster": "https://images.metahub.space/poster/medium/tt32538648/img",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "tt30810792",
+   "type": "movie",
+   "name": "Love",
+   "poster": "https://images.metahub.space/poster/medium/tt30810792/img",
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tt33381401",
+   "type": "movie",
+   "name": "The Love That Remains",
+   "poster": "https://images.metahub.space/poster/medium/tt33381401/img",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "tt0081633",
+   "type": "movie",
+   "name": "Time Bandits",
+   "poster": "https://images.metahub.space/poster/medium/tt0081633/img",
+   "releaseInfo": "1981"
+  },
+  {
+   "id": "tt0154506",
+   "type": "movie",
+   "name": "Following",
+   "poster": "https://images.metahub.space/poster/medium/tt0154506/img",
+   "releaseInfo": "1999"
+  },
+  {
+   "id": "tt0119167",
+   "type": "movie",
+   "name": "Funny Games",
+   "poster": "https://images.metahub.space/poster/medium/tt0119167/img",
+   "releaseInfo": "1997"
+  },
+  {
+   "id": "tt2452254",
+   "type": "movie",
+   "name": "Clouds of Sils Maria",
+   "poster": "https://images.metahub.space/poster/medium/tt2452254/img",
+   "releaseInfo": "2014"
+  },
+  {
+   "id": "tt2035630",
+   "type": "movie",
+   "name": "Starlet",
+   "poster": "https://images.metahub.space/poster/medium/tt2035630/img",
+   "releaseInfo": "2012"
+  },
+  {
+   "id": "tt0074749",
+   "type": "movie",
+   "name": "The Killing of a Chinese Bookie",
+   "poster": "https://images.metahub.space/poster/medium/tt0074749/img",
+   "releaseInfo": "1976"
+  },
+  {
+   "id": "tt0993789",
+   "type": "movie",
+   "name": "A Christmas Tale",
+   "poster": "https://images.metahub.space/poster/medium/tt0993789/img",
+   "releaseInfo": "2008"
+  },
+  {
+   "id": "tt4935446",
+   "type": "movie",
+   "name": "Heart of a Dog",
+   "poster": "https://images.metahub.space/poster/medium/tt4935446/img",
+   "releaseInfo": "2015"
+  },
+  {
+   "id": "tt0082206",
+   "type": "movie",
+   "name": "Coup de Torchon",
+   "poster": "https://images.metahub.space/poster/medium/tt0082206/img",
+   "releaseInfo": "1981"
+  },
+  {
+   "id": "tt0067961",
+   "type": "movie",
+   "name": "Wanda",
+   "poster": "https://images.metahub.space/poster/medium/tt0067961/img",
+   "releaseInfo": "1970"
+  },
+  {
+   "id": "tt0075938",
+   "type": "movie",
+   "name": "The Devil, Probably",
+   "poster": "https://images.metahub.space/poster/medium/tt0075938/img",
+   "releaseInfo": "1977"
+  },
+  {
+   "id": "tt0098725",
+   "type": "movie",
+   "name": "Sweetie",
+   "poster": "https://images.metahub.space/poster/medium/tt0098725/img",
+   "releaseInfo": "1989"
+  },
+  {
+   "id": "tt0077729",
+   "type": "movie",
+   "name": "In a Year with 13 Moons",
+   "poster": "https://images.metahub.space/poster/medium/tt0077729/img",
+   "releaseInfo": "1978"
+  },
+  {
+   "id": "tt0082727",
+   "type": "movie",
+   "name": "Meantime",
+   "poster": "https://images.metahub.space/poster/medium/tt0082727/img",
+   "releaseInfo": "1983"
+  },
+  {
+   "id": "tt0090952",
+   "type": "movie",
+   "name": "Peking Opera Blues",
+   "poster": "https://images.metahub.space/poster/medium/tt0090952/img",
+   "releaseInfo": "1986"
+  },
+  {
+   "id": "tt0118818",
+   "type": "movie",
+   "name": "Career Girls",
+   "poster": "https://images.metahub.space/poster/medium/tt0118818/img",
+   "releaseInfo": "1997"
+  },
+  {
+   "id": "tt0118125",
+   "type": "movie",
+   "name": "The Watermelon Woman",
+   "poster": "https://images.metahub.space/poster/medium/tt0118125/img",
+   "releaseInfo": "1997"
+  },
+  {
+   "id": "tt0093371",
+   "type": "movie",
+   "name": "Kung-Fu Master!",
+   "poster": "https://images.metahub.space/poster/medium/tt0093371/img",
+   "releaseInfo": "1988"
+  },
+  {
+   "id": "tt0098112",
+   "type": "movie",
+   "name": "Powwow Highway",
+   "poster": "https://images.metahub.space/poster/medium/tt0098112/img",
+   "releaseInfo": "1989"
+  },
+  {
+   "id": "tt0028212",
+   "type": "movie",
+   "name": "Sabotage",
+   "poster": "https://images.metahub.space/poster/medium/tt0028212/img",
+   "releaseInfo": "1936"
+  },
+  {
+   "id": "tt0034881",
+   "type": "movie",
+   "name": "I Married a Witch",
+   "poster": "https://images.metahub.space/poster/medium/tt0034881/img",
+   "releaseInfo": "1942"
+  },
+  {
+   "id": "tt0063678",
+   "type": "movie",
+   "name": "Theorem",
+   "poster": "https://images.metahub.space/poster/medium/tt0063678/img",
+   "releaseInfo": "1968"
+  },
+  {
+   "id": "tt0028445",
+   "type": "movie",
+   "name": "A Day in the Country",
+   "poster": "https://images.metahub.space/poster/medium/tt0028445/img",
+   "releaseInfo": "1946"
+  },
+  {
+   "id": "tt0044060",
+   "type": "movie",
+   "name": "Summer Interlude",
+   "poster": "https://images.metahub.space/poster/medium/tt0044060/img",
+   "releaseInfo": "1951"
+  },
+  {
+   "id": "tt0064921",
+   "type": "movie",
+   "name": "Salesman",
+   "poster": "https://images.metahub.space/poster/medium/tt0064921/img",
+   "releaseInfo": "1969"
+  },
+  {
+   "id": "tt0048673",
+   "type": "movie",
+   "name": "Summertime",
+   "poster": "https://images.metahub.space/poster/medium/tt0048673/img",
+   "releaseInfo": "1955"
+  },
+  {
+   "id": "tt0032156",
+   "type": "movie",
+   "name": "The Story of the Last Chrysanthemum",
+   "poster": "https://images.metahub.space/poster/medium/tt0032156/img",
+   "releaseInfo": "1939"
+  },
+  {
+   "id": "tt0031742",
+   "type": "movie",
+   "name": "Of Mice and Men",
+   "poster": "https://images.metahub.space/poster/medium/tt0031742/img",
+   "releaseInfo": "1939"
+  },
+  {
+   "id": "tt0049784",
+   "type": "movie",
+   "name": "Early Spring",
+   "poster": "https://images.metahub.space/poster/medium/tt0049784/img",
+   "releaseInfo": "1956"
+  },
+  {
+   "id": "tt0055052",
+   "type": "movie",
+   "name": "The End of Summer",
+   "poster": "https://images.metahub.space/poster/medium/tt0055052/img",
+   "releaseInfo": "1961"
+  },
+  {
+   "id": "tt7825208",
+   "type": "movie",
+   "name": "Marighella",
+   "poster": "https://images.metahub.space/poster/medium/tt7825208/img",
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tt6443294",
+   "type": "movie",
+   "name": "Blaze",
+   "poster": "https://images.metahub.space/poster/medium/tt6443294/img",
+   "releaseInfo": "2018"
+  },
+  {
+   "id": "tt0107152",
+   "type": "movie",
+   "name": "Household Saints",
+   "poster": "https://images.metahub.space/poster/medium/tt0107152/img",
+   "releaseInfo": "1993"
+  },
+  {
+   "id": "tt0073654",
+   "type": "movie",
+   "name": "Sandakan No. 8",
+   "poster": "https://images.metahub.space/poster/medium/tt0073654/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt0076124",
+   "type": "movie",
+   "name": "Ballad of Orin",
+   "poster": "https://images.metahub.space/poster/medium/tt0076124/img",
+   "releaseInfo": "1977"
+  },
+  {
+   "id": "tt0093431",
+   "type": "movie",
+   "name": "The Lonely Passion of Judith Hearne",
+   "poster": "https://images.metahub.space/poster/medium/tt0093431/img",
+   "releaseInfo": "1987"
+  },
+  {
+   "id": "tt0086994",
+   "type": "movie",
+   "name": "Boy Meets Girl",
+   "poster": "https://images.metahub.space/poster/medium/tt0086994/img",
+   "releaseInfo": "1984"
+  },
+  {
+   "id": "tt0144020",
+   "type": "movie",
+   "name": "Pickpocket",
+   "poster": "https://images.metahub.space/poster/medium/tt0144020/img",
+   "releaseInfo": "1997"
+  },
+  {
+   "id": "tt0072973",
+   "type": "movie",
+   "name": "Farewell, My Lovely",
+   "poster": "https://images.metahub.space/poster/medium/tt0072973/img",
+   "releaseInfo": "1975"
+  },
+  {
+   "id": "tt0103905",
+   "type": "movie",
+   "name": "Man Bites Dog",
+   "poster": "https://images.metahub.space/poster/medium/tt0103905/img",
+   "releaseInfo": "1992"
+  },
+  {
+   "id": "tt0107474",
+   "type": "movie",
+   "name": "Madadayo",
+   "poster": "https://images.metahub.space/poster/medium/tt0107474/img",
+   "releaseInfo": "1993"
+  },
+  {
+   "id": "tt15165236",
+   "type": "movie",
+   "name": "The Hand",
+   "poster": "https://images.metahub.space/poster/medium/tt15165236/img",
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tt29002950",
+   "type": "movie",
+   "name": "Resurrection",
+   "poster": "https://images.metahub.space/poster/medium/tt29002950/img",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "tt18317064",
+   "type": "movie",
+   "name": "Tori and Lokita",
+   "poster": "https://images.metahub.space/poster/medium/tt18317064/img",
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tt19841734",
+   "type": "movie",
+   "name": "The Innocent",
+   "poster": "https://images.metahub.space/poster/medium/tt19841734/img",
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tt19623228",
+   "type": "movie",
+   "name": "Godland",
+   "poster": "https://images.metahub.space/poster/medium/tt19623228/img",
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tt30320605",
+   "type": "movie",
+   "name": "Nocturnes",
+   "poster": "https://images.metahub.space/poster/medium/tt30320605/img",
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tt0090756",
+   "type": "movie",
+   "name": "Blue Velvet",
+   "poster": "https://images.metahub.space/poster/medium/tt0090756/img",
+   "releaseInfo": "1986"
+  },
+  {
+   "id": "tt3908142",
+   "type": "movie",
+   "name": "The Love Witch",
+   "poster": "https://images.metahub.space/poster/medium/tt3908142/img",
+   "releaseInfo": "2016"
+  },
+  {
+   "id": "tt0095403",
+   "type": "movie",
+   "name": "Police Story 2",
+   "poster": "https://images.metahub.space/poster/medium/tt0095403/img",
+   "releaseInfo": "1988"
+  },
+  {
+   "id": "tt0120265",
+   "type": "movie",
+   "name": "Taste of Cherry",
+   "poster": "https://images.metahub.space/poster/medium/tt0120265/img",
+   "releaseInfo": "1997"
+  },
+  {
+   "id": "tt0080889",
+   "type": "movie",
+   "name": "Hopscotch",
+   "poster": "https://images.metahub.space/poster/medium/tt0080889/img",
+   "releaseInfo": "1980"
+  },
+  {
+   "id": "tt0210075",
+   "type": "movie",
+   "name": "Girlfight",
+   "poster": "https://images.metahub.space/poster/medium/tt0210075/img",
+   "releaseInfo": "2000"
+  },
+  {
+   "id": "tt0087414",
+   "type": "movie",
+   "name": "The Hit",
+   "poster": "https://images.metahub.space/poster/medium/tt0087414/img",
+   "releaseInfo": "1984"
+  },
+  {
+   "id": "tt0070155",
+   "type": "movie",
+   "name": "The Harder They Come",
+   "poster": "https://images.metahub.space/poster/medium/tt0070155/img",
+   "releaseInfo": "1972"
+  },
+  {
+   "id": "tt0076299",
+   "type": "movie",
+   "name": "The Last Wave",
+   "poster": "https://images.metahub.space/poster/medium/tt0076299/img",
+   "releaseInfo": "1977"
+  },
+  {
+   "id": "tt0094675",
+   "type": "movie",
+   "name": "Ariel",
+   "poster": "https://images.metahub.space/poster/medium/tt0094675/img",
+   "releaseInfo": "1988"
+  },
+  {
+   "id": "tt0283283",
+   "type": "movie",
+   "name": "Millennium Mambo",
+   "poster": "https://images.metahub.space/poster/medium/tt0283283/img",
+   "releaseInfo": "2001"
+  },
+  {
+   "id": "tt0065649",
+   "type": "movie",
+   "name": "Dodes'ka-den",
+   "poster": "https://images.metahub.space/poster/medium/tt0065649/img",
+   "releaseInfo": "1970"
+  },
+  {
+   "id": "tt0080140",
+   "type": "movie",
+   "name": "Wise Blood",
+   "poster": "https://images.metahub.space/poster/medium/tt0080140/img",
+   "releaseInfo": "1979"
+  },
+  {
+   "id": "tt0071737",
+   "type": "movie",
+   "name": "Lancelot of the Lake",
+   "poster": "https://images.metahub.space/poster/medium/tt0071737/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt0201840",
+   "type": "movie",
+   "name": "The Cup",
+   "poster": "https://images.metahub.space/poster/medium/tt0201840/img",
+   "releaseInfo": "1999"
+  },
+  {
+   "id": "tt0055830",
+   "type": "movie",
+   "name": "Carnival of Souls",
+   "poster": "https://images.metahub.space/poster/medium/tt0055830/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0058335",
+   "type": "movie",
+   "name": "Marriage Italian Style",
+   "poster": "https://images.metahub.space/poster/medium/tt0058335/img",
+   "releaseInfo": "1964"
+  },
+  {
+   "id": "tt0042369",
+   "type": "movie",
+   "name": "D.O.A.",
+   "poster": "https://images.metahub.space/poster/medium/tt0042369/img",
+   "releaseInfo": "1949"
+  },
+  {
+   "id": "tt0021739",
+   "type": "movie",
+   "name": "La Chienne",
+   "poster": "https://images.metahub.space/poster/medium/tt0021739/img",
+   "releaseInfo": "1931"
+  },
+  {
+   "id": "tt0058138",
+   "type": "movie",
+   "name": "Gertrud",
+   "poster": "https://images.metahub.space/poster/medium/tt0058138/img",
+   "releaseInfo": "1964"
+  },
+  {
+   "id": "tt0072826",
+   "type": "movie",
+   "name": "Cousin, Cousine",
+   "poster": "https://images.metahub.space/poster/medium/tt0072826/img",
+   "releaseInfo": "1975"
+  },
+  {
+   "id": "tt0019412",
+   "type": "movie",
+   "name": "Speedy",
+   "poster": "https://images.metahub.space/poster/medium/tt0019412/img",
+   "releaseInfo": "1928"
+  },
+  {
+   "id": "tt0048198",
+   "type": "movie",
+   "name": "I Live in Fear",
+   "poster": "https://images.metahub.space/poster/medium/tt0048198/img",
+   "releaseInfo": "1955"
+  },
+  {
+   "id": "tt0051720",
+   "type": "movie",
+   "name": "Equinox Flower",
+   "poster": "https://images.metahub.space/poster/medium/tt0051720/img",
+   "releaseInfo": "1958"
+  },
+  {
+   "id": "tt0043362",
+   "type": "movie",
+   "name": "The Browning Version",
+   "poster": "https://images.metahub.space/poster/medium/tt0043362/img",
+   "releaseInfo": "1951"
+  },
+  {
+   "id": "tt0054412",
+   "type": "movie",
+   "name": "Tunes of Glory",
+   "poster": "https://images.metahub.space/poster/medium/tt0054412/img",
+   "releaseInfo": "1960"
+  },
+  {
+   "id": "tt0095199",
+   "type": "movie",
+   "name": "Gap-Toothed Women",
+   "poster": "https://images.metahub.space/poster/medium/tt0095199/img",
+   "releaseInfo": "1987"
+  },
+  {
+   "id": "tt1000769",
+   "type": "movie",
+   "name": "Prince of Broadway",
+   "poster": "https://images.metahub.space/poster/medium/tt1000769/img",
+   "releaseInfo": "2010"
+  },
+  {
+   "id": "tt0058379",
+   "type": "movie",
+   "name": "Mothra vs. Godzilla",
+   "poster": "https://images.metahub.space/poster/medium/tt0058379/img",
+   "releaseInfo": "1964"
+  },
+  {
+   "id": "tt0023238",
+   "type": "movie",
+   "name": "The Most Dangerous Game",
+   "poster": "https://images.metahub.space/poster/medium/tt0023238/img",
+   "releaseInfo": "1932"
+  }
+ ]
+}

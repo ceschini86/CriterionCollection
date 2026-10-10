@@ -1,0 +1,46 @@
+{
+ "metas": [
+  {
+   "id": "tt0055630",
+   "type": "movie",
+   "name": "Yojimbo",
+   "poster": "https://images.metahub.space/poster/medium/tt0055630/img",
+   "releaseInfo": "1961"
+  },
+  {
+   "id": "tt0110057",
+   "type": "movie",
+   "name": "Hoop Dreams",
+   "poster": "https://images.metahub.space/poster/medium/tt0110057/img",
+   "releaseInfo": "1994"
+  },
+  {
+   "id": "tt0108122",
+   "type": "movie",
+   "name": "Short Cuts",
+   "poster": "https://images.metahub.space/poster/medium/tt0108122/img",
+   "releaseInfo": "1993"
+  },
+  {
+   "id": "tt0093200",
+   "type": "movie",
+   "name": "Hollywood Shuffle",
+   "poster": "https://images.metahub.space/poster/medium/tt0093200/img",
+   "releaseInfo": "1987"
+  },
+  {
+   "id": "tt0115632",
+   "type": "movie",
+   "name": "Basquiat",
+   "poster": "https://images.metahub.space/poster/medium/tt0115632/img",
+   "releaseInfo": "1996"
+  },
+  {
+   "id": "tt0165798",
+   "type": "movie",
+   "name": "Ghost Dog: The Way of the Samurai",
+   "poster": "https://images.metahub.space/poster/medium/tt0165798/img",
+   "releaseInfo": "1999"
+  }
+ ]
+}

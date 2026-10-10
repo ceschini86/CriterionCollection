@@ -1,0 +1,32 @@
+{
+ "metas": [
+  {
+   "id": "tt0047528",
+   "type": "movie",
+   "name": "La Strada",
+   "poster": "https://images.metahub.space/poster/medium/tt0047528/img",
+   "releaseInfo": "1954"
+  },
+  {
+   "id": "tt0056945",
+   "type": "movie",
+   "name": "The Organizer",
+   "poster": "https://images.metahub.space/poster/medium/tt0056945/img",
+   "releaseInfo": "1963"
+  },
+  {
+   "id": "tt0032599",
+   "type": "movie",
+   "name": "His Girl Friday",
+   "poster": "https://images.metahub.space/poster/medium/tt0032599/img",
+   "releaseInfo": "1940"
+  },
+  {
+   "id": "tt0070959",
+   "type": "movie",
+   "name": "State of Siege",
+   "poster": "https://images.metahub.space/poster/medium/tt0070959/img",
+   "releaseInfo": "1972"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "metas": [
+  {
+   "id": "tt0059012",
+   "type": "movie",
+   "name": "Chimes at Midnight",
+   "poster": "https://images.metahub.space/poster/medium/tt0059012/img",
+   "releaseInfo": "1965"
+  },
+  {
+   "id": "tt0037800",
+   "type": "movie",
+   "name": "I Know Where I'm Going!",
+   "poster": "https://images.metahub.space/poster/medium/tt0037800/img",
+   "releaseInfo": "1945"
+  },
+  {
+   "id": "tt0051378",
+   "type": "movie",
+   "name": "Elevator to the Gallows",
+   "poster": "https://images.metahub.space/poster/medium/tt0051378/img",
+   "releaseInfo": "1958"
+  },
+  {
+   "id": "tt0046022",
+   "type": "movie",
+   "name": "The Earrings of Madame de...",
+   "poster": "https://images.metahub.space/poster/medium/tt0046022/img",
+   "releaseInfo": "1953"
+  },
+  {
+   "id": "tt0057869",
+   "type": "movie",
+   "name": "Band Of Outsiders",
+   "poster": "https://images.metahub.space/poster/medium/tt0057869/img"
+  },
+  {
+   "id": "tt0047478",
+   "type": "movie",
+   "name": "Seven Samurai",
+   "poster": "https://images.metahub.space/poster/medium/tt0047478/img",
+   "releaseInfo": "1954"
+  }
+ ]
+}

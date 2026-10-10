@@ -1,0 +1,38 @@
+{
+ "metas": [
+  {
+   "id": "tt0126886",
+   "type": "movie",
+   "name": "Election",
+   "poster": "https://images.metahub.space/poster/medium/tt0126886/img",
+   "releaseInfo": "1999"
+  },
+  {
+   "id": "tt0120601",
+   "type": "movie",
+   "name": "Being John Malkovich",
+   "poster": "https://images.metahub.space/poster/medium/tt0120601/img",
+   "releaseInfo": "1999"
+  },
+  {
+   "id": "tt0111590",
+   "type": "movie",
+   "name": "Vanya on 42nd Street",
+   "poster": "https://images.metahub.space/poster/medium/tt0111590/img",
+   "releaseInfo": "1994"
+  },
+  {
+   "id": "tt0084805",
+   "type": "movie",
+   "name": "Tootsie",
+   "poster": "https://images.metahub.space/poster/medium/tt0084805/img",
+   "releaseInfo": "1982"
+  },
+  {
+   "id": "tt0181865",
+   "type": "movie",
+   "name": "Traffic",
+   "poster": "https://images.metahub.space/poster/medium/tt0181865/img"
+  }
+ ]
+}

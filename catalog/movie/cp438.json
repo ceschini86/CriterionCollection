@@ -1,0 +1,73 @@
+{
+ "metas": [
+  {
+   "id": "tt0088846",
+   "type": "movie",
+   "name": "Brazil",
+   "poster": "https://images.metahub.space/poster/medium/tt0088846/img",
+   "releaseInfo": "1985"
+  },
+  {
+   "id": "tt0128445",
+   "type": "movie",
+   "name": "Rushmore",
+   "poster": "https://images.metahub.space/poster/medium/tt0128445/img",
+   "releaseInfo": "1998"
+  },
+  {
+   "id": "tt0102511",
+   "type": "movie",
+   "name": "Naked Lunch",
+   "poster": "https://images.metahub.space/poster/medium/tt0102511/img",
+   "releaseInfo": "1991"
+  },
+  {
+   "id": "tt2006181",
+   "type": "movie",
+   "name": "Jellyfish Eyes",
+   "poster": "https://images.metahub.space/poster/medium/tt2006181/img",
+   "releaseInfo": "2013"
+  },
+  {
+   "id": "tt0055830",
+   "type": "movie",
+   "name": "Carnival of Souls",
+   "poster": "https://images.metahub.space/poster/medium/tt0055830/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0048272",
+   "type": "movie",
+   "name": "Dreams",
+   "poster": "https://images.metahub.space/poster/medium/tt0048272/img"
+  },
+  {
+   "id": "tt0060675",
+   "type": "movie",
+   "name": "Masculin Féminin",
+   "poster": "https://images.metahub.space/poster/medium/tt0060675/img",
+   "releaseInfo": "1966"
+  },
+  {
+   "id": "tt0064451",
+   "type": "movie",
+   "name": "A Touch of Zen",
+   "poster": "https://images.metahub.space/poster/medium/tt0064451/img",
+   "releaseInfo": "1970"
+  },
+  {
+   "id": "tt0079944",
+   "type": "movie",
+   "name": "Stalker",
+   "poster": "https://images.metahub.space/poster/medium/tt0079944/img",
+   "releaseInfo": "1979"
+  },
+  {
+   "id": "tt0432283",
+   "type": "movie",
+   "name": "Fantastic Mr. Fox",
+   "poster": "https://images.metahub.space/poster/medium/tt0432283/img",
+   "releaseInfo": "2009"
+  }
+ ]
+}

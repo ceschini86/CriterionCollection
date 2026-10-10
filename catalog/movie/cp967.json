@@ -1,0 +1,46 @@
+{
+ "metas": [
+  {
+   "id": "tt0094336",
+   "type": "movie",
+   "name": "Withnail and I",
+   "poster": "https://images.metahub.space/poster/medium/tt0094336/img",
+   "releaseInfo": "1987"
+  },
+  {
+   "id": "tt1065073",
+   "type": "movie",
+   "name": "Boyhood",
+   "poster": "https://images.metahub.space/poster/medium/tt1065073/img",
+   "releaseInfo": "2014"
+  },
+  {
+   "id": "tt0101698",
+   "type": "movie",
+   "name": "Defending Your Life",
+   "poster": "https://images.metahub.space/poster/medium/tt0101698/img",
+   "releaseInfo": "1991"
+  },
+  {
+   "id": "tt0117589",
+   "type": "movie",
+   "name": "Secrets & Lies",
+   "poster": "https://images.metahub.space/poster/medium/tt0117589/img",
+   "releaseInfo": "1996"
+  },
+  {
+   "id": "tt28490873",
+   "type": "movie",
+   "name": "Ryuichi Sakamoto | Opus",
+   "poster": "https://images.metahub.space/poster/medium/tt28490873/img",
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tt0083929",
+   "type": "movie",
+   "name": "Fast Times at Ridgemont High",
+   "poster": "https://images.metahub.space/poster/medium/tt0083929/img",
+   "releaseInfo": "1982"
+  }
+ ]
+}

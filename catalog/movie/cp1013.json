@@ -1,0 +1,39 @@
+{
+ "metas": [
+  {
+   "id": "tt0094562",
+   "type": "movie",
+   "name": "Tanner '88",
+   "poster": "https://images.metahub.space/poster/medium/tt0094562/img",
+   "releaseInfo": "1988"
+  },
+  {
+   "id": "tt0092699",
+   "type": "movie",
+   "name": "Broadcast News",
+   "poster": "https://images.metahub.space/poster/medium/tt0092699/img",
+   "releaseInfo": "1987"
+  },
+  {
+   "id": "tt0061722",
+   "type": "movie",
+   "name": "The Graduate",
+   "poster": "https://images.metahub.space/poster/medium/tt0061722/img",
+   "releaseInfo": "1967"
+  },
+  {
+   "id": "tt0074958",
+   "type": "movie",
+   "name": "Network",
+   "poster": "https://images.metahub.space/poster/medium/tt0074958/img",
+   "releaseInfo": "1976"
+  },
+  {
+   "id": "tt0093779",
+   "type": "movie",
+   "name": "The Princess Bride",
+   "poster": "https://images.metahub.space/poster/medium/tt0093779/img",
+   "releaseInfo": "1987"
+  }
+ ]
+}

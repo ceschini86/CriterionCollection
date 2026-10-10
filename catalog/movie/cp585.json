@@ -1,0 +1,45 @@
+{
+ "metas": [
+  {
+   "id": "tt0050083",
+   "type": "movie",
+   "name": "12 Angry Men",
+   "poster": "https://images.metahub.space/poster/medium/tt0050083/img",
+   "releaseInfo": "1957"
+  },
+  {
+   "id": "tt0072820",
+   "type": "movie",
+   "name": "Cooley High",
+   "poster": "https://images.metahub.space/poster/medium/tt0072820/img",
+   "releaseInfo": "1975"
+  },
+  {
+   "id": "tt0057012",
+   "type": "movie",
+   "name": "Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb",
+   "poster": "https://images.metahub.space/poster/medium/tt0057012/img"
+  },
+  {
+   "id": "tt3551840",
+   "type": "movie",
+   "name": "The Ballad of Gregorio Cortez",
+   "poster": "https://images.metahub.space/poster/medium/tt3551840/img",
+   "releaseInfo": "1982"
+  },
+  {
+   "id": "tt0272338",
+   "type": "movie",
+   "name": "Punch-Drunk Love",
+   "poster": "https://images.metahub.space/poster/medium/tt0272338/img",
+   "releaseInfo": "2002"
+  },
+  {
+   "id": "tt0047296",
+   "type": "movie",
+   "name": "On the Waterfront",
+   "poster": "https://images.metahub.space/poster/medium/tt0047296/img",
+   "releaseInfo": "1954"
+  }
+ ]
+}

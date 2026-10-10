@@ -1,0 +1,52 @@
+{
+ "metas": [
+  {
+   "id": "tt0098724",
+   "type": "movie",
+   "name": "Sex, Lies, and Videotape",
+   "poster": "https://images.metahub.space/poster/medium/tt0098724/img",
+   "releaseInfo": "1989"
+  },
+  {
+   "id": "tt0065531",
+   "type": "movie",
+   "name": "Le Cercle rouge",
+   "poster": "https://images.metahub.space/poster/medium/tt0065531/img",
+   "releaseInfo": "1970"
+  },
+  {
+   "id": "tt0056218",
+   "type": "movie",
+   "name": "The Manchurian Candidate",
+   "poster": "https://images.metahub.space/poster/medium/tt0056218/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0078841",
+   "type": "movie",
+   "name": "Being There",
+   "poster": "https://images.metahub.space/poster/medium/tt0078841/img",
+   "releaseInfo": "1979"
+  },
+  {
+   "id": "tt6155172",
+   "type": "movie",
+   "name": "Roma",
+   "poster": "https://images.metahub.space/poster/medium/tt6155172/img"
+  },
+  {
+   "id": "tt0080678",
+   "type": "movie",
+   "name": "The Elephant Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0080678/img",
+   "releaseInfo": "1980"
+  },
+  {
+   "id": "tt0090756",
+   "type": "movie",
+   "name": "Blue Velvet",
+   "poster": "https://images.metahub.space/poster/medium/tt0090756/img",
+   "releaseInfo": "1986"
+  }
+ ]
+}

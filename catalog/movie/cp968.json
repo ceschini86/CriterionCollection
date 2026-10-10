@@ -1,0 +1,46 @@
+{
+ "metas": [
+  {
+   "id": "tt0248845",
+   "type": "movie",
+   "name": "Hedwig and the Angry Inch",
+   "poster": "https://images.metahub.space/poster/medium/tt0248845/img",
+   "releaseInfo": "2001"
+  },
+  {
+   "id": "tt0091295",
+   "type": "movie",
+   "name": "Jo Jo Dancer, Your Life Is Calling",
+   "poster": "https://images.metahub.space/poster/medium/tt0091295/img",
+   "releaseInfo": "1986"
+  },
+  {
+   "id": "tt0089791",
+   "type": "movie",
+   "name": "Pee-wee's Big Adventure",
+   "poster": "https://images.metahub.space/poster/medium/tt0089791/img",
+   "releaseInfo": "1985"
+  },
+  {
+   "id": "tt0074958",
+   "type": "movie",
+   "name": "Network",
+   "poster": "https://images.metahub.space/poster/medium/tt0074958/img",
+   "releaseInfo": "1976"
+  },
+  {
+   "id": "tt0078504",
+   "type": "movie",
+   "name": "The Wiz",
+   "poster": "https://images.metahub.space/poster/medium/tt0078504/img",
+   "releaseInfo": "1978"
+  },
+  {
+   "id": "tt0100332",
+   "type": "movie",
+   "name": "Paris Is Burning",
+   "poster": "https://images.metahub.space/poster/medium/tt0100332/img",
+   "releaseInfo": "1991"
+  }
+ ]
+}

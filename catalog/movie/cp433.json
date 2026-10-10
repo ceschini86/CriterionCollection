@@ -1,0 +1,53 @@
+{
+ "metas": [
+  {
+   "id": "tt0102511",
+   "type": "movie",
+   "name": "Naked Lunch",
+   "poster": "https://images.metahub.space/poster/medium/tt0102511/img",
+   "releaseInfo": "1991"
+  },
+  {
+   "id": "tt0073076",
+   "type": "movie",
+   "name": "Grey Gardens",
+   "poster": "https://images.metahub.space/poster/medium/tt0073076/img",
+   "releaseInfo": "1976"
+  },
+  {
+   "id": "tt0087995",
+   "type": "movie",
+   "name": "Repo Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0087995/img",
+   "releaseInfo": "1984"
+  },
+  {
+   "id": "tt0039677",
+   "type": "movie",
+   "name": "Odd Man Out",
+   "poster": "https://images.metahub.space/poster/medium/tt0039677/img",
+   "releaseInfo": "1947"
+  },
+  {
+   "id": "tt0056218",
+   "type": "movie",
+   "name": "The Manchurian Candidate",
+   "poster": "https://images.metahub.space/poster/medium/tt0056218/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0092117",
+   "type": "movie",
+   "name": "True Stories",
+   "poster": "https://images.metahub.space/poster/medium/tt0092117/img",
+   "releaseInfo": "1986"
+  },
+  {
+   "id": "tt0063350",
+   "type": "movie",
+   "name": "Night of the Living Dead",
+   "poster": "https://images.metahub.space/poster/medium/tt0063350/img",
+   "releaseInfo": "1968"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "metas": [
+  {
+   "id": "tt0065867",
+   "type": "movie",
+   "name": "Husbands",
+   "poster": "https://images.metahub.space/poster/medium/tt0065867/img",
+   "releaseInfo": "1970"
+  },
+  {
+   "id": "tt0063646",
+   "type": "movie",
+   "name": "The Story of a Three-Day Pass",
+   "poster": "https://images.metahub.space/poster/medium/tt0063646/img",
+   "releaseInfo": "1968"
+  },
+  {
+   "id": "tt0066550",
+   "type": "movie",
+   "name": "Watermelon Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0066550/img",
+   "releaseInfo": "1970"
+  },
+  {
+   "id": "tt0067810",
+   "type": "movie",
+   "name": "Sweet Sweetback's Baadasssss Song",
+   "poster": "https://images.metahub.space/poster/medium/tt0067810/img",
+   "releaseInfo": "1971"
+  },
+  {
+   "id": "tt0069996",
+   "type": "movie",
+   "name": "Don't Play Us Cheap",
+   "poster": "https://images.metahub.space/poster/medium/tt0069996/img",
+   "releaseInfo": "1973"
+  },
+  {
+   "id": "tt0090557",
+   "type": "movie",
+   "name": "Round Midnight",
+   "poster": "https://images.metahub.space/poster/medium/tt0090557/img",
+   "releaseInfo": "1986"
+  },
+  {
+   "id": "tt0100791",
+   "type": "movie",
+   "name": "To Sleep with Anger",
+   "poster": "https://images.metahub.space/poster/medium/tt0100791/img",
+   "releaseInfo": "1990"
+  },
+  {
+   "id": "tt0119572",
+   "type": "movie",
+   "name": "Love Jones",
+   "poster": "https://images.metahub.space/poster/medium/tt0119572/img",
+   "releaseInfo": "1997"
+  },
+  {
+   "id": "tt0071970",
+   "type": "movie",
+   "name": "The Parallax View",
+   "poster": "https://images.metahub.space/poster/medium/tt0071970/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt0100150",
+   "type": "movie",
+   "name": "Miller's Crossing",
+   "poster": "https://images.metahub.space/poster/medium/tt0100150/img",
+   "releaseInfo": "1990"
+  }
+ ]
+}

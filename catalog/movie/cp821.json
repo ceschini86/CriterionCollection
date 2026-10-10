@@ -1,0 +1,81 @@
+{
+ "metas": [
+  {
+   "id": "tt0071129",
+   "type": "movie",
+   "name": "Amarcord",
+   "poster": "https://images.metahub.space/poster/medium/tt0071129/img",
+   "releaseInfo": "1973"
+  },
+  {
+   "id": "tt0053198",
+   "type": "movie",
+   "name": "The 400 Blows",
+   "poster": "https://images.metahub.space/poster/medium/tt0053198/img",
+   "releaseInfo": "1959"
+  },
+  {
+   "id": "tt0056119",
+   "type": "movie",
+   "name": "La Jetée",
+   "poster": "https://images.metahub.space/poster/medium/tt0056119/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0084628",
+   "type": "movie",
+   "name": "Sans Soleil",
+   "poster": "https://images.metahub.space/poster/medium/tt0084628/img",
+   "releaseInfo": "1983"
+  },
+  {
+   "id": "tt0245574",
+   "type": "movie",
+   "name": "Y tu mamá también",
+   "poster": "https://images.metahub.space/poster/medium/tt0245574/img",
+   "releaseInfo": "2001"
+  },
+  {
+   "id": "tt33398096",
+   "type": "movie",
+   "name": "Carlos",
+   "poster": "https://images.metahub.space/poster/medium/tt33398096/img",
+   "releaseInfo": "2010"
+  },
+  {
+   "id": "tt0108394",
+   "type": "movie",
+   "name": "Three Colors: Blue",
+   "poster": "https://images.metahub.space/poster/medium/tt0108394/img",
+   "releaseInfo": "1993"
+  },
+  {
+   "id": "tt0111507",
+   "type": "movie",
+   "name": "Three Colors: White",
+   "poster": "https://images.metahub.space/poster/medium/tt0111507/img",
+   "releaseInfo": "1994"
+  },
+  {
+   "id": "tt0111495",
+   "type": "movie",
+   "name": "Three Colors: Red",
+   "poster": "https://images.metahub.space/poster/medium/tt0111495/img",
+   "releaseInfo": "1994"
+  },
+  {
+   "id": "tt26315142",
+   "type": "movie",
+   "name": "Tótem",
+   "poster": "https://images.metahub.space/poster/medium/tt26315142/img",
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tt6751668",
+   "type": "movie",
+   "name": "Parasite",
+   "poster": "https://images.metahub.space/poster/medium/tt6751668/img",
+   "releaseInfo": "2019"
+  }
+ ]
+}

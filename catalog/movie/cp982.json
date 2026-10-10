@@ -1,0 +1,53 @@
+{
+ "metas": [
+  {
+   "id": "tt2358891",
+   "type": "movie",
+   "name": "The Great Beauty",
+   "poster": "https://images.metahub.space/poster/medium/tt2358891/img",
+   "releaseInfo": "2013"
+  },
+  {
+   "id": "tt7322224",
+   "type": "movie",
+   "name": "Triangle of Sadness",
+   "poster": "https://images.metahub.space/poster/medium/tt7322224/img",
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tt0230600",
+   "type": "movie",
+   "name": "The Others",
+   "poster": "https://images.metahub.space/poster/medium/tt0230600/img",
+   "releaseInfo": "2001"
+  },
+  {
+   "id": "tt26315142",
+   "type": "movie",
+   "name": "Tótem",
+   "poster": "https://images.metahub.space/poster/medium/tt26315142/img",
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tt0112471",
+   "type": "movie",
+   "name": "Before Sunrise",
+   "poster": "https://images.metahub.space/poster/medium/tt0112471/img",
+   "releaseInfo": "1995"
+  },
+  {
+   "id": "tt0381681",
+   "type": "movie",
+   "name": "Before Sunset",
+   "poster": "https://images.metahub.space/poster/medium/tt0381681/img",
+   "releaseInfo": "2004"
+  },
+  {
+   "id": "tt2209418",
+   "type": "movie",
+   "name": "Before Midnight",
+   "poster": "https://images.metahub.space/poster/medium/tt2209418/img",
+   "releaseInfo": "2013"
+  }
+ ]
+}

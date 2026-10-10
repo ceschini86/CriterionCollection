@@ -1,0 +1,39 @@
+{
+ "metas": [
+  {
+   "id": "tt0053198",
+   "type": "movie",
+   "name": "The 400 Blows",
+   "poster": "https://images.metahub.space/poster/medium/tt0053198/img",
+   "releaseInfo": "1959"
+  },
+  {
+   "id": "tt0088184",
+   "type": "movie",
+   "name": "Stranger Than Paradise",
+   "poster": "https://images.metahub.space/poster/medium/tt0088184/img",
+   "releaseInfo": "1984"
+  },
+  {
+   "id": "tt0025746",
+   "type": "movie",
+   "name": "The Scarlet Empress",
+   "poster": "https://images.metahub.space/poster/medium/tt0025746/img",
+   "releaseInfo": "1934"
+  },
+  {
+   "id": "tt0088846",
+   "type": "movie",
+   "name": "Brazil",
+   "poster": "https://images.metahub.space/poster/medium/tt0088846/img",
+   "releaseInfo": "1985"
+  },
+  {
+   "id": "tt0076162",
+   "type": "movie",
+   "name": "House",
+   "poster": "https://images.metahub.space/poster/medium/tt0076162/img",
+   "releaseInfo": "1977"
+  }
+ ]
+}

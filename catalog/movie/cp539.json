@@ -1,0 +1,46 @@
+{
+ "metas": [
+  {
+   "id": "tt0042192",
+   "type": "movie",
+   "name": "All About Eve",
+   "poster": "https://images.metahub.space/poster/medium/tt0042192/img",
+   "releaseInfo": "1950"
+  },
+  {
+   "id": "tt0090563",
+   "type": "movie",
+   "name": "Betty Blue",
+   "poster": "https://images.metahub.space/poster/medium/tt0090563/img",
+   "releaseInfo": "1986"
+  },
+  {
+   "id": "tt0099040",
+   "type": "movie",
+   "name": "An Angel at My Table",
+   "poster": "https://images.metahub.space/poster/medium/tt0099040/img",
+   "releaseInfo": "1990"
+  },
+  {
+   "id": "tt5727208",
+   "type": "movie",
+   "name": "Uncut Gems",
+   "poster": "https://images.metahub.space/poster/medium/tt5727208/img",
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tt0090967",
+   "type": "movie",
+   "name": "Down by Law",
+   "poster": "https://images.metahub.space/poster/medium/tt0090967/img",
+   "releaseInfo": "1986"
+  },
+  {
+   "id": "tt0077288",
+   "type": "movie",
+   "name": "La Cage aux Folles",
+   "poster": "https://images.metahub.space/poster/medium/tt0077288/img",
+   "releaseInfo": "1978"
+  }
+ ]
+}

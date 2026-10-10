@@ -1,0 +1,53 @@
+{
+ "metas": [
+  {
+   "id": "tt0075612",
+   "type": "movie",
+   "name": "3 Women",
+   "poster": "https://images.metahub.space/poster/medium/tt0075612/img",
+   "releaseInfo": "1977"
+  },
+  {
+   "id": "tt6725014",
+   "type": "movie",
+   "name": "Scenes from a Marriage",
+   "poster": "https://images.metahub.space/poster/medium/tt6725014/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt0057091",
+   "type": "movie",
+   "name": "The Leopard",
+   "poster": "https://images.metahub.space/poster/medium/tt0057091/img",
+   "releaseInfo": "1963"
+  },
+  {
+   "id": "tt0065867",
+   "type": "movie",
+   "name": "Husbands",
+   "poster": "https://images.metahub.space/poster/medium/tt0065867/img",
+   "releaseInfo": "1970"
+  },
+  {
+   "id": "tt0107653",
+   "type": "movie",
+   "name": "Naked",
+   "poster": "https://images.metahub.space/poster/medium/tt0107653/img",
+   "releaseInfo": "1993"
+  },
+  {
+   "id": "tt0080196",
+   "type": "movie",
+   "name": "Berlin Alexanderplatz",
+   "poster": "https://images.metahub.space/poster/medium/tt0080196/img",
+   "releaseInfo": "1980"
+  },
+  {
+   "id": "tt0047528",
+   "type": "movie",
+   "name": "La Strada",
+   "poster": "https://images.metahub.space/poster/medium/tt0047528/img",
+   "releaseInfo": "1954"
+  }
+ ]
+}

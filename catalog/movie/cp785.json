@@ -1,0 +1,67 @@
+{
+ "metas": [
+  {
+   "id": "tt0056732",
+   "type": "movie",
+   "name": "The Exterminating Angel",
+   "poster": "https://images.metahub.space/poster/medium/tt0056732/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0047094",
+   "type": "movie",
+   "name": "Hobson's Choice",
+   "poster": "https://images.metahub.space/poster/medium/tt0047094/img",
+   "releaseInfo": "1954"
+  },
+  {
+   "id": "tt0105750",
+   "type": "movie",
+   "name": "La Vie de Bohème",
+   "poster": "https://images.metahub.space/poster/medium/tt0105750/img",
+   "releaseInfo": "1992"
+  },
+  {
+   "id": "tt0240419",
+   "type": "movie",
+   "name": "La Ciénaga",
+   "poster": "https://images.metahub.space/poster/medium/tt0240419/img",
+   "releaseInfo": "2001"
+  },
+  {
+   "id": "tt0077613",
+   "type": "movie",
+   "name": "Girlfriends",
+   "poster": "https://images.metahub.space/poster/medium/tt0077613/img",
+   "releaseInfo": "1978"
+  },
+  {
+   "id": "tt26315142",
+   "type": "movie",
+   "name": "Tótem",
+   "poster": "https://images.metahub.space/poster/medium/tt26315142/img",
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tt0043809",
+   "type": "movie",
+   "name": "Miracle in Milan",
+   "poster": "https://images.metahub.space/poster/medium/tt0043809/img",
+   "releaseInfo": "1951"
+  },
+  {
+   "id": "tt0088847",
+   "type": "movie",
+   "name": "The Breakfast Club",
+   "poster": "https://images.metahub.space/poster/medium/tt0088847/img",
+   "releaseInfo": "1985"
+  },
+  {
+   "id": "tt0018737",
+   "type": "movie",
+   "name": "Pandora's Box",
+   "poster": "https://images.metahub.space/poster/medium/tt0018737/img",
+   "releaseInfo": "1929"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "metas": [
+  {
+   "id": "tt0101985",
+   "type": "movie",
+   "name": "A Brighter Summer Day",
+   "poster": "https://images.metahub.space/poster/medium/tt0101985/img",
+   "releaseInfo": "1991"
+  },
+  {
+   "id": "tt0068361",
+   "type": "movie",
+   "name": "The Discreet Charm of the Bourgeoisie",
+   "poster": "https://images.metahub.space/poster/medium/tt0068361/img",
+   "releaseInfo": "1972"
+  },
+  {
+   "id": "tt0071487",
+   "type": "movie",
+   "name": "The Phantom of Liberty",
+   "poster": "https://images.metahub.space/poster/medium/tt0071487/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt0075824",
+   "type": "movie",
+   "name": "That Obscure Object of Desire",
+   "poster": "https://images.metahub.space/poster/medium/tt0075824/img",
+   "releaseInfo": "1977"
+  },
+  {
+   "id": "tt0055499",
+   "type": "movie",
+   "name": "Through a Glass Darkly",
+   "poster": "https://images.metahub.space/poster/medium/tt0055499/img",
+   "releaseInfo": "1961"
+  },
+  {
+   "id": "tt0057358",
+   "type": "movie",
+   "name": "Winter Light",
+   "poster": "https://images.metahub.space/poster/medium/tt0057358/img",
+   "releaseInfo": "1963"
+  },
+  {
+   "id": "tt0057611",
+   "type": "movie",
+   "name": "The Silence",
+   "poster": "https://images.metahub.space/poster/medium/tt0057611/img",
+   "releaseInfo": "1963"
+  },
+  {
+   "id": "tt0092337",
+   "type": "movie",
+   "name": "Dekalog",
+   "poster": "https://images.metahub.space/poster/medium/tt0092337/img"
+  },
+  {
+   "id": "tt0048473",
+   "type": "movie",
+   "name": "Pather Panchali",
+   "poster": "https://images.metahub.space/poster/medium/tt0048473/img",
+   "releaseInfo": "1955"
+  },
+  {
+   "id": "tt0048956",
+   "type": "movie",
+   "name": "Aparajito",
+   "poster": "https://images.metahub.space/poster/medium/tt0048956/img",
+   "releaseInfo": "1956"
+  },
+  {
+   "id": "tt0052572",
+   "type": "movie",
+   "name": "Apur Sansar",
+   "poster": "https://images.metahub.space/poster/medium/tt0052572/img",
+   "releaseInfo": "1959"
+  }
+ ]
+}

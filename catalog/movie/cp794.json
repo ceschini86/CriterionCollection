@@ -1,0 +1,53 @@
+{
+ "metas": [
+  {
+   "id": "tt0047478",
+   "type": "movie",
+   "name": "Seven Samurai",
+   "poster": "https://images.metahub.space/poster/medium/tt0047478/img",
+   "releaseInfo": "1954"
+  },
+  {
+   "id": "tt0051418",
+   "type": "movie",
+   "name": "The Blob",
+   "poster": "https://images.metahub.space/poster/medium/tt0051418/img",
+   "releaseInfo": "1958"
+  },
+  {
+   "id": "tt0097216",
+   "type": "movie",
+   "name": "Do the Right Thing",
+   "poster": "https://images.metahub.space/poster/medium/tt0097216/img",
+   "releaseInfo": "1989"
+  },
+  {
+   "id": "tt0065780",
+   "type": "movie",
+   "name": "Gimme Shelter",
+   "poster": "https://images.metahub.space/poster/medium/tt0065780/img",
+   "releaseInfo": "1970"
+  },
+  {
+   "id": "tt0034240",
+   "type": "movie",
+   "name": "Sullivan's Travels",
+   "poster": "https://images.metahub.space/poster/medium/tt0034240/img",
+   "releaseInfo": "1942"
+  },
+  {
+   "id": "tt0052832",
+   "type": "movie",
+   "name": "The Fugitive Kind",
+   "poster": "https://images.metahub.space/poster/medium/tt0052832/img",
+   "releaseInfo": "1959"
+  },
+  {
+   "id": "tt0055032",
+   "type": "movie",
+   "name": "Jules and Jim",
+   "poster": "https://images.metahub.space/poster/medium/tt0055032/img",
+   "releaseInfo": "1962"
+  }
+ ]
+}

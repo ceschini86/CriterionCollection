@@ -1,0 +1,39 @@
+{
+ "metas": [
+  {
+   "id": "tt0059592",
+   "type": "movie",
+   "name": "Pierrot le Fou",
+   "poster": "https://images.metahub.space/poster/medium/tt0059592/img",
+   "releaseInfo": "1965"
+  },
+  {
+   "id": "tt0055852",
+   "type": "movie",
+   "name": "Cléo from 5 to 7",
+   "poster": "https://images.metahub.space/poster/medium/tt0055852/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0055572",
+   "type": "movie",
+   "name": "A Woman Is a Woman",
+   "poster": "https://images.metahub.space/poster/medium/tt0055572/img",
+   "releaseInfo": "1961"
+  },
+  {
+   "id": "tt0060647",
+   "type": "movie",
+   "name": "Made in U.S.A",
+   "poster": "https://images.metahub.space/poster/medium/tt0060647/img",
+   "releaseInfo": "1966"
+  },
+  {
+   "id": "tt0012349",
+   "type": "movie",
+   "name": "The Kid",
+   "poster": "https://images.metahub.space/poster/medium/tt0012349/img",
+   "releaseInfo": "1921"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "metas": [
+  {
+   "id": "tt0031885",
+   "type": "movie",
+   "name": "The Rules of the Game",
+   "poster": "https://images.metahub.space/poster/medium/tt0031885/img",
+   "releaseInfo": "1939"
+  },
+  {
+   "id": "tt6725014",
+   "type": "movie",
+   "name": "Scenes from a Marriage",
+   "poster": "https://images.metahub.space/poster/medium/tt6725014/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt0048499",
+   "type": "movie",
+   "name": "La Pointe Courte",
+   "poster": "https://images.metahub.space/poster/medium/tt0048499/img",
+   "releaseInfo": "1956"
+  },
+  {
+   "id": "tt0055852",
+   "type": "movie",
+   "name": "Cléo from 5 to 7",
+   "poster": "https://images.metahub.space/poster/medium/tt0055852/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0058985",
+   "type": "movie",
+   "name": "Le Bonheur",
+   "poster": "https://images.metahub.space/poster/medium/tt0058985/img",
+   "releaseInfo": "1965"
+  },
+  {
+   "id": "tt0089960",
+   "type": "movie",
+   "name": "Vagabond",
+   "poster": "https://images.metahub.space/poster/medium/tt0089960/img",
+   "releaseInfo": "1985"
+  },
+  {
+   "id": "tt0055913",
+   "type": "movie",
+   "name": "Divorce Italian Style",
+   "poster": "https://images.metahub.space/poster/medium/tt0055913/img",
+   "releaseInfo": "1961"
+  },
+  {
+   "id": "tt0056801",
+   "type": "movie",
+   "name": "8½",
+   "poster": "https://images.metahub.space/poster/medium/tt0056801/img",
+   "releaseInfo": "1963"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "metas": [
+  {
+   "id": "tt0057565",
+   "type": "movie",
+   "name": "High and Low",
+   "poster": "https://images.metahub.space/poster/medium/tt0057565/img",
+   "releaseInfo": "1963"
+  },
+  {
+   "id": "tt0041154",
+   "type": "movie",
+   "name": "Late Spring",
+   "poster": "https://images.metahub.space/poster/medium/tt0041154/img",
+   "releaseInfo": "1949"
+  },
+  {
+   "id": "tt0049784",
+   "type": "movie",
+   "name": "Early Spring",
+   "poster": "https://images.metahub.space/poster/medium/tt0049784/img",
+   "releaseInfo": "1956"
+  },
+  {
+   "id": "tt0051093",
+   "type": "movie",
+   "name": "Tokyo Twilight",
+   "poster": "https://images.metahub.space/poster/medium/tt0051093/img",
+   "releaseInfo": "1957"
+  },
+  {
+   "id": "tt0051720",
+   "type": "movie",
+   "name": "Equinox Flower",
+   "poster": "https://images.metahub.space/poster/medium/tt0051720/img",
+   "releaseInfo": "1958"
+  },
+  {
+   "id": "tt0053579",
+   "type": "movie",
+   "name": "Late Autumn",
+   "poster": "https://images.metahub.space/poster/medium/tt0053579/img",
+   "releaseInfo": "1960"
+  },
+  {
+   "id": "tt0055052",
+   "type": "movie",
+   "name": "The End of Summer",
+   "poster": "https://images.metahub.space/poster/medium/tt0055052/img",
+   "releaseInfo": "1961"
+  },
+  {
+   "id": "tt0046478",
+   "type": "movie",
+   "name": "Ugetsu",
+   "poster": "https://images.metahub.space/poster/medium/tt0046478/img",
+   "releaseInfo": "1953"
+  },
+  {
+   "id": "tt0058279",
+   "type": "movie",
+   "name": "Kwaidan",
+   "poster": "https://images.metahub.space/poster/medium/tt0058279/img",
+   "releaseInfo": "1965"
+  },
+  {
+   "id": "tt0056058",
+   "type": "movie",
+   "name": "Harakiri",
+   "poster": "https://images.metahub.space/poster/medium/tt0056058/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0154683",
+   "type": "movie",
+   "name": "Jigoku",
+   "poster": "https://images.metahub.space/poster/medium/tt0154683/img",
+   "releaseInfo": "1960"
+  },
+  {
+   "id": "tt0058430",
+   "type": "movie",
+   "name": "Onibaba",
+   "poster": "https://images.metahub.space/poster/medium/tt0058430/img",
+   "releaseInfo": "1964"
+  },
+  {
+   "id": "tt0058625",
+   "type": "movie",
+   "name": "Woman in the Dunes",
+   "poster": "https://images.metahub.space/poster/medium/tt0058625/img",
+   "releaseInfo": "1964"
+  }
+ ]
+}

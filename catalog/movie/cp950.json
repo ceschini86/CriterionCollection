@@ -1,0 +1,39 @@
+{
+ "metas": [
+  {
+   "id": "tt0072417",
+   "type": "movie",
+   "name": "A Woman Under the Influence",
+   "poster": "https://images.metahub.space/poster/medium/tt0072417/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt0118125",
+   "type": "movie",
+   "name": "The Watermelon Woman",
+   "poster": "https://images.metahub.space/poster/medium/tt0118125/img",
+   "releaseInfo": "1997"
+  },
+  {
+   "id": "tt0073467",
+   "type": "movie",
+   "name": "Not a Pretty Picture",
+   "poster": "https://images.metahub.space/poster/medium/tt0073467/img",
+   "releaseInfo": "1976"
+  },
+  {
+   "id": "tt0055032",
+   "type": "movie",
+   "name": "Jules and Jim",
+   "poster": "https://images.metahub.space/poster/medium/tt0055032/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0077613",
+   "type": "movie",
+   "name": "Girlfriends",
+   "poster": "https://images.metahub.space/poster/medium/tt0077613/img",
+   "releaseInfo": "1978"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "metas": [
+  {
+   "id": "tt0055032",
+   "type": "movie",
+   "name": "Jules and Jim",
+   "poster": "https://images.metahub.space/poster/medium/tt0055032/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0069467",
+   "type": "movie",
+   "name": "Cries and Whispers",
+   "poster": "https://images.metahub.space/poster/medium/tt0069467/img",
+   "releaseInfo": "1972"
+  },
+  {
+   "id": "tt0040416",
+   "type": "movie",
+   "name": "Hamlet",
+   "poster": "https://images.metahub.space/poster/medium/tt0040416/img",
+   "releaseInfo": "1948"
+  },
+  {
+   "id": "tt0078875",
+   "type": "movie",
+   "name": "The Tin Drum",
+   "poster": "https://images.metahub.space/poster/medium/tt0078875/img",
+   "releaseInfo": "1979"
+  },
+  {
+   "id": "tt0021749",
+   "type": "movie",
+   "name": "City Lights",
+   "poster": "https://images.metahub.space/poster/medium/tt0021749/img",
+   "releaseInfo": "1931"
+  },
+  {
+   "id": "tt0082416",
+   "type": "movie",
+   "name": "The French Lieutenant's Woman",
+   "poster": "https://images.metahub.space/poster/medium/tt0082416/img",
+   "releaseInfo": "1981"
+  },
+  {
+   "id": "tt0073440",
+   "type": "movie",
+   "name": "Nashville",
+   "poster": "https://images.metahub.space/poster/medium/tt0073440/img",
+   "releaseInfo": "1975"
+  },
+  {
+   "id": "tt0061722",
+   "type": "movie",
+   "name": "The Graduate",
+   "poster": "https://images.metahub.space/poster/medium/tt0061722/img",
+   "releaseInfo": "1967"
+  },
+  {
+   "id": "tt0070460",
+   "type": "movie",
+   "name": "Day for Night",
+   "poster": "https://images.metahub.space/poster/medium/tt0070460/img",
+   "releaseInfo": "1973"
+  },
+  {
+   "id": "tt0053291",
+   "type": "movie",
+   "name": "Some Like It Hot",
+   "poster": "https://images.metahub.space/poster/medium/tt0053291/img",
+   "releaseInfo": "1959"
+  },
+  {
+   "id": "tt0047528",
+   "type": "movie",
+   "name": "La Strada",
+   "poster": "https://images.metahub.space/poster/medium/tt0047528/img",
+   "releaseInfo": "1954"
+  }
+ ]
+}

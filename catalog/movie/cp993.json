@@ -1,0 +1,74 @@
+{
+ "metas": [
+  {
+   "id": "tt0069762",
+   "type": "movie",
+   "name": "Badlands",
+   "poster": "https://images.metahub.space/poster/medium/tt0069762/img",
+   "releaseInfo": "1973"
+  },
+  {
+   "id": "tt0065724",
+   "type": "movie",
+   "name": "Five Easy Pieces",
+   "poster": "https://images.metahub.space/poster/medium/tt0065724/img",
+   "releaseInfo": "1970"
+  },
+  {
+   "id": "tt0050371",
+   "type": "movie",
+   "name": "A Face in the Crowd",
+   "poster": "https://images.metahub.space/poster/medium/tt0050371/img",
+   "releaseInfo": "1957"
+  },
+  {
+   "id": "tt0070544",
+   "type": "movie",
+   "name": "Fantastic Planet",
+   "poster": "https://images.metahub.space/poster/medium/tt0070544/img",
+   "releaseInfo": "1973"
+  },
+  {
+   "id": "tt0058604",
+   "type": "movie",
+   "name": "I Am Cuba",
+   "poster": "https://images.metahub.space/poster/medium/tt0058604/img",
+   "releaseInfo": "1964"
+  },
+  {
+   "id": "tt0262432",
+   "type": "movie",
+   "name": "George Washington",
+   "poster": "https://images.metahub.space/poster/medium/tt0262432/img",
+   "releaseInfo": "2000"
+  },
+  {
+   "id": "tt0088680",
+   "type": "movie",
+   "name": "After Hours",
+   "poster": "https://images.metahub.space/poster/medium/tt0088680/img",
+   "releaseInfo": "1985"
+  },
+  {
+   "id": "tt0042876",
+   "type": "movie",
+   "name": "Rashomon",
+   "poster": "https://images.metahub.space/poster/medium/tt0042876/img",
+   "releaseInfo": "1950"
+  },
+  {
+   "id": "tt0073363",
+   "type": "movie",
+   "name": "Manila in the Claws of Light",
+   "poster": "https://images.metahub.space/poster/medium/tt0073363/img",
+   "releaseInfo": "1975"
+  },
+  {
+   "id": "tt0063350",
+   "type": "movie",
+   "name": "Night of the Living Dead",
+   "poster": "https://images.metahub.space/poster/medium/tt0063350/img",
+   "releaseInfo": "1968"
+  }
+ ]
+}

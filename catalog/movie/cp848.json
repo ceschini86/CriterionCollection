@@ -1,0 +1,162 @@
+{
+ "metas": [
+  {
+   "id": "tt0100998",
+   "type": "movie",
+   "name": "Akira Kurosawa S Dreams",
+   "poster": "https://images.metahub.space/poster/medium/tt0100998/img"
+  },
+  {
+   "id": "tt0056801",
+   "type": "movie",
+   "name": "8½",
+   "poster": "https://images.metahub.space/poster/medium/tt0056801/img",
+   "releaseInfo": "1963"
+  },
+  {
+   "id": "tt13935772",
+   "type": "movie",
+   "name": "By Brakhage: An Anthology, Volume One",
+   "poster": "https://images.metahub.space/poster/medium/tt13935772/img",
+   "releaseInfo": "2003"
+  },
+  {
+   "id": "tt13935772",
+   "type": "movie",
+   "name": "By Brakhage An Anthology Volume Two",
+   "poster": "https://images.metahub.space/poster/medium/tt13935772/img"
+  },
+  {
+   "id": "tt0092117",
+   "type": "movie",
+   "name": "True Stories",
+   "poster": "https://images.metahub.space/poster/medium/tt0092117/img",
+   "releaseInfo": "1986"
+  },
+  {
+   "id": "tt0060758",
+   "type": "movie",
+   "name": "Black Girl",
+   "poster": "https://images.metahub.space/poster/medium/tt0060758/img",
+   "releaseInfo": "1966"
+  },
+  {
+   "id": "tt1233334",
+   "type": "movie",
+   "name": "Pariah",
+   "poster": "https://images.metahub.space/poster/medium/tt1233334/img",
+   "releaseInfo": "2011"
+  },
+  {
+   "id": "tt0102926",
+   "type": "movie",
+   "name": "The Silence of the Lambs",
+   "poster": "https://images.metahub.space/poster/medium/tt0102926/img",
+   "releaseInfo": "1991"
+  },
+  {
+   "id": "tt0047034",
+   "type": "movie",
+   "name": "Godzilla",
+   "poster": "https://images.metahub.space/poster/medium/tt0047034/img",
+   "releaseInfo": "1954"
+  },
+  {
+   "id": "tt0048127",
+   "type": "movie",
+   "name": "Godzilla Raids Again",
+   "poster": "https://images.metahub.space/poster/medium/tt0048127/img",
+   "releaseInfo": "1955"
+  },
+  {
+   "id": "tt0056142",
+   "type": "movie",
+   "name": "King Kong Vs Godzilla",
+   "poster": "https://images.metahub.space/poster/medium/tt0056142/img"
+  },
+  {
+   "id": "tt0058379",
+   "type": "movie",
+   "name": "Mothra vs. Godzilla",
+   "poster": "https://images.metahub.space/poster/medium/tt0058379/img",
+   "releaseInfo": "1964"
+  },
+  {
+   "id": "tt0058544",
+   "type": "movie",
+   "name": "Ghidorah, the Three-Headed Monster",
+   "poster": "https://images.metahub.space/poster/medium/tt0058544/img",
+   "releaseInfo": "1964"
+  },
+  {
+   "id": "tt0059346",
+   "type": "movie",
+   "name": "Invasion of Astro-Monster",
+   "poster": "https://images.metahub.space/poster/medium/tt0059346/img",
+   "releaseInfo": "1965"
+  },
+  {
+   "id": "tt0060464",
+   "type": "movie",
+   "name": "Ebirah, Horror of the Deep",
+   "poster": "https://images.metahub.space/poster/medium/tt0060464/img",
+   "releaseInfo": "1966"
+  },
+  {
+   "id": "tt0061856",
+   "type": "movie",
+   "name": "Son of Godzilla",
+   "poster": "https://images.metahub.space/poster/medium/tt0061856/img",
+   "releaseInfo": "1967"
+  },
+  {
+   "id": "tt0063172",
+   "type": "movie",
+   "name": "Destroy All Monsters",
+   "poster": "https://images.metahub.space/poster/medium/tt0063172/img",
+   "releaseInfo": "1968"
+  },
+  {
+   "id": "tt0064373",
+   "type": "movie",
+   "name": "All Monsters Attack",
+   "poster": "https://images.metahub.space/poster/medium/tt0064373/img",
+   "releaseInfo": "1969"
+  },
+  {
+   "id": "tt0067148",
+   "type": "movie",
+   "name": "Godzilla vs. Hedorah",
+   "poster": "https://images.metahub.space/poster/medium/tt0067148/img",
+   "releaseInfo": "1971"
+  },
+  {
+   "id": "tt0068371",
+   "type": "movie",
+   "name": "Godzilla vs. Gigan",
+   "poster": "https://images.metahub.space/poster/medium/tt0068371/img",
+   "releaseInfo": "1972"
+  },
+  {
+   "id": "tt0070122",
+   "type": "movie",
+   "name": "Godzilla vs. Megalon",
+   "poster": "https://images.metahub.space/poster/medium/tt0070122/img",
+   "releaseInfo": "1973"
+  },
+  {
+   "id": "tt0071565",
+   "type": "movie",
+   "name": "Godzilla vs. Mechagodzilla",
+   "poster": "https://images.metahub.space/poster/medium/tt0071565/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt0073373",
+   "type": "movie",
+   "name": "Terror of Mechagodzilla",
+   "poster": "https://images.metahub.space/poster/medium/tt0073373/img",
+   "releaseInfo": "1975"
+  }
+ ]
+}

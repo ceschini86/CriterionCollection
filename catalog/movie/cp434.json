@@ -1,0 +1,53 @@
+{
+ "metas": [
+  {
+   "id": "tt0047528",
+   "type": "movie",
+   "name": "La Strada",
+   "poster": "https://images.metahub.space/poster/medium/tt0047528/img",
+   "releaseInfo": "1954"
+  },
+  {
+   "id": "tt0071910",
+   "type": "movie",
+   "name": "The Night Porter",
+   "poster": "https://images.metahub.space/poster/medium/tt0071910/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt0083869",
+   "type": "movie",
+   "name": "Eating Raoul",
+   "poster": "https://images.metahub.space/poster/medium/tt0083869/img",
+   "releaseInfo": "1982"
+  },
+  {
+   "id": "tt0115751",
+   "type": "movie",
+   "name": "Breaking the Waves",
+   "poster": "https://images.metahub.space/poster/medium/tt0115751/img",
+   "releaseInfo": "1996"
+  },
+  {
+   "id": "tt0114323",
+   "type": "movie",
+   "name": "Safe",
+   "poster": "https://images.metahub.space/poster/medium/tt0114323/img",
+   "releaseInfo": "1995"
+  },
+  {
+   "id": "tt0092117",
+   "type": "movie",
+   "name": "True Stories",
+   "poster": "https://images.metahub.space/poster/medium/tt0092117/img",
+   "releaseInfo": "1986"
+  },
+  {
+   "id": "tt0067961",
+   "type": "movie",
+   "name": "Wanda",
+   "poster": "https://images.metahub.space/poster/medium/tt0067961/img",
+   "releaseInfo": "1970"
+  }
+ ]
+}

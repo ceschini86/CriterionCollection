@@ -1,0 +1,39 @@
+{
+ "metas": [
+  {
+   "id": "tt0042192",
+   "type": "movie",
+   "name": "All About Eve",
+   "poster": "https://images.metahub.space/poster/medium/tt0042192/img",
+   "releaseInfo": "1950"
+  },
+  {
+   "id": "tt0035140",
+   "type": "movie",
+   "name": "Now, Voyager",
+   "poster": "https://images.metahub.space/poster/medium/tt0035140/img",
+   "releaseInfo": "1942"
+  },
+  {
+   "id": "tt0032904",
+   "type": "movie",
+   "name": "The Philadelphia Story",
+   "poster": "https://images.metahub.space/poster/medium/tt0032904/img",
+   "releaseInfo": "1940"
+  },
+  {
+   "id": "tt0101698",
+   "type": "movie",
+   "name": "Defending Your Life",
+   "poster": "https://images.metahub.space/poster/medium/tt0101698/img",
+   "releaseInfo": "1991"
+  },
+  {
+   "id": "tt0050083",
+   "type": "movie",
+   "name": "12 Angry Men",
+   "poster": "https://images.metahub.space/poster/medium/tt0050083/img",
+   "releaseInfo": "1957"
+  }
+ ]
+}

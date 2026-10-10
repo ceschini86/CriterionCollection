@@ -1,0 +1,39 @@
+{
+ "metas": [
+  {
+   "id": "tt0050086",
+   "type": "movie",
+   "name": "3:10 to Yuma",
+   "poster": "https://images.metahub.space/poster/medium/tt0050086/img",
+   "releaseInfo": "1957"
+  },
+  {
+   "id": "tt0065622",
+   "type": "movie",
+   "name": "The Decameron",
+   "poster": "https://images.metahub.space/poster/medium/tt0065622/img",
+   "releaseInfo": "1971"
+  },
+  {
+   "id": "tt0067647",
+   "type": "movie",
+   "name": "The Canterbury Tales",
+   "poster": "https://images.metahub.space/poster/medium/tt0067647/img",
+   "releaseInfo": "1972"
+  },
+  {
+   "id": "tt0071502",
+   "type": "movie",
+   "name": "Arabian Nights",
+   "poster": "https://images.metahub.space/poster/medium/tt0071502/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt0051365",
+   "type": "movie",
+   "name": "The Magician",
+   "poster": "https://images.metahub.space/poster/medium/tt0051365/img",
+   "releaseInfo": "1958"
+  }
+ ]
+}

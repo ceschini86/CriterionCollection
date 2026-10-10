@@ -1,0 +1,53 @@
+{
+ "metas": [
+  {
+   "id": "tt0058001",
+   "type": "movie",
+   "name": "Diamonds of the Night",
+   "poster": "https://images.metahub.space/poster/medium/tt0058001/img",
+   "releaseInfo": "1964"
+  },
+  {
+   "id": "tt0052080",
+   "type": "movie",
+   "name": "Ashes and Diamonds",
+   "poster": "https://images.metahub.space/poster/medium/tt0052080/img",
+   "releaseInfo": "1958"
+  },
+  {
+   "id": "tt0091251",
+   "type": "movie",
+   "name": "Come and See",
+   "poster": "https://images.metahub.space/poster/medium/tt0091251/img",
+   "releaseInfo": "1985"
+  },
+  {
+   "id": "tt0056111",
+   "type": "movie",
+   "name": "Ivan's Childhood",
+   "poster": "https://images.metahub.space/poster/medium/tt0056111/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0047528",
+   "type": "movie",
+   "name": "La Strada",
+   "poster": "https://images.metahub.space/poster/medium/tt0047528/img",
+   "releaseInfo": "1954"
+  },
+  {
+   "id": "tt0056801",
+   "type": "movie",
+   "name": "8½",
+   "poster": "https://images.metahub.space/poster/medium/tt0056801/img",
+   "releaseInfo": "1963"
+  },
+  {
+   "id": "tt0059415",
+   "type": "movie",
+   "name": "Loves of a Blonde",
+   "poster": "https://images.metahub.space/poster/medium/tt0059415/img",
+   "releaseInfo": "1965"
+  }
+ ]
+}

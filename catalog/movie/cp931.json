@@ -1,0 +1,73 @@
+{
+ "metas": [
+  {
+   "id": "tt2278871",
+   "type": "movie",
+   "name": "Blue Is The Warmest Color",
+   "poster": "https://images.metahub.space/poster/medium/tt2278871/img"
+  },
+  {
+   "id": "tt0432283",
+   "type": "movie",
+   "name": "Fantastic Mr. Fox",
+   "poster": "https://images.metahub.space/poster/medium/tt0432283/img",
+   "releaseInfo": "2009"
+  },
+  {
+   "id": "tt0119572",
+   "type": "movie",
+   "name": "Love Jones",
+   "poster": "https://images.metahub.space/poster/medium/tt0119572/img",
+   "releaseInfo": "1997"
+  },
+  {
+   "id": "tt0029947",
+   "type": "movie",
+   "name": "Bringing Up Baby",
+   "poster": "https://images.metahub.space/poster/medium/tt0029947/img",
+   "releaseInfo": "1938"
+  },
+  {
+   "id": "tt0071334",
+   "type": "movie",
+   "name": "Claudine",
+   "poster": "https://images.metahub.space/poster/medium/tt0071334/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt6751668",
+   "type": "movie",
+   "name": "Parasite",
+   "poster": "https://images.metahub.space/poster/medium/tt6751668/img",
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tt0104797",
+   "type": "movie",
+   "name": "Malcolm X",
+   "poster": "https://images.metahub.space/poster/medium/tt0104797/img",
+   "releaseInfo": "1992"
+  },
+  {
+   "id": "tt0199725",
+   "type": "movie",
+   "name": "Love & Basketball",
+   "poster": "https://images.metahub.space/poster/medium/tt0199725/img",
+   "releaseInfo": "2000"
+  },
+  {
+   "id": "tt0123948",
+   "type": "movie",
+   "name": "Cure",
+   "poster": "https://images.metahub.space/poster/medium/tt0123948/img",
+   "releaseInfo": "1997"
+  },
+  {
+   "id": "tt0032976",
+   "type": "movie",
+   "name": "Rebecca",
+   "poster": "https://images.metahub.space/poster/medium/tt0032976/img",
+   "releaseInfo": "1940"
+  }
+ ]
+}

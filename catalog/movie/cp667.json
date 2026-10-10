@@ -1,0 +1,58 @@
+{
+ "metas": [
+  {
+   "id": "tt0112817",
+   "type": "movie",
+   "name": "Dead Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0112817/img",
+   "releaseInfo": "1995"
+  },
+  {
+   "id": "tt0070820",
+   "type": "movie",
+   "name": "Touki Bouki",
+   "poster": "https://images.metahub.space/poster/medium/tt0070820/img",
+   "releaseInfo": "1973"
+  },
+  {
+   "id": "tt0077154",
+   "type": "movie",
+   "name": "Les Blank Always For Pleasure",
+   "poster": "https://images.metahub.space/poster/medium/tt0077154/img"
+  },
+  {
+   "id": "tt11416746",
+   "type": "movie",
+   "name": "Time",
+   "poster": "https://images.metahub.space/poster/medium/tt11416746/img",
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tt0092337",
+   "type": "movie",
+   "name": "Dekalog",
+   "poster": "https://images.metahub.space/poster/medium/tt0092337/img"
+  },
+  {
+   "id": "tt0018742",
+   "type": "movie",
+   "name": "The Cameraman",
+   "poster": "https://images.metahub.space/poster/medium/tt0018742/img",
+   "releaseInfo": "1928"
+  },
+  {
+   "id": "tt0100234",
+   "type": "movie",
+   "name": "Close-Up",
+   "poster": "https://images.metahub.space/poster/medium/tt0100234/img",
+   "releaseInfo": "1990"
+  },
+  {
+   "id": "tt0074605",
+   "type": "movie",
+   "name": "Harlan County U.S.A.",
+   "poster": "https://images.metahub.space/poster/medium/tt0074605/img",
+   "releaseInfo": "1976"
+  }
+ ]
+}

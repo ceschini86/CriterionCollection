@@ -1,0 +1,46 @@
+{
+ "metas": [
+  {
+   "id": "tt0065466",
+   "type": "movie",
+   "name": "Beyond the Valley of the Dolls",
+   "poster": "https://images.metahub.space/poster/medium/tt0065466/img",
+   "releaseInfo": "1970"
+  },
+  {
+   "id": "tt0060955",
+   "type": "movie",
+   "name": "Seconds",
+   "poster": "https://images.metahub.space/poster/medium/tt0060955/img",
+   "releaseInfo": "1966"
+  },
+  {
+   "id": "tt0067309",
+   "type": "movie",
+   "name": "Klute",
+   "poster": "https://images.metahub.space/poster/medium/tt0067309/img",
+   "releaseInfo": "1971"
+  },
+  {
+   "id": "tt0064816",
+   "type": "movie",
+   "name": "La Piscine",
+   "poster": "https://images.metahub.space/poster/medium/tt0064816/img",
+   "releaseInfo": "1969"
+  },
+  {
+   "id": "tt0087644",
+   "type": "movie",
+   "name": "Love Streams",
+   "poster": "https://images.metahub.space/poster/medium/tt0087644/img",
+   "releaseInfo": "1984"
+  },
+  {
+   "id": "tt0064665",
+   "type": "movie",
+   "name": "Midnight Cowboy",
+   "poster": "https://images.metahub.space/poster/medium/tt0064665/img",
+   "releaseInfo": "1969"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "metas": [
+  {
+   "id": "tt0071233",
+   "type": "movie",
+   "name": "Blood for Dracula",
+   "poster": "https://images.metahub.space/poster/medium/tt0071233/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt0071508",
+   "type": "movie",
+   "name": "Flesh for Frankenstein",
+   "poster": "https://images.metahub.space/poster/medium/tt0071508/img",
+   "releaseInfo": "1973"
+  },
+  {
+   "id": "tt0102494",
+   "type": "movie",
+   "name": "My Own Private Idaho",
+   "poster": "https://images.metahub.space/poster/medium/tt0102494/img",
+   "releaseInfo": "1991"
+  },
+  {
+   "id": "tt0115751",
+   "type": "movie",
+   "name": "Breaking the Waves",
+   "poster": "https://images.metahub.space/poster/medium/tt0115751/img",
+   "releaseInfo": "1996"
+  }
+ ]
+}

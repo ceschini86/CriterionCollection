@@ -1,0 +1,100 @@
+{
+ "metas": [
+  {
+   "id": "tt0080623",
+   "type": "movie",
+   "name": "Half a Loaf of Kung Fu",
+   "poster": "https://images.metahub.space/poster/medium/tt0080623/img",
+   "releaseInfo": "1978"
+  },
+  {
+   "id": "tt0078128",
+   "type": "movie",
+   "name": "Spiritual Kung Fu",
+   "poster": "https://images.metahub.space/poster/medium/tt0078128/img",
+   "releaseInfo": "1978"
+  },
+  {
+   "id": "tt0079315",
+   "type": "movie",
+   "name": "The Fearless Hyena",
+   "poster": "https://images.metahub.space/poster/medium/tt0079315/img"
+  },
+  {
+   "id": "tt0085864",
+   "type": "movie",
+   "name": "Fearless Hyena Ii",
+   "poster": "https://images.metahub.space/poster/medium/tt0085864/img"
+  },
+  {
+   "id": "tt0081499",
+   "type": "movie",
+   "name": "The Young Master",
+   "poster": "https://images.metahub.space/poster/medium/tt0081499/img",
+   "releaseInfo": "1980"
+  },
+  {
+   "id": "tt0089177",
+   "type": "movie",
+   "name": "My Lucky Stars",
+   "poster": "https://images.metahub.space/poster/medium/tt0089177/img",
+   "releaseInfo": "1985"
+  },
+  {
+   "id": "tt6155172",
+   "type": "movie",
+   "name": "Roma",
+   "poster": "https://images.metahub.space/poster/medium/tt6155172/img"
+  },
+  {
+   "id": "tt0067824",
+   "type": "movie",
+   "name": "The Big Boss",
+   "poster": "https://images.metahub.space/poster/medium/tt0067824/img"
+  },
+  {
+   "id": "tt0068767",
+   "type": "movie",
+   "name": "Fist Of Fury",
+   "poster": "https://images.metahub.space/poster/medium/tt0068767/img"
+  },
+  {
+   "id": "tt0068935",
+   "type": "movie",
+   "name": "The Way Of The Dragon",
+   "poster": "https://images.metahub.space/poster/medium/tt0068935/img"
+  },
+  {
+   "id": "tt0070034",
+   "type": "movie",
+   "name": "Enter The Dragon",
+   "poster": "https://images.metahub.space/poster/medium/tt0070034/img"
+  },
+  {
+   "id": "tt0077594",
+   "type": "movie",
+   "name": "Game Of Death",
+   "poster": "https://images.metahub.space/poster/medium/tt0077594/img"
+  },
+  {
+   "id": "tt0047296",
+   "type": "movie",
+   "name": "On the Waterfront",
+   "poster": "https://images.metahub.space/poster/medium/tt0047296/img",
+   "releaseInfo": "1954"
+  },
+  {
+   "id": "tt0099703",
+   "type": "movie",
+   "name": "The Grifters",
+   "poster": "https://images.metahub.space/poster/medium/tt0099703/img",
+   "releaseInfo": "1990"
+  },
+  {
+   "id": "tt0118694",
+   "type": "movie",
+   "name": "In The Mood For Love",
+   "poster": "https://images.metahub.space/poster/medium/tt0118694/img"
+  }
+ ]
+}

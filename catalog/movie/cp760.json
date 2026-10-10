@@ -1,0 +1,53 @@
+{
+ "metas": [
+  {
+   "id": "tt0032599",
+   "type": "movie",
+   "name": "His Girl Friday",
+   "poster": "https://images.metahub.space/poster/medium/tt0032599/img",
+   "releaseInfo": "1940"
+  },
+  {
+   "id": "tt0033467",
+   "type": "movie",
+   "name": "Citizen Kane",
+   "poster": "https://images.metahub.space/poster/medium/tt0033467/img",
+   "releaseInfo": "1941"
+  },
+  {
+   "id": "tt0093200",
+   "type": "movie",
+   "name": "Hollywood Shuffle",
+   "poster": "https://images.metahub.space/poster/medium/tt0093200/img",
+   "releaseInfo": "1987"
+  },
+  {
+   "id": "tt0094812",
+   "type": "movie",
+   "name": "Bull Durham",
+   "poster": "https://images.metahub.space/poster/medium/tt0094812/img",
+   "releaseInfo": "1988"
+  },
+  {
+   "id": "tt0102713",
+   "type": "movie",
+   "name": "The Prince of Tides",
+   "poster": "https://images.metahub.space/poster/medium/tt0102713/img",
+   "releaseInfo": "1991"
+  },
+  {
+   "id": "tt0104073",
+   "type": "movie",
+   "name": "Deep Cover",
+   "poster": "https://images.metahub.space/poster/medium/tt0104073/img",
+   "releaseInfo": "1992"
+  },
+  {
+   "id": "tt0102943",
+   "type": "movie",
+   "name": "Slacker",
+   "poster": "https://images.metahub.space/poster/medium/tt0102943/img",
+   "releaseInfo": "1990"
+  }
+ ]
+}

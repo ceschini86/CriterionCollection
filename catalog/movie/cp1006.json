@@ -1,0 +1,60 @@
+{
+ "metas": [
+  {
+   "id": "tt0051378",
+   "type": "movie",
+   "name": "Elevator to the Gallows",
+   "poster": "https://images.metahub.space/poster/medium/tt0051378/img",
+   "releaseInfo": "1958"
+  },
+  {
+   "id": "tt0058625",
+   "type": "movie",
+   "name": "Woman in the Dunes",
+   "poster": "https://images.metahub.space/poster/medium/tt0058625/img",
+   "releaseInfo": "1964"
+  },
+  {
+   "id": "tt0068278",
+   "type": "movie",
+   "name": "The Bitter Tears of Petra von Kant",
+   "poster": "https://images.metahub.space/poster/medium/tt0068278/img",
+   "releaseInfo": "1972"
+  },
+  {
+   "id": "tt0074486",
+   "type": "movie",
+   "name": "Eraserhead",
+   "poster": "https://images.metahub.space/poster/medium/tt0074486/img",
+   "releaseInfo": "1977"
+  },
+  {
+   "id": "tt0071910",
+   "type": "movie",
+   "name": "The Night Porter",
+   "poster": "https://images.metahub.space/poster/medium/tt0071910/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt0048424",
+   "type": "movie",
+   "name": "The Night of the Hunter",
+   "poster": "https://images.metahub.space/poster/medium/tt0048424/img",
+   "releaseInfo": "1955"
+  },
+  {
+   "id": "tt0038348",
+   "type": "movie",
+   "name": "Beauty and the Beast",
+   "poster": "https://images.metahub.space/poster/medium/tt0038348/img",
+   "releaseInfo": "1946"
+  },
+  {
+   "id": "tt0086541",
+   "type": "movie",
+   "name": "Videodrome",
+   "poster": "https://images.metahub.space/poster/medium/tt0086541/img",
+   "releaseInfo": "1983"
+  }
+ ]
+}

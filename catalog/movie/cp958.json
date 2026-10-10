@@ -1,0 +1,53 @@
+{
+ "metas": [
+  {
+   "id": "tt0102943",
+   "type": "movie",
+   "name": "Slacker",
+   "poster": "https://images.metahub.space/poster/medium/tt0102943/img",
+   "releaseInfo": "1990"
+  },
+  {
+   "id": "tt0097940",
+   "type": "movie",
+   "name": "Mystery Train",
+   "poster": "https://images.metahub.space/poster/medium/tt0097940/img",
+   "releaseInfo": "1989"
+  },
+  {
+   "id": "tt0087884",
+   "type": "movie",
+   "name": "Paris, Texas",
+   "poster": "https://images.metahub.space/poster/medium/tt0087884/img",
+   "releaseInfo": "1984"
+  },
+  {
+   "id": "tt0100150",
+   "type": "movie",
+   "name": "Miller's Crossing",
+   "poster": "https://images.metahub.space/poster/medium/tt0100150/img",
+   "releaseInfo": "1990"
+  },
+  {
+   "id": "tt0053291",
+   "type": "movie",
+   "name": "Some Like It Hot",
+   "poster": "https://images.metahub.space/poster/medium/tt0053291/img",
+   "releaseInfo": "1959"
+  },
+  {
+   "id": "tt0078841",
+   "type": "movie",
+   "name": "Being There",
+   "poster": "https://images.metahub.space/poster/medium/tt0078841/img",
+   "releaseInfo": "1979"
+  },
+  {
+   "id": "tt0063350",
+   "type": "movie",
+   "name": "Night of the Living Dead",
+   "poster": "https://images.metahub.space/poster/medium/tt0063350/img",
+   "releaseInfo": "1968"
+  }
+ ]
+}

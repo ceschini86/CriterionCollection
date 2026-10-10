@@ -1,0 +1,53 @@
+{
+ "metas": [
+  {
+   "id": "tt0058888",
+   "type": "movie",
+   "name": "Red Beard",
+   "poster": "https://images.metahub.space/poster/medium/tt0058888/img",
+   "releaseInfo": "1965"
+  },
+  {
+   "id": "tt0044741",
+   "type": "movie",
+   "name": "Ikiru",
+   "poster": "https://images.metahub.space/poster/medium/tt0044741/img",
+   "releaseInfo": "1952"
+  },
+  {
+   "id": "tt0056058",
+   "type": "movie",
+   "name": "Harakiri",
+   "poster": "https://images.metahub.space/poster/medium/tt0056058/img",
+   "releaseInfo": "1962"
+  },
+  {
+   "id": "tt0089746",
+   "type": "movie",
+   "name": "The Funeral",
+   "poster": "https://images.metahub.space/poster/medium/tt0089746/img",
+   "releaseInfo": "1984"
+  },
+  {
+   "id": "tt0123948",
+   "type": "movie",
+   "name": "Cure",
+   "poster": "https://images.metahub.space/poster/medium/tt0123948/img",
+   "releaseInfo": "1997"
+  },
+  {
+   "id": "tt0021749",
+   "type": "movie",
+   "name": "City Lights",
+   "poster": "https://images.metahub.space/poster/medium/tt0021749/img",
+   "releaseInfo": "1931"
+  },
+  {
+   "id": "tt0087884",
+   "type": "movie",
+   "name": "Paris, Texas",
+   "poster": "https://images.metahub.space/poster/medium/tt0087884/img",
+   "releaseInfo": "1984"
+  }
+ ]
+}

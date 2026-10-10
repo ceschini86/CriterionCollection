@@ -1,0 +1,43 @@
+{
+ "metas": [
+  {
+   "id": "tt0057012",
+   "type": "movie",
+   "name": "Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb",
+   "poster": "https://images.metahub.space/poster/medium/tt0057012/img"
+  },
+  {
+   "id": "tt0038669",
+   "type": "movie",
+   "name": "The Killers",
+   "poster": "https://images.metahub.space/poster/medium/tt0038669/img"
+  },
+  {
+   "id": "tt0058262",
+   "type": "movie",
+   "name": "The Killers",
+   "poster": "https://images.metahub.space/poster/medium/tt0058262/img"
+  },
+  {
+   "id": "tt0064040",
+   "type": "movie",
+   "name": "Army of Shadows",
+   "poster": "https://images.metahub.space/poster/medium/tt0064040/img",
+   "releaseInfo": "1969"
+  },
+  {
+   "id": "tt0042208",
+   "type": "movie",
+   "name": "The Asphalt Jungle",
+   "poster": "https://images.metahub.space/poster/medium/tt0042208/img",
+   "releaseInfo": "1950"
+  },
+  {
+   "id": "tt0185125",
+   "type": "movie",
+   "name": "All About My Mother",
+   "poster": "https://images.metahub.space/poster/medium/tt0185125/img",
+   "releaseInfo": "1999"
+  }
+ ]
+}

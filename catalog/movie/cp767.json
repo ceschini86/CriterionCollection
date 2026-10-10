@@ -1,0 +1,46 @@
+{
+ "metas": [
+  {
+   "id": "tt0060107",
+   "type": "movie",
+   "name": "Andrei Rublev",
+   "poster": "https://images.metahub.space/poster/medium/tt0060107/img",
+   "releaseInfo": "1966"
+  },
+  {
+   "id": "tt0088184",
+   "type": "movie",
+   "name": "Stranger Than Paradise",
+   "poster": "https://images.metahub.space/poster/medium/tt0088184/img",
+   "releaseInfo": "1984"
+  },
+  {
+   "id": "tt0063291",
+   "type": "movie",
+   "name": "Memories of Underdevelopment",
+   "poster": "https://images.metahub.space/poster/medium/tt0063291/img",
+   "releaseInfo": "1968"
+  },
+  {
+   "id": "tt0054130",
+   "type": "movie",
+   "name": "La Notte",
+   "poster": "https://images.metahub.space/poster/medium/tt0054130/img",
+   "releaseInfo": "1961"
+  },
+  {
+   "id": "tt11416746",
+   "type": "movie",
+   "name": "Time",
+   "poster": "https://images.metahub.space/poster/medium/tt11416746/img",
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tt0081398",
+   "type": "movie",
+   "name": "Raging Bull",
+   "poster": "https://images.metahub.space/poster/medium/tt0081398/img",
+   "releaseInfo": "1980"
+  }
+ ]
+}

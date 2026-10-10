@@ -1,0 +1,39 @@
+{
+ "metas": [
+  {
+   "id": "tt0063671",
+   "type": "movie",
+   "name": "Targets",
+   "poster": "https://images.metahub.space/poster/medium/tt0063671/img",
+   "releaseInfo": "1968"
+  },
+  {
+   "id": "tt0042531",
+   "type": "movie",
+   "name": "The Gunfighter",
+   "poster": "https://images.metahub.space/poster/medium/tt0042531/img",
+   "releaseInfo": "1950"
+  },
+  {
+   "id": "tt0071129",
+   "type": "movie",
+   "name": "Amarcord",
+   "poster": "https://images.metahub.space/poster/medium/tt0071129/img",
+   "releaseInfo": "1973"
+  },
+  {
+   "id": "tt0063794",
+   "type": "movie",
+   "name": "War and Peace",
+   "poster": "https://images.metahub.space/poster/medium/tt0063794/img",
+   "releaseInfo": "1965"
+  },
+  {
+   "id": "tt0081398",
+   "type": "movie",
+   "name": "Raging Bull",
+   "poster": "https://images.metahub.space/poster/medium/tt0081398/img",
+   "releaseInfo": "1980"
+  }
+ ]
+}

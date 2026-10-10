@@ -1,0 +1,38 @@
+{
+ "metas": [
+  {
+   "id": "tt0051418",
+   "type": "movie",
+   "name": "The Blob",
+   "poster": "https://images.metahub.space/poster/medium/tt0051418/img",
+   "releaseInfo": "1958"
+  },
+  {
+   "id": "tt0074486",
+   "type": "movie",
+   "name": "Eraserhead",
+   "poster": "https://images.metahub.space/poster/medium/tt0074486/img",
+   "releaseInfo": "1977"
+  },
+  {
+   "id": "tt0087803",
+   "type": "movie",
+   "name": "1984",
+   "poster": "https://images.metahub.space/poster/medium/tt0087803/img"
+  },
+  {
+   "id": "tt0088846",
+   "type": "movie",
+   "name": "Brazil",
+   "poster": "https://images.metahub.space/poster/medium/tt0088846/img",
+   "releaseInfo": "1985"
+  },
+  {
+   "id": "tt0063350",
+   "type": "movie",
+   "name": "Night of the Living Dead",
+   "poster": "https://images.metahub.space/poster/medium/tt0063350/img",
+   "releaseInfo": "1968"
+  }
+ ]
+}

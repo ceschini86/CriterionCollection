@@ -1,0 +1,60 @@
+{
+ "metas": [
+  {
+   "id": "tt0048473",
+   "type": "movie",
+   "name": "Pather Panchali",
+   "poster": "https://images.metahub.space/poster/medium/tt0048473/img",
+   "releaseInfo": "1955"
+  },
+  {
+   "id": "tt0048956",
+   "type": "movie",
+   "name": "Aparajito",
+   "poster": "https://images.metahub.space/poster/medium/tt0048956/img",
+   "releaseInfo": "1956"
+  },
+  {
+   "id": "tt0052572",
+   "type": "movie",
+   "name": "Apur Sansar",
+   "poster": "https://images.metahub.space/poster/medium/tt0052572/img",
+   "releaseInfo": "1959"
+  },
+  {
+   "id": "tt0091251",
+   "type": "movie",
+   "name": "Come and See",
+   "poster": "https://images.metahub.space/poster/medium/tt0091251/img",
+   "releaseInfo": "1985"
+  },
+  {
+   "id": "tt0038733",
+   "type": "movie",
+   "name": "A Matter of Life and Death",
+   "poster": "https://images.metahub.space/poster/medium/tt0038733/img",
+   "releaseInfo": "1946"
+  },
+  {
+   "id": "tt0032376",
+   "type": "movie",
+   "name": "Dance, Girl, Dance",
+   "poster": "https://images.metahub.space/poster/medium/tt0032376/img",
+   "releaseInfo": "1940"
+  },
+  {
+   "id": "tt1232776",
+   "type": "movie",
+   "name": "Fish Tank",
+   "poster": "https://images.metahub.space/poster/medium/tt1232776/img",
+   "releaseInfo": "2009"
+  },
+  {
+   "id": "tt0047528",
+   "type": "movie",
+   "name": "La Strada",
+   "poster": "https://images.metahub.space/poster/medium/tt0047528/img",
+   "releaseInfo": "1954"
+  }
+ ]
+}

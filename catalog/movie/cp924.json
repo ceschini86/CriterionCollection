@@ -1,0 +1,32 @@
+{
+ "metas": [
+  {
+   "id": "tt0071381",
+   "type": "movie",
+   "name": "Céline and Julie Go Boating",
+   "poster": "https://images.metahub.space/poster/medium/tt0071381/img",
+   "releaseInfo": "1974"
+  },
+  {
+   "id": "tt20212786",
+   "type": "movie",
+   "name": "The Shrouds",
+   "poster": "https://images.metahub.space/poster/medium/tt20212786/img",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "tt0054130",
+   "type": "movie",
+   "name": "La Notte",
+   "poster": "https://images.metahub.space/poster/medium/tt0054130/img",
+   "releaseInfo": "1961"
+  },
+  {
+   "id": "tt0077711",
+   "type": "movie",
+   "name": "Autumn Sonata",
+   "poster": "https://images.metahub.space/poster/medium/tt0077711/img",
+   "releaseInfo": "1978"
+  }
+ ]
+}

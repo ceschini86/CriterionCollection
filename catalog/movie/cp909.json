@@ -1,0 +1,93 @@
+{
+ "metas": [
+  {
+   "id": "tt0093200",
+   "type": "movie",
+   "name": "Hollywood Shuffle",
+   "poster": "https://images.metahub.space/poster/medium/tt0093200/img",
+   "releaseInfo": "1987"
+  },
+  {
+   "id": "tt0086541",
+   "type": "movie",
+   "name": "Videodrome",
+   "poster": "https://images.metahub.space/poster/medium/tt0086541/img",
+   "releaseInfo": "1983"
+  },
+  {
+   "id": "tt0230600",
+   "type": "movie",
+   "name": "The Others",
+   "poster": "https://images.metahub.space/poster/medium/tt0230600/img",
+   "releaseInfo": "2001"
+  },
+  {
+   "id": "tt0910970",
+   "type": "movie",
+   "name": "WALL-E",
+   "poster": "https://images.metahub.space/poster/medium/tt0910970/img",
+   "releaseInfo": "2008"
+  },
+  {
+   "id": "tt0196866",
+   "type": "movie",
+   "name": "Poto and Cabengo",
+   "poster": "https://images.metahub.space/poster/medium/tt0196866/img",
+   "releaseInfo": "1980"
+  },
+  {
+   "id": "tt0274069",
+   "type": "movie",
+   "name": "Routine Pleasures",
+   "poster": "https://images.metahub.space/poster/medium/tt0274069/img"
+  },
+  {
+   "id": "tt0104953",
+   "type": "movie",
+   "name": "My Crasy Life",
+   "poster": "https://images.metahub.space/poster/medium/tt0104953/img"
+  },
+  {
+   "id": "tt0091295",
+   "type": "movie",
+   "name": "Jo Jo Dancer, Your Life Is Calling",
+   "poster": "https://images.metahub.space/poster/medium/tt0091295/img",
+   "releaseInfo": "1986"
+  },
+  {
+   "id": "tt0063646",
+   "type": "movie",
+   "name": "The Story of a Three-Day Pass",
+   "poster": "https://images.metahub.space/poster/medium/tt0063646/img",
+   "releaseInfo": "1968"
+  },
+  {
+   "id": "tt0066550",
+   "type": "movie",
+   "name": "Watermelon Man",
+   "poster": "https://images.metahub.space/poster/medium/tt0066550/img",
+   "releaseInfo": "1970"
+  },
+  {
+   "id": "tt0067810",
+   "type": "movie",
+   "name": "Sweet Sweetback's Baadasssss Song",
+   "poster": "https://images.metahub.space/poster/medium/tt0067810/img",
+   "releaseInfo": "1971"
+  },
+  {
+   "id": "tt0069996",
+   "type": "movie",
+   "name": "Don't Play Us Cheap",
+   "poster": "https://images.metahub.space/poster/medium/tt0069996/img",
+   "releaseInfo": "1973"
+  },
+  {
+   "id": "tt15399286",
+   "type": "movie",
+   "name": "Lynch/Oz",
+   "poster": "https://images.metahub.space/poster/medium/tt15399286/img",
+   "releaseInfo": "2023"
+  }
+ ]
+}
