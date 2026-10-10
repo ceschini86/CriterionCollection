@@ -1,0 +1,86 @@
+{
+ "id": "cpick1002",
+ "type": "movie",
+ "name": "Jason Sudeikis",
+ "description": "Filmes que Jason Sudeikis escolheu no Criterion Closet:\n\n• Eyes Wide Shut (1999)\n• House Party (1990)\n• A Face in the Crowd (1957)\n• Charade (1963)\n• Double Indemnity (1944)\n• Love & Basketball (2000)\n• Bull Durham (1988)\n• Dazed and Confused (1993)\n• Citizen Kane (1941)\n• After Hours (1985)\n• Before Sunrise (1995)\n• Before Sunset (2004)\n• Before Midnight (2013)\n• Pickup on South Street (1953)\n• The Devil's Backbone (2001)",
+ "links": [
+  {
+   "name": "Eyes Wide Shut",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120663"
+  },
+  {
+   "name": "House Party",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0099800"
+  },
+  {
+   "name": "A Face in the Crowd",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050371"
+  },
+  {
+   "name": "Charade",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056923"
+  },
+  {
+   "name": "Double Indemnity",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0036775"
+  },
+  {
+   "name": "Love & Basketball",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0199725"
+  },
+  {
+   "name": "Bull Durham",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094812"
+  },
+  {
+   "name": "Dazed and Confused",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0106677"
+  },
+  {
+   "name": "Citizen Kane",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033467"
+  },
+  {
+   "name": "After Hours",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088680"
+  },
+  {
+   "name": "Before Sunrise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112471"
+  },
+  {
+   "name": "Before Sunset",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0381681"
+  },
+  {
+   "name": "Before Midnight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2209418"
+  },
+  {
+   "name": "Pickup on South Street",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046187"
+  },
+  {
+   "name": "The Devil's Backbone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0256009"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7552-982b0c739490906e0e4689395657eab9/L5S98vAFToAxBaitYNGw63ramINOlp_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7552-982b0c739490906e0e4689395657eab9/L5S98vAFToAxBaitYNGw63ramINOlp_original.jpg",
+ "posterShape": "landscape"
+}

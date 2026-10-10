@@ -1,0 +1,41 @@
+{
+ "id": "cpick475",
+ "type": "movie",
+ "name": "Barry Levinson",
+ "description": "Filmes que Barry Levinson escolheu no Criterion Closet:\n\n• Jules and Jim (1962)\n• Spartacus (1960)\n• Dont Look Back (1967)\n• One-Eyed Jacks (1961)\n• Chimes at Midnight (1965)\n• Shadows (1960)",
+ "links": [
+  {
+   "name": "Jules and Jim",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055032"
+  },
+  {
+   "name": "Spartacus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054331"
+  },
+  {
+   "name": "Dont Look Back",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061589"
+  },
+  {
+   "name": "One-Eyed Jacks",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055257"
+  },
+  {
+   "name": "Chimes at Midnight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059012"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5268-4da4b8da44f15feff0ca1b838f3e6806/k8BiYOR7iyr5pBdmogWNvGSFmJC1TR_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5268-4da4b8da44f15feff0ca1b838f3e6806/k8BiYOR7iyr5pBdmogWNvGSFmJC1TR_original.jpg",
+ "posterShape": "landscape"
+}

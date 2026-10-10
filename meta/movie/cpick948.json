@@ -1,0 +1,56 @@
+{
+ "id": "cpick948",
+ "type": "movie",
+ "name": "Steven Knight",
+ "description": "Filmes que Steven Knight escolheu no Criterion Closet:\n\n• Brief Encounter (1945)\n• Le Cercle rouge (1970)\n• The Spy Who Came in from the Cold (1965)\n• Paris, Texas (1984)\n• 3:10 to Yuma (1957)\n• One-Eyed Jacks (1961)\n• Betty Blue (1986)\n• Dont Look Back (1967)\n• Citizen Kane (1941)",
+ "links": [
+  {
+   "name": "Brief Encounter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037558"
+  },
+  {
+   "name": "Le Cercle rouge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065531"
+  },
+  {
+   "name": "The Spy Who Came in from the Cold",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059749"
+  },
+  {
+   "name": "Paris, Texas",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087884"
+  },
+  {
+   "name": "3:10 to Yuma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050086"
+  },
+  {
+   "name": "One-Eyed Jacks",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055257"
+  },
+  {
+   "name": "Betty Blue",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090563"
+  },
+  {
+   "name": "Dont Look Back",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061589"
+  },
+  {
+   "name": "Citizen Kane",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033467"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7295-b9531d6ebe498365dc9b750554540d9c/TOD5igg6JdPYyg4844m5vWDOTFymbz_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7295-b9531d6ebe498365dc9b750554540d9c/TOD5igg6JdPYyg4844m5vWDOTFymbz_original.jpg",
+ "posterShape": "landscape"
+}

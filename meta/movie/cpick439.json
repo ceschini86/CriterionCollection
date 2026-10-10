@@ -1,0 +1,66 @@
+{
+ "id": "cpick439",
+ "type": "movie",
+ "name": "Lucrecia Martel",
+ "description": "Filmes que Lucrecia Martel escolheu no Criterion Closet:\n\n• The Lady Vanishes (1938)\n• Seven Samurai (1954)\n• Amarcord (1973)\n• Beauty and the Beast (1946)\n• Love Streams (1984)\n• Time Bandits (1981)\n• Eyes Without a Face (1960)\n• Naked Lunch (1991)\n• Carnival of Souls (1962)\n• The Red Shoes (1948)\n• Cat People (1942)",
+ "links": [
+  {
+   "name": "The Lady Vanishes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0030341"
+  },
+  {
+   "name": "Seven Samurai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047478"
+  },
+  {
+   "name": "Amarcord",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071129"
+  },
+  {
+   "name": "Beauty and the Beast",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038348"
+  },
+  {
+   "name": "Love Streams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087644"
+  },
+  {
+   "name": "Time Bandits",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081633"
+  },
+  {
+   "name": "Eyes Without a Face",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053459"
+  },
+  {
+   "name": "Naked Lunch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102511"
+  },
+  {
+   "name": "Carnival of Souls",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055830"
+  },
+  {
+   "name": "The Red Shoes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040725"
+  },
+  {
+   "name": "Cat People",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034587"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5081-090c91da460643af6cfaaf6ab463366f/na00EEpHHuPEDXrrLC7mAVvk4I5NGO_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5081-090c91da460643af6cfaaf6ab463366f/na00EEpHHuPEDXrrLC7mAVvk4I5NGO_original.jpg",
+ "posterShape": "landscape"
+}

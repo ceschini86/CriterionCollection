@@ -1,0 +1,41 @@
+{
+ "id": "cpick569",
+ "type": "movie",
+ "name": "Mary Harron",
+ "description": "Filmes que Mary Harron escolheu no Criterion Closet:\n\n• The Naked City (1948)\n• The Killing of a Chinese Bookie (1976)\n• Sid Nancy\n• Mala Noche (1987)\n• Lost Highway (1997)\n• My Man Godfrey (1936)",
+ "links": [
+  {
+   "name": "The Naked City",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040636"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Sid Nancy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091954"
+  },
+  {
+   "name": "Mala Noche",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089537"
+  },
+  {
+   "name": "Lost Highway",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0116922"
+  },
+  {
+   "name": "My Man Godfrey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028010"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5473-72beb8b42b65eebb3ba1d2f54b8d2aea/sMM12qR5mZ4tFwCdL9ZKbf4DjmvZn2_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5473-72beb8b42b65eebb3ba1d2f54b8d2aea/sMM12qR5mZ4tFwCdL9ZKbf4DjmvZn2_original.jpg",
+ "posterShape": "landscape"
+}

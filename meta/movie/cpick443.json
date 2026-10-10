@@ -1,0 +1,131 @@
+{
+ "id": "cpick443",
+ "type": "movie",
+ "name": "Five Comics",
+ "description": "Filmes que Five Comics escolheu no Criterion Closet:\n\n• Jour de Fête (1949)\n• Monsieur Hulot's Holiday (1953)\n• Mon Oncle (1958)\n• PlayTime (1967)\n• Trafic (1971)\n• Parade (1974)\n• Good Morning (1959)\n• Yojimbo (1961)\n• Frances Ha (2013)\n• Beastie Boys Video Anthology (2000)\n• Some Like It Hot (1959)\n• Rosemary's Baby (1968)\n• Night of the Living Dead (1968)\n• Sunday, Bloody Sunday (1971)\n• Pan's Labyrinth (2006)\n• Crumb (1994)\n• True Stories (1986)\n• 24 Frames (2018)\n• Made in U.S.A (1966)\n• Man Bites Dog (1992)\n• Sex, Lies, and Videotape (1989)\n• Ikiru (1952)\n• The Big Chill (1983)\n• Shampoo (1975)",
+ "links": [
+  {
+   "name": "Jour de Fête",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040497"
+  },
+  {
+   "name": "Monsieur Hulot's Holiday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046487"
+  },
+  {
+   "name": "Mon Oncle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050706"
+  },
+  {
+   "name": "PlayTime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062136"
+  },
+  {
+   "name": "Trafic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069400"
+  },
+  {
+   "name": "Parade",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071968"
+  },
+  {
+   "name": "Good Morning",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053134"
+  },
+  {
+   "name": "Yojimbo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055630"
+  },
+  {
+   "name": "Frances Ha",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2347569"
+  },
+  {
+   "name": "Beastie Boys Video Anthology",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0273456"
+  },
+  {
+   "name": "Some Like It Hot",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053291"
+  },
+  {
+   "name": "Rosemary's Baby",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063522"
+  },
+  {
+   "name": "Night of the Living Dead",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063350"
+  },
+  {
+   "name": "Sunday, Bloody Sunday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067805"
+  },
+  {
+   "name": "Pan's Labyrinth",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0457430"
+  },
+  {
+   "name": "Crumb",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109508"
+  },
+  {
+   "name": "True Stories",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092117"
+  },
+  {
+   "name": "24 Frames",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6777170"
+  },
+  {
+   "name": "Made in U.S.A",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060647"
+  },
+  {
+   "name": "Man Bites Dog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103905"
+  },
+  {
+   "name": "Sex, Lies, and Videotape",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0098724"
+  },
+  {
+   "name": "Ikiru",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044741"
+  },
+  {
+   "name": "The Big Chill",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085244"
+  },
+  {
+   "name": "Shampoo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073692"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4881-42a8f9dd3ff8980a2232dc7610e35945/qdfMWiJ01yZJX8nFyuwwynY0iZOWYM_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4881-42a8f9dd3ff8980a2232dc7610e35945/qdfMWiJ01yZJX8nFyuwwynY0iZOWYM_original.jpg",
+ "posterShape": "landscape"
+}

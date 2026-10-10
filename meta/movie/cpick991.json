@@ -1,0 +1,126 @@
+{
+ "id": "cpick991",
+ "type": "movie",
+ "name": "Eric Andre",
+ "description": "Filmes que Eric Andre escolheu no Criterion Closet:\n\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• Hollywood Shuffle (1987)\n• Uncut Gems (2019)\n• Sorcerer (1977)\n• All That Jazz (1979)\n• Jo Jo Dancer, Your Life Is Calling (1986)\n• House (1977)\n• The Battle of Algiers (1966)\n• Police Story (1985)\n• Police Story 2 (1988)\n• Half a Loaf of Kung Fu (1978)\n• Spiritual Kung Fu (1978)\n• The Fearless Hyena\n• Fearless Hyena Ii\n• The Young Master (1980)\n• My Lucky Stars (1985)\n• Les Blank Always For Pleasure\n• Malcolm X (1992)",
+ "links": [
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "Hollywood Shuffle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093200"
+  },
+  {
+   "name": "Uncut Gems",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt5727208"
+  },
+  {
+   "name": "Sorcerer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076740"
+  },
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  },
+  {
+   "name": "Jo Jo Dancer, Your Life Is Calling",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091295"
+  },
+  {
+   "name": "House",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076162"
+  },
+  {
+   "name": "The Battle of Algiers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058946"
+  },
+  {
+   "name": "Police Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089374"
+  },
+  {
+   "name": "Police Story 2",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095403"
+  },
+  {
+   "name": "Half a Loaf of Kung Fu",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080623"
+  },
+  {
+   "name": "Spiritual Kung Fu",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078128"
+  },
+  {
+   "name": "The Fearless Hyena",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079315"
+  },
+  {
+   "name": "Fearless Hyena Ii",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085864"
+  },
+  {
+   "name": "The Young Master",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081499"
+  },
+  {
+   "name": "My Lucky Stars",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089177"
+  },
+  {
+   "name": "Les Blank Always For Pleasure",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077154"
+  },
+  {
+   "name": "Malcolm X",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104797"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7488-04f0d0a51a75339723f20369d1595c4d/rUm9nOa1f6Q5FQeSLc8YG4oTPEWRq0_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7488-04f0d0a51a75339723f20369d1595c4d/rUm9nOa1f6Q5FQeSLc8YG4oTPEWRq0_original.jpg",
+ "posterShape": "landscape"
+}

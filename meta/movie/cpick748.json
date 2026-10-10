@@ -1,0 +1,46 @@
+{
+ "id": "cpick748",
+ "type": "movie",
+ "name": "Jarvis Cocker",
+ "description": "Filmes que Jarvis Cocker escolheu no Criterion Closet:\n\n• The Incredible Shrinking Man (1957)\n• Blue Velvet (1986)\n• Meantime (1983)\n• Trainspotting (1996)\n• Salò, or the 120 Days of Sodom (1975)\n• Fantastic Mr. Fox (2009)\n• The Grand Budapest Hotel (2014)",
+ "links": [
+  {
+   "name": "The Incredible Shrinking Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050539"
+  },
+  {
+   "name": "Blue Velvet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090756"
+  },
+  {
+   "name": "Meantime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082727"
+  },
+  {
+   "name": "Trainspotting",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0117951"
+  },
+  {
+   "name": "Salò, or the 120 Days of Sodom",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073650"
+  },
+  {
+   "name": "Fantastic Mr. Fox",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0432283"
+  },
+  {
+   "name": "The Grand Budapest Hotel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2278388"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6319-7d395be5bbaf35f673e3ac285bb9dcc3/aGnmZCQN978rsyZescftQ0Lwca3JHR_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6319-7d395be5bbaf35f673e3ac285bb9dcc3/aGnmZCQN978rsyZescftQ0Lwca3JHR_original.jpg",
+ "posterShape": "landscape"
+}

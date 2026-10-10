@@ -1,0 +1,71 @@
+{
+ "id": "cpick986",
+ "type": "movie",
+ "name": "Cooper Hoffman",
+ "description": "Filmes que Cooper Hoffman escolheu no Criterion Closet:\n\n• Hoop Dreams (1994)\n• Come and See (1985)\n• Paper Moon (1973)\n• Thelma & Louise (1991)\n• Happiness (1965)\n• Totally F***ed Up (1994)\n• The Doom Generation (1995)\n• Nowhere (1997)\n• Punch-Drunk Love (2002)\n• Hud (1963)\n• Mean Streets (1973)\n• Love Streams (1984)",
+ "links": [
+  {
+   "name": "Hoop Dreams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0110057"
+  },
+  {
+   "name": "Come and See",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091251"
+  },
+  {
+   "name": "Paper Moon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070510"
+  },
+  {
+   "name": "Thelma & Louise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103074"
+  },
+  {
+   "name": "Happiness",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058985"
+  },
+  {
+   "name": "Totally F***ed Up",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108366"
+  },
+  {
+   "name": "The Doom Generation",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112887"
+  },
+  {
+   "name": "Nowhere",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119809"
+  },
+  {
+   "name": "Punch-Drunk Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0272338"
+  },
+  {
+   "name": "Hud",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057163"
+  },
+  {
+   "name": "Mean Streets",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070379"
+  },
+  {
+   "name": "Love Streams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087644"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7476-760694ec7ce1d019505e3cba7640e1c7/IYpCpw6rU5ZU4owg5B8NKXAXNs4VTX_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7476-760694ec7ce1d019505e3cba7640e1c7/IYpCpw6rU5ZU4owg5B8NKXAXNs4VTX_original.jpg",
+ "posterShape": "landscape"
+}

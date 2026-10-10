@@ -1,0 +1,66 @@
+{
+ "id": "cpick979",
+ "type": "movie",
+ "name": "David Tennant",
+ "description": "Filmes que David Tennant escolheu no Criterion Closet:\n\n• Time Bandits (1981)\n• The Importance of Being Earnest (1952)\n• Brief Encounter (1945)\n• In Which We Serve (1942)\n• This Happy Breed (1944)\n• Blithe Spirit (1945)\n• His Girl Friday (1940)\n• Henry V (1944)\n• Hamlet (1948)\n• Richard III (1955)\n• 12 Angry Men (1957)",
+ "links": [
+  {
+   "name": "Time Bandits",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081633"
+  },
+  {
+   "name": "The Importance of Being Earnest",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044744"
+  },
+  {
+   "name": "Brief Encounter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037558"
+  },
+  {
+   "name": "In Which We Serve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034891"
+  },
+  {
+   "name": "This Happy Breed",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037367"
+  },
+  {
+   "name": "Blithe Spirit",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038363"
+  },
+  {
+   "name": "His Girl Friday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032599"
+  },
+  {
+   "name": "Henry V",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0036910"
+  },
+  {
+   "name": "Hamlet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040416"
+  },
+  {
+   "name": "Richard III",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049674"
+  },
+  {
+   "name": "12 Angry Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050083"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7441-4a4eee55736a38500bcde3a6c08455c2/Q5KOUReI0kKSuqXHNl2q1VKzRO3pPK_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7441-4a4eee55736a38500bcde3a6c08455c2/Q5KOUReI0kKSuqXHNl2q1VKzRO3pPK_original.jpg",
+ "posterShape": "landscape"
+}

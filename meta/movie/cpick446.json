@@ -1,0 +1,116 @@
+{
+ "id": "cpick446",
+ "type": "movie",
+ "name": "Ethan Hawke and Jonathan Marc Sherman",
+ "description": "Filmes que Ethan Hawke and Jonathan Marc Sherman escolheu no Criterion Closet:\n\n• Before Sunrise (1995)\n• Before Sunset (2004)\n• Before Midnight (2013)\n• Black Orpheus (1959)\n• The 400 Blows (1959)\n• Tootsie (1982)\n• Breaker Morant (1980)\n• Rumble Fish (1983)\n• Berlin Alexanderplatz (1980)\n• Ace in the Hole (1951)\n• Paris, Texas (1984)\n• Sullivan's Travels (1942)\n• One-Eyed Jacks (1961)\n• Five Easy Pieces (1970)\n• House (1977)\n• Lola\n• Bay of Angels (1963)\n• The Umbrellas of Cherbourg (1964)\n• The Young Girls of Rochefort (1967)\n• Donkey Skin (1970)\n• Une Chambre En Ville",
+ "links": [
+  {
+   "name": "Before Sunrise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112471"
+  },
+  {
+   "name": "Before Sunset",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0381681"
+  },
+  {
+   "name": "Before Midnight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2209418"
+  },
+  {
+   "name": "Black Orpheus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053146"
+  },
+  {
+   "name": "The 400 Blows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053198"
+  },
+  {
+   "name": "Tootsie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084805"
+  },
+  {
+   "name": "Breaker Morant",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080310"
+  },
+  {
+   "name": "Rumble Fish",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086216"
+  },
+  {
+   "name": "Berlin Alexanderplatz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080196"
+  },
+  {
+   "name": "Ace in the Hole",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043338"
+  },
+  {
+   "name": "Paris, Texas",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087884"
+  },
+  {
+   "name": "Sullivan's Travels",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034240"
+  },
+  {
+   "name": "One-Eyed Jacks",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055257"
+  },
+  {
+   "name": "Five Easy Pieces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065724"
+  },
+  {
+   "name": "House",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076162"
+  },
+  {
+   "name": "Lola",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055093"
+  },
+  {
+   "name": "Bay of Angels",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056846"
+  },
+  {
+   "name": "The Umbrellas of Cherbourg",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058450"
+  },
+  {
+   "name": "The Young Girls of Rochefort",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062873"
+  },
+  {
+   "name": "Donkey Skin",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066207"
+  },
+  {
+   "name": "Une Chambre En Ville",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084843"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5089-ed97637957fbad066c186a7512058175/WsQ28gmhF1y1STLEan4SyQRgYC1d46_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5089-ed97637957fbad066c186a7512058175/WsQ28gmhF1y1STLEan4SyQRgYC1d46_original.jpg",
+ "posterShape": "landscape"
+}

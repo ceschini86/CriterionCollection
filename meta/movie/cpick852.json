@@ -1,0 +1,136 @@
+{
+ "id": "cpick852",
+ "type": "movie",
+ "name": "RZA",
+ "description": "Filmes que RZA escolheu no Criterion Closet:\n\n• The Big Boss\n• Fist Of Fury\n• The Way Of The Dragon\n• Enter The Dragon\n• Game Of Death\n• Once Upon a Time in China (1991)\n• Once Upon a Time in China II (1992)\n• Once Upon a Time in China III (1993)\n• Once Upon A Time In China Iv\n• Once Upon A Time In China V\n• Mikey and Nicky (1976)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• Down by Law (1986)\n• Ghost Dog: The Way of the Samurai (1999)\n• On the Waterfront (1954)\n• La Haine (1995)\n• The Story of a Three-Day Pass (1968)\n• Watermelon Man (1970)\n• Sweet Sweetback's Baadasssss Song (1971)\n• Don't Play Us Cheap (1973)",
+ "links": [
+  {
+   "name": "The Big Boss",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067824"
+  },
+  {
+   "name": "Fist Of Fury",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068767"
+  },
+  {
+   "name": "The Way Of The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068935"
+  },
+  {
+   "name": "Enter The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070034"
+  },
+  {
+   "name": "Game Of Death",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077594"
+  },
+  {
+   "name": "Once Upon a Time in China",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103285"
+  },
+  {
+   "name": "Once Upon a Time in China II",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0105839"
+  },
+  {
+   "name": "Once Upon a Time in China III",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108592"
+  },
+  {
+   "name": "Once Upon A Time In China Iv",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0105839"
+  },
+  {
+   "name": "Once Upon A Time In China V",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108592"
+  },
+  {
+   "name": "Mikey and Nicky",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074901"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "Down by Law",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090967"
+  },
+  {
+   "name": "Ghost Dog: The Way of the Samurai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0165798"
+  },
+  {
+   "name": "On the Waterfront",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047296"
+  },
+  {
+   "name": "La Haine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0113247"
+  },
+  {
+   "name": "The Story of a Three-Day Pass",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063646"
+  },
+  {
+   "name": "Watermelon Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066550"
+  },
+  {
+   "name": "Sweet Sweetback's Baadasssss Song",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067810"
+  },
+  {
+   "name": "Don't Play Us Cheap",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069996"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6837-75532cc76529d817694255ec4b7e4e7d/rkt0w1aJdBfuZfWAwGs5wAdLFujCB0_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6837-75532cc76529d817694255ec4b7e4e7d/rkt0w1aJdBfuZfWAwGs5wAdLFujCB0_original.jpg",
+ "posterShape": "landscape"
+}

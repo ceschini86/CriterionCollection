@@ -1,0 +1,51 @@
+{
+ "id": "cpick886",
+ "type": "movie",
+ "name": "Billy Crudup",
+ "description": "Filmes que Billy Crudup escolheu no Criterion Closet:\n\n• Kicking and Screaming (1995)\n• My Darling Clementine (1946)\n• 12 Angry Men (1957)\n• Carnal Knowledge (1971)\n• Mulholland Dr\n• No Country for Old Men (2007)\n• Defending Your Life (1991)\n• Matewan (1987)",
+ "links": [
+  {
+   "name": "Kicking and Screaming",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0113537"
+  },
+  {
+   "name": "My Darling Clementine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038762"
+  },
+  {
+   "name": "12 Angry Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050083"
+  },
+  {
+   "name": "Carnal Knowledge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066892"
+  },
+  {
+   "name": "Mulholland Dr",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0166924"
+  },
+  {
+   "name": "No Country for Old Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0477348"
+  },
+  {
+   "name": "Defending Your Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101698"
+  },
+  {
+   "name": "Matewan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093509"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6980-19c6856ab2040cd7167b89ddd7757599/DDPF5sbbm6z9XZfuYRLIbyNe6aCXQ0_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6980-19c6856ab2040cd7167b89ddd7757599/DDPF5sbbm6z9XZfuYRLIbyNe6aCXQ0_original.jpg",
+ "posterShape": "landscape"
+}

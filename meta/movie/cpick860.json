@@ -1,0 +1,41 @@
+{
+ "id": "cpick860",
+ "type": "movie",
+ "name": "Margaret Qualley",
+ "description": "Filmes que Margaret Qualley escolheu no Criterion Closet:\n\n• Beau Travail (1999)\n• To Die For (1995)\n• Punch-Drunk Love (2002)\n• All About Eve (1950)\n• All That Jazz (1979)\n• Thelma & Louise (1991)",
+ "links": [
+  {
+   "name": "Beau Travail",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0209933"
+  },
+  {
+   "name": "To Die For",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0114681"
+  },
+  {
+   "name": "Punch-Drunk Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0272338"
+  },
+  {
+   "name": "All About Eve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042192"
+  },
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  },
+  {
+   "name": "Thelma & Louise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103074"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6875-64ccf03b0ac24553e770a46e541a23e8/G2B5stvrILWndCeHme9bMabn53rB5H_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6875-64ccf03b0ac24553e770a46e541a23e8/G2B5stvrILWndCeHme9bMabn53rB5H_original.jpg",
+ "posterShape": "landscape"
+}

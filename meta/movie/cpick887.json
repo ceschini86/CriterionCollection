@@ -1,0 +1,86 @@
+{
+ "id": "cpick887",
+ "type": "movie",
+ "name": "Edgar Wright",
+ "description": "Filmes que Edgar Wright escolheu no Criterion Closet:\n\n• Black Narcissus (1947)\n• Something Wild (1986)\n• A Hard Day's Night (1964)\n• The Three Musketeers\n• The Four Musketeers\n• Head (1968)\n• Easy Rider (1969)\n• Five Easy Pieces (1970)\n• Drive, He Said (1971)\n• A Safe Place (1971)\n• The Last Picture Show (1971)\n• The King of Marvin Gardens (1972)\n• The Earrings of Madame de... (1953)\n• Police Story (1985)\n• Police Story 2 (1988)",
+ "links": [
+  {
+   "name": "Black Narcissus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039192"
+  },
+  {
+   "name": "Something Wild",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091983"
+  },
+  {
+   "name": "A Hard Day's Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058182"
+  },
+  {
+   "name": "The Three Musketeers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072281"
+  },
+  {
+   "name": "The Four Musketeers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073012"
+  },
+  {
+   "name": "Head",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063049"
+  },
+  {
+   "name": "Easy Rider",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064276"
+  },
+  {
+   "name": "Five Easy Pieces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065724"
+  },
+  {
+   "name": "Drive, He Said",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068509"
+  },
+  {
+   "name": "A Safe Place",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067699"
+  },
+  {
+   "name": "The Last Picture Show",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067328"
+  },
+  {
+   "name": "The King of Marvin Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068805"
+  },
+  {
+   "name": "The Earrings of Madame de...",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046022"
+  },
+  {
+   "name": "Police Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089374"
+  },
+  {
+   "name": "Police Story 2",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095403"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6990-2c82662ed771188532b1a2096143f134/1Otz6AmWaGUSKLkU0VoKjMNkE6Z4Lz_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6990-2c82662ed771188532b1a2096143f134/1Otz6AmWaGUSKLkU0VoKjMNkE6Z4Lz_original.jpg",
+ "posterShape": "landscape"
+}

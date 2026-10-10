@@ -1,0 +1,51 @@
+{
+ "id": "cpick972",
+ "type": "movie",
+ "name": "Matthew Rhys",
+ "description": "Filmes que Matthew Rhys escolheu no Criterion Closet:\n\n• Grey Gardens (1976)\n• Withnail and I (1987)\n• The Princess Bride (1987)\n• Do the Right Thing (1989)\n• Mean Streets (1973)\n• Monty Python’s Life of Brian (1979)\n• The Great Escape (1963)\n• The Graduate (1967)",
+ "links": [
+  {
+   "name": "Grey Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073076"
+  },
+  {
+   "name": "Withnail and I",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094336"
+  },
+  {
+   "name": "The Princess Bride",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093779"
+  },
+  {
+   "name": "Do the Right Thing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097216"
+  },
+  {
+   "name": "Mean Streets",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070379"
+  },
+  {
+   "name": "Monty Python’s Life of Brian",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079470"
+  },
+  {
+   "name": "The Great Escape",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057115"
+  },
+  {
+   "name": "The Graduate",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061722"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7409-b3d5e7a01aa32f58bd846b0e83ca2a95/zriYANXVPc6dIbORtCxcPDiWbarr1S_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7409-b3d5e7a01aa32f58bd846b0e83ca2a95/zriYANXVPc6dIbORtCxcPDiWbarr1S_original.jpg",
+ "posterShape": "landscape"
+}

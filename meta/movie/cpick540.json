@@ -1,0 +1,41 @@
+{
+ "id": "cpick540",
+ "type": "movie",
+ "name": "Richard Ayoade",
+ "description": "Filmes que Richard Ayoade escolheu no Criterion Closet:\n\n• Sisters (1973)\n• The Magic Flute (1975)\n• Zazie dans le Métro (1960)\n• Le Havre (2011)\n• Les Cousins\n• Safety Last! (1923)",
+ "links": [
+  {
+   "name": "Sisters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070698"
+  },
+  {
+   "name": "The Magic Flute",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073822"
+  },
+  {
+   "name": "Zazie dans le Métro",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054494"
+  },
+  {
+   "name": "Le Havre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1508675"
+  },
+  {
+   "name": "Les Cousins",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052708"
+  },
+  {
+   "name": "Safety Last!",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0014429"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5344-27b7ba27866a1c15e421f28b9f435734/EqymxcOMAsTK6jVZt3jyzhthh3kPNO_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5344-27b7ba27866a1c15e421f28b9f435734/EqymxcOMAsTK6jVZt3jyzhthh3kPNO_original.jpg",
+ "posterShape": "landscape"
+}

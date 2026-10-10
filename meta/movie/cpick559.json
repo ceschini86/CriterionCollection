@@ -1,0 +1,41 @@
+{
+ "id": "cpick559",
+ "type": "movie",
+ "name": "Susanna Hoffs",
+ "description": "Filmes que Susanna Hoffs escolheu no Criterion Closet:\n\n• Beyond the Valley of the Dolls (1970)\n• Seconds (1966)\n• Klute (1971)\n• La Piscine (1969)\n• Love Streams (1984)\n• Midnight Cowboy (1969)",
+ "links": [
+  {
+   "name": "Beyond the Valley of the Dolls",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065466"
+  },
+  {
+   "name": "Seconds",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060955"
+  },
+  {
+   "name": "Klute",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067309"
+  },
+  {
+   "name": "La Piscine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064816"
+  },
+  {
+   "name": "Love Streams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087644"
+  },
+  {
+   "name": "Midnight Cowboy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064665"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5446-cb52443efeed42009d128ff90c265ab9/cqNLBKEkkGGEHUANcA2KtLOyDRuOUX_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5446-cb52443efeed42009d128ff90c265ab9/cqNLBKEkkGGEHUANcA2KtLOyDRuOUX_original.jpg",
+ "posterShape": "landscape"
+}

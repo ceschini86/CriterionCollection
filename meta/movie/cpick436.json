@@ -1,0 +1,46 @@
+{
+ "id": "cpick436",
+ "type": "movie",
+ "name": "Matthew Modine",
+ "description": "Filmes que Matthew Modine escolheu no Criterion Closet:\n\n• High and Low (1963)\n• Tanner '88 (1988)\n• The Black Stallion (1979)\n• Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb\n• Night of the Living Dead (1968)\n• Midnight Cowboy (1969)\n• The Player (1992)",
+ "links": [
+  {
+   "name": "High and Low",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057565"
+  },
+  {
+   "name": "Tanner '88",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094562"
+  },
+  {
+   "name": "The Black Stallion",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078872"
+  },
+  {
+   "name": "Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057012"
+  },
+  {
+   "name": "Night of the Living Dead",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063350"
+  },
+  {
+   "name": "Midnight Cowboy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064665"
+  },
+  {
+   "name": "The Player",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0105151"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4853-aabecee78d94c0b8ec5c3820665268e5/uwAfwNYCdbbeRWFqreV34DDimJAQaz_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4853-aabecee78d94c0b8ec5c3820665268e5/uwAfwNYCdbbeRWFqreV34DDimJAQaz_original.jpg",
+ "posterShape": "landscape"
+}

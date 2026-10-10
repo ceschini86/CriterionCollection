@@ -1,0 +1,66 @@
+{
+ "id": "cpick626",
+ "type": "movie",
+ "name": "Joel Edgerton",
+ "description": "Filmes que Joel Edgerton escolheu no Criterion Closet:\n\n• Police Story (1985)\n• Police Story 2 (1988)\n• My Life as a Dog (1985)\n• The Hero (1966)\n• The Wages of Fear (1953)\n• The Seventh Continent (1989)\n• Benny's Video (1992)\n• 71 Fragments of a Chronology of Chance (1995)\n• Uncut Gems (2019)\n• Man Bites Dog (1992)\n• Bicycle Thieves (1948)",
+ "links": [
+  {
+   "name": "Police Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089374"
+  },
+  {
+   "name": "Police Story 2",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095403"
+  },
+  {
+   "name": "My Life as a Dog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089606"
+  },
+  {
+   "name": "The Hero",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060742"
+  },
+  {
+   "name": "The Wages of Fear",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046268"
+  },
+  {
+   "name": "The Seventh Continent",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0098327"
+  },
+  {
+   "name": "Benny's Video",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103793"
+  },
+  {
+   "name": "71 Fragments of a Chronology of Chance",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109020"
+  },
+  {
+   "name": "Uncut Gems",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt5727208"
+  },
+  {
+   "name": "Man Bites Dog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103905"
+  },
+  {
+   "name": "Bicycle Thieves",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040522"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5790-cbb704eca783ef4a78a9ec4c9e4d111e/dJiSPl8h8PoNi08xPJwS6OqBi01d5f_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5790-cbb704eca783ef4a78a9ec4c9e4d111e/dJiSPl8h8PoNi08xPJwS6OqBi01d5f_original.jpg",
+ "posterShape": "landscape"
+}

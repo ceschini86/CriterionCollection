@@ -1,0 +1,36 @@
+{
+ "id": "cpick525",
+ "type": "movie",
+ "name": "Alec Baldwin",
+ "description": "Filmes que Alec Baldwin escolheu no Criterion Closet:\n\n• 3:10 to Yuma (1957)\n• The Decameron (1971)\n• The Canterbury Tales (1972)\n• Arabian Nights (1974)\n• The Magician (1958)",
+ "links": [
+  {
+   "name": "3:10 to Yuma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050086"
+  },
+  {
+   "name": "The Decameron",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065622"
+  },
+  {
+   "name": "The Canterbury Tales",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067647"
+  },
+  {
+   "name": "Arabian Nights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071502"
+  },
+  {
+   "name": "The Magician",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051365"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5252-e27d7a515e860088cfb94a5c3303f8cb/9a8FTsawtro4JmiqJOCtyyBV6LkXHI_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5252-e27d7a515e860088cfb94a5c3303f8cb/9a8FTsawtro4JmiqJOCtyyBV6LkXHI_original.jpg",
+ "posterShape": "landscape"
+}

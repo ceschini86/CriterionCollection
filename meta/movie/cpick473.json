@@ -1,0 +1,106 @@
+{
+ "id": "cpick473",
+ "type": "movie",
+ "name": "Matías Piñeiro",
+ "description": "Filmes que Matías Piñeiro escolheu no Criterion Closet:\n\n• The Golden Coach (1952)\n• French Cancan (1955)\n• Elena and Her Men (1956)\n• La Ciénaga (2001)\n• Stromboli (1950)\n• Europe '51 (1952)\n• Journey to Italy (1954)\n• To Be or Not to Be (1942)\n• Les Blank Always For Pleasure\n• The Bakery Girl of Monceau (1963)\n• Suzanne's Career (1963)\n• My Night at Maud's (1969)\n• La Collectionneuse (1967)\n• Claire's Knee (1970)\n• Love in the Afternoon (1972)\n• À propos de Nice (1930)\n• Zero De Conduite\n• L'Atalante (1934)\n• A Day in the Country (1946)",
+ "links": [
+  {
+   "name": "The Golden Coach",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044487"
+  },
+  {
+   "name": "French Cancan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046998"
+  },
+  {
+   "name": "Elena and Her Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049177"
+  },
+  {
+   "name": "La Ciénaga",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0240419"
+  },
+  {
+   "name": "Stromboli",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041931"
+  },
+  {
+   "name": "Europe '51",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043511"
+  },
+  {
+   "name": "Journey to Italy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046511"
+  },
+  {
+   "name": "To Be or Not to Be",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035446"
+  },
+  {
+   "name": "Les Blank Always For Pleasure",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077154"
+  },
+  {
+   "name": "The Bakery Girl of Monceau",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056884"
+  },
+  {
+   "name": "Suzanne's Career",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056910"
+  },
+  {
+   "name": "My Night at Maud's",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064612"
+  },
+  {
+   "name": "La Collectionneuse",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061495"
+  },
+  {
+   "name": "Claire's Knee",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065772"
+  },
+  {
+   "name": "Love in the Afternoon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068205"
+  },
+  {
+   "name": "À propos de Nice",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0021576"
+  },
+  {
+   "name": "Zero De Conduite",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0024803"
+  },
+  {
+   "name": "L'Atalante",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0024844"
+  },
+  {
+   "name": "A Day in the Country",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028445"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5272-1708e5418de1d98b582919b22f447236/RXawlqWW3vOBy5krFCIppWfjxN0w8V_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5272-1708e5418de1d98b582919b22f447236/RXawlqWW3vOBy5krFCIppWfjxN0w8V_original.jpg",
+ "posterShape": "landscape"
+}

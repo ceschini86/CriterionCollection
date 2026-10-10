@@ -1,0 +1,51 @@
+{
+ "id": "cpick762",
+ "type": "movie",
+ "name": "Mikey Madison",
+ "description": "Filmes que Mikey Madison escolheu no Criterion Closet:\n\n• Five Easy Pieces (1970)\n• Easy Rider (1969)\n• Take Out (2008)\n• The Piano Teacher (2001)\n• Gilda (1946)\n• Eyes Without a Face (1960)\n• The Kid (1921)\n• Heaven's Gate (1980)",
+ "links": [
+  {
+   "name": "Five Easy Pieces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065724"
+  },
+  {
+   "name": "Easy Rider",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064276"
+  },
+  {
+   "name": "Take Out",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0391483"
+  },
+  {
+   "name": "The Piano Teacher",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0254686"
+  },
+  {
+   "name": "Gilda",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038559"
+  },
+  {
+   "name": "Eyes Without a Face",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053459"
+  },
+  {
+   "name": "The Kid",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0012349"
+  },
+  {
+   "name": "Heaven's Gate",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080855"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6391-e1bb933f9983c5fd5a15c017d718c10b/IhpXWNgqjiMtmBmHf5EPh901MfpCR3_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6391-e1bb933f9983c5fd5a15c017d718c10b/IhpXWNgqjiMtmBmHf5EPh901MfpCR3_original.jpg",
+ "posterShape": "landscape"
+}

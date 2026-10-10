@@ -1,0 +1,61 @@
+{
+ "id": "cpick893",
+ "type": "movie",
+ "name": "Elle Fanning",
+ "description": "Filmes que Elle Fanning escolheu no Criterion Closet:\n\n• The Red Shoes (1948)\n• The Virgin Suicides (1999)\n• Daisies (1966)\n• Bringing Up Baby (1938)\n• To Die For (1995)\n• The Power of the Dog (2021)\n• The Worst Person in the World (2021)\n• Parasite (2019)\n• The Princess Bride (1987)\n• I Knew Her Well (1965)",
+ "links": [
+  {
+   "name": "The Red Shoes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040725"
+  },
+  {
+   "name": "The Virgin Suicides",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0159097"
+  },
+  {
+   "name": "Daisies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060959"
+  },
+  {
+   "name": "Bringing Up Baby",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0029947"
+  },
+  {
+   "name": "To Die For",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0114681"
+  },
+  {
+   "name": "The Power of the Dog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt10293406"
+  },
+  {
+   "name": "The Worst Person in the World",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt10370710"
+  },
+  {
+   "name": "Parasite",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6751668"
+  },
+  {
+   "name": "The Princess Bride",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093779"
+  },
+  {
+   "name": "I Knew Her Well",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060545"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7013-d266475e01b40abc8fb5ac6bb0f2ec48/Iy2r0r01SIrHo0yfXksCj8uNDx0dCR_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7013-d266475e01b40abc8fb5ac6bb0f2ec48/Iy2r0r01SIrHo0yfXksCj8uNDx0dCR_original.jpg",
+ "posterShape": "landscape"
+}

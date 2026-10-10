@@ -1,0 +1,51 @@
+{
+ "id": "cpick914",
+ "type": "movie",
+ "name": "Florence Welch",
+ "description": "Filmes que Florence Welch escolheu no Criterion Closet:\n\n• Picnic at Hanging Rock (1975)\n• Withnail and I (1987)\n• The Red Shoes (1948)\n• Pina (2011)\n• Valerie and Her Week of Wonders (1970)\n• I Married a Witch (1942)\n• Häxan (1922)\n• This Is Spinal Tap (1984)",
+ "links": [
+  {
+   "name": "Picnic at Hanging Rock",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073540"
+  },
+  {
+   "name": "Withnail and I",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094336"
+  },
+  {
+   "name": "The Red Shoes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040725"
+  },
+  {
+   "name": "Pina",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1440266"
+  },
+  {
+   "name": "Valerie and Her Week of Wonders",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066516"
+  },
+  {
+   "name": "I Married a Witch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034881"
+  },
+  {
+   "name": "Häxan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0013257"
+  },
+  {
+   "name": "This Is Spinal Tap",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088258"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7125-1957f146aae801d2aac7fe8dbf770bbc/c9wgWdm8bxc63wJ7FCqPOWSeiYZs1B_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7125-1957f146aae801d2aac7fe8dbf770bbc/c9wgWdm8bxc63wJ7FCqPOWSeiYZs1B_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,46 @@
+{
+ "id": "cpick760",
+ "type": "movie",
+ "name": "Kevin Smith",
+ "description": "Filmes que Kevin Smith escolheu no Criterion Closet:\n\n• His Girl Friday (1940)\n• Citizen Kane (1941)\n• Hollywood Shuffle (1987)\n• Bull Durham (1988)\n• The Prince of Tides (1991)\n• Deep Cover (1992)\n• Slacker (1990)",
+ "links": [
+  {
+   "name": "His Girl Friday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032599"
+  },
+  {
+   "name": "Citizen Kane",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033467"
+  },
+  {
+   "name": "Hollywood Shuffle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093200"
+  },
+  {
+   "name": "Bull Durham",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094812"
+  },
+  {
+   "name": "The Prince of Tides",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102713"
+  },
+  {
+   "name": "Deep Cover",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104073"
+  },
+  {
+   "name": "Slacker",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102943"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6382-ddcbed5345f2f44ded7dcd053f698a85/hNUTpPeqJhIGVFAtnBua3JnxVRgWC2_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6382-ddcbed5345f2f44ded7dcd053f698a85/hNUTpPeqJhIGVFAtnBua3JnxVRgWC2_original.jpg",
+ "posterShape": "landscape"
+}

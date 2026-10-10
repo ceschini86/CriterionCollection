@@ -1,0 +1,101 @@
+{
+ "id": "cpick591",
+ "type": "movie",
+ "name": "Todd Haynes",
+ "description": "Filmes que Todd Haynes escolheu no Criterion Closet:\n\n• Brief Encounter (1945)\n• My Own Private Idaho (1991)\n• All That Heaven Allows (1955)\n• Written on the Wind (1956)\n• The Marriage of Maria Braun (1979)\n• Veronika Voss (1982)\n• Lola\n• Masculin Féminin (1966)\n• Sunday, Bloody Sunday (1971)\n• The Night of the Hunter (1955)\n• The Long Day Closes (1992)\n• Beau Travail (1999)\n• All About Eve (1950)\n• Now, Voyager (1942)\n• Old Joy (2006)\n• The Servant (1963)\n• Beyond the Valley of the Dolls (1970)\n• In a Lonely Place (1950)",
+ "links": [
+  {
+   "name": "Brief Encounter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037558"
+  },
+  {
+   "name": "My Own Private Idaho",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102494"
+  },
+  {
+   "name": "All That Heaven Allows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047811"
+  },
+  {
+   "name": "Written on the Wind",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049966"
+  },
+  {
+   "name": "The Marriage of Maria Braun",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079095"
+  },
+  {
+   "name": "Veronika Voss",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084654"
+  },
+  {
+   "name": "Lola",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082671"
+  },
+  {
+   "name": "Masculin Féminin",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060675"
+  },
+  {
+   "name": "Sunday, Bloody Sunday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067805"
+  },
+  {
+   "name": "The Night of the Hunter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048424"
+  },
+  {
+   "name": "The Long Day Closes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104753"
+  },
+  {
+   "name": "Beau Travail",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0209933"
+  },
+  {
+   "name": "All About Eve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042192"
+  },
+  {
+   "name": "Now, Voyager",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035140"
+  },
+  {
+   "name": "Old Joy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0468526"
+  },
+  {
+   "name": "The Servant",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057490"
+  },
+  {
+   "name": "Beyond the Valley of the Dolls",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065466"
+  },
+  {
+   "name": "In a Lonely Place",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042593"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5580-fcdc899ad936c581e26770c41c63f12b/rHH3j4c2cWJsEofxcE0dP6y9KBQ4Cr_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5580-fcdc899ad936c581e26770c41c63f12b/rHH3j4c2cWJsEofxcE0dP6y9KBQ4Cr_original.jpg",
+ "posterShape": "landscape"
+}

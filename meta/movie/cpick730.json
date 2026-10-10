@@ -1,0 +1,61 @@
+{
+ "id": "cpick730",
+ "type": "movie",
+ "name": "Andrew Garfield",
+ "description": "Filmes que Andrew Garfield escolheu no Criterion Closet:\n\n• Brazil (1985)\n• The Red Shoes (1948)\n• Salesman (1969)\n• Hoop Dreams (1994)\n• Naked (1993)\n• Kes (1969)\n• The Game (1997)\n• Happiness (1965)\n• Original Cast Album: Company (1970)\n• Tampopo (1985)",
+ "links": [
+  {
+   "name": "Brazil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088846"
+  },
+  {
+   "name": "The Red Shoes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040725"
+  },
+  {
+   "name": "Salesman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064921"
+  },
+  {
+   "name": "Hoop Dreams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0110057"
+  },
+  {
+   "name": "Naked",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107653"
+  },
+  {
+   "name": "Kes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064541"
+  },
+  {
+   "name": "The Game",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119174"
+  },
+  {
+   "name": "Happiness",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058985"
+  },
+  {
+   "name": "Original Cast Album: Company",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0293475"
+  },
+  {
+   "name": "Tampopo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092048"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6198-b18e531af9df4de25929b2a32151d8af/f0CbbYBqExx6hJOpsfXfmSOZPeXbwg_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6198-b18e531af9df4de25929b2a32151d8af/f0CbbYBqExx6hJOpsfXfmSOZPeXbwg_original.jpg",
+ "posterShape": "landscape"
+}

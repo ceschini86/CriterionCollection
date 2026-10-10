@@ -1,0 +1,76 @@
+{
+ "id": "cpick877",
+ "type": "movie",
+ "name": "Luca Guadagnino",
+ "description": "Filmes que Luca Guadagnino escolheu no Criterion Closet:\n\n• As Tears Go By (1988)\n• Days of Being Wild (1990)\n• Chungking Express (1994)\n• Fallen Angels (1995)\n• Happy Together (1997)\n• In The Mood For Love\n• 2046\n• The Naked Kiss (1964)\n• Fat Girl (2001)\n• The Last Temptation of Christ (1988)\n• Cairo Station (1958)\n• Sorcerer (1977)\n• Night Moves (1975)",
+ "links": [
+  {
+   "name": "As Tears Go By",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0096461"
+  },
+  {
+   "name": "Days of Being Wild",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101258"
+  },
+  {
+   "name": "Chungking Express",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109424"
+  },
+  {
+   "name": "Fallen Angels",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112913"
+  },
+  {
+   "name": "Happy Together",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118845"
+  },
+  {
+   "name": "In The Mood For Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118694"
+  },
+  {
+   "name": "2046",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0212712"
+  },
+  {
+   "name": "The Naked Kiss",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058390"
+  },
+  {
+   "name": "Fat Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0243255"
+  },
+  {
+   "name": "The Last Temptation of Christ",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095497"
+  },
+  {
+   "name": "Cairo Station",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051390"
+  },
+  {
+   "name": "Sorcerer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076740"
+  },
+  {
+   "name": "Night Moves",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073453"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6939-41d832cf8347e5091e85f2f542ddecd4/Nn2rk6mcVmSFHj3o2mfEScO4Q6GUFI_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6939-41d832cf8347e5091e85f2f542ddecd4/Nn2rk6mcVmSFHj3o2mfEScO4Q6GUFI_original.jpg",
+ "posterShape": "landscape"
+}

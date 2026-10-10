@@ -1,0 +1,66 @@
+{
+ "id": "cpick430",
+ "type": "movie",
+ "name": "Jenni Olson",
+ "description": "Filmes que Jenni Olson escolheu no Criterion Closet:\n\n• Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1976)\n• Sweet Smell of Success (1957)\n• Desert Hearts (1985)\n• Memories of Underdevelopment (1968)\n• Vive Le Tour (1962)\n• Humain Trop Humain\n• Place de la République (1974)\n• Phantom India\n• Calcutta (1969)\n• God's Country (1985)\n• … And the Pursuit of Happiness (1986)",
+ "links": [
+  {
+   "name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073198"
+  },
+  {
+   "name": "Sweet Smell of Success",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051036"
+  },
+  {
+   "name": "Desert Hearts",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089015"
+  },
+  {
+   "name": "Memories of Underdevelopment",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063291"
+  },
+  {
+   "name": "Vive Le Tour",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056662"
+  },
+  {
+   "name": "Humain Trop Humain",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071635"
+  },
+  {
+   "name": "Place de la République",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071999"
+  },
+  {
+   "name": "Phantom India",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063914"
+  },
+  {
+   "name": "Calcutta",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062773"
+  },
+  {
+   "name": "God's Country",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091125"
+  },
+  {
+   "name": "… And the Pursuit of Happiness",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092561"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4829-ed4a19432b774b6562267262c854fab4/Hd0A2yb8ZtJlElD974ahcD4g1tS9bS_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4829-ed4a19432b774b6562267262c854fab4/Hd0A2yb8ZtJlElD974ahcD4g1tS9bS_original.jpg",
+ "posterShape": "landscape"
+}

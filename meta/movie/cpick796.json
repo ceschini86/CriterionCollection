@@ -1,0 +1,76 @@
+{
+ "id": "cpick796",
+ "type": "movie",
+ "name": "Amy Irving",
+ "description": "Filmes que Amy Irving escolheu no Criterion Closet:\n\n• The Great Escape (1963)\n• Blue Velvet (1986)\n• Cries and Whispers (1972)\n• Thief (1981)\n• Days of Heaven (1978)\n• The Tall T\n• Decision At Sundown\n• Buchanan Rides Alone\n• Ride Lonesome\n• Comanche Station\n• Crossing Delancey (1988)\n• The Rules of the Game (1939)\n• Le Petit Soldat (1963)",
+ "links": [
+  {
+   "name": "The Great Escape",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057115"
+  },
+  {
+   "name": "Blue Velvet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090756"
+  },
+  {
+   "name": "Cries and Whispers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069467"
+  },
+  {
+   "name": "Thief",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083190"
+  },
+  {
+   "name": "Days of Heaven",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077405"
+  },
+  {
+   "name": "The Tall T",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051047"
+  },
+  {
+   "name": "Decision At Sundown",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050296"
+  },
+  {
+   "name": "Buchanan Rides Alone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051437"
+  },
+  {
+   "name": "Ride Lonesome",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053220"
+  },
+  {
+   "name": "Comanche Station",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053729"
+  },
+  {
+   "name": "Crossing Delancey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094921"
+  },
+  {
+   "name": "The Rules of the Game",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0031885"
+  },
+  {
+   "name": "Le Petit Soldat",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054177"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6540-49c3fcb7eda2b78c7c3643ea311eb420/A7IdHvo2CUW43EQppLy7sCMQfSKkul_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6540-49c3fcb7eda2b78c7c3643ea311eb420/A7IdHvo2CUW43EQppLy7sCMQfSKkul_original.jpg",
+ "posterShape": "landscape"
+}

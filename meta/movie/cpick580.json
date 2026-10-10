@@ -1,0 +1,51 @@
+{
+ "id": "cpick580",
+ "type": "movie",
+ "name": "Alan Palomo",
+ "description": "Filmes que Alan Palomo escolheu no Criterion Closet:\n\n• Sid Nancy\n• Maîtresse (1976)\n• Fear and Loathing in Las Vegas (1998)\n• Medium Cool (1969)\n• True Stories (1986)\n• Mystery Train (1989)\n• Canoa: A Shameful Memory (1975)\n• Wings of Desire (1987)",
+ "links": [
+  {
+   "name": "Sid Nancy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091954"
+  },
+  {
+   "name": "Maîtresse",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074883"
+  },
+  {
+   "name": "Fear and Loathing in Las Vegas",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120669"
+  },
+  {
+   "name": "Medium Cool",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064652"
+  },
+  {
+   "name": "True Stories",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092117"
+  },
+  {
+   "name": "Mystery Train",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097940"
+  },
+  {
+   "name": "Canoa: A Shameful Memory",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0131335"
+  },
+  {
+   "name": "Wings of Desire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093191"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5520-4a128d9e0bde28a0de23e88fd7a5b31a/I8CeVL3xHyj1IB8GSbTiNbKLSymNqC_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5520-4a128d9e0bde28a0de23e88fd7a5b31a/I8CeVL3xHyj1IB8GSbTiNbKLSymNqC_original.jpg",
+ "posterShape": "landscape"
+}

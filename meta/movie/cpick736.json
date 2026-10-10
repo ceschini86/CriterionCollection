@@ -1,0 +1,66 @@
+{
+ "id": "cpick736",
+ "type": "movie",
+ "name": "Jeremy Pope",
+ "description": "Filmes que Jeremy Pope escolheu no Criterion Closet:\n\n• Devil in a Blue Dress (1995)\n• Paris Is Burning (1991)\n• Do the Right Thing (1989)\n• One Night in Miami... (2020)\n• Ethnic Notions\n• Tongues Untied\n• Affirmations\n• Color Adjustment\n• Non Je Ne Regrette Rien No Regret\n• Black Is Black Ain T\n• The Philadelphia Story (1940)",
+ "links": [
+  {
+   "name": "Devil in a Blue Dress",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112857"
+  },
+  {
+   "name": "Paris Is Burning",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100332"
+  },
+  {
+   "name": "Do the Right Thing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097216"
+  },
+  {
+   "name": "One Night in Miami...",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt10612922"
+  },
+  {
+   "name": "Ethnic Notions",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091018"
+  },
+  {
+   "name": "Tongues Untied",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103099"
+  },
+  {
+   "name": "Affirmations",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0136697"
+  },
+  {
+   "name": "Color Adjustment",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103984"
+  },
+  {
+   "name": "Non Je Ne Regrette Rien No Regret",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0137129"
+  },
+  {
+   "name": "Black Is Black Ain T",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109285"
+  },
+  {
+   "name": "The Philadelphia Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032904"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6234-c4faed96e86968995d600043ab46f51e/vh9zgcMxfKyZoo63PP0nQt3q72pZeV_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6234-c4faed96e86968995d600043ab46f51e/vh9zgcMxfKyZoo63PP0nQt3q72pZeV_original.jpg",
+ "posterShape": "landscape"
+}

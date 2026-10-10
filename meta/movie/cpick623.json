@@ -1,0 +1,76 @@
+{
+ "id": "cpick623",
+ "type": "movie",
+ "name": "Justine Triet",
+ "description": "Filmes que Justine Triet escolheu no Criterion Closet:\n\n• An Unmarried Woman (1978)\n• La Verite\n• The Story of a Cheat (1936)\n• The Pearls of the Crown (1937)\n• Quadrille\n• Warrendale (1967)\n• A Married Couple (1969)\n• Come On Children\n• Dying at Grace (2003)\n• Memory For Max Claire Ida And Company\n• Petite Maman (2021)\n• Sex, Lies, and Videotape (1989)\n• La Notte (1961)",
+ "links": [
+  {
+   "name": "An Unmarried Woman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078444"
+  },
+  {
+   "name": "La Verite",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054452"
+  },
+  {
+   "name": "The Story of a Cheat",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028201"
+  },
+  {
+   "name": "The Pearls of the Crown",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0029394"
+  },
+  {
+   "name": "Quadrille",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0030642"
+  },
+  {
+   "name": "Warrendale",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062474"
+  },
+  {
+   "name": "A Married Couple",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064640"
+  },
+  {
+   "name": "Come On Children",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0269104"
+  },
+  {
+   "name": "Dying at Grace",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0379269"
+  },
+  {
+   "name": "Memory For Max Claire Ida And Company",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0478000"
+  },
+  {
+   "name": "Petite Maman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt13204490"
+  },
+  {
+   "name": "Sex, Lies, and Videotape",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0098724"
+  },
+  {
+   "name": "La Notte",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054130"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5774-e31095c6caa438ba1a596dc00f80a642/9kNzRnnjlPJKs9OYJQ88llrVjVcSjB_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5774-e31095c6caa438ba1a596dc00f80a642/9kNzRnnjlPJKs9OYJQ88llrVjVcSjB_original.jpg",
+ "posterShape": "landscape"
+}

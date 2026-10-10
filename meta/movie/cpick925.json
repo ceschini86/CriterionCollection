@@ -1,0 +1,111 @@
+{
+ "id": "cpick925",
+ "type": "movie",
+ "name": "Mary Bronstein",
+ "description": "Filmes que Mary Bronstein escolheu no Criterion Closet:\n\n• Dance, Girl, Dance (1940)\n• Merrily We Go to Hell (1932)\n• Frownland (2008)\n• Saute ma ville (1968)\n• L Enfant Aime Ou Je Joue A Etre Une Femme Mariee\n• La chambre (1972)\n• Hotel Monterey (1976)\n• Je Tu Il Elle (1974)\n• Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1976)\n• News from Home (1976)\n• Les Rendez Vous D Anna\n• Inland Empire (2006)\n• This Is Spinal Tap (1984)\n• The Bakery Girl of Monceau (1963)\n• Suzanne's Career (1963)\n• My Night at Maud's (1969)\n• La Collectionneuse (1967)\n• Claire's Knee (1970)\n• Love in the Afternoon (1972)\n• It's a Mad, Mad, Mad, Mad World (1963)",
+ "links": [
+  {
+   "name": "Dance, Girl, Dance",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032376"
+  },
+  {
+   "name": "Merrily We Go to Hell",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0023213"
+  },
+  {
+   "name": "Frownland",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0970935"
+  },
+  {
+   "name": "Saute ma ville",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063551"
+  },
+  {
+   "name": "L Enfant Aime Ou Je Joue A Etre Une Femme Mariee",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067053"
+  },
+  {
+   "name": "La chambre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068354"
+  },
+  {
+   "name": "Hotel Monterey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068725"
+  },
+  {
+   "name": "Je Tu Il Elle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071690"
+  },
+  {
+   "name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073198"
+  },
+  {
+   "name": "News from Home",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076452"
+  },
+  {
+   "name": "Les Rendez Vous D Anna",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078152"
+  },
+  {
+   "name": "Inland Empire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0460829"
+  },
+  {
+   "name": "This Is Spinal Tap",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088258"
+  },
+  {
+   "name": "The Bakery Girl of Monceau",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056884"
+  },
+  {
+   "name": "Suzanne's Career",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056910"
+  },
+  {
+   "name": "My Night at Maud's",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064612"
+  },
+  {
+   "name": "La Collectionneuse",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061495"
+  },
+  {
+   "name": "Claire's Knee",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065772"
+  },
+  {
+   "name": "Love in the Afternoon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068205"
+  },
+  {
+   "name": "It's a Mad, Mad, Mad, Mad World",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057193"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7208-a933c794737d02abb2fee5395e55f772/XnKlY22SUOCD1XA8VLbuKWaYXuEa1M_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7208-a933c794737d02abb2fee5395e55f772/XnKlY22SUOCD1XA8VLbuKWaYXuEa1M_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,46 @@
+{
+ "id": "cpick959",
+ "type": "movie",
+ "name": "Richard Gadd",
+ "description": "Filmes que Richard Gadd escolheu no Criterion Closet:\n\n• Happiness (1965)\n• Memories of Murder (2003)\n• Trainspotting (1996)\n• Raging Bull (1980)\n• The Last Waltz (1978)\n• Gimme Shelter (1970)\n• Easy Rider (1969)",
+ "links": [
+  {
+   "name": "Happiness",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058985"
+  },
+  {
+   "name": "Memories of Murder",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0353969"
+  },
+  {
+   "name": "Trainspotting",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0117951"
+  },
+  {
+   "name": "Raging Bull",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081398"
+  },
+  {
+   "name": "The Last Waltz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077838"
+  },
+  {
+   "name": "Gimme Shelter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065780"
+  },
+  {
+   "name": "Easy Rider",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064276"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7331-d244489045d0167d944167b853f54f20/ZfIOGnzzcz3QNiwU8WTqiB6UeGieBG_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7331-d244489045d0167d944167b853f54f20/ZfIOGnzzcz3QNiwU8WTqiB6UeGieBG_original.jpg",
+ "posterShape": "landscape"
+}

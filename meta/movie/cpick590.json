@@ -1,0 +1,61 @@
+{
+ "id": "cpick590",
+ "type": "movie",
+ "name": "Raven Jackson",
+ "description": "Filmes que Raven Jackson escolheu no Criterion Closet:\n\n• Eve's Bayou (1997)\n• Ratcatcher (1999)\n• The Piano Teacher (2001)\n• Amores perros (2000)\n• Medicine for Melancholy (2008)\n• Fat Girl (2001)\n• Weekend (1967)\n• Faya Dayi (2021)\n• La Ciénaga (2001)\n• The Devil's Backbone (2001)",
+ "links": [
+  {
+   "name": "Eve's Bayou",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119080"
+  },
+  {
+   "name": "Ratcatcher",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0171685"
+  },
+  {
+   "name": "The Piano Teacher",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0254686"
+  },
+  {
+   "name": "Amores perros",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0245712"
+  },
+  {
+   "name": "Medicine for Melancholy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1133989"
+  },
+  {
+   "name": "Fat Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0243255"
+  },
+  {
+   "name": "Weekend",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062480"
+  },
+  {
+   "name": "Faya Dayi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt13648216"
+  },
+  {
+   "name": "La Ciénaga",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0240419"
+  },
+  {
+   "name": "The Devil's Backbone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0256009"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5557-c2567543c4ca3c3ed680886f202ff323/VrLADak56pmu9J3h9qLlou58lQcoc4_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5557-c2567543c4ca3c3ed680886f202ff323/VrLADak56pmu9J3h9qLlou58lQcoc4_original.jpg",
+ "posterShape": "landscape"
+}

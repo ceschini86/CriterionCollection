@@ -1,0 +1,36 @@
+{
+ "id": "cpick945",
+ "type": "movie",
+ "name": "John Slattery",
+ "description": "Filmes que John Slattery escolheu no Criterion Closet:\n\n• Shampoo (1975)\n• No Country for Old Men (2007)\n• The Awful Truth (1937)\n• The Hit (1984)\n• The Friends of Eddie Coyle (1973)",
+ "links": [
+  {
+   "name": "Shampoo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073692"
+  },
+  {
+   "name": "No Country for Old Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0477348"
+  },
+  {
+   "name": "The Awful Truth",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028597"
+  },
+  {
+   "name": "The Hit",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087414"
+  },
+  {
+   "name": "The Friends of Eddie Coyle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070077"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7279-836d749d4e6e78d26b63b59e9d990495/ajroyoSTiP2KjpFza2QyaUMrMqUDj9_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7279-836d749d4e6e78d26b63b59e9d990495/ajroyoSTiP2KjpFza2QyaUMrMqUDj9_original.jpg",
+ "posterShape": "landscape"
+}

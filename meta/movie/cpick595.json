@@ -1,0 +1,91 @@
+{
+ "id": "cpick595",
+ "type": "movie",
+ "name": "Jason Schwartzman",
+ "description": "Filmes que Jason Schwartzman escolheu no Criterion Closet:\n\n• The Killers\n• Under the Volcano (1984)\n• Straw Dogs (1971)\n• An Unmarried Woman (1978)\n• The Red Shoes (1948)\n• The Bad Sleep Well (1960)\n• Local Hero (1983)\n• Accattone (1961)\n• Mamma Roma (1962)\n• Love Meetings (1965)\n• The Gospel According To Matthew\n• The Hawks and the Sparrows (1966)\n• Oedipus Rex (1967)\n• Teorema (1968)\n• Porcile\n• Medea (1969)",
+ "links": [
+  {
+   "name": "The Killers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058262"
+  },
+  {
+   "name": "Under the Volcano",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088322"
+  },
+  {
+   "name": "Straw Dogs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067800"
+  },
+  {
+   "name": "An Unmarried Woman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078444"
+  },
+  {
+   "name": "The Red Shoes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040725"
+  },
+  {
+   "name": "The Bad Sleep Well",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054460"
+  },
+  {
+   "name": "Local Hero",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085859"
+  },
+  {
+   "name": "Accattone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054599"
+  },
+  {
+   "name": "Mamma Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056215"
+  },
+  {
+   "name": "Love Meetings",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057960"
+  },
+  {
+   "name": "The Gospel According To Matthew",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058715"
+  },
+  {
+   "name": "The Hawks and the Sparrows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061132"
+  },
+  {
+   "name": "Oedipus Rex",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061613"
+  },
+  {
+   "name": "Teorema",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063678"
+  },
+  {
+   "name": "Porcile",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064828"
+  },
+  {
+   "name": "Medea",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066065"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5746-577d4090587fa74fbc984ddced7a5d53/hmeXSTKE9lIVD61HRIIjDIfmAC7Rww_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5746-577d4090587fa74fbc984ddced7a5d53/hmeXSTKE9lIVD61HRIIjDIfmAC7Rww_original.jpg",
+ "posterShape": "landscape"
+}

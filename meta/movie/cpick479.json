@@ -1,0 +1,56 @@
+{
+ "id": "cpick479",
+ "type": "movie",
+ "name": "Laura Albert & Jeff Feuerzeig",
+ "description": "Filmes que Laura Albert & Jeff Feuerzeig escolheu no Criterion Closet:\n\n• My Own Private Idaho (1991)\n• Rushmore (1998)\n• Kiss Me Deadly (1955)\n• The Insect Woman (1963)\n• Pigs and Battleships (1961)\n• Intentions of Murder (1964)\n• On the Waterfront (1954)\n• Repo Man (1984)\n• The Rose (1979)",
+ "links": [
+  {
+   "name": "My Own Private Idaho",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102494"
+  },
+  {
+   "name": "Rushmore",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0128445"
+  },
+  {
+   "name": "Kiss Me Deadly",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048261"
+  },
+  {
+   "name": "The Insect Woman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057363"
+  },
+  {
+   "name": "Pigs and Battleships",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054709"
+  },
+  {
+   "name": "Intentions of Murder",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057829"
+  },
+  {
+   "name": "On the Waterfront",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047296"
+  },
+  {
+   "name": "Repo Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087995"
+  },
+  {
+   "name": "The Rose",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079826"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5608-0d4f0b214667f84c9b28747f2adaa36a/uxTaYblYmMEf7FGUcj5L5qHFZw2h7L_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5608-0d4f0b214667f84c9b28747f2adaa36a/uxTaYblYmMEf7FGUcj5L5qHFZw2h7L_original.jpg",
+ "posterShape": "landscape"
+}

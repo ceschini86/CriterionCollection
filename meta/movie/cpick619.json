@@ -1,0 +1,56 @@
+{
+ "id": "cpick619",
+ "type": "movie",
+ "name": "Dan Levy",
+ "description": "Filmes que Dan Levy escolheu no Criterion Closet:\n\n• Moonstruck (1987)\n• Tokyo Story (1953)\n• The Piano Teacher (2001)\n• Election (1999)\n• Love & Basketball (2000)\n• Weekend (1967)\n• The Daytrippers (1997)\n• The Virgin Suicides (1999)\n• Kagemusha (1980)",
+ "links": [
+  {
+   "name": "Moonstruck",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093565"
+  },
+  {
+   "name": "Tokyo Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046438"
+  },
+  {
+   "name": "The Piano Teacher",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0254686"
+  },
+  {
+   "name": "Election",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0126886"
+  },
+  {
+   "name": "Love & Basketball",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0199725"
+  },
+  {
+   "name": "Weekend",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062480"
+  },
+  {
+   "name": "The Daytrippers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0116041"
+  },
+  {
+   "name": "The Virgin Suicides",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0159097"
+  },
+  {
+   "name": "Kagemusha",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080979"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5754-a93bb61b277ed0ff8ce9e6f9bbb047cd/6Bvg88xRxIs36lni8X2OuIBcRtGiFW_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5754-a93bb61b277ed0ff8ce9e6f9bbb047cd/6Bvg88xRxIs36lni8X2OuIBcRtGiFW_original.jpg",
+ "posterShape": "landscape"
+}

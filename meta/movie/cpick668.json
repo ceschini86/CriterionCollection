@@ -1,0 +1,46 @@
+{
+ "id": "cpick668",
+ "type": "movie",
+ "name": "Koji Yakusho",
+ "description": "Filmes que Koji Yakusho escolheu no Criterion Closet:\n\n• Red Beard (1965)\n• Ikiru (1952)\n• Harakiri (1962)\n• The Funeral (1984)\n• Cure (1997)\n• City Lights (1931)\n• Paris, Texas (1984)",
+ "links": [
+  {
+   "name": "Red Beard",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058888"
+  },
+  {
+   "name": "Ikiru",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044741"
+  },
+  {
+   "name": "Harakiri",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056058"
+  },
+  {
+   "name": "The Funeral",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089746"
+  },
+  {
+   "name": "Cure",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0123948"
+  },
+  {
+   "name": "City Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0021749"
+  },
+  {
+   "name": "Paris, Texas",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087884"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5964-23f050209f484a31f20113384aab7da4/hcyEf9KjV2WjzEhSLzelqTSskO7trM_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5964-23f050209f484a31f20113384aab7da4/hcyEf9KjV2WjzEhSLzelqTSskO7trM_original.jpg",
+ "posterShape": "landscape"
+}

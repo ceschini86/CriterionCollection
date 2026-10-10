@@ -1,0 +1,66 @@
+{
+ "id": "cpick985",
+ "type": "movie",
+ "name": "Matt Damon",
+ "description": "Filmes que Matt Damon escolheu no Criterion Closet:\n\n• Purple Noon (1960)\n• Knife in the Water (1962)\n• Traffic\n• You Can Count on Me (2000)\n• Drugstore Cowboy (1989)\n• One False Move (1992)\n• No Country for Old Men (2007)\n• Double Indemnity (1944)\n• Sex, Lies, and Videotape (1989)\n• 12 Angry Men (1957)\n• Maîtresse (1976)",
+ "links": [
+  {
+   "name": "Purple Noon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054189"
+  },
+  {
+   "name": "Knife in the Water",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056291"
+  },
+  {
+   "name": "Traffic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0181865"
+  },
+  {
+   "name": "You Can Count on Me",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0203230"
+  },
+  {
+   "name": "Drugstore Cowboy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097240"
+  },
+  {
+   "name": "One False Move",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102592"
+  },
+  {
+   "name": "No Country for Old Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0477348"
+  },
+  {
+   "name": "Double Indemnity",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0036775"
+  },
+  {
+   "name": "Sex, Lies, and Videotape",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0098724"
+  },
+  {
+   "name": "12 Angry Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050083"
+  },
+  {
+   "name": "Maîtresse",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074883"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7468-9893c144e7e082f9a0570568affc1232/2Mp6LhyCPizZVNBxVgoFPnDN5KhUqY_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7468-9893c144e7e082f9a0570568affc1232/2Mp6LhyCPizZVNBxVgoFPnDN5KhUqY_original.jpg",
+ "posterShape": "landscape"
+}

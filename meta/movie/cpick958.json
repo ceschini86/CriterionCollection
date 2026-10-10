@@ -1,0 +1,46 @@
+{
+ "id": "cpick958",
+ "type": "movie",
+ "name": "Steve Zahn",
+ "description": "Filmes que Steve Zahn escolheu no Criterion Closet:\n\n• Slacker (1990)\n• Mystery Train (1989)\n• Paris, Texas (1984)\n• Miller's Crossing (1990)\n• Some Like It Hot (1959)\n• Being There (1979)\n• Night of the Living Dead (1968)",
+ "links": [
+  {
+   "name": "Slacker",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102943"
+  },
+  {
+   "name": "Mystery Train",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097940"
+  },
+  {
+   "name": "Paris, Texas",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087884"
+  },
+  {
+   "name": "Miller's Crossing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100150"
+  },
+  {
+   "name": "Some Like It Hot",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053291"
+  },
+  {
+   "name": "Being There",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078841"
+  },
+  {
+   "name": "Night of the Living Dead",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063350"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7327-bde34023433b0e7181646d736d345eb2/XXefURkILlChYYtFO3nLCzto21iXMv_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7327-bde34023433b0e7181646d736d345eb2/XXefURkILlChYYtFO3nLCzto21iXMv_original.jpg",
+ "posterShape": "landscape"
+}

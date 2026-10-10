@@ -1,0 +1,36 @@
+{
+ "id": "cpick733",
+ "type": "movie",
+ "name": "Janelle Monáe",
+ "description": "Filmes que Janelle Monáe escolheu no Criterion Closet:\n\n• The Blob (1958)\n• Eraserhead (1977)\n• 1984\n• Brazil (1985)\n• Night of the Living Dead (1968)",
+ "links": [
+  {
+   "name": "The Blob",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051418"
+  },
+  {
+   "name": "Eraserhead",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074486"
+  },
+  {
+   "name": "1984",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087803"
+  },
+  {
+   "name": "Brazil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088846"
+  },
+  {
+   "name": "Night of the Living Dead",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063350"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6222-9e0ce55f4d2258d2dfd746571358cd2c/C2iKQaB0dg0aG3W021dzlEsZiMtp0U_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6222-9e0ce55f4d2258d2dfd746571358cd2c/C2iKQaB0dg0aG3W021dzlEsZiMtp0U_original.jpg",
+ "posterShape": "landscape"
+}

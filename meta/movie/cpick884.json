@@ -1,0 +1,36 @@
+{
+ "id": "cpick884",
+ "type": "movie",
+ "name": "Nick Offerman",
+ "description": "Filmes que Nick Offerman escolheu no Criterion Closet:\n\n• Heart of a Dog (2015)\n• Rashomon (1950)\n• Kes (1969)\n• Dead Man (1995)\n• A Room with a View (1986)",
+ "links": [
+  {
+   "name": "Heart of a Dog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt4935446"
+  },
+  {
+   "name": "Rashomon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042876"
+  },
+  {
+   "name": "Kes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064541"
+  },
+  {
+   "name": "Dead Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112817"
+  },
+  {
+   "name": "A Room with a View",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091867"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6972-fe53559fada91dec051be88ce92ad734/hlaADmXpoT0gRWDtPjekqGrft8oCFM_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6972-fe53559fada91dec051be88ce92ad734/hlaADmXpoT0gRWDtPjekqGrft8oCFM_original.jpg",
+ "posterShape": "landscape"
+}

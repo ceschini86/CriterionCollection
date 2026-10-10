@@ -1,0 +1,46 @@
+{
+ "id": "cpick961",
+ "type": "movie",
+ "name": "Ira Sachs",
+ "description": "Filmes que Ira Sachs escolheu no Criterion Closet:\n\n• 3 Women (1977)\n• Night and the City (1950)\n• Beau Travail (1999)\n• Cold Water (1994)\n• Nothing But a Man (1964)\n• The Heiress (1949)\n• The Bitter Tears of Petra von Kant (1972)",
+ "links": [
+  {
+   "name": "3 Women",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075612"
+  },
+  {
+   "name": "Night and the City",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042788"
+  },
+  {
+   "name": "Beau Travail",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0209933"
+  },
+  {
+   "name": "Cold Water",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109702"
+  },
+  {
+   "name": "Nothing But a Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058414"
+  },
+  {
+   "name": "The Heiress",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041452"
+  },
+  {
+   "name": "The Bitter Tears of Petra von Kant",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068278"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7347-ff3b3d434c8065ad1ded155c8dbed826/bli8kyPI04qIoltce5L4onKSmyShwy_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7347-ff3b3d434c8065ad1ded155c8dbed826/bli8kyPI04qIoltce5L4onKSmyShwy_original.jpg",
+ "posterShape": "landscape"
+}

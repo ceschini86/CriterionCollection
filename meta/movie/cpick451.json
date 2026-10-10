@@ -1,0 +1,36 @@
+{
+ "id": "cpick451",
+ "type": "movie",
+ "name": "Anna Karina",
+ "description": "Filmes que Anna Karina escolheu no Criterion Closet:\n\n• Pierrot le Fou (1965)\n• Cléo from 5 to 7 (1962)\n• A Woman Is a Woman (1961)\n• Made in U.S.A (1966)\n• The Kid (1921)",
+ "links": [
+  {
+   "name": "Pierrot le Fou",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059592"
+  },
+  {
+   "name": "Cléo from 5 to 7",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055852"
+  },
+  {
+   "name": "A Woman Is a Woman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055572"
+  },
+  {
+   "name": "Made in U.S.A",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060647"
+  },
+  {
+   "name": "The Kid",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0012349"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5097-949d07803fcb2aa05abeaba18af472c0/OnTUEKnFQV0Pwc5hOfUBQwLyKcMZpn_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5097-949d07803fcb2aa05abeaba18af472c0/OnTUEKnFQV0Pwc5hOfUBQwLyKcMZpn_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "cpick807",
+ "type": "movie",
+ "name": "Jia Zhangke",
+ "description": "Filmes que Jia Zhangke escolheu no Criterion Closet:\n\n• Roma\n• La Notte (1961)\n• City Lights (1931)\n• Good Morning (1959)\n• Pickpocket\n• Yi Yi (2000)",
+ "links": [
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6155172"
+  },
+  {
+   "name": "La Notte",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054130"
+  },
+  {
+   "name": "City Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0021749"
+  },
+  {
+   "name": "Good Morning",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053134"
+  },
+  {
+   "name": "Pickpocket",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053168"
+  },
+  {
+   "name": "Yi Yi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0244316"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6580-0ecaf59390b4adb0aefd68b5146278cb/FlzUC6O3RI01anZdTAlXLRRiWYAfvy_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6580-0ecaf59390b4adb0aefd68b5146278cb/FlzUC6O3RI01anZdTAlXLRRiWYAfvy_original.jpg",
+ "posterShape": "landscape"
+}

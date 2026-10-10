@@ -1,0 +1,61 @@
+{
+ "id": "cpick745",
+ "type": "movie",
+ "name": "André Holland",
+ "description": "Filmes que André Holland escolheu no Criterion Closet:\n\n• Pariah (2011)\n• The Story of a Three-Day Pass (1968)\n• Watermelon Man (1970)\n• Sweet Sweetback's Baadasssss Song (1971)\n• Don't Play Us Cheap (1973)\n• To Sleep with Anger (1990)\n• Medicine for Melancholy (2008)\n• Claudine (1974)\n• Matewan (1987)\n• A Raisin in the Sun (1961)",
+ "links": [
+  {
+   "name": "Pariah",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1233334"
+  },
+  {
+   "name": "The Story of a Three-Day Pass",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063646"
+  },
+  {
+   "name": "Watermelon Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066550"
+  },
+  {
+   "name": "Sweet Sweetback's Baadasssss Song",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067810"
+  },
+  {
+   "name": "Don't Play Us Cheap",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069996"
+  },
+  {
+   "name": "To Sleep with Anger",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100791"
+  },
+  {
+   "name": "Medicine for Melancholy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1133989"
+  },
+  {
+   "name": "Claudine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071334"
+  },
+  {
+   "name": "Matewan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093509"
+  },
+  {
+   "name": "A Raisin in the Sun",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055353"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6272-3485b43020954e38b48368208406be78/IhNQmW2j6pe53IxoWeq5o5Jt8iBYXo_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6272-3485b43020954e38b48368208406be78/IhNQmW2j6pe53IxoWeq5o5Jt8iBYXo_original.jpg",
+ "posterShape": "landscape"
+}

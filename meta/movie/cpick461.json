@@ -1,0 +1,36 @@
+{
+ "id": "cpick461",
+ "type": "movie",
+ "name": "Cristian Mungiu",
+ "description": "Filmes que Cristian Mungiu escolheu no Criterion Closet:\n\n• Modern Times (1936)\n• Bicycle Thieves (1948)\n• Dekalog\n• Blood Simple (1984)\n• Easy Rider (1969)",
+ "links": [
+  {
+   "name": "Modern Times",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0027977"
+  },
+  {
+   "name": "Bicycle Thieves",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040522"
+  },
+  {
+   "name": "Dekalog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092337"
+  },
+  {
+   "name": "Blood Simple",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086979"
+  },
+  {
+   "name": "Easy Rider",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064276"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4953-72fe5be0fcddbda3ace1d04a44f54943/hhi1KjU3nKySO82G0LEbX4eUWJkaHJ_original.png",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4953-72fe5be0fcddbda3ace1d04a44f54943/hhi1KjU3nKySO82G0LEbX4eUWJkaHJ_original.png",
+ "posterShape": "landscape"
+}

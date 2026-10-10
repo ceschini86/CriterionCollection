@@ -1,0 +1,151 @@
+{
+ "id": "cpick560",
+ "type": "movie",
+ "name": "Agnès B.",
+ "description": "Filmes que Agnès B. escolheu no Criterion Closet:\n\n• Lost Highway (1997)\n• The Asphalt Jungle (1950)\n• Teorema (1968)\n• Cul-de-sac (1966)\n• The Night of the Hunter (1955)\n• All About My Mother (1999)\n• Varda by Agnès (2019)\n• La Pointe Courte (1956)\n• Cléo from 5 to 7 (1962)\n• Daguerréotypes (1978)\n• Le Bonheur (1965)\n• Les Creatures\n• Uncle Yanco (1967)\n• Black Panthers (1968)\n• Lions Love And Lies\n• Mur Murs (1982)\n• Documenteur (1982)\n• One Sings, the Other Doesn't (1977)\n• Vagabond (1985)\n• Jane B Par Agnes V\n• Kung-Fu Master! (1988)\n• Jacquot De Nantes\n• One Hundred and One Nights (1995)\n• The Gleaners and I (2000)\n• The Gleaners and I: Two Years Later (2002)\n• Faces Places\n• Agnes De Ci De La Varda\n• The Beaches of Agnès (2008)",
+ "links": [
+  {
+   "name": "Lost Highway",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0116922"
+  },
+  {
+   "name": "The Asphalt Jungle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042208"
+  },
+  {
+   "name": "Teorema",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063678"
+  },
+  {
+   "name": "Cul-de-sac",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060268"
+  },
+  {
+   "name": "The Night of the Hunter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048424"
+  },
+  {
+   "name": "All About My Mother",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0185125"
+  },
+  {
+   "name": "Varda by Agnès",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt9530198"
+  },
+  {
+   "name": "La Pointe Courte",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048499"
+  },
+  {
+   "name": "Cléo from 5 to 7",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055852"
+  },
+  {
+   "name": "Daguerréotypes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071384"
+  },
+  {
+   "name": "Le Bonheur",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058985"
+  },
+  {
+   "name": "Les Creatures",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060263"
+  },
+  {
+   "name": "Uncle Yanco",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0179389"
+  },
+  {
+   "name": "Black Panthers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0209942"
+  },
+  {
+   "name": "Lions Love And Lies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064591"
+  },
+  {
+   "name": "Mur Murs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081204"
+  },
+  {
+   "name": "Documenteur",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082275"
+  },
+  {
+   "name": "One Sings, the Other Doesn't",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076855"
+  },
+  {
+   "name": "Vagabond",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089960"
+  },
+  {
+   "name": "Jane B Par Agnes V",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093295"
+  },
+  {
+   "name": "Kung-Fu Master!",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093371"
+  },
+  {
+   "name": "Jacquot De Nantes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102141"
+  },
+  {
+   "name": "One Hundred and One Nights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112654"
+  },
+  {
+   "name": "The Gleaners and I",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0247380"
+  },
+  {
+   "name": "The Gleaners and I: Two Years Later",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0345128"
+  },
+  {
+   "name": "Faces Places",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt5598102"
+  },
+  {
+   "name": "Agnes De Ci De La Varda",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2125012"
+  },
+  {
+   "name": "The Beaches of Agnès",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1129435"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5450-fe77389b31f4176c1c7baed0adc75dcf/OqeoLMzEanx9gK8sCLjBEs9hEtSxqB_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5450-fe77389b31f4176c1c7baed0adc75dcf/OqeoLMzEanx9gK8sCLjBEs9hEtSxqB_original.jpg",
+ "posterShape": "landscape"
+}

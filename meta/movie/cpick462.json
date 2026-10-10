@@ -1,0 +1,91 @@
+{
+ "id": "cpick462",
+ "type": "movie",
+ "name": "Asif Kapadia",
+ "description": "Filmes que Asif Kapadia escolheu no Criterion Closet:\n\n• Simon of the Desert (1965)\n• Blind Chance (1987)\n• In The Mood For Love\n• Salò, or the 120 Days of Sodom (1975)\n• Don't Look Now (1973)\n• The Vanishing (1988)\n• Do the Right Thing (1989)\n• Investigation of a Citizen Above Suspicion (1970)\n• Code Unknown (2000)\n• Three Outlaw Samurai (1964)\n• Yi Yi (2000)\n• Samurai I: Musashi Miyamoto (1954)\n• Samurai II: Duel at Ichijoji Temple (1955)\n• Samurai III: Duel at Ganryu Island (1956)\n• Kes (1969)\n• Gomorrah (2008)",
+ "links": [
+  {
+   "name": "Simon of the Desert",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059719"
+  },
+  {
+   "name": "Blind Chance",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084549"
+  },
+  {
+   "name": "In The Mood For Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118694"
+  },
+  {
+   "name": "Salò, or the 120 Days of Sodom",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073650"
+  },
+  {
+   "name": "Don't Look Now",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069995"
+  },
+  {
+   "name": "The Vanishing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0096163"
+  },
+  {
+   "name": "Do the Right Thing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097216"
+  },
+  {
+   "name": "Investigation of a Citizen Above Suspicion",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065889"
+  },
+  {
+   "name": "Code Unknown",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0216625"
+  },
+  {
+   "name": "Three Outlaw Samurai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058652"
+  },
+  {
+   "name": "Yi Yi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0244316"
+  },
+  {
+   "name": "Samurai I: Musashi Miyamoto",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047444"
+  },
+  {
+   "name": "Samurai II: Duel at Ichijoji Temple",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048579"
+  },
+  {
+   "name": "Samurai III: Duel at Ganryu Island",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049710"
+  },
+  {
+   "name": "Kes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064541"
+  },
+  {
+   "name": "Gomorrah",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0929425"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5300-8c2e13d1b9c3a2e1686cf5b1f9e3ccdb/URlj7oItYXvVvNULbt6nL3s2XeYDTZ_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5300-8c2e13d1b9c3a2e1686cf5b1f9e3ccdb/URlj7oItYXvVvNULbt6nL3s2XeYDTZ_original.jpg",
+ "posterShape": "landscape"
+}

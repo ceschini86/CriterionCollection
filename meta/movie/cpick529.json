@@ -1,0 +1,51 @@
+{
+ "id": "cpick529",
+ "type": "movie",
+ "name": "André Gregory and Wallace Shawn",
+ "description": "Filmes que André Gregory and Wallace Shawn escolheu no Criterion Closet:\n\n• Weekend (1967)\n• L'Eclisse (1962)\n• Red Desert (1964)\n• Eating Raoul (1982)\n• My Dinner with Andre (1981)\n• Vanya on 42nd Street (1994)\n• A Master Builder (2014)\n• The Life and Death of Colonel Blimp (1943)",
+ "links": [
+  {
+   "name": "Weekend",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062480"
+  },
+  {
+   "name": "L'Eclisse",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056736"
+  },
+  {
+   "name": "Red Desert",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058003"
+  },
+  {
+   "name": "Eating Raoul",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083869"
+  },
+  {
+   "name": "My Dinner with Andre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082783"
+  },
+  {
+   "name": "Vanya on 42nd Street",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111590"
+  },
+  {
+   "name": "A Master Builder",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2276069"
+  },
+  {
+   "name": "The Life and Death of Colonel Blimp",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0036112"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5296-7dd1a5054decf25ec13fef8333307f2a/oRbt6VZymwLHAChm4Xd0CnXGJ5STnf_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5296-7dd1a5054decf25ec13fef8333307f2a/oRbt6VZymwLHAChm4Xd0CnXGJ5STnf_original.jpg",
+ "posterShape": "landscape"
+}

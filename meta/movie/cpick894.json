@@ -1,0 +1,51 @@
+{
+ "id": "cpick894",
+ "type": "movie",
+ "name": "Kathryn Bigelow",
+ "description": "Filmes que Kathryn Bigelow escolheu no Criterion Closet:\n\n• Detour (1945)\n• The Battle of Algiers (1966)\n• Straw Dogs (1971)\n• Army of Shadows (1969)\n• The Confession (1970)\n• Hiroshima Mon Amour (1959)\n• Notorious (1946)\n• The Lodger: A Story of the London Fog (1927)",
+ "links": [
+  {
+   "name": "Detour",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037638"
+  },
+  {
+   "name": "The Battle of Algiers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058946"
+  },
+  {
+   "name": "Straw Dogs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067800"
+  },
+  {
+   "name": "Army of Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064040"
+  },
+  {
+   "name": "The Confession",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065439"
+  },
+  {
+   "name": "Hiroshima Mon Amour",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052893"
+  },
+  {
+   "name": "Notorious",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038787"
+  },
+  {
+   "name": "The Lodger: A Story of the London Fog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0017075"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7042-3a842f61bf7a4f550aedada215cb296e/KUy2DNLfntaZQ19qqUynWCm4ZyLvwd_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7042-3a842f61bf7a4f550aedada215cb296e/KUy2DNLfntaZQ19qqUynWCm4ZyLvwd_original.jpg",
+ "posterShape": "landscape"
+}

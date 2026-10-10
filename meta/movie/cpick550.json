@@ -1,0 +1,66 @@
+{
+ "id": "cpick550",
+ "type": "movie",
+ "name": "Benjamin Millepied",
+ "description": "Filmes que Benjamin Millepied escolheu no Criterion Closet:\n\n• On the Waterfront (1954)\n• The Tree of Life (2011)\n• Sanshiro Sugata (1943)\n• The Most Beautiful (1944)\n• Sanshiro Sugata Part Two\n• The Men Who Tread on the Tiger's Tail (1952)\n• All That Jazz (1979)\n• L'Avventura (1960)\n• Koyaanisqatsi (1982)\n• Powaqqatsi (1988)\n• Naqoyqatsi (2002)",
+ "links": [
+  {
+   "name": "On the Waterfront",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047296"
+  },
+  {
+   "name": "The Tree of Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0478304"
+  },
+  {
+   "name": "Sanshiro Sugata",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0036400"
+  },
+  {
+   "name": "The Most Beautiful",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0036947"
+  },
+  {
+   "name": "Sanshiro Sugata Part Two",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038268"
+  },
+  {
+   "name": "The Men Who Tread on the Tiger's Tail",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038182"
+  },
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  },
+  {
+   "name": "L'Avventura",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053619"
+  },
+  {
+   "name": "Koyaanisqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085809"
+  },
+  {
+   "name": "Powaqqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095895"
+  },
+  {
+   "name": "Naqoyqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0145937"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5400-b7c16e5de34c3941c21b0c8456a9797d/kDsmSL5lQBd4JS2gHdHB81pJ5sOpwX_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5400-b7c16e5de34c3941c21b0c8456a9797d/kDsmSL5lQBd4JS2gHdHB81pJ5sOpwX_original.jpg",
+ "posterShape": "landscape"
+}

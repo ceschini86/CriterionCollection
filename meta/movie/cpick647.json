@@ -1,0 +1,71 @@
+{
+ "id": "cpick647",
+ "type": "movie",
+ "name": "Maya and Ethan Hawke",
+ "description": "Filmes que Maya and Ethan Hawke escolheu no Criterion Closet:\n\n• War and Peace (1965)\n• Frances Ha (2013)\n• Children of Paradise (1945)\n• 3 Women (1977)\n• Husbands (1970)\n• The Magnificent Ambersons (1942)\n• Pina (2011)\n• An Angel at My Table (1990)\n• Tess (1979)\n• Days of Heaven (1978)\n• Picnic at Hanging Rock (1975)\n• Kicking and Screaming (1995)",
+ "links": [
+  {
+   "name": "War and Peace",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063794"
+  },
+  {
+   "name": "Frances Ha",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2347569"
+  },
+  {
+   "name": "Children of Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037674"
+  },
+  {
+   "name": "3 Women",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075612"
+  },
+  {
+   "name": "Husbands",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065867"
+  },
+  {
+   "name": "The Magnificent Ambersons",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035015"
+  },
+  {
+   "name": "Pina",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1440266"
+  },
+  {
+   "name": "An Angel at My Table",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0099040"
+  },
+  {
+   "name": "Tess",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080009"
+  },
+  {
+   "name": "Days of Heaven",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077405"
+  },
+  {
+   "name": "Picnic at Hanging Rock",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073540"
+  },
+  {
+   "name": "Kicking and Screaming",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0113537"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5869-5d58054366d39cd1942e4c2f3a40fa41/a74yE5LC6zTADaA8d3Fj0jXW6IK2Is_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5869-5d58054366d39cd1942e4c2f3a40fa41/a74yE5LC6zTADaA8d3Fj0jXW6IK2Is_original.jpg",
+ "posterShape": "landscape"
+}

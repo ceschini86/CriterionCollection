@@ -1,0 +1,106 @@
+{
+ "id": "cpick856",
+ "type": "movie",
+ "name": "Ari Aster",
+ "description": "Filmes que Ari Aster escolheu no Criterion Closet:\n\n• Winchester '73 (1950)\n• The Parallax View (1974)\n• Lacombe, Lucien (1974)\n• Revanche (2008)\n• Straw Dogs (1971)\n• Ace in the Hole (1951)\n• A Face in the Crowd (1957)\n• Wanda (1970)\n• Do the Right Thing (1989)\n• Graduation (2016)\n• The Grifters (1990)\n• You Can Count on Me (2000)\n• The Wages of Fear (1953)\n• Lone Star (1996)\n• The Last Picture Show (1971)\n• Targets (1968)\n• Young Mr. Lincoln (1939)\n• My Darling Clementine (1946)\n• No Country for Old Men (2007)",
+ "links": [
+  {
+   "name": "Winchester '73",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043137"
+  },
+  {
+   "name": "The Parallax View",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071970"
+  },
+  {
+   "name": "Lacombe, Lucien",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071733"
+  },
+  {
+   "name": "Revanche",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1173745"
+  },
+  {
+   "name": "Straw Dogs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067800"
+  },
+  {
+   "name": "Ace in the Hole",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043338"
+  },
+  {
+   "name": "A Face in the Crowd",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050371"
+  },
+  {
+   "name": "Wanda",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067961"
+  },
+  {
+   "name": "Do the Right Thing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097216"
+  },
+  {
+   "name": "Graduation",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt4936450"
+  },
+  {
+   "name": "The Grifters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0099703"
+  },
+  {
+   "name": "You Can Count on Me",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0203230"
+  },
+  {
+   "name": "The Wages of Fear",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046268"
+  },
+  {
+   "name": "Lone Star",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0116905"
+  },
+  {
+   "name": "The Last Picture Show",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067328"
+  },
+  {
+   "name": "Targets",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063671"
+  },
+  {
+   "name": "Young Mr. Lincoln",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032155"
+  },
+  {
+   "name": "My Darling Clementine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038762"
+  },
+  {
+   "name": "No Country for Old Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0477348"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6857-a31d4bb015215209ffc63df6e48d0b77/lX4NNDPdVknf6brpzKUNHfPeuZkC7O_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6857-a31d4bb015215209ffc63df6e48d0b77/lX4NNDPdVknf6brpzKUNHfPeuZkC7O_original.jpg",
+ "posterShape": "landscape"
+}

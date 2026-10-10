@@ -1,0 +1,91 @@
+{
+ "id": "cpick823",
+ "type": "movie",
+ "name": "Michael Cera",
+ "description": "Filmes que Michael Cera escolheu no Criterion Closet:\n\n• Jour de Fête (1949)\n• Monsieur Hulot's Holiday (1953)\n• Mon Oncle (1958)\n• PlayTime (1967)\n• Trafic (1971)\n• Parade (1974)\n• WALL-E (2008)\n• Hobson's Choice (1954)\n• Totally F***ed Up (1994)\n• The Doom Generation (1995)\n• Nowhere (1997)\n• The Mother and the Whore (1973)\n• The Wind Will Carry Us (1999)\n• Anora (2024)\n• Prince of Broadway (2010)\n• 8½ (1963)",
+ "links": [
+  {
+   "name": "Jour de Fête",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040497"
+  },
+  {
+   "name": "Monsieur Hulot's Holiday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046487"
+  },
+  {
+   "name": "Mon Oncle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050706"
+  },
+  {
+   "name": "PlayTime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062136"
+  },
+  {
+   "name": "Trafic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069400"
+  },
+  {
+   "name": "Parade",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071968"
+  },
+  {
+   "name": "WALL-E",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0910970"
+  },
+  {
+   "name": "Hobson's Choice",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047094"
+  },
+  {
+   "name": "Totally F***ed Up",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108366"
+  },
+  {
+   "name": "The Doom Generation",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112887"
+  },
+  {
+   "name": "Nowhere",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119809"
+  },
+  {
+   "name": "The Mother and the Whore",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070359"
+  },
+  {
+   "name": "The Wind Will Carry Us",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0209463"
+  },
+  {
+   "name": "Anora",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt28607951"
+  },
+  {
+   "name": "Prince of Broadway",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1000769"
+  },
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6680-df0fa776140880a0831a25006073dc6e/gUYYGAdVoMaymdtfQaje48AZil3XJh_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6680-df0fa776140880a0831a25006073dc6e/gUYYGAdVoMaymdtfQaje48AZil3XJh_original.jpg",
+ "posterShape": "landscape"
+}

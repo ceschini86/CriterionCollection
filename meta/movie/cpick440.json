@@ -1,0 +1,101 @@
+{
+ "id": "cpick440",
+ "type": "movie",
+ "name": "Euzhan Palcy",
+ "description": "Filmes que Euzhan Palcy escolheu no Criterion Closet:\n\n• Black Orpheus (1959)\n• The Lady Vanishes (1938)\n• Cronos (1993)\n• The Naked Island (1960)\n• The Devil's Backbone (2001)\n• Pan's Labyrinth (2006)\n• A Dry White Season (1989)\n• The 400 Blows (1959)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• Through a Glass Darkly (1961)\n• Winter Light (1963)\n• The Silence (1963)\n• Love Streams (1984)",
+ "links": [
+  {
+   "name": "Black Orpheus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053146"
+  },
+  {
+   "name": "The Lady Vanishes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0030341"
+  },
+  {
+   "name": "Cronos",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104029"
+  },
+  {
+   "name": "The Naked Island",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056049"
+  },
+  {
+   "name": "The Devil's Backbone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0256009"
+  },
+  {
+   "name": "Pan's Labyrinth",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0457430"
+  },
+  {
+   "name": "A Dry White Season",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097243"
+  },
+  {
+   "name": "The 400 Blows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053198"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "Through a Glass Darkly",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055499"
+  },
+  {
+   "name": "Winter Light",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057358"
+  },
+  {
+   "name": "The Silence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057611"
+  },
+  {
+   "name": "Love Streams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087644"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4869-41863ecac3cc635dbb6ec1878a83d752/XDPYrxuLG1JzLtIL45pWmtLhcr0Qpq_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4869-41863ecac3cc635dbb6ec1878a83d752/XDPYrxuLG1JzLtIL45pWmtLhcr0Qpq_original.jpg",
+ "posterShape": "landscape"
+}

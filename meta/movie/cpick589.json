@@ -1,0 +1,96 @@
+{
+ "id": "cpick589",
+ "type": "movie",
+ "name": "Tyler Mitchell",
+ "description": "Filmes que Tyler Mitchell escolheu no Criterion Closet:\n\n• The Watermelon Woman (1997)\n• L'Argent (1983)\n• Early Spring (1956)\n• Tokyo Twilight (1957)\n• Equinox Flower (1958)\n• Late Autumn (1960)\n• The End of Summer (1961)\n• A Brighter Summer Day (1991)\n• Claudine (1974)\n• La Ciénaga (2001)\n• The Music Room (1958)\n• Love & Basketball (2000)\n• Punch-Drunk Love (2002)\n• 3 Women (1977)\n• Time (2020)\n• Notorious (1946)\n• Rebecca (1940)",
+ "links": [
+  {
+   "name": "The Watermelon Woman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118125"
+  },
+  {
+   "name": "L'Argent",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085180"
+  },
+  {
+   "name": "Early Spring",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049784"
+  },
+  {
+   "name": "Tokyo Twilight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051093"
+  },
+  {
+   "name": "Equinox Flower",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051720"
+  },
+  {
+   "name": "Late Autumn",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053579"
+  },
+  {
+   "name": "The End of Summer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055052"
+  },
+  {
+   "name": "A Brighter Summer Day",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101985"
+  },
+  {
+   "name": "Claudine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071334"
+  },
+  {
+   "name": "La Ciénaga",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0240419"
+  },
+  {
+   "name": "The Music Room",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051792"
+  },
+  {
+   "name": "Love & Basketball",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0199725"
+  },
+  {
+   "name": "Punch-Drunk Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0272338"
+  },
+  {
+   "name": "3 Women",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075612"
+  },
+  {
+   "name": "Time",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt11416746"
+  },
+  {
+   "name": "Notorious",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038787"
+  },
+  {
+   "name": "Rebecca",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032976"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5568-40370d62e9ad1c6bb13788fa8469f37a/xvPIADVfRnbdBK2wpTppSK79GaNwIn_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5568-40370d62e9ad1c6bb13788fa8469f37a/xvPIADVfRnbdBK2wpTppSK79GaNwIn_original.jpg",
+ "posterShape": "landscape"
+}

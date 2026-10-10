@@ -1,0 +1,61 @@
+{
+ "id": "cpick592",
+ "type": "movie",
+ "name": "Mark Bridges",
+ "description": "Filmes que Mark Bridges escolheu no Criterion Closet:\n\n• Heaven's Gate (1980)\n• The Damned (1969)\n• Barry Lyndon (1975)\n• The Leopard (1963)\n• The Naked City (1948)\n• Beauty and the Beast (1946)\n• Sunday, Bloody Sunday (1971)\n• My Beautiful Laundrette (1985)\n• Marriage Story (2019)\n• Punch-Drunk Love (2002)",
+ "links": [
+  {
+   "name": "Heaven's Gate",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080855"
+  },
+  {
+   "name": "The Damned",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064118"
+  },
+  {
+   "name": "Barry Lyndon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072684"
+  },
+  {
+   "name": "The Leopard",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057091"
+  },
+  {
+   "name": "The Naked City",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040636"
+  },
+  {
+   "name": "Beauty and the Beast",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038348"
+  },
+  {
+   "name": "Sunday, Bloody Sunday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067805"
+  },
+  {
+   "name": "My Beautiful Laundrette",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091578"
+  },
+  {
+   "name": "Marriage Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt7653254"
+  },
+  {
+   "name": "Punch-Drunk Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0272338"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5720-ae0e015d89396d031da4639c4e1a6472/gbu8n5rrZXNDX8zD6irxk7KaOA2Rhi_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5720-ae0e015d89396d031da4639c4e1a6472/gbu8n5rrZXNDX8zD6irxk7KaOA2Rhi_original.jpg",
+ "posterShape": "landscape"
+}

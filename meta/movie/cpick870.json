@@ -1,0 +1,51 @@
+{
+ "id": "cpick870",
+ "type": "movie",
+ "name": "ANOHNI",
+ "description": "Filmes que ANOHNI escolheu no Criterion Closet:\n\n• Jubilee (1978)\n• Night and Fog (1956)\n• The Times of Harvey Milk (1984)\n• Underworld (1927)\n• The Last Command (1928)\n• The Docks of New York (1928)\n• Paris Is Burning (1991)\n• 1984",
+ "links": [
+  {
+   "name": "Jubilee",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076240"
+  },
+  {
+   "name": "Night and Fog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048434"
+  },
+  {
+   "name": "The Times of Harvey Milk",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088275"
+  },
+  {
+   "name": "Underworld",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0018526"
+  },
+  {
+   "name": "The Last Command",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0019071"
+  },
+  {
+   "name": "The Docks of New York",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0018839"
+  },
+  {
+   "name": "Paris Is Burning",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100332"
+  },
+  {
+   "name": "1984",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087803"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6915-0c93cc014179a9ac77a77851cffb17ee/a4Ufkdtw6OP5zKvXNZwLjCeqmYXHHY_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6915-0c93cc014179a9ac77a77851cffb17ee/a4Ufkdtw6OP5zKvXNZwLjCeqmYXHHY_original.jpg",
+ "posterShape": "landscape"
+}

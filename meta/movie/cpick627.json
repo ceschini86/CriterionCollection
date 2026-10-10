@@ -1,0 +1,46 @@
+{
+ "id": "cpick627",
+ "type": "movie",
+ "name": "Barbara Sukowa",
+ "description": "Filmes que Barbara Sukowa escolheu no Criterion Closet:\n\n• 3 Women (1977)\n• Scenes from a Marriage (1974)\n• The Leopard (1963)\n• Husbands (1970)\n• Naked (1993)\n• Berlin Alexanderplatz (1980)\n• La Strada (1954)",
+ "links": [
+  {
+   "name": "3 Women",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075612"
+  },
+  {
+   "name": "Scenes from a Marriage",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6725014"
+  },
+  {
+   "name": "The Leopard",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057091"
+  },
+  {
+   "name": "Husbands",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065867"
+  },
+  {
+   "name": "Naked",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107653"
+  },
+  {
+   "name": "Berlin Alexanderplatz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080196"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5786-e7d75fad0f9ecadf6097fb6a797c6163/7RnuQ2bBwvIYcyq0K8VpSROm8Dqdpo_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5786-e7d75fad0f9ecadf6097fb6a797c6163/7RnuQ2bBwvIYcyq0K8VpSROm8Dqdpo_original.jpg",
+ "posterShape": "landscape"
+}

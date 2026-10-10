@@ -1,0 +1,86 @@
+{
+ "id": "cpick530",
+ "type": "movie",
+ "name": "Bong Joon Ho",
+ "description": "Filmes que Bong Joon Ho escolheu no Criterion Closet:\n\n• Tess (1979)\n• Tokyo Story (1953)\n• Throne of Blood (1957)\n• Black Orpheus (1959)\n• The Wages of Fear (1953)\n• Picnic at Hanging Rock (1975)\n• Pleasures of the Flesh (1965)\n• Violence at Noon (1966)\n• Sing a Song of Sex (1967)\n• Japanese Summer: Double Suicide (1967)\n• Three Resurrected Drunkards (1968)\n• Koyaanisqatsi (1982)\n• Cronos (1993)\n• Medium Cool (1969)\n• Repo Man (1984)",
+ "links": [
+  {
+   "name": "Tess",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080009"
+  },
+  {
+   "name": "Tokyo Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046438"
+  },
+  {
+   "name": "Throne of Blood",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050613"
+  },
+  {
+   "name": "Black Orpheus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053146"
+  },
+  {
+   "name": "The Wages of Fear",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046268"
+  },
+  {
+   "name": "Picnic at Hanging Rock",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073540"
+  },
+  {
+   "name": "Pleasures of the Flesh",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059159"
+  },
+  {
+   "name": "Violence at Noon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060486"
+  },
+  {
+   "name": "Sing a Song of Sex",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062042"
+  },
+  {
+   "name": "Japanese Summer: Double Suicide",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062009"
+  },
+  {
+   "name": "Three Resurrected Drunkards",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063169"
+  },
+  {
+   "name": "Koyaanisqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085809"
+  },
+  {
+   "name": "Cronos",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104029"
+  },
+  {
+   "name": "Medium Cool",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064652"
+  },
+  {
+   "name": "Repo Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087995"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5304-8c313a476431de0c867bafeaad2c7474/GOvb5QEFbUbXHXem6T5ed6bM8M1t7M_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5304-8c313a476431de0c867bafeaad2c7474/GOvb5QEFbUbXHXem6T5ed6bM8M1t7M_original.jpg",
+ "posterShape": "landscape"
+}

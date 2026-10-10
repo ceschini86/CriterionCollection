@@ -1,0 +1,46 @@
+{
+ "id": "cpick452",
+ "type": "movie",
+ "name": "Chris Eigeman",
+ "description": "Filmes que Chris Eigeman escolheu no Criterion Closet:\n\n• All That Jazz (1979)\n• The Vanishing (1988)\n• Videodrome (1983)\n• The Friends of Eddie Coyle (1973)\n• Pickup on South Street (1953)\n• Night Train to Munich (1940)\n• Contempt (1963)",
+ "links": [
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  },
+  {
+   "name": "The Vanishing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0096163"
+  },
+  {
+   "name": "Videodrome",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086541"
+  },
+  {
+   "name": "The Friends of Eddie Coyle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070077"
+  },
+  {
+   "name": "Pickup on South Street",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046187"
+  },
+  {
+   "name": "Night Train to Munich",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032842"
+  },
+  {
+   "name": "Contempt",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057345"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5596-2ae82a7adcc1c671981af7617cdd679f/EVgWlQC4yz5AtrkHJsL7dadgjVlo3u_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5596-2ae82a7adcc1c671981af7617cdd679f/EVgWlQC4yz5AtrkHJsL7dadgjVlo3u_original.jpg",
+ "posterShape": "landscape"
+}

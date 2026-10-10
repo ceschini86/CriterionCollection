@@ -1,0 +1,46 @@
+{
+ "id": "cpick819",
+ "type": "movie",
+ "name": "Questlove",
+ "description": "Filmes que Questlove escolheu no Criterion Closet:\n\n• Beastie Boys Video Anthology (2000)\n• Black Orpheus (1959)\n• Monterey Pop (1968)\n• Jimi Plays Monterey & Shake! Otis at Monterey (1986)\n• Gimme Shelter (1970)\n• Do the Right Thing (1989)\n• Bamboozled (2000)",
+ "links": [
+  {
+   "name": "Beastie Boys Video Anthology",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0273456"
+  },
+  {
+   "name": "Black Orpheus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053146"
+  },
+  {
+   "name": "Monterey Pop",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064689"
+  },
+  {
+   "name": "Jimi Plays Monterey & Shake! Otis at Monterey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093312"
+  },
+  {
+   "name": "Gimme Shelter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065780"
+  },
+  {
+   "name": "Do the Right Thing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097216"
+  },
+  {
+   "name": "Bamboozled",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0215545"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6664-829d7ee27cd6f402297f08bc76792d09/UHi7iGkusvzmQayTqvhW1MFVENmumO_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6664-829d7ee27cd6f402297f08bc76792d09/UHi7iGkusvzmQayTqvhW1MFVENmumO_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,156 @@
+{
+ "id": "cpick956",
+ "type": "movie",
+ "name": "Bob Odenkirk",
+ "description": "Filmes que Bob Odenkirk escolheu no Criterion Closet:\n\n• Police Story (1985)\n• Police Story 2 (1988)\n• Half a Loaf of Kung Fu (1978)\n• Spiritual Kung Fu (1978)\n• The Fearless Hyena\n• Fearless Hyena Ii\n• The Young Master (1980)\n• My Lucky Stars (1985)\n• The Big Boss\n• Fist Of Fury\n• The Way Of The Dragon\n• Enter The Dragon\n• Game Of Death\n• Scarface (1932)\n• Uncut Gems (2019)\n• The Big Heat (1953)\n• A Man Escaped (1956)\n• Quadrophenia (1979)\n• Salò, or the 120 Days of Sodom (1975)\n• The Red Shoes (1948)\n• My Life as a Dog (1985)\n• In a Lonely Place (1950)\n• Head (1968)\n• Easy Rider (1969)\n• Five Easy Pieces (1970)\n• Drive, He Said (1971)\n• A Safe Place (1971)\n• The Last Picture Show (1971)\n• The King of Marvin Gardens (1972)",
+ "links": [
+  {
+   "name": "Police Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089374"
+  },
+  {
+   "name": "Police Story 2",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095403"
+  },
+  {
+   "name": "Half a Loaf of Kung Fu",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080623"
+  },
+  {
+   "name": "Spiritual Kung Fu",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078128"
+  },
+  {
+   "name": "The Fearless Hyena",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079315"
+  },
+  {
+   "name": "Fearless Hyena Ii",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085864"
+  },
+  {
+   "name": "The Young Master",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081499"
+  },
+  {
+   "name": "My Lucky Stars",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089177"
+  },
+  {
+   "name": "The Big Boss",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067824"
+  },
+  {
+   "name": "Fist Of Fury",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068767"
+  },
+  {
+   "name": "The Way Of The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068935"
+  },
+  {
+   "name": "Enter The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070034"
+  },
+  {
+   "name": "Game Of Death",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077594"
+  },
+  {
+   "name": "Scarface",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0023427"
+  },
+  {
+   "name": "Uncut Gems",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt5727208"
+  },
+  {
+   "name": "The Big Heat",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0045555"
+  },
+  {
+   "name": "A Man Escaped",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049902"
+  },
+  {
+   "name": "Quadrophenia",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079766"
+  },
+  {
+   "name": "Salò, or the 120 Days of Sodom",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073650"
+  },
+  {
+   "name": "The Red Shoes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040725"
+  },
+  {
+   "name": "My Life as a Dog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089606"
+  },
+  {
+   "name": "In a Lonely Place",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042593"
+  },
+  {
+   "name": "Head",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063049"
+  },
+  {
+   "name": "Easy Rider",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064276"
+  },
+  {
+   "name": "Five Easy Pieces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065724"
+  },
+  {
+   "name": "Drive, He Said",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068509"
+  },
+  {
+   "name": "A Safe Place",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067699"
+  },
+  {
+   "name": "The Last Picture Show",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067328"
+  },
+  {
+   "name": "The King of Marvin Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068805"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7319-bac14668515ba5456cc2621192046df5/ujXLr7xpLC0XkqgEJjS0yzBzscKBAd_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7319-bac14668515ba5456cc2621192046df5/ujXLr7xpLC0XkqgEJjS0yzBzscKBAd_original.jpg",
+ "posterShape": "landscape"
+}

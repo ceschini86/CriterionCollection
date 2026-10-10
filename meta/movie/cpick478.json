@@ -1,0 +1,66 @@
+{
+ "id": "cpick478",
+ "type": "movie",
+ "name": "Alexander Payne",
+ "description": "Filmes que Alexander Payne escolheu no Criterion Closet:\n\n• Salò, or the 120 Days of Sodom (1975)\n• Ace in the Hole (1951)\n• 3 Women (1977)\n• L'Avventura (1960)\n• Le Plaisir (1952)\n• Alambrista! (1977)\n• The Breaking Point (1950)\n• Speedy (1928)\n• Red Beard (1965)\n• A Special Day (1977)\n• The Executioner (1963)",
+ "links": [
+  {
+   "name": "Salò, or the 120 Days of Sodom",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073650"
+  },
+  {
+   "name": "Ace in the Hole",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043338"
+  },
+  {
+   "name": "3 Women",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075612"
+  },
+  {
+   "name": "L'Avventura",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053619"
+  },
+  {
+   "name": "Le Plaisir",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0045034"
+  },
+  {
+   "name": "Alambrista!",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075654"
+  },
+  {
+   "name": "The Breaking Point",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042281"
+  },
+  {
+   "name": "Speedy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0019412"
+  },
+  {
+   "name": "Red Beard",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058888"
+  },
+  {
+   "name": "A Special Day",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076085"
+  },
+  {
+   "name": "The Executioner",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057643"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5260-ba69b3ee5ff7049cab681350746b16cd/U0CmcGIrqcu59FpG2j660ZL1frcSyi_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5260-ba69b3ee5ff7049cab681350746b16cd/U0CmcGIrqcu59FpG2j660ZL1frcSyi_original.jpg",
+ "posterShape": "landscape"
+}

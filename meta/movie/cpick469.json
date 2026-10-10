@@ -1,0 +1,56 @@
+{
+ "id": "cpick469",
+ "type": "movie",
+ "name": "Phil Rosenthal",
+ "description": "Filmes que Phil Rosenthal escolheu no Criterion Closet:\n\n• Babette's Feast (1987)\n• Stagecoach (1939)\n• Foreign Correspondent (1940)\n• Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb\n• Overlord (1975)\n• Make Way for Tomorrow (1937)\n• Sullivan's Travels (1942)\n• On the Waterfront (1954)\n• The Innocents (1961)",
+ "links": [
+  {
+   "name": "Babette's Feast",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092603"
+  },
+  {
+   "name": "Stagecoach",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0031971"
+  },
+  {
+   "name": "Foreign Correspondent",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032484"
+  },
+  {
+   "name": "Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057012"
+  },
+  {
+   "name": "Overlord",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073502"
+  },
+  {
+   "name": "Make Way for Tomorrow",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0029192"
+  },
+  {
+   "name": "Sullivan's Travels",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034240"
+  },
+  {
+   "name": "On the Waterfront",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047296"
+  },
+  {
+   "name": "The Innocents",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055018"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5148-52f0bdaf11ca580a49b014d16d94f6c6/as5RLMOAHEzn8HjO9f4HTwLgK12dfY_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5148-52f0bdaf11ca580a49b014d16d94f6c6/as5RLMOAHEzn8HjO9f4HTwLgK12dfY_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "cpick912",
+ "type": "movie",
+ "name": "Ted Danson & Mary Steenburgen",
+ "description": "Filmes que Ted Danson & Mary Steenburgen escolheu no Criterion Closet:\n\n• Rushmore (1998)\n• Klute (1971)\n• Funny Girl (1968)\n• Being There (1979)\n• Inland Empire (2006)\n• Brief Encounter (1945)\n• Hobson's Choice (1954)\n• My Darling Clementine (1946)",
+ "links": [
+  {
+   "name": "Rushmore",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0128445"
+  },
+  {
+   "name": "Klute",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067309"
+  },
+  {
+   "name": "Funny Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062994"
+  },
+  {
+   "name": "Being There",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078841"
+  },
+  {
+   "name": "Inland Empire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0460829"
+  },
+  {
+   "name": "Brief Encounter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037558"
+  },
+  {
+   "name": "Hobson's Choice",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047094"
+  },
+  {
+   "name": "My Darling Clementine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038762"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7117-f1cec7480bbd345f75749e1887bb300e/3gMdrNiQcKbQJozVBtyNYnpMLmoCkx_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7117-f1cec7480bbd345f75749e1887bb300e/3gMdrNiQcKbQJozVBtyNYnpMLmoCkx_original.jpg",
+ "posterShape": "landscape"
+}

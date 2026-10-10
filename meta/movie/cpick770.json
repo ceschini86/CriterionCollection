@@ -1,0 +1,71 @@
+{
+ "id": "cpick770",
+ "type": "movie",
+ "name": "Nicholas Hoult",
+ "description": "Filmes que Nicholas Hoult escolheu no Criterion Closet:\n\n• In The Mood For Love\n• Shallow Grave (1994)\n• The Big Boss\n• Fist Of Fury\n• The Way Of The Dragon\n• Enter The Dragon\n• Game Of Death\n• Fantastic Mr. Fox (2009)\n• Citizen Kane (1941)\n• No Country for Old Men (2007)\n• Being There (1979)\n• 12 Angry Men (1957)",
+ "links": [
+  {
+   "name": "In The Mood For Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118694"
+  },
+  {
+   "name": "Shallow Grave",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111149"
+  },
+  {
+   "name": "The Big Boss",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067824"
+  },
+  {
+   "name": "Fist Of Fury",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068767"
+  },
+  {
+   "name": "The Way Of The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068935"
+  },
+  {
+   "name": "Enter The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070034"
+  },
+  {
+   "name": "Game Of Death",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077594"
+  },
+  {
+   "name": "Fantastic Mr. Fox",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0432283"
+  },
+  {
+   "name": "Citizen Kane",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033467"
+  },
+  {
+   "name": "No Country for Old Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0477348"
+  },
+  {
+   "name": "Being There",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078841"
+  },
+  {
+   "name": "12 Angry Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050083"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6422-6456445ac48cc27821ec68cf9bde181f/ubFVSCALdBNzNpwzdp2nu8AY5njfjZ_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6422-6456445ac48cc27821ec68cf9bde181f/ubFVSCALdBNzNpwzdp2nu8AY5njfjZ_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "cpick950",
+ "type": "movie",
+ "name": "Sophy Romvari",
+ "description": "Filmes que Sophy Romvari escolheu no Criterion Closet:\n\n• A Woman Under the Influence (1974)\n• The Watermelon Woman (1997)\n• Not a Pretty Picture (1976)\n• Jules and Jim (1962)\n• Girlfriends (1978)",
+ "links": [
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Watermelon Woman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118125"
+  },
+  {
+   "name": "Not a Pretty Picture",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073467"
+  },
+  {
+   "name": "Jules and Jim",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055032"
+  },
+  {
+   "name": "Girlfriends",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077613"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7303-4f6e80f1a1b42edf12924adbd4073a8d/E5q34eRK2gtxxHGOuw3YbpaNI1f3lM_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7303-4f6e80f1a1b42edf12924adbd4073a8d/E5q34eRK2gtxxHGOuw3YbpaNI1f3lM_original.jpg",
+ "posterShape": "landscape"
+}

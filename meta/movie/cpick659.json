@@ -1,0 +1,41 @@
+{
+ "id": "cpick659",
+ "type": "movie",
+ "name": "Tim Blake Nelson",
+ "description": "Filmes que Tim Blake Nelson escolheu no Criterion Closet:\n\n• Blast of Silence (1961)\n• Topsy-Turvy (1999)\n• The Killing of a Chinese Bookie (1976)\n• Inside Llewyn Davis (2013)\n• Miller's Crossing (1990)\n• Tokyo Story (1953)",
+ "links": [
+  {
+   "name": "Blast of Silence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054687"
+  },
+  {
+   "name": "Topsy-Turvy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0151568"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Inside Llewyn Davis",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2042568"
+  },
+  {
+   "name": "Miller's Crossing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100150"
+  },
+  {
+   "name": "Tokyo Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046438"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5932-1b92f50ca7c28523baf6d90bf97ab9b5/4eeeidRzahOQoVnwV41VxRhPFWgxkD_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5932-1b92f50ca7c28523baf6d90bf97ab9b5/4eeeidRzahOQoVnwV41VxRhPFWgxkD_original.jpg",
+ "posterShape": "landscape"
+}

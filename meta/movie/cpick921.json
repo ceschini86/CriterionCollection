@@ -1,0 +1,151 @@
+{
+ "id": "cpick921",
+ "type": "movie",
+ "name": "Reginald Hudlin",
+ "description": "Filmes que Reginald Hudlin escolheu no Criterion Closet:\n\n• Black Orpheus (1959)\n• Killer of Sheep (1978)\n• Menace II Society (1993)\n• Risky Business (1983)\n• Rouge (1987)\n• The Story of a Three-Day Pass (1968)\n• Watermelon Man (1970)\n• Sweet Sweetback's Baadasssss Song (1971)\n• Don't Play Us Cheap (1973)\n• The Big Boss\n• Fist Of Fury\n• The Way Of The Dragon\n• Enter The Dragon\n• Game Of Death\n• Variety Lights (1950)\n• The White Sheik (1952)\n• I Vitelloni (1953)\n• La Strada (1954)\n• Il Bidone\n• Nights of Cabiria (1957)\n• La Dolce Vita (1960)\n• 8½ (1963)\n• Juliet of the Spirits (1965)\n• Fellini Satyricon\n• Roma\n• Amarcord (1973)\n• And the Ship Sails On (1983)\n• Intervista (1987)",
+ "links": [
+  {
+   "name": "Black Orpheus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053146"
+  },
+  {
+   "name": "Killer of Sheep",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076263"
+  },
+  {
+   "name": "Menace II Society",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107554"
+  },
+  {
+   "name": "Risky Business",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086200"
+  },
+  {
+   "name": "Rouge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093258"
+  },
+  {
+   "name": "The Story of a Three-Day Pass",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063646"
+  },
+  {
+   "name": "Watermelon Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066550"
+  },
+  {
+   "name": "Sweet Sweetback's Baadasssss Song",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067810"
+  },
+  {
+   "name": "Don't Play Us Cheap",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069996"
+  },
+  {
+   "name": "The Big Boss",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067824"
+  },
+  {
+   "name": "Fist Of Fury",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068767"
+  },
+  {
+   "name": "The Way Of The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068935"
+  },
+  {
+   "name": "Enter The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070034"
+  },
+  {
+   "name": "Game Of Death",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077594"
+  },
+  {
+   "name": "Variety Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042692"
+  },
+  {
+   "name": "The White Sheik",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044000"
+  },
+  {
+   "name": "I Vitelloni",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046521"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  },
+  {
+   "name": "Il Bidone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047876"
+  },
+  {
+   "name": "Nights of Cabiria",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050783"
+  },
+  {
+   "name": "La Dolce Vita",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053779"
+  },
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "Juliet of the Spirits",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059229"
+  },
+  {
+   "name": "Fellini Satyricon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064940"
+  },
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069191"
+  },
+  {
+   "name": "Amarcord",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071129"
+  },
+  {
+   "name": "And the Ship Sails On",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087188"
+  },
+  {
+   "name": "Intervista",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093267"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7164-b7a8dc733eec9a7f57d6ead7569e87d5/ETZgp5HPXsKNWhSCM6ylq24KnmIjq1_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7164-b7a8dc733eec9a7f57d6ead7569e87d5/ETZgp5HPXsKNWhSCM6ylq24KnmIjq1_original.jpg",
+ "posterShape": "landscape"
+}

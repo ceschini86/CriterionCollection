@@ -1,0 +1,81 @@
+{
+ "id": "cpick448",
+ "type": "movie",
+ "name": "Tavi Gevinson",
+ "description": "Filmes que Tavi Gevinson escolheu no Criterion Closet:\n\n• 8½ (1963)\n• Election (1999)\n• Dressed to Kill (1980)\n• Fox and His Friends (1975)\n• Metropolitan (1990)\n• Barcelona (1994)\n• Valerie and Her Week of Wonders (1970)\n• La chambre (1972)\n• Hotel Monterey (1976)\n• News from Home (1976)\n• Je Tu Il Elle (1974)\n• Les Rendez Vous D Anna\n• Broadcast News (1987)\n• Moonrise Kingdom (2012)",
+ "links": [
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "Election",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0126886"
+  },
+  {
+   "name": "Dressed to Kill",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080661"
+  },
+  {
+   "name": "Fox and His Friends",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072976"
+  },
+  {
+   "name": "Metropolitan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100142"
+  },
+  {
+   "name": "Barcelona",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109219"
+  },
+  {
+   "name": "Valerie and Her Week of Wonders",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066516"
+  },
+  {
+   "name": "La chambre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068354"
+  },
+  {
+   "name": "Hotel Monterey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068725"
+  },
+  {
+   "name": "News from Home",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076452"
+  },
+  {
+   "name": "Je Tu Il Elle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071690"
+  },
+  {
+   "name": "Les Rendez Vous D Anna",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078152"
+  },
+  {
+   "name": "Broadcast News",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092699"
+  },
+  {
+   "name": "Moonrise Kingdom",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1748122"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4901-8b355741bd6acc265a29fbac8d3cacb2/R098dLlEizlaPOUid4wIdDAxy90Rmk_original.png",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4901-8b355741bd6acc265a29fbac8d3cacb2/R098dLlEizlaPOUid4wIdDAxy90Rmk_original.png",
+ "posterShape": "landscape"
+}

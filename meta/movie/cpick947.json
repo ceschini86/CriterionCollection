@@ -1,0 +1,46 @@
+{
+ "id": "cpick947",
+ "type": "movie",
+ "name": "Jamie Demetriou",
+ "description": "Filmes que Jamie Demetriou escolheu no Criterion Closet:\n\n• Secrets & Lies (1996)\n• The Celebration (1998)\n• The Squid and the Whale (2005)\n• Anatomy of a Fall (2023)\n• Punch-Drunk Love (2002)\n• The Worst Person in the World (2021)\n• Being John Malkovich (1999)",
+ "links": [
+  {
+   "name": "Secrets & Lies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0117589"
+  },
+  {
+   "name": "The Celebration",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0154420"
+  },
+  {
+   "name": "The Squid and the Whale",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0367089"
+  },
+  {
+   "name": "Anatomy of a Fall",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt17009710"
+  },
+  {
+   "name": "Punch-Drunk Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0272338"
+  },
+  {
+   "name": "The Worst Person in the World",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt10370710"
+  },
+  {
+   "name": "Being John Malkovich",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120601"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7291-6676991b851eee18658263b95c70351d/UmCP0j7ahSOeQ9Bsm9cGHytIcsepdl_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7291-6676991b851eee18658263b95c70351d/UmCP0j7ahSOeQ9Bsm9cGHytIcsepdl_original.jpg",
+ "posterShape": "landscape"
+}

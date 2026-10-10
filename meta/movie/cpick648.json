@@ -1,0 +1,36 @@
+{
+ "id": "cpick648",
+ "type": "movie",
+ "name": "Adrian Utley",
+ "description": "Filmes que Adrian Utley escolheu no Criterion Closet:\n\n• Antichrist (2009)\n• Ratcatcher (1999)\n• The Passion of Joan of Arc (1928)\n• Merry Christmas, Mr. Lawrence (1983)\n• The 39 Steps (1935)",
+ "links": [
+  {
+   "name": "Antichrist",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0870984"
+  },
+  {
+   "name": "Ratcatcher",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0171685"
+  },
+  {
+   "name": "The Passion of Joan of Arc",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0019254"
+  },
+  {
+   "name": "Merry Christmas, Mr. Lawrence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085933"
+  },
+  {
+   "name": "The 39 Steps",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0026029"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5873-992ec373a1d54308c053bb560ae8d04a/pN22oUreflC1ZRcJiLu5K7fCRapaRn_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5873-992ec373a1d54308c053bb560ae8d04a/pN22oUreflC1ZRcJiLu5K7fCRapaRn_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,61 @@
+{
+ "id": "cpick841",
+ "type": "movie",
+ "name": "Dick Cavett",
+ "description": "Filmes que Dick Cavett escolheu no Criterion Closet:\n\n• The Philadelphia Story (1940)\n• Every Man for Himself (1980)\n• Only Angels Have Wings (1939)\n• Stagecoach (1939)\n• Brief Encounter (1945)\n• In Which We Serve (1942)\n• This Happy Breed (1944)\n• Blithe Spirit (1945)\n• Odd Man Out (1947)\n• Husbands (1970)",
+ "links": [
+  {
+   "name": "The Philadelphia Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032904"
+  },
+  {
+   "name": "Every Man for Himself",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079854"
+  },
+  {
+   "name": "Only Angels Have Wings",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0031762"
+  },
+  {
+   "name": "Stagecoach",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0031971"
+  },
+  {
+   "name": "Brief Encounter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037558"
+  },
+  {
+   "name": "In Which We Serve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034891"
+  },
+  {
+   "name": "This Happy Breed",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037367"
+  },
+  {
+   "name": "Blithe Spirit",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038363"
+  },
+  {
+   "name": "Odd Man Out",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039677"
+  },
+  {
+   "name": "Husbands",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065867"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6797-80ce1b65f3a4df906e089aeec0838a84/9AT9KrMYxmFH5PoNnzX2L8BqpxOJEI_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6797-80ce1b65f3a4df906e089aeec0838a84/9AT9KrMYxmFH5PoNnzX2L8BqpxOJEI_original.jpg",
+ "posterShape": "landscape"
+}

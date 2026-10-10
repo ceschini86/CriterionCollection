@@ -1,0 +1,86 @@
+{
+ "id": "cpick880",
+ "type": "movie",
+ "name": "Benny Safdie",
+ "description": "Filmes que Benny Safdie escolheu no Criterion Closet:\n\n• The Princess Bride (1987)\n• The War Room (1993)\n• When We Were Kings (1996)\n• Alice in the Cities (1974)\n• Wrong Move (1975)\n• Kings of the Road (1976)\n• Carnal Knowledge (1971)\n• Flow (2024)\n• The Red Balloon (1956)\n• White Mane (1953)\n• Bim The Little Donkey\n• Stowaway In The Sky\n• Circus Angel\n• Husbands (1970)\n• The Great Escape (1963)",
+ "links": [
+  {
+   "name": "The Princess Bride",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093779"
+  },
+  {
+   "name": "The War Room",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108515"
+  },
+  {
+   "name": "When We Were Kings",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118147"
+  },
+  {
+   "name": "Alice in the Cities",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069687"
+  },
+  {
+   "name": "Wrong Move",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071483"
+  },
+  {
+   "name": "Kings of the Road",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073152"
+  },
+  {
+   "name": "Carnal Knowledge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066892"
+  },
+  {
+   "name": "Flow",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt4772188"
+  },
+  {
+   "name": "The Red Balloon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048980"
+  },
+  {
+   "name": "White Mane",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044518"
+  },
+  {
+   "name": "Bim The Little Donkey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0137387"
+  },
+  {
+   "name": "Stowaway In The Sky",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056667"
+  },
+  {
+   "name": "Circus Angel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059177"
+  },
+  {
+   "name": "Husbands",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065867"
+  },
+  {
+   "name": "The Great Escape",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057115"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6960-e84055bff3a69042ed4eb735ce26ee3f/p7myifc5LZhtN18NljmsJJ2N4uNPTc_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6960-e84055bff3a69042ed4eb735ce26ee3f/p7myifc5LZhtN18NljmsJJ2N4uNPTc_original.jpg",
+ "posterShape": "landscape"
+}

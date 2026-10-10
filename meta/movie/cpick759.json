@@ -1,0 +1,56 @@
+{
+ "id": "cpick759",
+ "type": "movie",
+ "name": "Maura Delpero",
+ "description": "Filmes que Maura Delpero escolheu no Criterion Closet:\n\n• I Fidanzati\n• Il Posto (1961)\n• The Tree of Wooden Clogs (1978)\n• Where Is The Friend's House? (1987)\n• And Life Goes On\n• Through the Olive Trees (1994)\n• The Piano Teacher (2001)\n• The Piano (1993)\n• Fish Tank (2009)",
+ "links": [
+  {
+   "name": "I Fidanzati",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055981"
+  },
+  {
+   "name": "Il Posto",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055320"
+  },
+  {
+   "name": "The Tree of Wooden Clogs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077138"
+  },
+  {
+   "name": "Where Is The Friend's House?",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093342"
+  },
+  {
+   "name": "And Life Goes On",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0105888"
+  },
+  {
+   "name": "Through the Olive Trees",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111845"
+  },
+  {
+   "name": "The Piano Teacher",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0254686"
+  },
+  {
+   "name": "The Piano",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107822"
+  },
+  {
+   "name": "Fish Tank",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1232776"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6378-c861f76dbb7d0121f1ce33600f810108/HVJCwo6eSHdyt3W3VFAk1dWAokkq74_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6378-c861f76dbb7d0121f1ce33600f810108/HVJCwo6eSHdyt3W3VFAk1dWAokkq74_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "cpick1010",
+ "type": "movie",
+ "name": "Mahershala Ali",
+ "description": "Filmes que Mahershala Ali escolheu no Criterion Closet:\n\n• Yojimbo (1961)\n• Hoop Dreams (1994)\n• Short Cuts (1993)\n• Hollywood Shuffle (1987)\n• Basquiat (1996)\n• Ghost Dog: The Way of the Samurai (1999)",
+ "links": [
+  {
+   "name": "Yojimbo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055630"
+  },
+  {
+   "name": "Hoop Dreams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0110057"
+  },
+  {
+   "name": "Short Cuts",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108122"
+  },
+  {
+   "name": "Hollywood Shuffle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093200"
+  },
+  {
+   "name": "Basquiat",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0115632"
+  },
+  {
+   "name": "Ghost Dog: The Way of the Samurai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0165798"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7584-f0d66a0d2fb007114b72278955d5bba1/IwveKxWpfxldvuVmdlO3o2SAivcafv_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7584-f0d66a0d2fb007114b72278955d5bba1/IwveKxWpfxldvuVmdlO3o2SAivcafv_original.jpg",
+ "posterShape": "landscape"
+}

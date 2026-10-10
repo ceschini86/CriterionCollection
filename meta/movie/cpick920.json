@@ -1,0 +1,171 @@
+{
+ "id": "cpick920",
+ "type": "movie",
+ "name": "Jodie Foster",
+ "description": "Filmes que Jodie Foster escolheu no Criterion Closet:\n\n• Portrait of a Lady on Fire (2019)\n• Petite Maman (2021)\n• The Piano (1993)\n• Visions of Eight (1973)\n• Loving Couples (1964)\n• Night Games (1966)\n• The Girls (1968)\n• Parasite (2019)\n• La Haine (1995)\n• La Strada (1954)\n• Variety Lights (1950)\n• The White Sheik (1952)\n• I Vitelloni (1953)\n• Il Bidone\n• Nights of Cabiria (1957)\n• La Dolce Vita (1960)\n• 8½ (1963)\n• Juliet of the Spirits (1965)\n• Fellini Satyricon\n• Roma\n• Amarcord (1973)\n• And the Ship Sails On (1983)\n• Intervista (1987)\n• Woman in the Dunes (1964)\n• Wings of Desire (1987)\n• Berlin Alexanderplatz (1980)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)",
+ "links": [
+  {
+   "name": "Portrait of a Lady on Fire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt8613070"
+  },
+  {
+   "name": "Petite Maman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt13204490"
+  },
+  {
+   "name": "The Piano",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107822"
+  },
+  {
+   "name": "Visions of Eight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070884"
+  },
+  {
+   "name": "Loving Couples",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058780"
+  },
+  {
+   "name": "Night Games",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060740"
+  },
+  {
+   "name": "The Girls",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062981"
+  },
+  {
+   "name": "Parasite",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6751668"
+  },
+  {
+   "name": "La Haine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0113247"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  },
+  {
+   "name": "Variety Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042692"
+  },
+  {
+   "name": "The White Sheik",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044000"
+  },
+  {
+   "name": "I Vitelloni",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046521"
+  },
+  {
+   "name": "Il Bidone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047876"
+  },
+  {
+   "name": "Nights of Cabiria",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050783"
+  },
+  {
+   "name": "La Dolce Vita",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053779"
+  },
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "Juliet of the Spirits",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059229"
+  },
+  {
+   "name": "Fellini Satyricon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064940"
+  },
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069191"
+  },
+  {
+   "name": "Amarcord",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071129"
+  },
+  {
+   "name": "And the Ship Sails On",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087188"
+  },
+  {
+   "name": "Intervista",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093267"
+  },
+  {
+   "name": "Woman in the Dunes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058625"
+  },
+  {
+   "name": "Wings of Desire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093191"
+  },
+  {
+   "name": "Berlin Alexanderplatz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080196"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7160-567d5b698c42c6ec61e63d6a73937a90/8ZLsoLk2tiakVEsN4KmVKVqDDa0rub_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7160-567d5b698c42c6ec61e63d6a73937a90/8ZLsoLk2tiakVEsN4KmVKVqDDa0rub_original.jpg",
+ "posterShape": "landscape"
+}

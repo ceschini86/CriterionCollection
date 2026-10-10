@@ -1,0 +1,76 @@
+{
+ "id": "cpick463",
+ "type": "movie",
+ "name": "Laurie Anderson",
+ "description": "Filmes que Laurie Anderson escolheu no Criterion Closet:\n\n• The Magician (1958)\n• My Dinner with Andre (1981)\n• Vanya on 42nd Street (1994)\n• A Master Builder (2014)\n• My Winnipeg (2008)\n• White Dog (1982)\n• Sunday, Bloody Sunday (1971)\n• The Decameron (1971)\n• The Canterbury Tales (1972)\n• Arabian Nights (1974)\n• I Married a Witch (1942)\n• Tout Va Bien (1972)\n• Design for Living (1933)",
+ "links": [
+  {
+   "name": "The Magician",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051365"
+  },
+  {
+   "name": "My Dinner with Andre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082783"
+  },
+  {
+   "name": "Vanya on 42nd Street",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111590"
+  },
+  {
+   "name": "A Master Builder",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2276069"
+  },
+  {
+   "name": "My Winnipeg",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1093842"
+  },
+  {
+   "name": "White Dog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084899"
+  },
+  {
+   "name": "Sunday, Bloody Sunday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067805"
+  },
+  {
+   "name": "The Decameron",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065622"
+  },
+  {
+   "name": "The Canterbury Tales",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067647"
+  },
+  {
+   "name": "Arabian Nights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071502"
+  },
+  {
+   "name": "I Married a Witch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034881"
+  },
+  {
+   "name": "Tout Va Bien",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069398"
+  },
+  {
+   "name": "Design for Living",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0023940"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5612-deb2813cfeadf8cceceef1ad3f902ee0/u3kI3eNjRxtljmVciQ2IDHPnz7uNyy_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5612-deb2813cfeadf8cceceef1ad3f902ee0/u3kI3eNjRxtljmVciQ2IDHPnz7uNyy_original.jpg",
+ "posterShape": "landscape"
+}

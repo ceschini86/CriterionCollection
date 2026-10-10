@@ -1,0 +1,36 @@
+{
+ "id": "cpick891",
+ "type": "movie",
+ "name": "Kahlil Joseph",
+ "description": "Filmes que Kahlil Joseph escolheu no Criterion Closet:\n\n• Days of Heaven (1978)\n• The Color of Pomegranates (1969)\n• Yi Yi (2000)\n• Tampopo (1985)\n• Tokyo Olympiad (1965)",
+ "links": [
+  {
+   "name": "Days of Heaven",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077405"
+  },
+  {
+   "name": "The Color of Pomegranates",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063555"
+  },
+  {
+   "name": "Yi Yi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0244316"
+  },
+  {
+   "name": "Tampopo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092048"
+  },
+  {
+   "name": "Tokyo Olympiad",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059817"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7034-8fa272fd0302fb9f10d9bf8be8ef9adf/FiHp01WeIv3DVopQqsGooDAwpRQU0n_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7034-8fa272fd0302fb9f10d9bf8be8ef9adf/FiHp01WeIv3DVopQqsGooDAwpRQU0n_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "cpick822",
+ "type": "movie",
+ "name": "Katya Zamolodchikova",
+ "description": "Filmes que Katya Zamolodchikova escolheu no Criterion Closet:\n\n• Mirror (1975)\n• All of Us Strangers (2023)\n• Belle de Jour (1967)\n• Pina (2011)\n• Tootsie (1982)\n• Happiness (1965)\n• Polyester (1981)\n• Querelle (1982)",
+ "links": [
+  {
+   "name": "Mirror",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072443"
+  },
+  {
+   "name": "All of Us Strangers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt21192142"
+  },
+  {
+   "name": "Belle de Jour",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061395"
+  },
+  {
+   "name": "Pina",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1440266"
+  },
+  {
+   "name": "Tootsie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084805"
+  },
+  {
+   "name": "Happiness",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058985"
+  },
+  {
+   "name": "Polyester",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082926"
+  },
+  {
+   "name": "Querelle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084565"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6668-f3606bac07828312f2431b2e4d948ed8/ZumZsQNlFO4IjHEbF0SkEZJVWF3fvL_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6668-f3606bac07828312f2431b2e4d948ed8/ZumZsQNlFO4IjHEbF0SkEZJVWF3fvL_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,31 @@
+{
+ "id": "cpick778",
+ "type": "movie",
+ "name": "Nick Lowe",
+ "description": "Filmes que Nick Lowe escolheu no Criterion Closet:\n\n• Great Expectations (1946)\n• Repo Man (1984)\n• One-Eyed Jacks (1961)\n• The Flight of the Phoenix (1965)",
+ "links": [
+  {
+   "name": "Great Expectations",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038574"
+  },
+  {
+   "name": "Repo Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087995"
+  },
+  {
+   "name": "One-Eyed Jacks",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055257"
+  },
+  {
+   "name": "The Flight of the Phoenix",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059183"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6487-8ff9f00ad665f0e433936b5d169587bf/i8521defJHojUSFyLbrOSugQCUHNcp_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6487-8ff9f00ad665f0e433936b5d169587bf/i8521defJHojUSFyLbrOSugQCUHNcp_original.jpg",
+ "posterShape": "landscape"
+}

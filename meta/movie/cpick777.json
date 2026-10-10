@@ -1,0 +1,76 @@
+{
+ "id": "cpick777",
+ "type": "movie",
+ "name": "Harris Dickinson",
+ "description": "Filmes que Harris Dickinson escolheu no Criterion Closet:\n\n• Life Is Sweet (1991)\n• The Life of Oharu (1952)\n• Insiang (1976)\n• Mysterious Object at Noon (2000)\n• Revenge\n• Limite (1931)\n• Law of the Border (1966)\n• Taipei Story (1985)\n• Manila in the Claws of Light (1975)\n• Gummo (1997)\n• To Die For (1995)\n• The Long Good Friday (1980)\n• Yi Yi (2000)",
+ "links": [
+  {
+   "name": "Life Is Sweet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100024"
+  },
+  {
+   "name": "The Life of Oharu",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0045112"
+  },
+  {
+   "name": "Insiang",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077740"
+  },
+  {
+   "name": "Mysterious Object at Noon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0269587"
+  },
+  {
+   "name": "Revenge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100485"
+  },
+  {
+   "name": "Limite",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0022080"
+  },
+  {
+   "name": "Law of the Border",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0261739"
+  },
+  {
+   "name": "Taipei Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089866"
+  },
+  {
+   "name": "Manila in the Claws of Light",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073363"
+  },
+  {
+   "name": "Gummo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119237"
+  },
+  {
+   "name": "To Die For",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0114681"
+  },
+  {
+   "name": "The Long Good Friday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081070"
+  },
+  {
+   "name": "Yi Yi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0244316"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6463-2cc7f78ce6069f3e814c23ebdc77a28a/NFmrdWAPH9YDJs7Wtl1vXsgeFsczWJ_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6463-2cc7f78ce6069f3e814c23ebdc77a28a/NFmrdWAPH9YDJs7Wtl1vXsgeFsczWJ_original.jpg",
+ "posterShape": "landscape"
+}

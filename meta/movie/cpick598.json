@@ -1,0 +1,46 @@
+{
+ "id": "cpick598",
+ "type": "movie",
+ "name": "Guy Maddin",
+ "description": "Filmes que Guy Maddin escolheu no Criterion Closet:\n\n• L'Avventura (1960)\n• The Night Porter (1974)\n• Symbiopsychotaxiplasm Two Takes By William Greaves\n• Mouchette (1967)\n• When a Woman Ascends the Stairs (1960)\n• WR: Mysteries of the Organism (1971)\n• Robinson Crusoe on Mars (1964)",
+ "links": [
+  {
+   "name": "L'Avventura",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053619"
+  },
+  {
+   "name": "The Night Porter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071910"
+  },
+  {
+   "name": "Symbiopsychotaxiplasm Two Takes By William Greaves",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0296881"
+  },
+  {
+   "name": "Mouchette",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061996"
+  },
+  {
+   "name": "When a Woman Ascends the Stairs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054144"
+  },
+  {
+   "name": "WR: Mysteries of the Organism",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067958"
+  },
+  {
+   "name": "Robinson Crusoe on Mars",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058530"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5640-01662a443daafdc0c9157c4950b45dbc/TpP28PGSa41HwFo2PozNCbOVWbmsdK_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5640-01662a443daafdc0c9157c4950b45dbc/TpP28PGSa41HwFo2PozNCbOVWbmsdK_original.jpg",
+ "posterShape": "landscape"
+}

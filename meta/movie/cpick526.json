@@ -1,0 +1,81 @@
+{
+ "id": "cpick526",
+ "type": "movie",
+ "name": "Alfonso Cuarón and Paweł Pawlikowski",
+ "description": "Filmes que Alfonso Cuarón and Paweł Pawlikowski escolheu no Criterion Closet:\n\n• Vivre Sa Vie (1962)\n• The Firemen's Ball (1967)\n• À propos de Nice (1930)\n• Zero De Conduite\n• L'Atalante (1934)\n• To Be or Not to Be (1942)\n• Wings (1966)\n• The Ascent (1977)\n• Masculin Féminin (1966)\n• The Virgin Spring (1960)\n• Two-Lane Blacktop (1971)\n• This Sporting Life (1963)\n• Naked (1993)\n• Lola Montès (1955)",
+ "links": [
+  {
+   "name": "Vivre Sa Vie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056663"
+  },
+  {
+   "name": "The Firemen's Ball",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061781"
+  },
+  {
+   "name": "À propos de Nice",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0021576"
+  },
+  {
+   "name": "Zero De Conduite",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0024803"
+  },
+  {
+   "name": "L'Atalante",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0024844"
+  },
+  {
+   "name": "To Be or Not to Be",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035446"
+  },
+  {
+   "name": "Wings",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061196"
+  },
+  {
+   "name": "The Ascent",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075404"
+  },
+  {
+   "name": "Masculin Féminin",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060675"
+  },
+  {
+   "name": "The Virgin Spring",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053976"
+  },
+  {
+   "name": "Two-Lane Blacktop",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067893"
+  },
+  {
+   "name": "This Sporting Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057578"
+  },
+  {
+   "name": "Naked",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107653"
+  },
+  {
+   "name": "Lola Montès",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048308"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5256-8d90614ea2343ada173a1e9fca8a77d1/JJrOHyiqyzF8H9w0q1ZdJJw6B0dzgB_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5256-8d90614ea2343ada173a1e9fca8a77d1/JJrOHyiqyzF8H9w0q1ZdJJw6B0dzgB_original.jpg",
+ "posterShape": "landscape"
+}

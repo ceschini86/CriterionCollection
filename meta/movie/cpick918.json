@@ -1,0 +1,66 @@
+{
+ "id": "cpick918",
+ "type": "movie",
+ "name": "Stellan Skarsgård",
+ "description": "Filmes que Stellan Skarsgård escolheu no Criterion Closet:\n\n• Seven Samurai (1954)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• La Strada (1954)\n• Naked (1993)\n• City Lights (1931)\n• Children of Paradise (1945)",
+ "links": [
+  {
+   "name": "Seven Samurai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047478"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  },
+  {
+   "name": "Naked",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107653"
+  },
+  {
+   "name": "City Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0021749"
+  },
+  {
+   "name": "Children of Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037674"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7152-9e1ec23c4796b209dff344a19745e40d/omJY3PnymAsl7PXHvAeNnkmUJLcT8S_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7152-9e1ec23c4796b209dff344a19745e40d/omJY3PnymAsl7PXHvAeNnkmUJLcT8S_original.jpg",
+ "posterShape": "landscape"
+}

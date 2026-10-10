@@ -1,0 +1,81 @@
+{
+ "id": "cpick658",
+ "type": "movie",
+ "name": "Jane Schoenbrun",
+ "description": "Filmes que Jane Schoenbrun escolheu no Criterion Closet:\n\n• Jour de Fête (1949)\n• Monsieur Hulot's Holiday (1953)\n• Mon Oncle (1958)\n• PlayTime (1967)\n• Trafic (1971)\n• Parade (1974)\n• Bamboozled (2000)\n• Malcolm X (1992)\n• El Sur (1983)\n• Peeping Tom (1960)\n• Werckmeister Harmonies (2001)\n• Autumn Sonata (1978)\n• The Grand Budapest Hotel (2014)\n• Eraserhead (1977)",
+ "links": [
+  {
+   "name": "Jour de Fête",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040497"
+  },
+  {
+   "name": "Monsieur Hulot's Holiday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046487"
+  },
+  {
+   "name": "Mon Oncle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050706"
+  },
+  {
+   "name": "PlayTime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062136"
+  },
+  {
+   "name": "Trafic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069400"
+  },
+  {
+   "name": "Parade",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071968"
+  },
+  {
+   "name": "Bamboozled",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0215545"
+  },
+  {
+   "name": "Malcolm X",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104797"
+  },
+  {
+   "name": "El Sur",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084740"
+  },
+  {
+   "name": "Peeping Tom",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054167"
+  },
+  {
+   "name": "Werckmeister Harmonies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0249241"
+  },
+  {
+   "name": "Autumn Sonata",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077711"
+  },
+  {
+   "name": "The Grand Budapest Hotel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2278388"
+  },
+  {
+   "name": "Eraserhead",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074486"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5928-bc24464692bc0d7979bbc97e426376d4/irgo6kY5hoNg9MuCSYtjEYUNb90kQZ_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5928-bc24464692bc0d7979bbc97e426376d4/irgo6kY5hoNg9MuCSYtjEYUNb90kQZ_original.jpg",
+ "posterShape": "landscape"
+}

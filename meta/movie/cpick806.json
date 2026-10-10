@@ -1,0 +1,51 @@
+{
+ "id": "cpick806",
+ "type": "movie",
+ "name": "Joel Potrykus",
+ "description": "Filmes que Joel Potrykus escolheu no Criterion Closet:\n\n• Fast Times at Ridgemont High (1982)\n• Equinox (1970)\n• Scorsese Shorts\n• Trainspotting (1996)\n• The Discreet Charm of the Bourgeoisie (1972)\n• The Phantom of Liberty (1974)\n• That Obscure Object of Desire (1977)\n• If.... (1968)",
+ "links": [
+  {
+   "name": "Fast Times at Ridgemont High",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083929"
+  },
+  {
+   "name": "Equinox",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067055"
+  },
+  {
+   "name": "Scorsese Shorts",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt12431770"
+  },
+  {
+   "name": "Trainspotting",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0117951"
+  },
+  {
+   "name": "The Discreet Charm of the Bourgeoisie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068361"
+  },
+  {
+   "name": "The Phantom of Liberty",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071487"
+  },
+  {
+   "name": "That Obscure Object of Desire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075824"
+  },
+  {
+   "name": "If....",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063850"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6576-5d751108abd208d1fa770e1e0ecff7ad/VKWr0DcF5SVm2fA7hGRMruq48VgTEp_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6576-5d751108abd208d1fa770e1e0ecff7ad/VKWr0DcF5SVm2fA7hGRMruq48VgTEp_original.jpg",
+ "posterShape": "landscape"
+}

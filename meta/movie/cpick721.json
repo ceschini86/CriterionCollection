@@ -1,0 +1,51 @@
+{
+ "id": "cpick721",
+ "type": "movie",
+ "name": "Dylan Baker",
+ "description": "Filmes que Dylan Baker escolheu no Criterion Closet:\n\n• Destry Rides Again (1939)\n• Holiday (1938)\n• Quadrophenia (1979)\n• It's a Mad, Mad, Mad, Mad World (1963)\n• Christ Stopped at Eboli (1979)\n• Local Hero (1983)\n• The Ascent (1977)\n• Ride with the Devil (1999)",
+ "links": [
+  {
+   "name": "Destry Rides Again",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0031225"
+  },
+  {
+   "name": "Holiday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0030241"
+  },
+  {
+   "name": "Quadrophenia",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079766"
+  },
+  {
+   "name": "It's a Mad, Mad, Mad, Mad World",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057193"
+  },
+  {
+   "name": "Christ Stopped at Eboli",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079010"
+  },
+  {
+   "name": "Local Hero",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085859"
+  },
+  {
+   "name": "The Ascent",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075404"
+  },
+  {
+   "name": "Ride with the Devil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0134154"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6130-955b964cea749e22363b67d5d6cea44c/r0Uet8b6hfmgW9bigucUN1XGwLfqen_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6130-955b964cea749e22363b67d5d6cea44c/r0Uet8b6hfmgW9bigucUN1XGwLfqen_original.jpg",
+ "posterShape": "landscape"
+}

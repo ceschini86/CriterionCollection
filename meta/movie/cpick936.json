@@ -1,0 +1,81 @@
+{
+ "id": "cpick936",
+ "type": "movie",
+ "name": "Maggie Gyllenhaal",
+ "description": "Filmes que Maggie Gyllenhaal escolheu no Criterion Closet:\n\n• Beau Travail (1999)\n• Tampopo (1985)\n• Round Midnight (1986)\n• The Marriage of Maria Braun (1979)\n• Veronika Voss (1982)\n• Lola\n• Il Posto (1961)\n• I Fidanzati\n• Persona (1966)\n• Trainspotting (1996)\n• Breathless (1960)\n• Vivre Sa Vie (1962)\n• White Material (2009)\n• Lone Star (1996)",
+ "links": [
+  {
+   "name": "Beau Travail",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0209933"
+  },
+  {
+   "name": "Tampopo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092048"
+  },
+  {
+   "name": "Round Midnight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090557"
+  },
+  {
+   "name": "The Marriage of Maria Braun",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079095"
+  },
+  {
+   "name": "Veronika Voss",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084654"
+  },
+  {
+   "name": "Lola",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082671"
+  },
+  {
+   "name": "Il Posto",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055320"
+  },
+  {
+   "name": "I Fidanzati",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055981"
+  },
+  {
+   "name": "Persona",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060827"
+  },
+  {
+   "name": "Trainspotting",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0117951"
+  },
+  {
+   "name": "Breathless",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053472"
+  },
+  {
+   "name": "Vivre Sa Vie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056663"
+  },
+  {
+   "name": "White Material",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1135952"
+  },
+  {
+   "name": "Lone Star",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0116905"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7240-4eccee154fd5e7887cff08fd2c8253dd/LSy72I7xuqo6Y7jU6eKXiu2XRCzHi3_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7240-4eccee154fd5e7887cff08fd2c8253dd/LSy72I7xuqo6Y7jU6eKXiu2XRCzHi3_original.jpg",
+ "posterShape": "landscape"
+}

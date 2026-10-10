@@ -1,0 +1,61 @@
+{
+ "id": "cpick751",
+ "type": "movie",
+ "name": "Gints Zilbalodis",
+ "description": "Filmes que Gints Zilbalodis escolheu no Criterion Closet:\n\n• Punch-Drunk Love (2002)\n• Y tu mamá también (2001)\n• Being There (1979)\n• Woman in the Dunes (1964)\n• After Hours (1985)\n• Fantastic Mr. Fox (2009)\n• Koyaanisqatsi (1982)\n• Powaqqatsi (1988)\n• Naqoyqatsi (2002)\n• High and Low (1963)",
+ "links": [
+  {
+   "name": "Punch-Drunk Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0272338"
+  },
+  {
+   "name": "Y tu mamá también",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0245574"
+  },
+  {
+   "name": "Being There",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078841"
+  },
+  {
+   "name": "Woman in the Dunes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058625"
+  },
+  {
+   "name": "After Hours",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088680"
+  },
+  {
+   "name": "Fantastic Mr. Fox",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0432283"
+  },
+  {
+   "name": "Koyaanisqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085809"
+  },
+  {
+   "name": "Powaqqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095895"
+  },
+  {
+   "name": "Naqoyqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0145937"
+  },
+  {
+   "name": "High and Low",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057565"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6299-2abc0d37a64f45e961c793c4a2487def/d3NMGFsvXkO3OAqDSidqOPFnVyLQBP_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6299-2abc0d37a64f45e961c793c4a2487def/d3NMGFsvXkO3OAqDSidqOPFnVyLQBP_original.jpg",
+ "posterShape": "landscape"
+}

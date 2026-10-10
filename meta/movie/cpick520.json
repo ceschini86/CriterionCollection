@@ -1,0 +1,66 @@
+{
+ "id": "cpick520",
+ "type": "movie",
+ "name": "Charlotte Wells",
+ "description": "Filmes que Charlotte Wells escolheu no Criterion Closet:\n\n• Minding the Gap (2018)\n• Brief Encounter (1945)\n• In Which We Serve (1942)\n• This Happy Breed (1944)\n• Blithe Spirit (1945)\n• A Woman Under the Influence (1974)\n• La chambre (1972)\n• Hotel Monterey (1976)\n• News from Home (1976)\n• Je Tu Il Elle (1974)\n• Les Rendez Vous D Anna",
+ "links": [
+  {
+   "name": "Minding the Gap",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt7476236"
+  },
+  {
+   "name": "Brief Encounter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037558"
+  },
+  {
+   "name": "In Which We Serve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034891"
+  },
+  {
+   "name": "This Happy Breed",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037367"
+  },
+  {
+   "name": "Blithe Spirit",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038363"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "La chambre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068354"
+  },
+  {
+   "name": "Hotel Monterey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068725"
+  },
+  {
+   "name": "News from Home",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076452"
+  },
+  {
+   "name": "Je Tu Il Elle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071690"
+  },
+  {
+   "name": "Les Rendez Vous D Anna",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078152"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5224-ec588f58bc7cd0b1772f1f759696acc4/vbCYr2bdtMLPATQhxe0NUBUGoo2nq7_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5224-ec588f58bc7cd0b1772f1f759696acc4/vbCYr2bdtMLPATQhxe0NUBUGoo2nq7_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,56 @@
+{
+ "id": "cpick480",
+ "type": "movie",
+ "name": "Theodore Witcher",
+ "description": "Filmes que Theodore Witcher escolheu no Criterion Closet:\n\n• Jules and Jim (1962)\n• The Rules of the Game (1939)\n• Notorious (1946)\n• Blind Chance (1987)\n• Deep Cover (1992)\n• Through a Glass Darkly (1961)\n• Winter Light (1963)\n• The Silence (1963)\n• Late Spring (1949)",
+ "links": [
+  {
+   "name": "Jules and Jim",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055032"
+  },
+  {
+   "name": "The Rules of the Game",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0031885"
+  },
+  {
+   "name": "Notorious",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038787"
+  },
+  {
+   "name": "Blind Chance",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084549"
+  },
+  {
+   "name": "Deep Cover",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104073"
+  },
+  {
+   "name": "Through a Glass Darkly",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055499"
+  },
+  {
+   "name": "Winter Light",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057358"
+  },
+  {
+   "name": "The Silence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057611"
+  },
+  {
+   "name": "Late Spring",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041154"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5029-23422a3590ef9d5923197cd11644f92e/SLJGGJYpb8Q2tGNVfXSgiK9sg3ixjf_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5029-23422a3590ef9d5923197cd11644f92e/SLJGGJYpb8Q2tGNVfXSgiK9sg3ixjf_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "cpick938",
+ "type": "movie",
+ "name": "Mitski",
+ "description": "Filmes que Mitski escolheu no Criterion Closet:\n\n• Daisies (1966)\n• Moonstruck (1987)\n• The Breakfast Club (1985)\n• The Piano Teacher (2001)\n• My Own Private Idaho (1991)",
+ "links": [
+  {
+   "name": "Daisies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060959"
+  },
+  {
+   "name": "Moonstruck",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093565"
+  },
+  {
+   "name": "The Breakfast Club",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088847"
+  },
+  {
+   "name": "The Piano Teacher",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0254686"
+  },
+  {
+   "name": "My Own Private Idaho",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102494"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7251-6a4ebb1e270812d932fea39b202b60a4/NPHiFfUF0DUR0U4IIl3ZsTlj4pniRO_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7251-6a4ebb1e270812d932fea39b202b60a4/NPHiFfUF0DUR0U4IIl3ZsTlj4pniRO_original.jpg",
+ "posterShape": "landscape"
+}

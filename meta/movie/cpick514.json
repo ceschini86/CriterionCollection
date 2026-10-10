@@ -1,0 +1,36 @@
+{
+ "id": "cpick514",
+ "type": "movie",
+ "name": "Frederick Wiseman",
+ "description": "Filmes que Frederick Wiseman escolheu no Criterion Closet:\n\n• Bicycle Thieves (1948)\n• La Strada (1954)\n• Knife in the Water (1962)\n• Down by Law (1986)\n• Paths of Glory (1957)",
+ "links": [
+  {
+   "name": "Bicycle Thieves",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040522"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  },
+  {
+   "name": "Knife in the Water",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056291"
+  },
+  {
+   "name": "Down by Law",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090967"
+  },
+  {
+   "name": "Paths of Glory",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050825"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5200-2101d6f877a6608f6eba12c86cc1203b/5nCSXo2PLrc7HW6kCsXMdElFCdhiT9_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5200-2101d6f877a6608f6eba12c86cc1203b/5nCSXo2PLrc7HW6kCsXMdElFCdhiT9_original.jpg",
+ "posterShape": "landscape"
+}

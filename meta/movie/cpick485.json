@@ -1,0 +1,76 @@
+{
+ "id": "cpick485",
+ "type": "movie",
+ "name": "Owen Kline",
+ "description": "Filmes que Owen Kline escolheu no Criterion Closet:\n\n• Written on the Wind (1956)\n• Crumb (1994)\n• The Shooting (1966)\n• Ride in the Whirlwind (1966)\n• The Horse's Mouth (1958)\n• Pickpocket\n• Babo 73\n• Chafed Elbows (1967)\n• No More Excuses (1968)\n• Putney Swope\n• Two Tons Of Turquoise To Taos Tonight\n• Paths of Glory (1957)\n• The Naked Kiss (1964)",
+ "links": [
+  {
+   "name": "Written on the Wind",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049966"
+  },
+  {
+   "name": "Crumb",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109508"
+  },
+  {
+   "name": "The Shooting",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062262"
+  },
+  {
+   "name": "Ride in the Whirlwind",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059653"
+  },
+  {
+   "name": "The Horse's Mouth",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051739"
+  },
+  {
+   "name": "Pickpocket",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053168"
+  },
+  {
+   "name": "Babo 73",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0138311"
+  },
+  {
+   "name": "Chafed Elbows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0138355"
+  },
+  {
+   "name": "No More Excuses",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0251300"
+  },
+  {
+   "name": "Putney Swope",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064855"
+  },
+  {
+   "name": "Two Tons Of Turquoise To Taos Tonight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0427550"
+  },
+  {
+   "name": "Paths of Glory",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050825"
+  },
+  {
+   "name": "The Naked Kiss",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058390"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5288-95fc385a1c2aec24edde0a8d17c49b05/cZA4qwAjuHrTpVtez5YWF2icLgdPSL_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5288-95fc385a1c2aec24edde0a8d17c49b05/cZA4qwAjuHrTpVtez5YWF2icLgdPSL_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "cpick962",
+ "type": "movie",
+ "name": "Eiza González",
+ "description": "Filmes que Eiza González escolheu no Criterion Closet:\n\n• Midnight Cowboy (1969)\n• Klute (1971)\n• Fanny and Alexander: Theatrical Version (1982)\n• Fanny And Alexander Television Version\n• The Making of Fanny and Alexander (1982)\n• The Mother and the Whore (1973)\n• In The Mood For Love\n• Monsieur Verdoux (1947)",
+ "links": [
+  {
+   "name": "Midnight Cowboy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064665"
+  },
+  {
+   "name": "Klute",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067309"
+  },
+  {
+   "name": "Fanny and Alexander: Theatrical Version",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083922"
+  },
+  {
+   "name": "Fanny And Alexander Television Version",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083922"
+  },
+  {
+   "name": "The Making of Fanny and Alexander",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090955"
+  },
+  {
+   "name": "The Mother and the Whore",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070359"
+  },
+  {
+   "name": "In The Mood For Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118694"
+  },
+  {
+   "name": "Monsieur Verdoux",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039631"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7351-de75a24b7a0a99120959d9d7dbdd67f2/Ya5ROFw5iTg7M9uE8y4M7vqrEJ9U4m_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7351-de75a24b7a0a99120959d9d7dbdd67f2/Ya5ROFw5iTg7M9uE8y4M7vqrEJ9U4m_original.jpg",
+ "posterShape": "landscape"
+}

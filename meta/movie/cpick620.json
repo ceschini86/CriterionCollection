@@ -1,0 +1,56 @@
+{
+ "id": "cpick620",
+ "type": "movie",
+ "name": "Lila Avilés",
+ "description": "Filmes que Lila Avilés escolheu no Criterion Closet:\n\n• Yi Yi (2000)\n• Onibaba (1964)\n• Shadows in Paradise (1986)\n• Ariel (1988)\n• The Match Factory Girl (1990)\n• Boat People (1982)\n• The Prince of Tides (1991)\n• In the Realm of the Senses (1976)\n• Burden of Dreams (1982)",
+ "links": [
+  {
+   "name": "Yi Yi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0244316"
+  },
+  {
+   "name": "Onibaba",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058430"
+  },
+  {
+   "name": "Shadows in Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092149"
+  },
+  {
+   "name": "Ariel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094675"
+  },
+  {
+   "name": "The Match Factory Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0098532"
+  },
+  {
+   "name": "Boat People",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084807"
+  },
+  {
+   "name": "The Prince of Tides",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102713"
+  },
+  {
+   "name": "In the Realm of the Senses",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074102"
+  },
+  {
+   "name": "Burden of Dreams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083702"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5762-70ba43d35a6f4f499f2e107b3918c2c4/9YgwOq6TrcuG546IVbHtPDwrunZ8pu_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5762-70ba43d35a6f4f499f2e107b3918c2c4/9YgwOq6TrcuG546IVbHtPDwrunZ8pu_original.jpg",
+ "posterShape": "landscape"
+}

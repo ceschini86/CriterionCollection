@@ -1,0 +1,36 @@
+{
+ "id": "cpick970",
+ "type": "movie",
+ "name": "Lisa Kudrow",
+ "description": "Filmes que Lisa Kudrow escolheu no Criterion Closet:\n\n• All About Eve (1950)\n• Now, Voyager (1942)\n• The Philadelphia Story (1940)\n• Defending Your Life (1991)\n• 12 Angry Men (1957)",
+ "links": [
+  {
+   "name": "All About Eve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042192"
+  },
+  {
+   "name": "Now, Voyager",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035140"
+  },
+  {
+   "name": "The Philadelphia Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032904"
+  },
+  {
+   "name": "Defending Your Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101698"
+  },
+  {
+   "name": "12 Angry Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050083"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7401-879d98d5ff204935aa077311ff8cff51/NKvKSC0jix8ZR9cvJ0SCVwulrxXfcc_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7401-879d98d5ff204935aa077311ff8cff51/NKvKSC0jix8ZR9cvJ0SCVwulrxXfcc_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,81 @@
+{
+ "id": "cpick618",
+ "type": "movie",
+ "name": "Willem Dafoe",
+ "description": "Filmes que Willem Dafoe escolheu no Criterion Closet:\n\n• Onibaba (1964)\n• The Leopard (1963)\n• Pickpocket\n• Ashes and Diamonds (1958)\n• Gate of Flesh (1964)\n• Stromboli (1950)\n• Europe '51 (1952)\n• Journey to Italy (1954)\n• The Devil's Backbone (2001)\n• Mirror (1975)\n• The Piano Teacher (2001)\n• 8½ (1963)\n• The Last Temptation of Christ (1988)\n• The Life Aquatic with Steve Zissou (2004)",
+ "links": [
+  {
+   "name": "Onibaba",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058430"
+  },
+  {
+   "name": "The Leopard",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057091"
+  },
+  {
+   "name": "Pickpocket",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053168"
+  },
+  {
+   "name": "Ashes and Diamonds",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052080"
+  },
+  {
+   "name": "Gate of Flesh",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058409"
+  },
+  {
+   "name": "Stromboli",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041931"
+  },
+  {
+   "name": "Europe '51",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043511"
+  },
+  {
+   "name": "Journey to Italy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046511"
+  },
+  {
+   "name": "The Devil's Backbone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0256009"
+  },
+  {
+   "name": "Mirror",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072443"
+  },
+  {
+   "name": "The Piano Teacher",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0254686"
+  },
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "The Last Temptation of Christ",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095497"
+  },
+  {
+   "name": "The Life Aquatic with Steve Zissou",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0362270"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5758-cb190e959284814bed866832b17b2253/x8bESFEq5klT2RmVWvrvVf44vkkLf7_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5758-cb190e959284814bed866832b17b2253/x8bESFEq5klT2RmVWvrvVf44vkkLf7_original.jpg",
+ "posterShape": "landscape"
+}

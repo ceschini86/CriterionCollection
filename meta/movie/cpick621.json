@@ -1,0 +1,81 @@
+{
+ "id": "cpick621",
+ "type": "movie",
+ "name": "Charles Melton",
+ "description": "Filmes que Charles Melton escolheu no Criterion Closet:\n\n• Mikey and Nicky (1976)\n• After Life (1999)\n• Memories of Murder (2003)\n• EO (2022)\n• Eyes Without a Face (1960)\n• Le Samouraï (1967)\n• La Piscine (1969)\n• Cure (1997)\n• Drive My Car (2021)\n• Short Cuts (1993)\n• 3 Women (1977)\n• Safe (1995)\n• A Special Day (1977)\n• WALL-E (2008)",
+ "links": [
+  {
+   "name": "Mikey and Nicky",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074901"
+  },
+  {
+   "name": "After Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0165078"
+  },
+  {
+   "name": "Memories of Murder",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0353969"
+  },
+  {
+   "name": "EO",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt19652910"
+  },
+  {
+   "name": "Eyes Without a Face",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053459"
+  },
+  {
+   "name": "Le Samouraï",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062229"
+  },
+  {
+   "name": "La Piscine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064816"
+  },
+  {
+   "name": "Cure",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0123948"
+  },
+  {
+   "name": "Drive My Car",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt14039582"
+  },
+  {
+   "name": "Short Cuts",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108122"
+  },
+  {
+   "name": "3 Women",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075612"
+  },
+  {
+   "name": "Safe",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0114323"
+  },
+  {
+   "name": "A Special Day",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076085"
+  },
+  {
+   "name": "WALL-E",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0910970"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5766-4f379796eaccfc4e366741136bb0495e/ZUVYTtmgemYQipRI3KQQGxuOVRR7yY_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5766-4f379796eaccfc4e366741136bb0495e/ZUVYTtmgemYQipRI3KQQGxuOVRR7yY_original.jpg",
+ "posterShape": "landscape"
+}

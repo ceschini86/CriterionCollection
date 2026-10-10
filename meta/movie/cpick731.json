@@ -1,0 +1,76 @@
+{
+ "id": "cpick731",
+ "type": "movie",
+ "name": "Edward Berger",
+ "description": "Filmes que Edward Berger escolheu no Criterion Closet:\n\n• Do the Right Thing (1989)\n• Downhill Racer (1969)\n• Stromboli (1950)\n• Europe '51 (1952)\n• Journey to Italy (1954)\n• Rome, Open City (1945)\n• Paisan (1946)\n• Germany, Year Zero (1948)\n• Cold War (2018)\n• The Exterminating Angel (1962)\n• Fanny and Alexander: Theatrical Version (1982)\n• Fanny And Alexander Television Version\n• The Making of Fanny and Alexander (1982)",
+ "links": [
+  {
+   "name": "Do the Right Thing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097216"
+  },
+  {
+   "name": "Downhill Racer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064253"
+  },
+  {
+   "name": "Stromboli",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041931"
+  },
+  {
+   "name": "Europe '51",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043511"
+  },
+  {
+   "name": "Journey to Italy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046511"
+  },
+  {
+   "name": "Rome, Open City",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038890"
+  },
+  {
+   "name": "Paisan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038823"
+  },
+  {
+   "name": "Germany, Year Zero",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039417"
+  },
+  {
+   "name": "Cold War",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6543652"
+  },
+  {
+   "name": "The Exterminating Angel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056732"
+  },
+  {
+   "name": "Fanny and Alexander: Theatrical Version",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083922"
+  },
+  {
+   "name": "Fanny And Alexander Television Version",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083922"
+  },
+  {
+   "name": "The Making of Fanny and Alexander",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090955"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6218-ed0a6627463e74016153ac084dc0a6d7/hCoetDrhEGh4Fg5vuJVFbKYIWraFlS_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6218-ed0a6627463e74016153ac084dc0a6d7/hCoetDrhEGh4Fg5vuJVFbKYIWraFlS_original.jpg",
+ "posterShape": "landscape"
+}

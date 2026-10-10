@@ -1,0 +1,81 @@
+{
+ "id": "cpick992",
+ "type": "movie",
+ "name": "Colman Domingo",
+ "description": "Filmes que Colman Domingo escolheu no Criterion Closet:\n\n• Black Girl (1966)\n• Il Posto (1961)\n• Claudine (1974)\n• Mean Streets (1973)\n• Purple Noon (1960)\n• Moonstruck (1987)\n• As Tears Go By (1988)\n• Days of Being Wild (1990)\n• Chungking Express (1994)\n• Fallen Angels (1995)\n• Happy Together (1997)\n• In The Mood For Love\n• 2046\n• Coup de Grâce (1976)",
+ "links": [
+  {
+   "name": "Black Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060758"
+  },
+  {
+   "name": "Il Posto",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055320"
+  },
+  {
+   "name": "Claudine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071334"
+  },
+  {
+   "name": "Mean Streets",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070379"
+  },
+  {
+   "name": "Purple Noon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054189"
+  },
+  {
+   "name": "Moonstruck",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093565"
+  },
+  {
+   "name": "As Tears Go By",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0096461"
+  },
+  {
+   "name": "Days of Being Wild",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101258"
+  },
+  {
+   "name": "Chungking Express",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109424"
+  },
+  {
+   "name": "Fallen Angels",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112913"
+  },
+  {
+   "name": "Happy Together",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118845"
+  },
+  {
+   "name": "In The Mood For Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118694"
+  },
+  {
+   "name": "2046",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0212712"
+  },
+  {
+   "name": "Coup de Grâce",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074515"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7492-77f04c1eaa299fb8afb5bc18e321e0ca/qnwda0XJoWN10e9yhKv6salbnibNVq_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7492-77f04c1eaa299fb8afb5bc18e321e0ca/qnwda0XJoWN10e9yhKv6salbnibNVq_original.jpg",
+ "posterShape": "landscape"
+}

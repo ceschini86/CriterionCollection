@@ -1,0 +1,66 @@
+{
+ "id": "cpick915",
+ "type": "movie",
+ "name": "Will Arnett",
+ "description": "Filmes que Will Arnett escolheu no Criterion Closet:\n\n• Stranger Than Paradise (1984)\n• The Tin Drum (1979)\n• Dekalog\n• Withnail and I (1987)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• Les Blank Always For Pleasure",
+ "links": [
+  {
+   "name": "Stranger Than Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088184"
+  },
+  {
+   "name": "The Tin Drum",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078875"
+  },
+  {
+   "name": "Dekalog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092337"
+  },
+  {
+   "name": "Withnail and I",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094336"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "Les Blank Always For Pleasure",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077154"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7121-1b50b59a2024ecefea4d005e4a49cfdf/bmGW0MXX4ueacjcXKEXw4Sh240UuA3_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7121-1b50b59a2024ecefea4d005e4a49cfdf/bmGW0MXX4ueacjcXKEXw4Sh240UuA3_original.jpg",
+ "posterShape": "landscape"
+}

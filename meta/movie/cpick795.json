@@ -1,0 +1,41 @@
+{
+ "id": "cpick795",
+ "type": "movie",
+ "name": "Griffin Dunne",
+ "description": "Filmes que Griffin Dunne escolheu no Criterion Closet:\n\n• The Awful Truth (1937)\n• Come and See (1985)\n• McCabe & Mrs. Miller (1971)\n• In a Lonely Place (1950)\n• Taste of Cherry (1997)\n• La Notte (1961)",
+ "links": [
+  {
+   "name": "The Awful Truth",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028597"
+  },
+  {
+   "name": "Come and See",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091251"
+  },
+  {
+   "name": "McCabe & Mrs. Miller",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067411"
+  },
+  {
+   "name": "In a Lonely Place",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042593"
+  },
+  {
+   "name": "Taste of Cherry",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120265"
+  },
+  {
+   "name": "La Notte",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054130"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6536-2e197bafc519795e75fb09402b3a4891/rkUMqlTWZ1vDh0P4PhHeFnl6jaUcZg_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6536-2e197bafc519795e75fb09402b3a4891/rkUMqlTWZ1vDh0P4PhHeFnl6jaUcZg_original.jpg",
+ "posterShape": "landscape"
+}

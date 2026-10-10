@@ -1,0 +1,36 @@
+{
+ "id": "cpick1004",
+ "type": "movie",
+ "name": "Dakota Fanning",
+ "description": "Filmes que Dakota Fanning escolheu no Criterion Closet:\n\n• Grey Gardens (1976)\n• On the Waterfront (1954)\n• Hedwig and the Angry Inch (2001)\n• Anatomy of a Fall (2023)\n• Sentimental Value (2025)",
+ "links": [
+  {
+   "name": "Grey Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073076"
+  },
+  {
+   "name": "On the Waterfront",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047296"
+  },
+  {
+   "name": "Hedwig and the Angry Inch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0248845"
+  },
+  {
+   "name": "Anatomy of a Fall",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt17009710"
+  },
+  {
+   "name": "Sentimental Value",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt27714581"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7560-07709b3da89503ec9ac8ecb84a0a2e01/qt4GbhkbZpvFRSfMiDP3Qz6isflygh_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7560-07709b3da89503ec9ac8ecb84a0a2e01/qt4GbhkbZpvFRSfMiDP3Qz6isflygh_original.jpg",
+ "posterShape": "landscape"
+}

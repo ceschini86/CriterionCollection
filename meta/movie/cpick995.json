@@ -1,0 +1,81 @@
+{
+ "id": "cpick995",
+ "type": "movie",
+ "name": "Matthew McConaughey",
+ "description": "Filmes que Matthew McConaughey escolheu no Criterion Closet:\n\n• 8½ (1963)\n• The Great Beauty (2013)\n• Tootsie (1982)\n• The Big Chill (1983)\n• Slacker (1990)\n• Dazed and Confused (1993)\n• Two-Lane Blacktop (1971)\n• Matewan (1987)\n• Thelma & Louise (1991)\n• Mean Streets (1973)\n• Lone Star (1996)\n• Basquiat (1996)\n• Election (1999)\n• Amores perros (2000)",
+ "links": [
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "The Great Beauty",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2358891"
+  },
+  {
+   "name": "Tootsie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084805"
+  },
+  {
+   "name": "The Big Chill",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085244"
+  },
+  {
+   "name": "Slacker",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102943"
+  },
+  {
+   "name": "Dazed and Confused",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0106677"
+  },
+  {
+   "name": "Two-Lane Blacktop",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067893"
+  },
+  {
+   "name": "Matewan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093509"
+  },
+  {
+   "name": "Thelma & Louise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103074"
+  },
+  {
+   "name": "Mean Streets",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070379"
+  },
+  {
+   "name": "Lone Star",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0116905"
+  },
+  {
+   "name": "Basquiat",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0115632"
+  },
+  {
+   "name": "Election",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0126886"
+  },
+  {
+   "name": "Amores perros",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0245712"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7504-f927239df4ba774feb222c4963e7b81c/7JfqIXH7S0PVC6cVcgj2uVRKr2pHOU_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7504-f927239df4ba774feb222c4963e7b81c/7JfqIXH7S0PVC6cVcgj2uVRKr2pHOU_original.jpg",
+ "posterShape": "landscape"
+}

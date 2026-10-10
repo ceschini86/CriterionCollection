@@ -1,0 +1,36 @@
+{
+ "id": "cpick445",
+ "type": "movie",
+ "name": "Marco Bellocchio",
+ "description": "Filmes que Marco Bellocchio escolheu no Criterion Closet:\n\n• Pickpocket\n• Umberto D. (1952)\n• Throne of Blood (1957)\n• Othello (1951)\n• Barry Lyndon (1975)",
+ "links": [
+  {
+   "name": "Pickpocket",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053168"
+  },
+  {
+   "name": "Umberto D.",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0045274"
+  },
+  {
+   "name": "Throne of Blood",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050613"
+  },
+  {
+   "name": "Othello",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0045251"
+  },
+  {
+   "name": "Barry Lyndon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072684"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4889-1e659d42cd13b70a6a3fe60b62f938e2/l7VjXiLCCU0pNQOwF2SBivW9W1ibTL_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4889-1e659d42cd13b70a6a3fe60b62f938e2/l7VjXiLCCU0pNQOwF2SBivW9W1ibTL_original.jpg",
+ "posterShape": "landscape"
+}

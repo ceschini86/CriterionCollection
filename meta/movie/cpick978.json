@@ -1,0 +1,36 @@
+{
+ "id": "cpick978",
+ "type": "movie",
+ "name": "Geena Davis",
+ "description": "Filmes que Geena Davis escolheu no Criterion Closet:\n\n• My Life as a Dog (1985)\n• Mikey and Nicky (1976)\n• His Girl Friday (1940)\n• Some Like It Hot (1959)\n• Thelma & Louise (1991)",
+ "links": [
+  {
+   "name": "My Life as a Dog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089606"
+  },
+  {
+   "name": "Mikey and Nicky",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074901"
+  },
+  {
+   "name": "His Girl Friday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032599"
+  },
+  {
+   "name": "Some Like It Hot",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053291"
+  },
+  {
+   "name": "Thelma & Louise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103074"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7437-7bcdcf73ecbd5204c581009ace60c55e/B63xCEljjdgBfFLSq4Jq5r7288psgd_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7437-7bcdcf73ecbd5204c581009ace60c55e/B63xCEljjdgBfFLSq4Jq5r7288psgd_original.jpg",
+ "posterShape": "landscape"
+}

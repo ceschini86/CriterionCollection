@@ -1,0 +1,91 @@
+{
+ "id": "cpick939",
+ "type": "movie",
+ "name": "Jim Jarmusch",
+ "description": "Filmes que Jim Jarmusch escolheu no Criterion Closet:\n\n• Accattone (1961)\n• Mamma Roma (1962)\n• Love Meetings (1965)\n• The Gospel According To Matthew\n• The Hawks and the Sparrows (1966)\n• Oedipus Rex (1967)\n• Teorema (1968)\n• Porcile\n• Medea (1969)\n• Werckmeister Harmonies (2001)\n• Mirror (1975)\n• Black Girl (1966)\n• Love Streams (1984)\n• Il Sorpasso (1962)\n• I Knew Her Well (1965)\n• Pickup on South Street (1953)",
+ "links": [
+  {
+   "name": "Accattone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054599"
+  },
+  {
+   "name": "Mamma Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056215"
+  },
+  {
+   "name": "Love Meetings",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057960"
+  },
+  {
+   "name": "The Gospel According To Matthew",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058715"
+  },
+  {
+   "name": "The Hawks and the Sparrows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061132"
+  },
+  {
+   "name": "Oedipus Rex",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061613"
+  },
+  {
+   "name": "Teorema",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063678"
+  },
+  {
+   "name": "Porcile",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064828"
+  },
+  {
+   "name": "Medea",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066065"
+  },
+  {
+   "name": "Werckmeister Harmonies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0249241"
+  },
+  {
+   "name": "Mirror",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072443"
+  },
+  {
+   "name": "Black Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060758"
+  },
+  {
+   "name": "Love Streams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087644"
+  },
+  {
+   "name": "Il Sorpasso",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056512"
+  },
+  {
+   "name": "I Knew Her Well",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060545"
+  },
+  {
+   "name": "Pickup on South Street",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046187"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7255-4295f3007ea28d955402ba0e3e557e19/2yRC5CAxCqgUz5qCgaJDzIFxwYpbJr_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7255-4295f3007ea28d955402ba0e3e557e19/2yRC5CAxCqgUz5qCgaJDzIFxwYpbJr_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,121 @@
+{
+ "id": "cpick544",
+ "type": "movie",
+ "name": "Ari Aster (2023)",
+ "description": "Filmes que Ari Aster escolheu no Criterion Closet:\n\n• Closely Watched Trains (1966)\n• The Seventh Continent (1989)\n• Benny's Video (1992)\n• 71 Fragments of a Chronology of Chance (1995)\n• Daisies (1966)\n• Cure (1997)\n• Mr. Klein (1976)\n• Where Is The Friend's House? (1987)\n• And Life Goes On\n• Through the Olive Trees (1994)\n• La Poison (1951)\n• Journey to the Beginning of Time (1955)\n• Invention for Destruction (1958)\n• The Fabulous Baron Munchausen (1962)\n• The New World (2006)\n• Secret Sunshine (2007)\n• Woman in the Dunes (1964)\n• Che\n• Mishima: A Life in Four Chapters (1985)\n• Bigger Than Life (1956)\n• Brand upon the Brain! (2006)\n• Walkabout (1971)",
+ "links": [
+  {
+   "name": "Closely Watched Trains",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060802"
+  },
+  {
+   "name": "The Seventh Continent",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0098327"
+  },
+  {
+   "name": "Benny's Video",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103793"
+  },
+  {
+   "name": "71 Fragments of a Chronology of Chance",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109020"
+  },
+  {
+   "name": "Daisies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060959"
+  },
+  {
+   "name": "Cure",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0123948"
+  },
+  {
+   "name": "Mr. Klein",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074916"
+  },
+  {
+   "name": "Where Is The Friend's House?",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093342"
+  },
+  {
+   "name": "And Life Goes On",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0105888"
+  },
+  {
+   "name": "Through the Olive Trees",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111845"
+  },
+  {
+   "name": "La Poison",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043927"
+  },
+  {
+   "name": "Journey to the Beginning of Time",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047930"
+  },
+  {
+   "name": "Invention for Destruction",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052374"
+  },
+  {
+   "name": "The Fabulous Baron Munchausen",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054665"
+  },
+  {
+   "name": "The New World",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0402399"
+  },
+  {
+   "name": "Secret Sunshine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0817225"
+  },
+  {
+   "name": "Woman in the Dunes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058625"
+  },
+  {
+   "name": "Che",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0892255"
+  },
+  {
+   "name": "Mishima: A Life in Four Chapters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089603"
+  },
+  {
+   "name": "Bigger Than Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049010"
+  },
+  {
+   "name": "Brand upon the Brain!",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0443455"
+  },
+  {
+   "name": "Walkabout",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067959"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5360-ec8aa43adffaa1b8e6881f1a85721523/ROy4ef15Amm2rylHz6N9lQoU9o43SC_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5360-ec8aa43adffaa1b8e6881f1a85721523/ROy4ef15Amm2rylHz6N9lQoU9o43SC_original.jpg",
+ "posterShape": "landscape"
+}

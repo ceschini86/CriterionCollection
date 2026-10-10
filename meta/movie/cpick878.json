@@ -1,0 +1,41 @@
+{
+ "id": "cpick878",
+ "type": "movie",
+ "name": "Ethel Cain",
+ "description": "Filmes que Ethel Cain escolheu no Criterion Closet:\n\n• Thelma & Louise (1991)\n• Crash (1996)\n• Eraserhead (1977)\n• Picnic at Hanging Rock (1975)\n• Days of Heaven (1978)\n• Grey Gardens (1976)",
+ "links": [
+  {
+   "name": "Thelma & Louise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103074"
+  },
+  {
+   "name": "Crash",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0115964"
+  },
+  {
+   "name": "Eraserhead",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074486"
+  },
+  {
+   "name": "Picnic at Hanging Rock",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073540"
+  },
+  {
+   "name": "Days of Heaven",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077405"
+  },
+  {
+   "name": "Grey Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073076"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6943-fca24ab9a6ff489e6ea77e87ee81b1cf/vRXdWNAkbOYFPyGvRbbQjltMxj6TRf_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6943-fca24ab9a6ff489e6ea77e87ee81b1cf/vRXdWNAkbOYFPyGvRbbQjltMxj6TRf_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "cpick585",
+ "type": "movie",
+ "name": "​Luis Guzmán",
+ "description": "Filmes que ​Luis Guzmán escolheu no Criterion Closet:\n\n• 12 Angry Men (1957)\n• Cooley High (1975)\n• Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb\n• The Ballad of Gregorio Cortez (1982)\n• Punch-Drunk Love (2002)\n• On the Waterfront (1954)",
+ "links": [
+  {
+   "name": "12 Angry Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050083"
+  },
+  {
+   "name": "Cooley High",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072820"
+  },
+  {
+   "name": "Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057012"
+  },
+  {
+   "name": "The Ballad of Gregorio Cortez",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt3551840"
+  },
+  {
+   "name": "Punch-Drunk Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0272338"
+  },
+  {
+   "name": "On the Waterfront",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047296"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5544-94e86abc30c6f9c64e2d2fb9885a2687/LxHXnIsNDx1k627WGy7el7iz8I2l6t_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5544-94e86abc30c6f9c64e2d2fb9885a2687/LxHXnIsNDx1k627WGy7el7iz8I2l6t_original.jpg",
+ "posterShape": "landscape"
+}

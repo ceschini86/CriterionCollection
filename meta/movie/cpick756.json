@@ -1,0 +1,131 @@
+{
+ "id": "cpick756",
+ "type": "movie",
+ "name": "RaMell Ross",
+ "description": "Filmes que RaMell Ross escolheu no Criterion Closet:\n\n• The Tin Drum (1979)\n• As Tears Go By (1988)\n• Days of Being Wild (1990)\n• Chungking Express (1994)\n• Fallen Angels (1995)\n• Happy Together (1997)\n• In The Mood For Love\n• 2046\n• La Jetée (1962)\n• Sans Soleil (1983)\n• Mirror (1975)\n• Stalker (1979)\n• Cameraperson (2016)\n• Koyaanisqatsi (1982)\n• Powaqqatsi (1988)\n• Naqoyqatsi (2002)\n• To Sleep with Anger (1990)\n• Ghost Dog: The Way of the Samurai (1999)\n• The Big Boss\n• Fist Of Fury\n• The Way Of The Dragon\n• Enter The Dragon\n• Game Of Death\n• Jubal (1956)",
+ "links": [
+  {
+   "name": "The Tin Drum",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078875"
+  },
+  {
+   "name": "As Tears Go By",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0096461"
+  },
+  {
+   "name": "Days of Being Wild",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101258"
+  },
+  {
+   "name": "Chungking Express",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109424"
+  },
+  {
+   "name": "Fallen Angels",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112913"
+  },
+  {
+   "name": "Happy Together",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118845"
+  },
+  {
+   "name": "In The Mood For Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118694"
+  },
+  {
+   "name": "2046",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0212712"
+  },
+  {
+   "name": "La Jetée",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056119"
+  },
+  {
+   "name": "Sans Soleil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084628"
+  },
+  {
+   "name": "Mirror",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072443"
+  },
+  {
+   "name": "Stalker",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079944"
+  },
+  {
+   "name": "Cameraperson",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt5375040"
+  },
+  {
+   "name": "Koyaanisqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085809"
+  },
+  {
+   "name": "Powaqqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095895"
+  },
+  {
+   "name": "Naqoyqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0145937"
+  },
+  {
+   "name": "To Sleep with Anger",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100791"
+  },
+  {
+   "name": "Ghost Dog: The Way of the Samurai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0165798"
+  },
+  {
+   "name": "The Big Boss",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067824"
+  },
+  {
+   "name": "Fist Of Fury",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068767"
+  },
+  {
+   "name": "The Way Of The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068935"
+  },
+  {
+   "name": "Enter The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070034"
+  },
+  {
+   "name": "Game Of Death",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077594"
+  },
+  {
+   "name": "Jubal",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048233"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6366-a876ffaeefbd60d43c420e3cc4e466ac/BI2Ol5lF2aRvySKE7sx2Oe6cil2fcd_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6366-a876ffaeefbd60d43c420e3cc4e466ac/BI2Ol5lF2aRvySKE7sx2Oe6cil2fcd_original.jpg",
+ "posterShape": "landscape"
+}

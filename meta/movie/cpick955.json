@@ -1,0 +1,61 @@
+{
+ "id": "cpick955",
+ "type": "movie",
+ "name": "Jon Hamm",
+ "description": "Filmes que Jon Hamm escolheu no Criterion Closet:\n\n• The Daytrippers (1997)\n• WALL-E (2008)\n• My Life as a Dog (1985)\n• Videodrome (1983)\n• How to Get Ahead in Advertising (1989)\n• The Vanishing (1988)\n• Man Bites Dog (1992)\n• Down by Law (1986)\n• Tootsie (1982)\n• Bottle Rocket (1996)",
+ "links": [
+  {
+   "name": "The Daytrippers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0116041"
+  },
+  {
+   "name": "WALL-E",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0910970"
+  },
+  {
+   "name": "My Life as a Dog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089606"
+  },
+  {
+   "name": "Videodrome",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086541"
+  },
+  {
+   "name": "How to Get Ahead in Advertising",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097531"
+  },
+  {
+   "name": "The Vanishing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0096163"
+  },
+  {
+   "name": "Man Bites Dog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103905"
+  },
+  {
+   "name": "Down by Law",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090967"
+  },
+  {
+   "name": "Tootsie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084805"
+  },
+  {
+   "name": "Bottle Rocket",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0115734"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7315-85a7eef43a83c3e8533bfe3a041b63e0/cxrNpRuazvzCJqnqm8y19oD59p7UWX_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7315-85a7eef43a83c3e8533bfe3a041b63e0/cxrNpRuazvzCJqnqm8y19oD59p7UWX_original.jpg",
+ "posterShape": "landscape"
+}

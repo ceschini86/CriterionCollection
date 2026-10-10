@@ -1,0 +1,66 @@
+{
+ "id": "cpick483",
+ "type": "movie",
+ "name": "Sarita Choudhury",
+ "description": "Filmes que Sarita Choudhury escolheu no Criterion Closet:\n\n• Tokyo Story (1953)\n• L'Eclisse (1962)\n• My Beautiful Laundrette (1985)\n• The Big City (1963)\n• The Hero (1966)\n• A Special Day (1977)\n• Day for Night (1973)\n• Working Girls (1987)\n• The Decameron (1971)\n• The Canterbury Tales (1972)\n• Arabian Nights (1974)",
+ "links": [
+  {
+   "name": "Tokyo Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046438"
+  },
+  {
+   "name": "L'Eclisse",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056736"
+  },
+  {
+   "name": "My Beautiful Laundrette",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091578"
+  },
+  {
+   "name": "The Big City",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057277"
+  },
+  {
+   "name": "The Hero",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060742"
+  },
+  {
+   "name": "A Special Day",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076085"
+  },
+  {
+   "name": "Day for Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070460"
+  },
+  {
+   "name": "Working Girls",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092238"
+  },
+  {
+   "name": "The Decameron",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065622"
+  },
+  {
+   "name": "The Canterbury Tales",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067647"
+  },
+  {
+   "name": "Arabian Nights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071502"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5041-b98e0ab856e6c8e5d094fcfd7e53a5ea/fdJiDHjr0fjVjB12RCpBqUO4LueVEf_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5041-b98e0ab856e6c8e5d094fcfd7e53a5ea/fdJiDHjr0fjVjB12RCpBqUO4LueVEf_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "cpick571",
+ "type": "movie",
+ "name": "Anton Corbijn",
+ "description": "Filmes que Anton Corbijn escolheu no Criterion Closet:\n\n• Sweet Smell of Success (1957)\n• Midnight Cowboy (1969)\n• The American Friend (1977)\n• The Last Waltz (1978)\n• Cold War (2018)",
+ "links": [
+  {
+   "name": "Sweet Smell of Success",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051036"
+  },
+  {
+   "name": "Midnight Cowboy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064665"
+  },
+  {
+   "name": "The American Friend",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075675"
+  },
+  {
+   "name": "The Last Waltz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077838"
+  },
+  {
+   "name": "Cold War",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6543652"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5481-9d5be08a3f469163a23ac16847d7c34e/INOWe6W5BL5dY30SNuiOOr3CBEaYas_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5481-9d5be08a3f469163a23ac16847d7c34e/INOWe6W5BL5dY30SNuiOOr3CBEaYas_original.jpg",
+ "posterShape": "landscape"
+}

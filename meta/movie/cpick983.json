@@ -1,0 +1,46 @@
+{
+ "id": "cpick983",
+ "type": "movie",
+ "name": "Mindy Kaling",
+ "description": "Filmes que Mindy Kaling escolheu no Criterion Closet:\n\n• Anatomy of a Fall (2023)\n• Love & Basketball (2000)\n• Frances Ha (2013)\n• A Room with a View (1986)\n• The Shape of Water (2017)\n• Mississippi Masala (1991)\n• Pickup on South Street (1953)",
+ "links": [
+  {
+   "name": "Anatomy of a Fall",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt17009710"
+  },
+  {
+   "name": "Love & Basketball",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0199725"
+  },
+  {
+   "name": "Frances Ha",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2347569"
+  },
+  {
+   "name": "A Room with a View",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091867"
+  },
+  {
+   "name": "The Shape of Water",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt5580390"
+  },
+  {
+   "name": "Mississippi Masala",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102456"
+  },
+  {
+   "name": "Pickup on South Street",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046187"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7460-5551e3b64dfbd05d2c4f53248824360d/32YyuPjSAGz0787ZdJXWANOAalVkqg_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7460-5551e3b64dfbd05d2c4f53248824360d/32YyuPjSAGz0787ZdJXWANOAalVkqg_original.jpg",
+ "posterShape": "landscape"
+}

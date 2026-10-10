@@ -1,0 +1,81 @@
+{
+ "id": "cpick570",
+ "type": "movie",
+ "name": "Christian Petzold",
+ "description": "Filmes que Christian Petzold escolheu no Criterion Closet:\n\n• Wanda (1970)\n• The Lady Eve (1941)\n• Traffic\n• People on Sunday (1930)\n• The Bakery Girl of Monceau (1963)\n• Suzanne's Career (1963)\n• My Night at Maud's (1969)\n• La Collectionneuse (1967)\n• Claire's Knee (1970)\n• Love in the Afternoon (1972)\n• Stromboli (1950)\n• Europe '51 (1952)\n• Journey to Italy (1954)\n• A Matter of Life and Death (1946)",
+ "links": [
+  {
+   "name": "Wanda",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067961"
+  },
+  {
+   "name": "The Lady Eve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033804"
+  },
+  {
+   "name": "Traffic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0181865"
+  },
+  {
+   "name": "People on Sunday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0020163"
+  },
+  {
+   "name": "The Bakery Girl of Monceau",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056884"
+  },
+  {
+   "name": "Suzanne's Career",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056910"
+  },
+  {
+   "name": "My Night at Maud's",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064612"
+  },
+  {
+   "name": "La Collectionneuse",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061495"
+  },
+  {
+   "name": "Claire's Knee",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065772"
+  },
+  {
+   "name": "Love in the Afternoon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068205"
+  },
+  {
+   "name": "Stromboli",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041931"
+  },
+  {
+   "name": "Europe '51",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043511"
+  },
+  {
+   "name": "Journey to Italy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046511"
+  },
+  {
+   "name": "A Matter of Life and Death",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038733"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5477-55218e28313fe4a842d7beb0cee1aa5a/kuVbGfGAx6uK9JiJfesSoMbD3WPxaU_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5477-55218e28313fe4a842d7beb0cee1aa5a/kuVbGfGAx6uK9JiJfesSoMbD3WPxaU_original.jpg",
+ "posterShape": "landscape"
+}

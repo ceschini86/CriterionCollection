@@ -1,0 +1,46 @@
+{
+ "id": "cpick603",
+ "type": "movie",
+ "name": "Patrick Brice",
+ "description": "Filmes que Patrick Brice escolheu no Criterion Closet:\n\n• Mystery Train (1989)\n• Wings of Desire (1987)\n• Y tu mamá también (2001)\n• Thief (1981)\n• All That Jazz (1979)\n• Paris, Texas (1984)\n• Bottle Rocket (1996)",
+ "links": [
+  {
+   "name": "Mystery Train",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097940"
+  },
+  {
+   "name": "Wings of Desire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093191"
+  },
+  {
+   "name": "Y tu mamá también",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0245574"
+  },
+  {
+   "name": "Thief",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083190"
+  },
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  },
+  {
+   "name": "Paris, Texas",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087884"
+  },
+  {
+   "name": "Bottle Rocket",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0115734"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5652-121e871183153f9eb8b86f62288b8022/P6mOGLZE6iTLUM4kPrpQIw9qhrgJXa_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5652-121e871183153f9eb8b86f62288b8022/P6mOGLZE6iTLUM4kPrpQIw9qhrgJXa_original.jpg",
+ "posterShape": "landscape"
+}

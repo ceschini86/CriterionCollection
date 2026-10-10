@@ -1,0 +1,31 @@
+{
+ "id": "cpick846",
+ "type": "movie",
+ "name": "Simon Pegg",
+ "description": "Filmes que Simon Pegg escolheu no Criterion Closet:\n\n• My Life as a Dog (1985)\n• Night of the Living Dead (1968)\n• Quadrophenia (1979)\n• Blue Velvet (1986)",
+ "links": [
+  {
+   "name": "My Life as a Dog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089606"
+  },
+  {
+   "name": "Night of the Living Dead",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063350"
+  },
+  {
+   "name": "Quadrophenia",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079766"
+  },
+  {
+   "name": "Blue Velvet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090756"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6817-16ca534a903d9c111abf8062a598ec1e/idoLI4wLgSqVzdbkXHJnO0fzBVVCnb_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6817-16ca534a903d9c111abf8062a598ec1e/idoLI4wLgSqVzdbkXHJnO0fzBVVCnb_original.jpg",
+ "posterShape": "landscape"
+}

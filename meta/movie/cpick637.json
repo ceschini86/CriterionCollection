@@ -1,0 +1,116 @@
+{
+ "id": "cpick637",
+ "type": "movie",
+ "name": "Joel Kim Booster",
+ "description": "Filmes que Joel Kim Booster escolheu no Criterion Closet:\n\n• The Philadelphia Story (1940)\n• The Big Chill (1983)\n• The Others (2001)\n• Sound of Metal (2019)\n• Godzilla (1954)\n• Godzilla Raids Again (1955)\n• King Kong Vs Godzilla\n• Mothra vs. Godzilla (1964)\n• Ghidorah, the Three-Headed Monster (1964)\n• Invasion of Astro-Monster (1965)\n• Ebirah, Horror of the Deep (1966)\n• Son of Godzilla (1967)\n• Destroy All Monsters (1968)\n• All Monsters Attack (1969)\n• Godzilla vs. Hedorah (1971)\n• Godzilla vs. Gigan (1972)\n• Godzilla vs. Megalon (1973)\n• Godzilla vs. Mechagodzilla (1974)\n• Terror of Mechagodzilla (1975)\n• In The Mood For Love\n• Hedwig and the Angry Inch (2001)",
+ "links": [
+  {
+   "name": "The Philadelphia Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032904"
+  },
+  {
+   "name": "The Big Chill",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085244"
+  },
+  {
+   "name": "The Others",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0230600"
+  },
+  {
+   "name": "Sound of Metal",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt5363618"
+  },
+  {
+   "name": "Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047034"
+  },
+  {
+   "name": "Godzilla Raids Again",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048127"
+  },
+  {
+   "name": "King Kong Vs Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056142"
+  },
+  {
+   "name": "Mothra vs. Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058379"
+  },
+  {
+   "name": "Ghidorah, the Three-Headed Monster",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058544"
+  },
+  {
+   "name": "Invasion of Astro-Monster",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059346"
+  },
+  {
+   "name": "Ebirah, Horror of the Deep",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060464"
+  },
+  {
+   "name": "Son of Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061856"
+  },
+  {
+   "name": "Destroy All Monsters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063172"
+  },
+  {
+   "name": "All Monsters Attack",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064373"
+  },
+  {
+   "name": "Godzilla vs. Hedorah",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067148"
+  },
+  {
+   "name": "Godzilla vs. Gigan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068371"
+  },
+  {
+   "name": "Godzilla vs. Megalon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070122"
+  },
+  {
+   "name": "Godzilla vs. Mechagodzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071565"
+  },
+  {
+   "name": "Terror of Mechagodzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073373"
+  },
+  {
+   "name": "In The Mood For Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118694"
+  },
+  {
+   "name": "Hedwig and the Angry Inch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0248845"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5826-ce754ac593585d15fa1e3ce9ed55aef5/DuyMeXjmbyBGOiYsbGyQ0AAuYObmTb_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5826-ce754ac593585d15fa1e3ce9ed55aef5/DuyMeXjmbyBGOiYsbGyQ0AAuYObmTb_original.jpg",
+ "posterShape": "landscape"
+}

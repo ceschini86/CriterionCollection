@@ -1,0 +1,61 @@
+{
+ "id": "cpick612",
+ "type": "movie",
+ "name": "Hlynur Pálmason",
+ "description": "Filmes que Hlynur Pálmason escolheu no Criterion Closet:\n\n• The Spirit of the Beehive (1973)\n• Cría Cuervos (1976)\n• Naked (1993)\n• Ratcatcher (1999)\n• The Passion of Joan of Arc (1928)\n• Mirror (1975)\n• L'Argent (1983)\n• L Humanite\n• Blowup (1966)\n• Barry Lyndon (1975)",
+ "links": [
+  {
+   "name": "The Spirit of the Beehive",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070040"
+  },
+  {
+   "name": "Cría Cuervos",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074360"
+  },
+  {
+   "name": "Naked",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107653"
+  },
+  {
+   "name": "Ratcatcher",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0171685"
+  },
+  {
+   "name": "The Passion of Joan of Arc",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0019254"
+  },
+  {
+   "name": "Mirror",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072443"
+  },
+  {
+   "name": "L'Argent",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085180"
+  },
+  {
+   "name": "L Humanite",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0197569"
+  },
+  {
+   "name": "Blowup",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060176"
+  },
+  {
+   "name": "Barry Lyndon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072684"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5734-1b18c22ff0bac0f20bbc8864fa807ef1/e5OPDaUO5zD0sPneK6fM3VJYaWweWu_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5734-1b18c22ff0bac0f20bbc8864fa807ef1/e5OPDaUO5zD0sPneK6fM3VJYaWweWu_original.jpg",
+ "posterShape": "landscape"
+}

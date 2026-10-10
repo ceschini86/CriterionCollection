@@ -1,0 +1,61 @@
+{
+ "id": "cpick931",
+ "type": "movie",
+ "name": "Halle Berry",
+ "description": "Filmes que Halle Berry escolheu no Criterion Closet:\n\n• Blue Is The Warmest Color\n• Fantastic Mr. Fox (2009)\n• Love Jones (1997)\n• Bringing Up Baby (1938)\n• Claudine (1974)\n• Parasite (2019)\n• Malcolm X (1992)\n• Love & Basketball (2000)\n• Cure (1997)\n• Rebecca (1940)",
+ "links": [
+  {
+   "name": "Blue Is The Warmest Color",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2278871"
+  },
+  {
+   "name": "Fantastic Mr. Fox",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0432283"
+  },
+  {
+   "name": "Love Jones",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119572"
+  },
+  {
+   "name": "Bringing Up Baby",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0029947"
+  },
+  {
+   "name": "Claudine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071334"
+  },
+  {
+   "name": "Parasite",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6751668"
+  },
+  {
+   "name": "Malcolm X",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104797"
+  },
+  {
+   "name": "Love & Basketball",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0199725"
+  },
+  {
+   "name": "Cure",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0123948"
+  },
+  {
+   "name": "Rebecca",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032976"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7224-99ee8a012153ee6019ca1f5940cba62c/AjFceastPBkpbMuNFOiYk0fFIQvLg1_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7224-99ee8a012153ee6019ca1f5940cba62c/AjFceastPBkpbMuNFOiYk0fFIQvLg1_original.jpg",
+ "posterShape": "landscape"
+}

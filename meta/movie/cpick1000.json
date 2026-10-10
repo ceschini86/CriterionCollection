@@ -1,0 +1,76 @@
+{
+ "id": "cpick1000",
+ "type": "movie",
+ "name": "Joan Chen",
+ "description": "Filmes que Joan Chen escolheu no Criterion Closet:\n\n• Rouge (1987)\n• Mulholland Dr\n• Three Colors: Blue (1993)\n• Three Colors: White (1994)\n• Three Colors: Red (1994)\n• Body Heat (1981)\n• As Tears Go By (1988)\n• Days of Being Wild (1990)\n• Chungking Express (1994)\n• Fallen Angels (1995)\n• Happy Together (1997)\n• In The Mood For Love\n• 2046",
+ "links": [
+  {
+   "name": "Rouge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093258"
+  },
+  {
+   "name": "Mulholland Dr",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0166924"
+  },
+  {
+   "name": "Three Colors: Blue",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108394"
+  },
+  {
+   "name": "Three Colors: White",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111507"
+  },
+  {
+   "name": "Three Colors: Red",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111495"
+  },
+  {
+   "name": "Body Heat",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082089"
+  },
+  {
+   "name": "As Tears Go By",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0096461"
+  },
+  {
+   "name": "Days of Being Wild",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101258"
+  },
+  {
+   "name": "Chungking Express",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109424"
+  },
+  {
+   "name": "Fallen Angels",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112913"
+  },
+  {
+   "name": "Happy Together",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118845"
+  },
+  {
+   "name": "In The Mood For Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118694"
+  },
+  {
+   "name": "2046",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0212712"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7524-a7e4ff6a409c7d9926ae3312cbe87663/cb9UxazR8jxHZ3mZDYZa9q2tOGaY5d_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7524-a7e4ff6a409c7d9926ae3312cbe87663/cb9UxazR8jxHZ3mZDYZa9q2tOGaY5d_original.jpg",
+ "posterShape": "landscape"
+}

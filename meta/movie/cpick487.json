@@ -1,0 +1,46 @@
+{
+ "id": "cpick487",
+ "type": "movie",
+ "name": "Kyle MacLachlan",
+ "description": "Filmes que Kyle MacLachlan escolheu no Criterion Closet:\n\n• Sex, Lies, and Videotape (1989)\n• Le Cercle rouge (1970)\n• The Manchurian Candidate (1962)\n• Being There (1979)\n• Roma\n• The Elephant Man (1980)\n• Blue Velvet (1986)",
+ "links": [
+  {
+   "name": "Sex, Lies, and Videotape",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0098724"
+  },
+  {
+   "name": "Le Cercle rouge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065531"
+  },
+  {
+   "name": "The Manchurian Candidate",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056218"
+  },
+  {
+   "name": "Being There",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078841"
+  },
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6155172"
+  },
+  {
+   "name": "The Elephant Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080678"
+  },
+  {
+   "name": "Blue Velvet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090756"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5109-e5800e835c955055f466b1cc2f5f1fad/rYaP5OwPaY4m86lVBgeYhGqOvN9I4l_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5109-e5800e835c955055f466b1cc2f5f1fad/rYaP5OwPaY4m86lVBgeYhGqOvN9I4l_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "cpick835",
+ "type": "movie",
+ "name": "Rob Delaney",
+ "description": "Filmes que Rob Delaney escolheu no Criterion Closet:\n\n• Harlan County U.S.A. (1976)\n• The Umbrellas of Cherbourg (1964)\n• Before Sunrise (1995)\n• Before Sunset (2004)\n• Before Midnight (2013)\n• My Dinner with Andre (1981)\n• Vanya on 42nd Street (1994)\n• A Master Builder (2014)",
+ "links": [
+  {
+   "name": "Harlan County U.S.A.",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074605"
+  },
+  {
+   "name": "The Umbrellas of Cherbourg",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058450"
+  },
+  {
+   "name": "Before Sunrise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112471"
+  },
+  {
+   "name": "Before Sunset",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0381681"
+  },
+  {
+   "name": "Before Midnight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2209418"
+  },
+  {
+   "name": "My Dinner with Andre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082783"
+  },
+  {
+   "name": "Vanya on 42nd Street",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111590"
+  },
+  {
+   "name": "A Master Builder",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2276069"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6768-ff212f086955d8c2ef6075ecfbb6f9b1/P2ZXs9wMawzy87TAj5cjEpOM4jOar4_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6768-ff212f086955d8c2ef6075ecfbb6f9b1/P2ZXs9wMawzy87TAj5cjEpOM4jOar4_original.jpg",
+ "posterShape": "landscape"
+}

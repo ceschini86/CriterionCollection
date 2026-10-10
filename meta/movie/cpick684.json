@@ -1,0 +1,41 @@
+{
+ "id": "cpick684",
+ "type": "movie",
+ "name": "Jude Law",
+ "description": "Filmes que Jude Law escolheu no Criterion Closet:\n\n• Stalker (1979)\n• Purple Noon (1960)\n• The Wages of Fear (1953)\n• Local Hero (1983)\n• Mona Lisa (1986)\n• The Night of the Hunter (1955)",
+ "links": [
+  {
+   "name": "Stalker",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079944"
+  },
+  {
+   "name": "Purple Noon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054189"
+  },
+  {
+   "name": "The Wages of Fear",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046268"
+  },
+  {
+   "name": "Local Hero",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085859"
+  },
+  {
+   "name": "Mona Lisa",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091538"
+  },
+  {
+   "name": "The Night of the Hunter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048424"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6070-72d74fe88e3f3349290f8a69972238ee/BoEH51PxNjpiUFXSQG8pt3ZWxwDFtq_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6070-72d74fe88e3f3349290f8a69972238ee/BoEH51PxNjpiUFXSQG8pt3ZWxwDFtq_original.jpg",
+ "posterShape": "landscape"
+}

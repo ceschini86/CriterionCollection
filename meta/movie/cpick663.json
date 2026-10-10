@@ -1,0 +1,46 @@
+{
+ "id": "cpick663",
+ "type": "movie",
+ "name": "Bill Pope",
+ "description": "Filmes que Bill Pope escolheu no Criterion Closet:\n\n• Bowling for Columbine (2002)\n• Harlan County U.S.A. (1976)\n• House (1977)\n• Stagecoach (1939)\n• Band Of Outsiders\n• 2 or 3 Things I Know About Her (1967)\n• The Last Waltz (1978)",
+ "links": [
+  {
+   "name": "Bowling for Columbine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0310793"
+  },
+  {
+   "name": "Harlan County U.S.A.",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074605"
+  },
+  {
+   "name": "House",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076162"
+  },
+  {
+   "name": "Stagecoach",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0031971"
+  },
+  {
+   "name": "Band Of Outsiders",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057869"
+  },
+  {
+   "name": "2 or 3 Things I Know About Her",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060304"
+  },
+  {
+   "name": "The Last Waltz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077838"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5948-00e8bb531b27ff8e9cba0823ab9d70ef/hUaDrJTkBBrVERjhZ09Pxl1bWluKwQ_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5948-00e8bb531b27ff8e9cba0823ab9d70ef/hUaDrJTkBBrVERjhZ09Pxl1bWluKwQ_original.jpg",
+ "posterShape": "landscape"
+}

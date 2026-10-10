@@ -1,0 +1,36 @@
+{
+ "id": "cpick845",
+ "type": "movie",
+ "name": "Paul W. Downs",
+ "description": "Filmes que Paul W. Downs escolheu no Criterion Closet:\n\n• Election (1999)\n• Being John Malkovich (1999)\n• Vanya on 42nd Street (1994)\n• Tootsie (1982)\n• Traffic",
+ "links": [
+  {
+   "name": "Election",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0126886"
+  },
+  {
+   "name": "Being John Malkovich",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120601"
+  },
+  {
+   "name": "Vanya on 42nd Street",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111590"
+  },
+  {
+   "name": "Tootsie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084805"
+  },
+  {
+   "name": "Traffic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0181865"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6813-7d6c39778fe89ec7e843c14df39bcf93/kqkhGL6PDtiH3m0NIsAPZQy0VhaX9N_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6813-7d6c39778fe89ec7e843c14df39bcf93/kqkhGL6PDtiH3m0NIsAPZQy0VhaX9N_original.jpg",
+ "posterShape": "landscape"
+}

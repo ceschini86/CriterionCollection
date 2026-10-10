@@ -1,0 +1,61 @@
+{
+ "id": "cpick941",
+ "type": "movie",
+ "name": "Sergei Loznitsa",
+ "description": "Filmes que Sergei Loznitsa escolheu no Criterion Closet:\n\n• Le Corbeau (1943)\n• Salò, or the 120 Days of Sodom (1975)\n• Brief Encounters (1967)\n• The Long Farewell (1971)\n• Deep Crimson (1996)\n• Wings (1966)\n• The Ascent (1977)\n• Leningrad Cowboys Go America (1989)\n• Leningrad Cowboys Meet Moses (1994)\n• Total Balalaika Show (1994)",
+ "links": [
+  {
+   "name": "Le Corbeau",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035753"
+  },
+  {
+   "name": "Salò, or the 120 Days of Sodom",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073650"
+  },
+  {
+   "name": "Brief Encounters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061883"
+  },
+  {
+   "name": "The Long Farewell",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092905"
+  },
+  {
+   "name": "Deep Crimson",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0117394"
+  },
+  {
+   "name": "Wings",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061196"
+  },
+  {
+   "name": "The Ascent",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075404"
+  },
+  {
+   "name": "Leningrad Cowboys Go America",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097728"
+  },
+  {
+   "name": "Leningrad Cowboys Meet Moses",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107384"
+  },
+  {
+   "name": "Total Balalaika Show",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111460"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7267-88d122e565cde7e1d0aa7b6644c6afbc/a0ckfnwqvU0WyW2wPeNXk1YcRIVe0h_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7267-88d122e565cde7e1d0aa7b6644c6afbc/a0ckfnwqvU0WyW2wPeNXk1YcRIVe0h_original.jpg",
+ "posterShape": "landscape"
+}

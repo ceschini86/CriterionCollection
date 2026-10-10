@@ -1,0 +1,56 @@
+{
+ "id": "cpick833",
+ "type": "movie",
+ "name": "Seth Meyers",
+ "description": "Filmes que Seth Meyers escolheu no Criterion Closet:\n\n• Army of Shadows (1969)\n• The Grand Budapest Hotel (2014)\n• Miller's Crossing (1990)\n• Watership Down (1978)\n• Lost in America (1985)\n• Withnail and I (1987)\n• The Long Good Friday (1980)\n• Grey Gardens (1976)\n• Salesman (1969)",
+ "links": [
+  {
+   "name": "Army of Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064040"
+  },
+  {
+   "name": "The Grand Budapest Hotel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2278388"
+  },
+  {
+   "name": "Miller's Crossing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100150"
+  },
+  {
+   "name": "Watership Down",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078480"
+  },
+  {
+   "name": "Lost in America",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089504"
+  },
+  {
+   "name": "Withnail and I",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094336"
+  },
+  {
+   "name": "The Long Good Friday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081070"
+  },
+  {
+   "name": "Grey Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073076"
+  },
+  {
+   "name": "Salesman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064921"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6760-51fa5cce255fb09ef49dfcaf269005e5/JQ3r4AzhsDY2FKsuVWRsYKdYKh2sXt_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6760-51fa5cce255fb09ef49dfcaf269005e5/JQ3r4AzhsDY2FKsuVWRsYKdYKh2sXt_original.jpg",
+ "posterShape": "landscape"
+}

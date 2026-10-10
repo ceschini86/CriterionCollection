@@ -1,0 +1,96 @@
+{
+ "id": "cpick746",
+ "type": "movie",
+ "name": "Johnnie To",
+ "description": "Filmes que Johnnie To escolheu no Criterion Closet:\n\n• Roma\n• Dekalog\n• Three Colors: Blue (1993)\n• Three Colors: White (1994)\n• Three Colors: Red (1994)\n• Harakiri (1962)\n• The Thick-Walled Room (1956)\n• I Will Buy You (1956)\n• Black River (1957)\n• The Inheritance\n• Straw Dogs (1971)\n• Raging Bull (1980)\n• Scorsese Shorts\n• Sanshiro Sugata (1943)\n• The Most Beautiful (1944)\n• Sanshiro Sugata Part Two\n• The Men Who Tread on the Tiger's Tail (1952)",
+ "links": [
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6155172"
+  },
+  {
+   "name": "Dekalog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092337"
+  },
+  {
+   "name": "Three Colors: Blue",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108394"
+  },
+  {
+   "name": "Three Colors: White",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111507"
+  },
+  {
+   "name": "Three Colors: Red",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111495"
+  },
+  {
+   "name": "Harakiri",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056058"
+  },
+  {
+   "name": "The Thick-Walled Room",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0134756"
+  },
+  {
+   "name": "I Will Buy You",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0134286"
+  },
+  {
+   "name": "Black River",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0134771"
+  },
+  {
+   "name": "The Inheritance",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056135"
+  },
+  {
+   "name": "Straw Dogs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067800"
+  },
+  {
+   "name": "Raging Bull",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081398"
+  },
+  {
+   "name": "Scorsese Shorts",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt12431770"
+  },
+  {
+   "name": "Sanshiro Sugata",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0036400"
+  },
+  {
+   "name": "The Most Beautiful",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0036947"
+  },
+  {
+   "name": "Sanshiro Sugata Part Two",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038268"
+  },
+  {
+   "name": "The Men Who Tread on the Tiger's Tail",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038182"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6276-46b35db6802be38b5ccbdf13fbde27be/NzLifinXkYEB57TOvpHkEBG6qk9NQH_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6276-46b35db6802be38b5ccbdf13fbde27be/NzLifinXkYEB57TOvpHkEBG6qk9NQH_original.jpg",
+ "posterShape": "landscape"
+}

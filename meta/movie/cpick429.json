@@ -1,0 +1,31 @@
+{
+ "id": "cpick429",
+ "type": "movie",
+ "name": "John Sayles",
+ "description": "Filmes que John Sayles escolheu no Criterion Closet:\n\n• La Strada (1954)\n• The Organizer (1963)\n• His Girl Friday (1940)\n• State of Siege (1972)",
+ "links": [
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  },
+  {
+   "name": "The Organizer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056945"
+  },
+  {
+   "name": "His Girl Friday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032599"
+  },
+  {
+   "name": "State of Siege",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070959"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4825-4af997dc858a9836a8d3e1be2913ae0a/BS0JPqQgWDZnNUwvMqy9zuJ2Wo3dVi_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4825-4af997dc858a9836a8d3e1be2913ae0a/BS0JPqQgWDZnNUwvMqy9zuJ2Wo3dVi_original.jpg",
+ "posterShape": "landscape"
+}

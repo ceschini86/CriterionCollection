@@ -1,0 +1,51 @@
+{
+ "id": "cpick792",
+ "type": "movie",
+ "name": "Alain Guiraudie",
+ "description": "Filmes que Alain Guiraudie escolheu no Criterion Closet:\n\n• Happiness (1965)\n• WALL-E (2008)\n• Rome, Open City (1945)\n• Paisan (1946)\n• Germany, Year Zero (1948)\n• Mulholland Dr\n• Pickpocket\n• The Exterminating Angel (1962)",
+ "links": [
+  {
+   "name": "Happiness",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058985"
+  },
+  {
+   "name": "WALL-E",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0910970"
+  },
+  {
+   "name": "Rome, Open City",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038890"
+  },
+  {
+   "name": "Paisan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038823"
+  },
+  {
+   "name": "Germany, Year Zero",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039417"
+  },
+  {
+   "name": "Mulholland Dr",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0166924"
+  },
+  {
+   "name": "Pickpocket",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053168"
+  },
+  {
+   "name": "The Exterminating Angel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056732"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6523-9f25fe0cd4b19ec16b834829ff2da31d/UPK4Yo2UjGZgYDqlQkYGsIkMkfo6wr_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6523-9f25fe0cd4b19ec16b834829ff2da31d/UPK4Yo2UjGZgYDqlQkYGsIkMkfo6wr_original.jpg",
+ "posterShape": "landscape"
+}

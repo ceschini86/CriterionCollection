@@ -1,0 +1,81 @@
+{
+ "id": "cpick937",
+ "type": "movie",
+ "name": "Shinichiro Watanabe",
+ "description": "Filmes que Shinichiro Watanabe escolheu no Criterion Closet:\n\n• The Killing of a Chinese Bookie (1976)\n• Branded to Kill (1967)\n• M (1931)\n• Jour de Fête (1949)\n• Monsieur Hulot's Holiday (1953)\n• Mon Oncle (1958)\n• PlayTime (1967)\n• Trafic (1971)\n• Parade (1974)\n• The Big Boss\n• Fist Of Fury\n• The Way Of The Dragon\n• Enter The Dragon\n• Game Of Death",
+ "links": [
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Branded to Kill",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061882"
+  },
+  {
+   "name": "M",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0022100"
+  },
+  {
+   "name": "Jour de Fête",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040497"
+  },
+  {
+   "name": "Monsieur Hulot's Holiday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046487"
+  },
+  {
+   "name": "Mon Oncle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050706"
+  },
+  {
+   "name": "PlayTime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062136"
+  },
+  {
+   "name": "Trafic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069400"
+  },
+  {
+   "name": "Parade",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071968"
+  },
+  {
+   "name": "The Big Boss",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067824"
+  },
+  {
+   "name": "Fist Of Fury",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068767"
+  },
+  {
+   "name": "The Way Of The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068935"
+  },
+  {
+   "name": "Enter The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070034"
+  },
+  {
+   "name": "Game Of Death",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077594"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7244-ea57dc08e75582698d87ee8aa9866de0/R3IWwV06E29CsfvgmP3ymfnTo3qayU_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7244-ea57dc08e75582698d87ee8aa9866de0/R3IWwV06E29CsfvgmP3ymfnTo3qayU_original.jpg",
+ "posterShape": "landscape"
+}

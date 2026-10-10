@@ -1,0 +1,136 @@
+{
+ "id": "cpick779",
+ "type": "movie",
+ "name": "Brady Corbet",
+ "description": "Filmes que Brady Corbet escolheu no Criterion Closet:\n\n• The Leopard (1963)\n• Death in Venice (1971)\n• The Damned (1969)\n• Marketa Lazarová (1967)\n• Salò, or the 120 Days of Sodom (1975)\n• The Ascent (1977)\n• Bergman Island\n• The Mother and the Whore (1973)\n• As Tears Go By (1988)\n• Days of Being Wild (1990)\n• Chungking Express (1994)\n• Fallen Angels (1995)\n• Happy Together (1997)\n• In The Mood For Love\n• 2046\n• Accattone (1961)\n• Mamma Roma (1962)\n• Love Meetings (1965)\n• The Gospel According To Matthew\n• The Hawks and the Sparrows (1966)\n• Oedipus Rex (1967)\n• Teorema (1968)\n• Porcile\n• Medea (1969)\n• Dekalog",
+ "links": [
+  {
+   "name": "The Leopard",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057091"
+  },
+  {
+   "name": "Death in Venice",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067445"
+  },
+  {
+   "name": "The Damned",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064118"
+  },
+  {
+   "name": "Marketa Lazarová",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063278"
+  },
+  {
+   "name": "Salò, or the 120 Days of Sodom",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073650"
+  },
+  {
+   "name": "The Ascent",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075404"
+  },
+  {
+   "name": "Bergman Island",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6910282"
+  },
+  {
+   "name": "The Mother and the Whore",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070359"
+  },
+  {
+   "name": "As Tears Go By",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0096461"
+  },
+  {
+   "name": "Days of Being Wild",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101258"
+  },
+  {
+   "name": "Chungking Express",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109424"
+  },
+  {
+   "name": "Fallen Angels",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112913"
+  },
+  {
+   "name": "Happy Together",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118845"
+  },
+  {
+   "name": "In The Mood For Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118694"
+  },
+  {
+   "name": "2046",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0212712"
+  },
+  {
+   "name": "Accattone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054599"
+  },
+  {
+   "name": "Mamma Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056215"
+  },
+  {
+   "name": "Love Meetings",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057960"
+  },
+  {
+   "name": "The Gospel According To Matthew",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058715"
+  },
+  {
+   "name": "The Hawks and the Sparrows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061132"
+  },
+  {
+   "name": "Oedipus Rex",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061613"
+  },
+  {
+   "name": "Teorema",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063678"
+  },
+  {
+   "name": "Porcile",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064828"
+  },
+  {
+   "name": "Medea",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066065"
+  },
+  {
+   "name": "Dekalog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092337"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6491-ec1f48d47f095ca19bef02fa313dcb30/sV9dNhVuRnXeUY6wKtyaz4BgHLONWn_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6491-ec1f48d47f095ca19bef02fa313dcb30/sV9dNhVuRnXeUY6wKtyaz4BgHLONWn_original.jpg",
+ "posterShape": "landscape"
+}

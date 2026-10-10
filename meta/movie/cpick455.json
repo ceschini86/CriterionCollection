@@ -1,0 +1,71 @@
+{
+ "id": "cpick455",
+ "type": "movie",
+ "name": "Karina Longworth",
+ "description": "Filmes que Karina Longworth escolheu no Criterion Closet:\n\n• Loves of a Blonde (1965)\n• Mamma Roma (1962)\n• The Scarlet Empress (1934)\n• I Am Curious (Yellow) (1967)\n• Border Radio (1987)\n• People on Sunday (1930)\n• Chronicle of a Summer (1961)\n• Desert Hearts (1985)\n• Personal Shopper (2016)\n• Marius (1931)\n• Fanny (1932)\n• César (1936)",
+ "links": [
+  {
+   "name": "Loves of a Blonde",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059415"
+  },
+  {
+   "name": "Mamma Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056215"
+  },
+  {
+   "name": "The Scarlet Empress",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0025746"
+  },
+  {
+   "name": "I Am Curious (Yellow)",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061834"
+  },
+  {
+   "name": "Border Radio",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090766"
+  },
+  {
+   "name": "People on Sunday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0020163"
+  },
+  {
+   "name": "Chronicle of a Summer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054745"
+  },
+  {
+   "name": "Desert Hearts",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089015"
+  },
+  {
+   "name": "Personal Shopper",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt4714782"
+  },
+  {
+   "name": "Marius",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0022125"
+  },
+  {
+   "name": "Fanny",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0022877"
+  },
+  {
+   "name": "César",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0027489"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4929-1467a182c2804adf32c14171574c01a3/AvQ5aJXizlGQ3VXlGRUrAz2Cph50df_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4929-1467a182c2804adf32c14171574c01a3/AvQ5aJXizlGQ3VXlGRUrAz2Cph50df_original.jpg",
+ "posterShape": "landscape"
+}

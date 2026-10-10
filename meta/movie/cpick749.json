@@ -1,0 +1,151 @@
+{
+ "id": "cpick749",
+ "type": "movie",
+ "name": "Marianne Jean-Baptiste & Mike Leigh",
+ "description": "Filmes que Marianne Jean-Baptiste & Mike Leigh escolheu no Criterion Closet:\n\n• A Story of Floating Weeds (1934)\n• Floating Weeds (1959)\n• Night on Earth (1991)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• Secrets & Lies (1996)\n• To Sleep with Anger (1990)\n• Loves of a Blonde (1965)\n• Kes (1969)\n• White Material (2009)\n• Hunger (2008)\n• The Life of Oharu (1952)\n• Sanshiro Sugata (1943)\n• The Most Beautiful (1944)\n• Sanshiro Sugata Part Two\n• The Men Who Tread on the Tiger's Tail (1952)\n• Ashes and Diamonds (1958)\n• EO (2022)\n• Claudine (1974)\n• The Tall T\n• Decision At Sundown\n• Buchanan Rides Alone\n• Ride Lonesome\n• Comanche Station",
+ "links": [
+  {
+   "name": "A Story of Floating Weeds",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0025929"
+  },
+  {
+   "name": "Floating Weeds",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053390"
+  },
+  {
+   "name": "Night on Earth",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102536"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "Secrets & Lies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0117589"
+  },
+  {
+   "name": "To Sleep with Anger",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100791"
+  },
+  {
+   "name": "Loves of a Blonde",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059415"
+  },
+  {
+   "name": "Kes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064541"
+  },
+  {
+   "name": "White Material",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1135952"
+  },
+  {
+   "name": "Hunger",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0986233"
+  },
+  {
+   "name": "The Life of Oharu",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0045112"
+  },
+  {
+   "name": "Sanshiro Sugata",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0036400"
+  },
+  {
+   "name": "The Most Beautiful",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0036947"
+  },
+  {
+   "name": "Sanshiro Sugata Part Two",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038268"
+  },
+  {
+   "name": "The Men Who Tread on the Tiger's Tail",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038182"
+  },
+  {
+   "name": "Ashes and Diamonds",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052080"
+  },
+  {
+   "name": "EO",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt19652910"
+  },
+  {
+   "name": "Claudine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071334"
+  },
+  {
+   "name": "The Tall T",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051047"
+  },
+  {
+   "name": "Decision At Sundown",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050296"
+  },
+  {
+   "name": "Buchanan Rides Alone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051437"
+  },
+  {
+   "name": "Ride Lonesome",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053220"
+  },
+  {
+   "name": "Comanche Station",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053729"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6323-c35716bbb4691297abd5bd1c69216f02/IMT3ZsdlFEja7VA9GMtV82ay2tM5yI_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6323-c35716bbb4691297abd5bd1c69216f02/IMT3ZsdlFEja7VA9GMtV82ay2tM5yI_original.jpg",
+ "posterShape": "landscape"
+}

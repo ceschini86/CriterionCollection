@@ -1,0 +1,81 @@
+{
+ "id": "cpick427",
+ "type": "movie",
+ "name": "Nathan Lane",
+ "description": "Filmes que Nathan Lane escolheu no Criterion Closet:\n\n• Rififi (1955)\n• Heaven Can Wait (1943)\n• The Night of the Hunter (1955)\n• Sweet Smell of Success (1957)\n• The Kid (1921)\n• Bitter Rice (1949)\n• Mikey and Nicky (1976)\n• Here Comes Mr. Jordan (1941)\n• Odd Man Out (1947)\n• Valley of the Dolls (1967)\n• The In-Laws (1979)\n• Being There (1979)\n• I Am Curious (Yellow) (1967)\n• I Am Curious (Blue) (1968)",
+ "links": [
+  {
+   "name": "Rififi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048021"
+  },
+  {
+   "name": "Heaven Can Wait",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035979"
+  },
+  {
+   "name": "The Night of the Hunter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048424"
+  },
+  {
+   "name": "Sweet Smell of Success",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051036"
+  },
+  {
+   "name": "The Kid",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0012349"
+  },
+  {
+   "name": "Bitter Rice",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040737"
+  },
+  {
+   "name": "Mikey and Nicky",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074901"
+  },
+  {
+   "name": "Here Comes Mr. Jordan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033712"
+  },
+  {
+   "name": "Odd Man Out",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039677"
+  },
+  {
+   "name": "Valley of the Dolls",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062430"
+  },
+  {
+   "name": "The In-Laws",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079336"
+  },
+  {
+   "name": "Being There",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078841"
+  },
+  {
+   "name": "I Am Curious (Yellow)",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061834"
+  },
+  {
+   "name": "I Am Curious (Blue)",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063149"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4817-694737a28876082d95954f18032158e8/Ro5VfCmceC4fv3bOZXTbzod4FWvPmh_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4817-694737a28876082d95954f18032158e8/Ro5VfCmceC4fv3bOZXTbzod4FWvPmh_original.jpg",
+ "posterShape": "landscape"
+}

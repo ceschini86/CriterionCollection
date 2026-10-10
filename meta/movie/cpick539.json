@@ -1,0 +1,41 @@
+{
+ "id": "cpick539",
+ "type": "movie",
+ "name": "Minnie Driver",
+ "description": "Filmes que Minnie Driver escolheu no Criterion Closet:\n\n• All About Eve (1950)\n• Betty Blue (1986)\n• An Angel at My Table (1990)\n• Uncut Gems (2019)\n• Down by Law (1986)\n• La Cage aux Folles (1978)",
+ "links": [
+  {
+   "name": "All About Eve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042192"
+  },
+  {
+   "name": "Betty Blue",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090563"
+  },
+  {
+   "name": "An Angel at My Table",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0099040"
+  },
+  {
+   "name": "Uncut Gems",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt5727208"
+  },
+  {
+   "name": "Down by Law",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090967"
+  },
+  {
+   "name": "La Cage aux Folles",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077288"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5340-ec540c06b502f92cf8841c97bef437f8/3cVgs8vmXhZue0Hu40vf9jsY8PE8S7_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5340-ec540c06b502f92cf8841c97bef437f8/3cVgs8vmXhZue0Hu40vf9jsY8PE8S7_original.jpg",
+ "posterShape": "landscape"
+}

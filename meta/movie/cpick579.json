@@ -1,0 +1,76 @@
+{
+ "id": "cpick579",
+ "type": "movie",
+ "name": "Hideo Kojima",
+ "description": "Filmes que Hideo Kojima escolheu no Criterion Closet:\n\n• High and Low (1963)\n• Late Spring (1949)\n• Early Spring (1956)\n• Tokyo Twilight (1957)\n• Equinox Flower (1958)\n• Late Autumn (1960)\n• The End of Summer (1961)\n• Ugetsu (1953)\n• Kwaidan (1965)\n• Harakiri (1962)\n• Jigoku (1960)\n• Onibaba (1964)\n• Woman in the Dunes (1964)",
+ "links": [
+  {
+   "name": "High and Low",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057565"
+  },
+  {
+   "name": "Late Spring",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041154"
+  },
+  {
+   "name": "Early Spring",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049784"
+  },
+  {
+   "name": "Tokyo Twilight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051093"
+  },
+  {
+   "name": "Equinox Flower",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051720"
+  },
+  {
+   "name": "Late Autumn",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053579"
+  },
+  {
+   "name": "The End of Summer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055052"
+  },
+  {
+   "name": "Ugetsu",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046478"
+  },
+  {
+   "name": "Kwaidan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058279"
+  },
+  {
+   "name": "Harakiri",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056058"
+  },
+  {
+   "name": "Jigoku",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0154683"
+  },
+  {
+   "name": "Onibaba",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058430"
+  },
+  {
+   "name": "Woman in the Dunes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058625"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5516-f2a35286e8606101be93a661855cf1dc/4KYcdQKv7tYmDAABM8Iqpms3gZPYCH_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5516-f2a35286e8606101be93a661855cf1dc/4KYcdQKv7tYmDAABM8Iqpms3gZPYCH_original.jpg",
+ "posterShape": "landscape"
+}

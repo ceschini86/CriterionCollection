@@ -1,0 +1,111 @@
+{
+ "id": "cpick790",
+ "type": "movie",
+ "name": "Carrie Coon",
+ "description": "Filmes que Carrie Coon escolheu no Criterion Closet:\n\n• Naked (1993)\n• The Mother and the Whore (1973)\n• Jo Jo Dancer, Your Life Is Calling (1986)\n• Crossing Delancey (1988)\n• Godzilla vs. Biollante (1989)\n• The Bakery Girl of Monceau (1963)\n• Suzanne's Career (1963)\n• My Night at Maud's (1969)\n• La Collectionneuse (1967)\n• Claire's Knee (1970)\n• Love in the Afternoon (1972)\n• A Tale of Springtime (1990)\n• A Tale of Winter (1992)\n• A Tale Of Summer\n• A Tale Of Autumn\n• Paris, Texas (1984)\n• Happiness (1965)\n• Wanda (1970)\n• The Cremator (1969)\n• Mandabi (1968)",
+ "links": [
+  {
+   "name": "Naked",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107653"
+  },
+  {
+   "name": "The Mother and the Whore",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070359"
+  },
+  {
+   "name": "Jo Jo Dancer, Your Life Is Calling",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091295"
+  },
+  {
+   "name": "Crossing Delancey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094921"
+  },
+  {
+   "name": "Godzilla vs. Biollante",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097444"
+  },
+  {
+   "name": "The Bakery Girl of Monceau",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056884"
+  },
+  {
+   "name": "Suzanne's Career",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056910"
+  },
+  {
+   "name": "My Night at Maud's",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064612"
+  },
+  {
+   "name": "La Collectionneuse",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061495"
+  },
+  {
+   "name": "Claire's Knee",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065772"
+  },
+  {
+   "name": "Love in the Afternoon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068205"
+  },
+  {
+   "name": "A Tale of Springtime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097106"
+  },
+  {
+   "name": "A Tale of Winter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104008"
+  },
+  {
+   "name": "A Tale Of Summer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0115940"
+  },
+  {
+   "name": "A Tale Of Autumn",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0137439"
+  },
+  {
+   "name": "Paris, Texas",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087884"
+  },
+  {
+   "name": "Happiness",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058985"
+  },
+  {
+   "name": "Wanda",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067961"
+  },
+  {
+   "name": "The Cremator",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063633"
+  },
+  {
+   "name": "Mandabi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063268"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6519-c27545ce092651b25b44c040c939ec9b/a42nz03xY3zk03nUmww215XecgBiYG_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6519-c27545ce092651b25b44c040c939ec9b/a42nz03xY3zk03nUmww215XecgBiYG_original.jpg",
+ "posterShape": "landscape"
+}

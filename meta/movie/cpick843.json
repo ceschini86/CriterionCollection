@@ -1,0 +1,56 @@
+{
+ "id": "cpick843",
+ "type": "movie",
+ "name": "Lena Dunham",
+ "description": "Filmes que Lena Dunham escolheu no Criterion Closet:\n\n• Town Bloody Hall (1979)\n• Love & Basketball (2000)\n• Streetwise (1984)\n• My Brilliant Career (1979)\n• The Daytrippers (1997)\n• Okja (2017)\n• Night on Earth (1991)\n• Defending Your Life (1991)\n• Wanda (1970)",
+ "links": [
+  {
+   "name": "Town Bloody Hall",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0217853"
+  },
+  {
+   "name": "Love & Basketball",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0199725"
+  },
+  {
+   "name": "Streetwise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088196"
+  },
+  {
+   "name": "My Brilliant Career",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079596"
+  },
+  {
+   "name": "The Daytrippers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0116041"
+  },
+  {
+   "name": "Okja",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt3967856"
+  },
+  {
+   "name": "Night on Earth",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102536"
+  },
+  {
+   "name": "Defending Your Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101698"
+  },
+  {
+   "name": "Wanda",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067961"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6809-7d58fb429d1f01c86344fd417f3d85d4/HKDNdT95ZBgWKdKqNGcvB44ZOUcXbB_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6809-7d58fb429d1f01c86344fd417f3d85d4/HKDNdT95ZBgWKdKqNGcvB44ZOUcXbB_original.jpg",
+ "posterShape": "landscape"
+}

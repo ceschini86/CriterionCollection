@@ -1,0 +1,221 @@
+{
+ "id": "cpick1008",
+ "type": "movie",
+ "name": "Isaac Mizrahi",
+ "description": "Filmes que Isaac Mizrahi escolheu no Criterion Closet:\n\n• The Red Shoes (1948)\n• The Leopard (1963)\n• The Damned (1969)\n• Accattone (1961)\n• Mamma Roma (1962)\n• Love Meetings (1965)\n• The Gospel According To Matthew\n• The Hawks and the Sparrows (1966)\n• Oedipus Rex (1967)\n• Teorema (1968)\n• Porcile\n• Medea (1969)\n• Jules and Jim (1962)\n• Dance, Girl, Dance (1940)\n• Original Cast Album: Company (1970)\n• Variety Lights (1950)\n• The White Sheik (1952)\n• I Vitelloni (1953)\n• La Strada (1954)\n• Il Bidone\n• Nights of Cabiria (1957)\n• La Dolce Vita (1960)\n• 8½ (1963)\n• Juliet of the Spirits (1965)\n• Fellini Satyricon\n• Roma\n• Amarcord (1973)\n• And the Ship Sails On (1983)\n• Intervista (1987)\n• Claudine (1974)\n• My Darling Clementine (1946)\n• Destry Rides Again (1939)\n• Jour de Fête (1949)\n• Monsieur Hulot's Holiday (1953)\n• Mon Oncle (1958)\n• PlayTime (1967)\n• Trafic (1971)\n• Parade (1974)\n• Now, Voyager (1942)\n• All About Eve (1950)\n• Polyester (1981)\n• Show Boat (1936)",
+ "links": [
+  {
+   "name": "The Red Shoes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040725"
+  },
+  {
+   "name": "The Leopard",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057091"
+  },
+  {
+   "name": "The Damned",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064118"
+  },
+  {
+   "name": "Accattone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054599"
+  },
+  {
+   "name": "Mamma Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056215"
+  },
+  {
+   "name": "Love Meetings",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057960"
+  },
+  {
+   "name": "The Gospel According To Matthew",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058715"
+  },
+  {
+   "name": "The Hawks and the Sparrows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061132"
+  },
+  {
+   "name": "Oedipus Rex",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061613"
+  },
+  {
+   "name": "Teorema",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063678"
+  },
+  {
+   "name": "Porcile",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064828"
+  },
+  {
+   "name": "Medea",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066065"
+  },
+  {
+   "name": "Jules and Jim",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055032"
+  },
+  {
+   "name": "Dance, Girl, Dance",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032376"
+  },
+  {
+   "name": "Original Cast Album: Company",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0293475"
+  },
+  {
+   "name": "Variety Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042692"
+  },
+  {
+   "name": "The White Sheik",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044000"
+  },
+  {
+   "name": "I Vitelloni",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046521"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  },
+  {
+   "name": "Il Bidone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047876"
+  },
+  {
+   "name": "Nights of Cabiria",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050783"
+  },
+  {
+   "name": "La Dolce Vita",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053779"
+  },
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "Juliet of the Spirits",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059229"
+  },
+  {
+   "name": "Fellini Satyricon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064940"
+  },
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069191"
+  },
+  {
+   "name": "Amarcord",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071129"
+  },
+  {
+   "name": "And the Ship Sails On",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087188"
+  },
+  {
+   "name": "Intervista",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093267"
+  },
+  {
+   "name": "Claudine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071334"
+  },
+  {
+   "name": "My Darling Clementine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038762"
+  },
+  {
+   "name": "Destry Rides Again",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0031225"
+  },
+  {
+   "name": "Jour de Fête",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040497"
+  },
+  {
+   "name": "Monsieur Hulot's Holiday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046487"
+  },
+  {
+   "name": "Mon Oncle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050706"
+  },
+  {
+   "name": "PlayTime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062136"
+  },
+  {
+   "name": "Trafic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069400"
+  },
+  {
+   "name": "Parade",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071968"
+  },
+  {
+   "name": "Now, Voyager",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035140"
+  },
+  {
+   "name": "All About Eve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042192"
+  },
+  {
+   "name": "Polyester",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082926"
+  },
+  {
+   "name": "Show Boat",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028249"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7572-723db6ad9f3ee0a46a7637063456fa24/5giTRwvRnfsYmxnUBr3kwtXoBvdYT7_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7572-723db6ad9f3ee0a46a7637063456fa24/5giTRwvRnfsYmxnUBr3kwtXoBvdYT7_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,101 @@
+{
+ "id": "cpick432",
+ "type": "movie",
+ "name": "Gaspar Noé",
+ "description": "Filmes que Gaspar Noé escolheu no Criterion Closet:\n\n• The X from Outer Space (1967)\n• Goké, Body Snatcher from Hell (1968)\n• The Living Skeleton\n• Genocide\n• Seconds (1966)\n• The Insect Woman (1963)\n• Pigs and Battleships (1961)\n• Intentions of Murder (1964)\n• Master of the House (1925)\n• Safe (1995)\n• State of Siege (1972)\n• Sundays and Cybele (1962)\n• Jigoku (1960)\n• Island of Lost Souls (1932)\n• The Naked Prey (1966)\n• Salò, or the 120 Days of Sodom (1975)\n• Patriotism (1965)\n• Mishima: A Life in Four Chapters (1985)",
+ "links": [
+  {
+   "name": "The X from Outer Space",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062411"
+  },
+  {
+   "name": "Goké, Body Snatcher from Hell",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063206"
+  },
+  {
+   "name": "The Living Skeleton",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0203635"
+  },
+  {
+   "name": "Genocide",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063195"
+  },
+  {
+   "name": "Seconds",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060955"
+  },
+  {
+   "name": "The Insect Woman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057363"
+  },
+  {
+   "name": "Pigs and Battleships",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054709"
+  },
+  {
+   "name": "Intentions of Murder",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057829"
+  },
+  {
+   "name": "Master of the House",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0015768"
+  },
+  {
+   "name": "Safe",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0114323"
+  },
+  {
+   "name": "State of Siege",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070959"
+  },
+  {
+   "name": "Sundays and Cybele",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055910"
+  },
+  {
+   "name": "Jigoku",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0154683"
+  },
+  {
+   "name": "Island of Lost Souls",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0024188"
+  },
+  {
+   "name": "The Naked Prey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060736"
+  },
+  {
+   "name": "Salò, or the 120 Days of Sodom",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073650"
+  },
+  {
+   "name": "Patriotism",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059936"
+  },
+  {
+   "name": "Mishima: A Life in Four Chapters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089603"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5152-3faa50999ec1bd1cf3ed5a9a1f9a53d9/WpEtIQkzOmbOrYHyMoAza18NZgyeYt_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5152-3faa50999ec1bd1cf3ed5a9a1f9a53d9/WpEtIQkzOmbOrYHyMoAza18NZgyeYt_original.jpg",
+ "posterShape": "landscape"
+}

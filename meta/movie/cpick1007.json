@@ -1,0 +1,66 @@
+{
+ "id": "cpick1007",
+ "type": "movie",
+ "name": "Ben Mankiewicz",
+ "description": "Filmes que Ben Mankiewicz escolheu no Criterion Closet:\n\n• The Killing (1956)\n• Paths of Glory (1957)\n• In a Lonely Place (1950)\n• Elevator to the Gallows (1958)\n• Citizen Kane (1941)\n• Sullivan's Travels (1942)\n• Alice Doesn't Live Here Anymore (1974)\n• Night Moves (1975)\n• The Friends of Eddie Coyle (1973)\n• Harlan County U.S.A. (1976)\n• This Is Spinal Tap (1984)",
+ "links": [
+  {
+   "name": "The Killing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049406"
+  },
+  {
+   "name": "Paths of Glory",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050825"
+  },
+  {
+   "name": "In a Lonely Place",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042593"
+  },
+  {
+   "name": "Elevator to the Gallows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051378"
+  },
+  {
+   "name": "Citizen Kane",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033467"
+  },
+  {
+   "name": "Sullivan's Travels",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034240"
+  },
+  {
+   "name": "Alice Doesn't Live Here Anymore",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071115"
+  },
+  {
+   "name": "Night Moves",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073453"
+  },
+  {
+   "name": "The Friends of Eddie Coyle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070077"
+  },
+  {
+   "name": "Harlan County U.S.A.",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074605"
+  },
+  {
+   "name": "This Is Spinal Tap",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088258"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7576-4c79345ae433d77d0c8c810d6567c1c7/5R2Ycc9qi71mXlEjpHSQuzU4M9lRJo_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7576-4c79345ae433d77d0c8c810d6567c1c7/5R2Ycc9qi71mXlEjpHSQuzU4M9lRJo_original.jpg",
+ "posterShape": "landscape"
+}

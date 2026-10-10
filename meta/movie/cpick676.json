@@ -1,0 +1,96 @@
+{
+ "id": "cpick676",
+ "type": "movie",
+ "name": "Carol Kane",
+ "description": "Filmes que Carol Kane escolheu no Criterion Closet:\n\n• All About Eve (1950)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• Local Hero (1983)\n• My Brilliant Career (1979)\n• The Princess Bride (1987)\n• Shampoo (1975)\n• Hobson's Choice (1954)\n• My Own Private Idaho (1991)\n• The Fisher King (1991)\n• City Lights (1931)\n• The Ice Storm (1997)\n• The Royal Tenenbaums (2001)",
+ "links": [
+  {
+   "name": "All About Eve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042192"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "Local Hero",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085859"
+  },
+  {
+   "name": "My Brilliant Career",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079596"
+  },
+  {
+   "name": "The Princess Bride",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093779"
+  },
+  {
+   "name": "Shampoo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073692"
+  },
+  {
+   "name": "Hobson's Choice",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047094"
+  },
+  {
+   "name": "My Own Private Idaho",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102494"
+  },
+  {
+   "name": "The Fisher King",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101889"
+  },
+  {
+   "name": "City Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0021749"
+  },
+  {
+   "name": "The Ice Storm",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119349"
+  },
+  {
+   "name": "The Royal Tenenbaums",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0265666"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6008-074c91a63f8c60753b7e40645079f4ce/s8hX0w8sCUWiOX3wknyzTwOBVcRd8p_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6008-074c91a63f8c60753b7e40645079f4ce/s8hX0w8sCUWiOX3wknyzTwOBVcRd8p_original.jpg",
+ "posterShape": "landscape"
+}

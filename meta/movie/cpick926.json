@@ -1,0 +1,56 @@
+{
+ "id": "cpick926",
+ "type": "movie",
+ "name": "Alex Winter",
+ "description": "Filmes que Alex Winter escolheu no Criterion Closet:\n\n• Where Is The Friend's House? (1987)\n• And Life Goes On\n• Through the Olive Trees (1994)\n• No Bears (2022)\n• Saint Omer (2022)\n• Ugetsu (1953)\n• Harlan County U.S.A. (1976)\n• Él (1953)\n• The Cameraman (1928)",
+ "links": [
+  {
+   "name": "Where Is The Friend's House?",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093342"
+  },
+  {
+   "name": "And Life Goes On",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0105888"
+  },
+  {
+   "name": "Through the Olive Trees",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111845"
+  },
+  {
+   "name": "No Bears",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt20205236"
+  },
+  {
+   "name": "Saint Omer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt15376894"
+  },
+  {
+   "name": "Ugetsu",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046478"
+  },
+  {
+   "name": "Harlan County U.S.A.",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074605"
+  },
+  {
+   "name": "Él",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0045361"
+  },
+  {
+   "name": "The Cameraman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0018742"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7220-6f926c12eb59bf90ab4ce0cb3400c61f/mgpkUT39kgAQRGG6mfHemUgzZ3NDRI_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7220-6f926c12eb59bf90ab4ce0cb3400c61f/mgpkUT39kgAQRGG6mfHemUgzZ3NDRI_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,86 @@
+{
+ "id": "cpick636",
+ "type": "movie",
+ "name": "Chelsea Peretti",
+ "description": "Filmes que Chelsea Peretti escolheu no Criterion Closet:\n\n• Girlfriends (1978)\n• Me and You and Everyone We Know (2005)\n• Trainspotting (1996)\n• Grey Gardens (1976)\n• Crumb (1994)\n• Hollywood Shuffle (1987)\n• Wild Strawberries (1957)\n• The Red Balloon (1956)\n• White Mane (1953)\n• Bim The Little Donkey\n• Stowaway In The Sky\n• Circus Angel\n• The 400 Blows (1959)\n• Mikey and Nicky (1976)\n• The Blob (1958)",
+ "links": [
+  {
+   "name": "Girlfriends",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077613"
+  },
+  {
+   "name": "Me and You and Everyone We Know",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0415978"
+  },
+  {
+   "name": "Trainspotting",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0117951"
+  },
+  {
+   "name": "Grey Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073076"
+  },
+  {
+   "name": "Crumb",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109508"
+  },
+  {
+   "name": "Hollywood Shuffle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093200"
+  },
+  {
+   "name": "Wild Strawberries",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050986"
+  },
+  {
+   "name": "The Red Balloon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048980"
+  },
+  {
+   "name": "White Mane",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044518"
+  },
+  {
+   "name": "Bim The Little Donkey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0137387"
+  },
+  {
+   "name": "Stowaway In The Sky",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056667"
+  },
+  {
+   "name": "Circus Angel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059177"
+  },
+  {
+   "name": "The 400 Blows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053198"
+  },
+  {
+   "name": "Mikey and Nicky",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074901"
+  },
+  {
+   "name": "The Blob",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051418"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5822-63a182d19a24ec613c0d7ee86a3e8ca8/6RjfMCWyGSI2QPsOCOvqZxJv5opM2Y_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5822-63a182d19a24ec613c0d7ee86a3e8ca8/6RjfMCWyGSI2QPsOCOvqZxJv5opM2Y_original.jpg",
+ "posterShape": "landscape"
+}

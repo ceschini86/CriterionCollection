@@ -1,0 +1,41 @@
+{
+ "id": "cpick967",
+ "type": "movie",
+ "name": "Paul Rudd",
+ "description": "Filmes que Paul Rudd escolheu no Criterion Closet:\n\n• Withnail and I (1987)\n• Boyhood (2014)\n• Defending Your Life (1991)\n• Secrets & Lies (1996)\n• Ryuichi Sakamoto | Opus (2023)\n• Fast Times at Ridgemont High (1982)",
+ "links": [
+  {
+   "name": "Withnail and I",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094336"
+  },
+  {
+   "name": "Boyhood",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1065073"
+  },
+  {
+   "name": "Defending Your Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101698"
+  },
+  {
+   "name": "Secrets & Lies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0117589"
+  },
+  {
+   "name": "Ryuichi Sakamoto | Opus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt28490873"
+  },
+  {
+   "name": "Fast Times at Ridgemont High",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083929"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7373-1be283178dc266c06a2ea05f96e82c63/MV59jQShyD63d6edcnj9KvPTBTedmt_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7373-1be283178dc266c06a2ea05f96e82c63/MV59jQShyD63d6edcnj9KvPTBTedmt_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,86 @@
+{
+ "id": "cpick600",
+ "type": "movie",
+ "name": "Ira Sachs (2)",
+ "description": "Filmes que Ira Sachs escolheu no Criterion Closet:\n\n• Jour de Fête (1949)\n• Monsieur Hulot's Holiday (1953)\n• Mon Oncle (1958)\n• PlayTime (1967)\n• Trafic (1971)\n• Parade (1974)\n• Good Morning (1959)\n• Salvatore Giuliano (1962)\n• Charulata (1964)\n• Shoah (1985)\n• Shock Corridor (1963)\n• All That Jazz (1979)\n• The Magic Flute (1975)\n• The Moment of Truth (1965)\n• Magnificent Obsession (1954)",
+ "links": [
+  {
+   "name": "Jour de Fête",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040497"
+  },
+  {
+   "name": "Monsieur Hulot's Holiday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046487"
+  },
+  {
+   "name": "Mon Oncle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050706"
+  },
+  {
+   "name": "PlayTime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062136"
+  },
+  {
+   "name": "Trafic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069400"
+  },
+  {
+   "name": "Parade",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071968"
+  },
+  {
+   "name": "Good Morning",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053134"
+  },
+  {
+   "name": "Salvatore Giuliano",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055399"
+  },
+  {
+   "name": "Charulata",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057935"
+  },
+  {
+   "name": "Shoah",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090015"
+  },
+  {
+   "name": "Shock Corridor",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057495"
+  },
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  },
+  {
+   "name": "The Magic Flute",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073822"
+  },
+  {
+   "name": "The Moment of Truth",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059459"
+  },
+  {
+   "name": "Magnificent Obsession",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047203"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5656-56c4f633b4dacfc19513d396e68a90c5/bu5IWCw5USGxpfs2pJxxfmYL8jOPPR_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5656-56c4f633b4dacfc19513d396e68a90c5/bu5IWCw5USGxpfs2pJxxfmYL8jOPPR_original.jpg",
+ "posterShape": "landscape"
+}

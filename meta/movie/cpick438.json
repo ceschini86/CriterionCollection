@@ -1,0 +1,61 @@
+{
+ "id": "cpick438",
+ "type": "movie",
+ "name": "Flying Lotus",
+ "description": "Filmes que Flying Lotus escolheu no Criterion Closet:\n\n• Brazil (1985)\n• Rushmore (1998)\n• Naked Lunch (1991)\n• Jellyfish Eyes (2013)\n• Carnival of Souls (1962)\n• Dreams\n• Masculin Féminin (1966)\n• A Touch of Zen (1970)\n• Stalker (1979)\n• Fantastic Mr. Fox (2009)",
+ "links": [
+  {
+   "name": "Brazil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088846"
+  },
+  {
+   "name": "Rushmore",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0128445"
+  },
+  {
+   "name": "Naked Lunch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102511"
+  },
+  {
+   "name": "Jellyfish Eyes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2006181"
+  },
+  {
+   "name": "Carnival of Souls",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055830"
+  },
+  {
+   "name": "Dreams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048272"
+  },
+  {
+   "name": "Masculin Féminin",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060675"
+  },
+  {
+   "name": "A Touch of Zen",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064451"
+  },
+  {
+   "name": "Stalker",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079944"
+  },
+  {
+   "name": "Fantastic Mr. Fox",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0432283"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5093-f6b0cbea2e41dcf7aead1a7a444ac807/9mJhEu4RAr4kNzqp7LgYfpRknXSPHc_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5093-f6b0cbea2e41dcf7aead1a7a444ac807/9mJhEu4RAr4kNzqp7LgYfpRknXSPHc_original.jpg",
+ "posterShape": "landscape"
+}

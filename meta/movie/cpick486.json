@@ -1,0 +1,346 @@
+{
+ "id": "cpick486",
+ "type": "movie",
+ "name": "Cate Blanchett and Todd Field",
+ "description": "Filmes que Cate Blanchett and Todd Field escolheu no Criterion Closet:\n\n• Dheepan (2015)\n• In Cold Blood (1967)\n• Devil in a Blue Dress (1995)\n• Wooden Crosses (1932)\n• The Ascent (1977)\n• Tootsie (1982)\n• The Cranes Are Flying (1957)\n• My Winnipeg (2008)\n• Letter Never Sent (1960)\n• Summer with Monika (1953)\n• Crisis (1946)\n• A Ship to India (1947)\n• Port of Call (1948)\n• Thirst (1949)\n• To Joy (1950)\n• Summer Interlude (1951)\n• Waiting Women (1952)\n• Sawdust and Tinsel (1953)\n• A Lesson in Love (1954)\n• Dreams\n• Smiles of a Summer Night (1955)\n• The Seventh Seal (1957)\n• Wild Strawberries (1957)\n• Brink of Life (1958)\n• The Magician (1958)\n• The Virgin Spring (1960)\n• The Devil's Eye (1960)\n• Through a Glass Darkly (1961)\n• Winter Light (1963)\n• The Silence (1963)\n• All These Women (1964)\n• Persona (1966)\n• Hour of the Wolf (1968)\n• Shame (1968)\n• The Rite (1969)\n• The Passion of Anna (1969)\n• Faro Document\n• The Touch (1971)\n• Cries and Whispers (1972)\n• Scenes from a Marriage (1974)\n• The Magic Flute (1975)\n• The Serpent S Egg\n• Autumn Sonata (1978)\n• Fårö Document 1979 (1979)\n• From the Life of the Marionettes (1980)\n• Fanny and Alexander: Theatrical Version (1982)\n• Fanny And Alexander Television Version\n• After the Rehearsal (1984)\n• Saraband\n• Variety Lights (1950)\n• The White Sheik (1952)\n• I Vitelloni (1953)\n• La Strada (1954)\n• Il Bidone\n• Nights of Cabiria (1957)\n• La Dolce Vita (1960)\n• 8½ (1963)\n• Juliet of the Spirits (1965)\n• Fellini Satyricon\n• Roma\n• Amarcord (1973)\n• And the Ship Sails On (1983)\n• Intervista (1987)\n• Häxan (1922)\n• A Man Escaped (1956)\n• A Master Builder (2014)\n• My Dinner with Andre (1981)",
+ "links": [
+  {
+   "name": "Dheepan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt4082068"
+  },
+  {
+   "name": "In Cold Blood",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061809"
+  },
+  {
+   "name": "Devil in a Blue Dress",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112857"
+  },
+  {
+   "name": "Wooden Crosses",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0022787"
+  },
+  {
+   "name": "The Ascent",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075404"
+  },
+  {
+   "name": "Tootsie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084805"
+  },
+  {
+   "name": "The Cranes Are Flying",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050634"
+  },
+  {
+   "name": "My Winnipeg",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1093842"
+  },
+  {
+   "name": "Letter Never Sent",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053106"
+  },
+  {
+   "name": "Summer with Monika",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046345"
+  },
+  {
+   "name": "Crisis",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038675"
+  },
+  {
+   "name": "A Ship to India",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039834"
+  },
+  {
+   "name": "Port of Call",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040418"
+  },
+  {
+   "name": "Thirst",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041998"
+  },
+  {
+   "name": "To Joy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043048"
+  },
+  {
+   "name": "Summer Interlude",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044060"
+  },
+  {
+   "name": "Waiting Women",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044811"
+  },
+  {
+   "name": "Sawdust and Tinsel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0045848"
+  },
+  {
+   "name": "A Lesson in Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047167"
+  },
+  {
+   "name": "Dreams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048272"
+  },
+  {
+   "name": "Smiles of a Summer Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048641"
+  },
+  {
+   "name": "The Seventh Seal",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050976"
+  },
+  {
+   "name": "Wild Strawberries",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050986"
+  },
+  {
+   "name": "Brink of Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052017"
+  },
+  {
+   "name": "The Magician",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051365"
+  },
+  {
+   "name": "The Virgin Spring",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053976"
+  },
+  {
+   "name": "The Devil's Eye",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053772"
+  },
+  {
+   "name": "Through a Glass Darkly",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055499"
+  },
+  {
+   "name": "Winter Light",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057358"
+  },
+  {
+   "name": "The Silence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057611"
+  },
+  {
+   "name": "All These Women",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058124"
+  },
+  {
+   "name": "Persona",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060827"
+  },
+  {
+   "name": "Hour of the Wolf",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063759"
+  },
+  {
+   "name": "Shame",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063611"
+  },
+  {
+   "name": "The Rite",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064897"
+  },
+  {
+   "name": "The Passion of Anna",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064793"
+  },
+  {
+   "name": "Faro Document",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064355"
+  },
+  {
+   "name": "The Touch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066826"
+  },
+  {
+   "name": "Cries and Whispers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069467"
+  },
+  {
+   "name": "Scenes from a Marriage",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6725014"
+  },
+  {
+   "name": "The Magic Flute",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073822"
+  },
+  {
+   "name": "The Serpent S Egg",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076686"
+  },
+  {
+   "name": "Autumn Sonata",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077711"
+  },
+  {
+   "name": "Fårö Document 1979",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079187"
+  },
+  {
+   "name": "From the Life of the Marionettes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080397"
+  },
+  {
+   "name": "Fanny and Alexander: Theatrical Version",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083922"
+  },
+  {
+   "name": "Fanny And Alexander Television Version",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083922"
+  },
+  {
+   "name": "After the Rehearsal",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087193"
+  },
+  {
+   "name": "Saraband",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0299478"
+  },
+  {
+   "name": "Variety Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042692"
+  },
+  {
+   "name": "The White Sheik",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044000"
+  },
+  {
+   "name": "I Vitelloni",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046521"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  },
+  {
+   "name": "Il Bidone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047876"
+  },
+  {
+   "name": "Nights of Cabiria",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050783"
+  },
+  {
+   "name": "La Dolce Vita",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053779"
+  },
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "Juliet of the Spirits",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059229"
+  },
+  {
+   "name": "Fellini Satyricon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064940"
+  },
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069191"
+  },
+  {
+   "name": "Amarcord",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071129"
+  },
+  {
+   "name": "And the Ship Sails On",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087188"
+  },
+  {
+   "name": "Intervista",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093267"
+  },
+  {
+   "name": "Häxan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0013257"
+  },
+  {
+   "name": "A Man Escaped",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049902"
+  },
+  {
+   "name": "A Master Builder",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2276069"
+  },
+  {
+   "name": "My Dinner with Andre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082783"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5105-7f372c74eb8fbde341988d55c10b17b7/yIOpV4Gw0fT2jsqVare10HlGjJZGEH_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5105-7f372c74eb8fbde341988d55c10b17b7/yIOpV4Gw0fT2jsqVare10HlGjJZGEH_original.jpg",
+ "posterShape": "landscape"
+}

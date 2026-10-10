@@ -1,0 +1,61 @@
+{
+ "id": "cpick625",
+ "type": "movie",
+ "name": "Lina Rodriguez",
+ "description": "Filmes que Lina Rodriguez escolheu no Criterion Closet:\n\n• Wanda (1970)\n• Leave Her to Heaven (1945)\n• Portrait of a Lady on Fire (2019)\n• The Baby Carriage (1963)\n• Raven S End\n• Elvira Madigan (1967)\n• Adalen 31 (1969)\n• Eight Hours Don't Make a Day (1972)\n• Flowers of Shanghai (1998)\n• Exotica (1994)",
+ "links": [
+  {
+   "name": "Wanda",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067961"
+  },
+  {
+   "name": "Leave Her to Heaven",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037865"
+  },
+  {
+   "name": "Portrait of a Lady on Fire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt8613070"
+  },
+  {
+   "name": "The Baby Carriage",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056854"
+  },
+  {
+   "name": "Raven S End",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057237"
+  },
+  {
+   "name": "Elvira Madigan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061620"
+  },
+  {
+   "name": "Adalen 31",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065261"
+  },
+  {
+   "name": "Eight Hours Don't Make a Day",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068028"
+  },
+  {
+   "name": "Flowers of Shanghai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0156587"
+  },
+  {
+   "name": "Exotica",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109759"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5782-b9850dbc35ad3401030199cb3e1cb79a/9pfMaR2cQsKLGX4gF6MchvvcBxAIuq_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5782-b9850dbc35ad3401030199cb3e1cb79a/9pfMaR2cQsKLGX4gF6MchvvcBxAIuq_original.jpg",
+ "posterShape": "landscape"
+}

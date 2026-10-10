@@ -1,0 +1,111 @@
+{
+ "id": "cpick521",
+ "type": "movie",
+ "name": "John Darnielle",
+ "description": "Filmes que John Darnielle escolheu no Criterion Closet:\n\n• Samurai I: Musashi Miyamoto (1954)\n• Samurai II: Duel at Ichijoji Temple (1955)\n• Samurai III: Duel at Ganryu Island (1956)\n• Original Cast Album: Company (1970)\n• Salvatore Giuliano (1962)\n• Richard III (1955)\n• Kagemusha (1980)\n• Ethnic Notions\n• Tongues Untied\n• Affirmations\n• Color Adjustment\n• Non Je Ne Regrette Rien No Regret\n• Black Is Black Ain T\n• The Big Boss\n• Fist Of Fury\n• The Way Of The Dragon\n• Enter The Dragon\n• Game Of Death\n• Youth of the Beast (1963)\n• The Ballad of Narayama (1958)",
+ "links": [
+  {
+   "name": "Samurai I: Musashi Miyamoto",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047444"
+  },
+  {
+   "name": "Samurai II: Duel at Ichijoji Temple",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048579"
+  },
+  {
+   "name": "Samurai III: Duel at Ganryu Island",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049710"
+  },
+  {
+   "name": "Original Cast Album: Company",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0293475"
+  },
+  {
+   "name": "Salvatore Giuliano",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055399"
+  },
+  {
+   "name": "Richard III",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049674"
+  },
+  {
+   "name": "Kagemusha",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080979"
+  },
+  {
+   "name": "Ethnic Notions",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091018"
+  },
+  {
+   "name": "Tongues Untied",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103099"
+  },
+  {
+   "name": "Affirmations",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0136697"
+  },
+  {
+   "name": "Color Adjustment",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103984"
+  },
+  {
+   "name": "Non Je Ne Regrette Rien No Regret",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0137129"
+  },
+  {
+   "name": "Black Is Black Ain T",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109285"
+  },
+  {
+   "name": "The Big Boss",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067824"
+  },
+  {
+   "name": "Fist Of Fury",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068767"
+  },
+  {
+   "name": "The Way Of The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068935"
+  },
+  {
+   "name": "Enter The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070034"
+  },
+  {
+   "name": "Game Of Death",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077594"
+  },
+  {
+   "name": "Youth of the Beast",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057697"
+  },
+  {
+   "name": "The Ballad of Narayama",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051980"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5232-cc5dfb9d25572db1e3506d10832cef73/dKyz5GWjptyfh1FgUpT8qagw7OG5if_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5232-cc5dfb9d25572db1e3506d10832cef73/dKyz5GWjptyfh1FgUpT8qagw7OG5if_original.jpg",
+ "posterShape": "landscape"
+}

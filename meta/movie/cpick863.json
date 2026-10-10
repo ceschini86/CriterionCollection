@@ -1,0 +1,66 @@
+{
+ "id": "cpick863",
+ "type": "movie",
+ "name": "David Byrne",
+ "description": "Filmes que David Byrne escolheu no Criterion Closet:\n\n• Jour de Fête (1949)\n• Monsieur Hulot's Holiday (1953)\n• Mon Oncle (1958)\n• PlayTime (1967)\n• Trafic (1971)\n• Parade (1974)\n• The Color of Pomegranates (1969)\n• Dead Man (1995)\n• A Matter of Life and Death (1946)\n• The 39 Steps (1935)\n• True Stories (1986)",
+ "links": [
+  {
+   "name": "Jour de Fête",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040497"
+  },
+  {
+   "name": "Monsieur Hulot's Holiday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046487"
+  },
+  {
+   "name": "Mon Oncle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050706"
+  },
+  {
+   "name": "PlayTime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062136"
+  },
+  {
+   "name": "Trafic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069400"
+  },
+  {
+   "name": "Parade",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071968"
+  },
+  {
+   "name": "The Color of Pomegranates",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063555"
+  },
+  {
+   "name": "Dead Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112817"
+  },
+  {
+   "name": "A Matter of Life and Death",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038733"
+  },
+  {
+   "name": "The 39 Steps",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0026029"
+  },
+  {
+   "name": "True Stories",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092117"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6887-eb16527006954a257fecd03e25e179ef/QgLJfGod2fCpoigN21rwH4RfYaSjY3_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6887-eb16527006954a257fecd03e25e179ef/QgLJfGod2fCpoigN21rwH4RfYaSjY3_original.jpg",
+ "posterShape": "landscape"
+}

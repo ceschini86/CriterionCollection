@@ -1,0 +1,46 @@
+{
+ "id": "cpick428",
+ "type": "movie",
+ "name": "Claire Denis",
+ "description": "Filmes que Claire Denis escolheu no Criterion Closet:\n\n• Ordet (1955)\n• Day of Wrath (1943)\n• Gertrud (1964)\n• Gate of Flesh (1964)\n• Tout Va Bien (1972)\n• Summer with Monika (1953)\n• His Girl Friday (1940)",
+ "links": [
+  {
+   "name": "Ordet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048452"
+  },
+  {
+   "name": "Day of Wrath",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0036506"
+  },
+  {
+   "name": "Gertrud",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058138"
+  },
+  {
+   "name": "Gate of Flesh",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058409"
+  },
+  {
+   "name": "Tout Va Bien",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069398"
+  },
+  {
+   "name": "Summer with Monika",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046345"
+  },
+  {
+   "name": "His Girl Friday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032599"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5085-7dce88a675297a0ed2be84b7e6fe1b7f/twkIWITG73qYmiUhFfJM1J2WlJmeXF_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5085-7dce88a675297a0ed2be84b7e6fe1b7f/twkIWITG73qYmiUhFfJM1J2WlJmeXF_original.jpg",
+ "posterShape": "landscape"
+}

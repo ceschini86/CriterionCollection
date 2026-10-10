@@ -1,0 +1,46 @@
+{
+ "id": "cpick946",
+ "type": "movie",
+ "name": "Kim Morgan",
+ "description": "Filmes que Kim Morgan escolheu no Criterion Closet:\n\n• Merrily We Go to Hell (1932)\n• Something Wild (1986)\n• Leave Her to Heaven (1945)\n• Thirty Two Short Films About Glenn Gould (1993)\n• Punch-Drunk Love (2002)\n• Kiss Me Deadly (1955)\n• The Killing (1956)",
+ "links": [
+  {
+   "name": "Merrily We Go to Hell",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0023213"
+  },
+  {
+   "name": "Something Wild",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091983"
+  },
+  {
+   "name": "Leave Her to Heaven",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037865"
+  },
+  {
+   "name": "Thirty Two Short Films About Glenn Gould",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108328"
+  },
+  {
+   "name": "Punch-Drunk Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0272338"
+  },
+  {
+   "name": "Kiss Me Deadly",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048261"
+  },
+  {
+   "name": "The Killing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049406"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7287-07471e92218ec844fee22099e13df29e/UNRT3OQvR8tZZF4ICGScJbZ3ocfkl4_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7287-07471e92218ec844fee22099e13df29e/UNRT3OQvR8tZZF4ICGScJbZ3ocfkl4_original.jpg",
+ "posterShape": "landscape"
+}

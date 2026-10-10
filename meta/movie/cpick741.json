@@ -1,0 +1,86 @@
+{
+ "id": "cpick741",
+ "type": "movie",
+ "name": "Isabelle Huppert",
+ "description": "Filmes que Isabelle Huppert escolheu no Criterion Closet:\n\n• Wanda (1970)\n• Stromboli (1950)\n• Europe '51 (1952)\n• Journey to Italy (1954)\n• I Knew Her Well (1965)\n• Juliet of the Spirits (1965)\n• La Cérémonie (1995)\n• 2 or 3 Things I Know About Her (1967)\n• Early Spring (1956)\n• Tokyo Twilight (1957)\n• Equinox Flower (1958)\n• Late Autumn (1960)\n• The End of Summer (1961)\n• Saint Omer (2022)\n• Nothing But a Man (1964)",
+ "links": [
+  {
+   "name": "Wanda",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067961"
+  },
+  {
+   "name": "Stromboli",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041931"
+  },
+  {
+   "name": "Europe '51",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043511"
+  },
+  {
+   "name": "Journey to Italy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046511"
+  },
+  {
+   "name": "I Knew Her Well",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060545"
+  },
+  {
+   "name": "Juliet of the Spirits",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059229"
+  },
+  {
+   "name": "La Cérémonie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112769"
+  },
+  {
+   "name": "2 or 3 Things I Know About Her",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060304"
+  },
+  {
+   "name": "Early Spring",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049784"
+  },
+  {
+   "name": "Tokyo Twilight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051093"
+  },
+  {
+   "name": "Equinox Flower",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051720"
+  },
+  {
+   "name": "Late Autumn",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053579"
+  },
+  {
+   "name": "The End of Summer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055052"
+  },
+  {
+   "name": "Saint Omer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt15376894"
+  },
+  {
+   "name": "Nothing But a Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058414"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6268-5ebd68bf7340ddeffbf5bcd3cbbc248b/rHK6HxSKZ11MCFZkPnmPchAMJAT2Cw_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6268-5ebd68bf7340ddeffbf5bcd3cbbc248b/rHK6HxSKZ11MCFZkPnmPchAMJAT2Cw_original.jpg",
+ "posterShape": "landscape"
+}

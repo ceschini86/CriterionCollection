@@ -1,0 +1,76 @@
+{
+ "id": "cpick909",
+ "type": "movie",
+ "name": "Vince Staples",
+ "description": "Filmes que Vince Staples escolheu no Criterion Closet:\n\n• Hollywood Shuffle (1987)\n• Videodrome (1983)\n• The Others (2001)\n• WALL-E (2008)\n• Poto and Cabengo (1980)\n• Routine Pleasures\n• My Crasy Life\n• Jo Jo Dancer, Your Life Is Calling (1986)\n• The Story of a Three-Day Pass (1968)\n• Watermelon Man (1970)\n• Sweet Sweetback's Baadasssss Song (1971)\n• Don't Play Us Cheap (1973)\n• Lynch/Oz (2023)",
+ "links": [
+  {
+   "name": "Hollywood Shuffle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093200"
+  },
+  {
+   "name": "Videodrome",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086541"
+  },
+  {
+   "name": "The Others",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0230600"
+  },
+  {
+   "name": "WALL-E",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0910970"
+  },
+  {
+   "name": "Poto and Cabengo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0196866"
+  },
+  {
+   "name": "Routine Pleasures",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0274069"
+  },
+  {
+   "name": "My Crasy Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104953"
+  },
+  {
+   "name": "Jo Jo Dancer, Your Life Is Calling",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091295"
+  },
+  {
+   "name": "The Story of a Three-Day Pass",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063646"
+  },
+  {
+   "name": "Watermelon Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066550"
+  },
+  {
+   "name": "Sweet Sweetback's Baadasssss Song",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067810"
+  },
+  {
+   "name": "Don't Play Us Cheap",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069996"
+  },
+  {
+   "name": "Lynch/Oz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt15399286"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7105-32db44f62b6bc722250feec958f135cb/zeZ4JoHrrZzzR3Co4SDg3eHQijEZE1_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7105-32db44f62b6bc722250feec958f135cb/zeZ4JoHrrZzzR3Co4SDg3eHQijEZE1_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,61 @@
+{
+ "id": "cpick847",
+ "type": "movie",
+ "name": "Matthew Broderick",
+ "description": "Filmes que Matthew Broderick escolheu no Criterion Closet:\n\n• The Lady Eve (1941)\n• The 39 Steps (1935)\n• My Man Godfrey (1936)\n• Brief Encounter (1945)\n• In Which We Serve (1942)\n• This Happy Breed (1944)\n• Blithe Spirit (1945)\n• Now, Voyager (1942)\n• Double Indemnity (1944)\n• The Cameraman (1928)",
+ "links": [
+  {
+   "name": "The Lady Eve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033804"
+  },
+  {
+   "name": "The 39 Steps",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0026029"
+  },
+  {
+   "name": "My Man Godfrey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028010"
+  },
+  {
+   "name": "Brief Encounter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037558"
+  },
+  {
+   "name": "In Which We Serve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034891"
+  },
+  {
+   "name": "This Happy Breed",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037367"
+  },
+  {
+   "name": "Blithe Spirit",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038363"
+  },
+  {
+   "name": "Now, Voyager",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035140"
+  },
+  {
+   "name": "Double Indemnity",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0036775"
+  },
+  {
+   "name": "The Cameraman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0018742"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6821-dcc7ba5c67ea33604a2c8698abb87264/2TKGdH5nS9sE2o8uHPc36GN9UKwDSC_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6821-dcc7ba5c67ea33604a2c8698abb87264/2TKGdH5nS9sE2o8uHPc36GN9UKwDSC_original.jpg",
+ "posterShape": "landscape"
+}

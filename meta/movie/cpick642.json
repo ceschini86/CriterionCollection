@@ -1,0 +1,86 @@
+{
+ "id": "cpick642",
+ "type": "movie",
+ "name": "St. Vincent",
+ "description": "Filmes que St. Vincent escolheu no Criterion Closet:\n\n• Female Trouble (1974)\n• The Bitter Tears of Petra von Kant (1972)\n• Women on the Verge of a Nervous Breakdown (1988)\n• To Die For (1995)\n• Brand upon the Brain! (2006)\n• Saute ma ville (1968)\n• L Enfant Aime Ou Je Joue A Etre Une Femme Mariee\n• La chambre (1972)\n• Hotel Monterey (1976)\n• Je Tu Il Elle (1974)\n• Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1976)\n• News from Home (1976)\n• Les Rendez Vous D Anna\n• Dazed and Confused (1993)\n• Diamonds of the Night (1964)",
+ "links": [
+  {
+   "name": "Female Trouble",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072979"
+  },
+  {
+   "name": "The Bitter Tears of Petra von Kant",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068278"
+  },
+  {
+   "name": "Women on the Verge of a Nervous Breakdown",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095675"
+  },
+  {
+   "name": "To Die For",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0114681"
+  },
+  {
+   "name": "Brand upon the Brain!",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0443455"
+  },
+  {
+   "name": "Saute ma ville",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063551"
+  },
+  {
+   "name": "L Enfant Aime Ou Je Joue A Etre Une Femme Mariee",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067053"
+  },
+  {
+   "name": "La chambre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068354"
+  },
+  {
+   "name": "Hotel Monterey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068725"
+  },
+  {
+   "name": "Je Tu Il Elle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071690"
+  },
+  {
+   "name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073198"
+  },
+  {
+   "name": "News from Home",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076452"
+  },
+  {
+   "name": "Les Rendez Vous D Anna",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078152"
+  },
+  {
+   "name": "Dazed and Confused",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0106677"
+  },
+  {
+   "name": "Diamonds of the Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058001"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5853-ee48d6060d07b96c6be20df5aaea3ed8/ANfI23bXdLXBLdHdnEnMJlohFxrzBd_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5853-ee48d6060d07b96c6be20df5aaea3ed8/ANfI23bXdLXBLdHdnEnMJlohFxrzBd_original.jpg",
+ "posterShape": "landscape"
+}

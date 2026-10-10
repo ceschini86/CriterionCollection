@@ -1,0 +1,146 @@
+{
+ "id": "cpick965",
+ "type": "movie",
+ "name": "Thierry Frémaux",
+ "description": "Filmes que Thierry Frémaux escolheu no Criterion Closet:\n\n• Pierrot le Fou (1965)\n• The Tall T\n• Decision At Sundown\n• Buchanan Rides Alone\n• Ride Lonesome\n• Comanche Station\n• Shadows in Paradise (1986)\n• Ariel (1988)\n• The Match Factory Girl (1990)\n• Round Midnight (1986)\n• Godzilla (1954)\n• Godzilla Raids Again (1955)\n• King Kong Vs Godzilla\n• Mothra vs. Godzilla (1964)\n• Ghidorah, the Three-Headed Monster (1964)\n• Invasion of Astro-Monster (1965)\n• Ebirah, Horror of the Deep (1966)\n• Son of Godzilla (1967)\n• Destroy All Monsters (1968)\n• All Monsters Attack (1969)\n• Godzilla vs. Hedorah (1971)\n• Godzilla vs. Gigan (1972)\n• Godzilla vs. Megalon (1973)\n• Godzilla vs. Mechagodzilla (1974)\n• Terror of Mechagodzilla (1975)\n• Il Posto (1961)\n• La Verite",
+ "links": [
+  {
+   "name": "Pierrot le Fou",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059592"
+  },
+  {
+   "name": "The Tall T",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051047"
+  },
+  {
+   "name": "Decision At Sundown",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050296"
+  },
+  {
+   "name": "Buchanan Rides Alone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051437"
+  },
+  {
+   "name": "Ride Lonesome",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053220"
+  },
+  {
+   "name": "Comanche Station",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053729"
+  },
+  {
+   "name": "Shadows in Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092149"
+  },
+  {
+   "name": "Ariel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094675"
+  },
+  {
+   "name": "The Match Factory Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0098532"
+  },
+  {
+   "name": "Round Midnight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090557"
+  },
+  {
+   "name": "Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047034"
+  },
+  {
+   "name": "Godzilla Raids Again",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048127"
+  },
+  {
+   "name": "King Kong Vs Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056142"
+  },
+  {
+   "name": "Mothra vs. Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058379"
+  },
+  {
+   "name": "Ghidorah, the Three-Headed Monster",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058544"
+  },
+  {
+   "name": "Invasion of Astro-Monster",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059346"
+  },
+  {
+   "name": "Ebirah, Horror of the Deep",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060464"
+  },
+  {
+   "name": "Son of Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061856"
+  },
+  {
+   "name": "Destroy All Monsters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063172"
+  },
+  {
+   "name": "All Monsters Attack",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064373"
+  },
+  {
+   "name": "Godzilla vs. Hedorah",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067148"
+  },
+  {
+   "name": "Godzilla vs. Gigan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068371"
+  },
+  {
+   "name": "Godzilla vs. Megalon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070122"
+  },
+  {
+   "name": "Godzilla vs. Mechagodzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071565"
+  },
+  {
+   "name": "Terror of Mechagodzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073373"
+  },
+  {
+   "name": "Il Posto",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055320"
+  },
+  {
+   "name": "La Verite",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054452"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7359-73092a613bb4bb78550b4ae506aba345/oQ9k6kRDk5DNNzxYf4LocZ5if3WanW_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7359-73092a613bb4bb78550b4ae506aba345/oQ9k6kRDk5DNNzxYf4LocZ5if3WanW_original.jpg",
+ "posterShape": "landscape"
+}

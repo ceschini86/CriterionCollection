@@ -1,0 +1,46 @@
+{
+ "id": "cpick610",
+ "type": "movie",
+ "name": "Volker Schlöndorff",
+ "description": "Filmes que Volker Schlöndorff escolheu no Criterion Closet:\n\n• L'Eclisse (1962)\n• All That Jazz (1979)\n• Coup de Grâce (1976)\n• Boyhood (2014)\n• Le Beau Serge (1959)\n• Le Havre (2011)\n• Ace in the Hole (1951)",
+ "links": [
+  {
+   "name": "L'Eclisse",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056736"
+  },
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  },
+  {
+   "name": "Coup de Grâce",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074515"
+  },
+  {
+   "name": "Boyhood",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1065073"
+  },
+  {
+   "name": "Le Beau Serge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051404"
+  },
+  {
+   "name": "Le Havre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1508675"
+  },
+  {
+   "name": "Ace in the Hole",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043338"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5684-c487477ca8b80909f12c77ee733d87da/8BmdcDKBWsETZVaemy6wMPUxz3vBJL_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5684-c487477ca8b80909f12c77ee733d87da/8BmdcDKBWsETZVaemy6wMPUxz3vBJL_original.jpg",
+ "posterShape": "landscape"
+}

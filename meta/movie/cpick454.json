@@ -1,0 +1,51 @@
+{
+ "id": "cpick454",
+ "type": "movie",
+ "name": "Leslie Harris",
+ "description": "Filmes que Leslie Harris escolheu no Criterion Closet:\n\n• The Rules of the Game (1939)\n• Scenes from a Marriage (1974)\n• La Pointe Courte (1956)\n• Cléo from 5 to 7 (1962)\n• Le Bonheur (1965)\n• Vagabond (1985)\n• Divorce Italian Style (1961)\n• 8½ (1963)",
+ "links": [
+  {
+   "name": "The Rules of the Game",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0031885"
+  },
+  {
+   "name": "Scenes from a Marriage",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6725014"
+  },
+  {
+   "name": "La Pointe Courte",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048499"
+  },
+  {
+   "name": "Cléo from 5 to 7",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055852"
+  },
+  {
+   "name": "Le Bonheur",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058985"
+  },
+  {
+   "name": "Vagabond",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089960"
+  },
+  {
+   "name": "Divorce Italian Style",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055913"
+  },
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4925-7c62cfaa27314404fff32ec6dd7bbdca/GLDODwM6MiD9XS9uFtVv2hyTy7TiRI_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4925-7c62cfaa27314404fff32ec6dd7bbdca/GLDODwM6MiD9XS9uFtVv2hyTy7TiRI_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "cpick767",
+ "type": "movie",
+ "name": "Walter Salles",
+ "description": "Filmes que Walter Salles escolheu no Criterion Closet:\n\n• Andrei Rublev (1966)\n• Stranger Than Paradise (1984)\n• Memories of Underdevelopment (1968)\n• La Notte (1961)\n• Time (2020)\n• Raging Bull (1980)",
+ "links": [
+  {
+   "name": "Andrei Rublev",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060107"
+  },
+  {
+   "name": "Stranger Than Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088184"
+  },
+  {
+   "name": "Memories of Underdevelopment",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063291"
+  },
+  {
+   "name": "La Notte",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054130"
+  },
+  {
+   "name": "Time",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt11416746"
+  },
+  {
+   "name": "Raging Bull",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081398"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6410-f728ad39c808eab34daab8673595541f/nRvo8E1trOhiWwPyqJQjrl3wlZ7xCT_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6410-f728ad39c808eab34daab8673595541f/nRvo8E1trOhiWwPyqJQjrl3wlZ7xCT_original.jpg",
+ "posterShape": "landscape"
+}

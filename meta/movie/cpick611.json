@@ -1,0 +1,41 @@
+{
+ "id": "cpick611",
+ "type": "movie",
+ "name": "Brit Marling and Zal Batmanglij",
+ "description": "Filmes que Brit Marling and Zal Batmanglij escolheu no Criterion Closet:\n\n• Klute (1971)\n• Time Bandits (1981)\n• Blood Simple (1984)\n• The Double Life of Véronique (1991)\n• After Life (1999)\n• Drive My Car (2021)",
+ "links": [
+  {
+   "name": "Klute",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067309"
+  },
+  {
+   "name": "Time Bandits",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081633"
+  },
+  {
+   "name": "Blood Simple",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086979"
+  },
+  {
+   "name": "The Double Life of Véronique",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101765"
+  },
+  {
+   "name": "After Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0165078"
+  },
+  {
+   "name": "Drive My Car",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt14039582"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5730-03b03a9d2f011ddffa5df089ee4428b2/0xlNZp9iPfRsuyc8fQclznGM1dCpvY_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5730-03b03a9d2f011ddffa5df089ee4428b2/0xlNZp9iPfRsuyc8fQclznGM1dCpvY_original.jpg",
+ "posterShape": "landscape"
+}

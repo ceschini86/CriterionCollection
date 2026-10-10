@@ -1,0 +1,91 @@
+{
+ "id": "cpick838",
+ "type": "movie",
+ "name": "François Girard",
+ "description": "Filmes que François Girard escolheu no Criterion Closet:\n\n• Rashomon (1950)\n• Short Cuts (1993)\n• The Thin Red Line (1998)\n• Merry Christmas, Mr. Lawrence (1983)\n• The Killing (1956)\n• Macbeth (1971)\n• Vive Le Tour (1962)\n• Humain Trop Humain\n• Place de la République (1974)\n• Phantom India\n• Calcutta (1969)\n• God's Country (1985)\n• … And the Pursuit of Happiness (1986)\n• Othello (1951)\n• L'Argent (1983)\n• Exotica (1994)",
+ "links": [
+  {
+   "name": "Rashomon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042876"
+  },
+  {
+   "name": "Short Cuts",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108122"
+  },
+  {
+   "name": "The Thin Red Line",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120863"
+  },
+  {
+   "name": "Merry Christmas, Mr. Lawrence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085933"
+  },
+  {
+   "name": "The Killing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049406"
+  },
+  {
+   "name": "Macbeth",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067372"
+  },
+  {
+   "name": "Vive Le Tour",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056662"
+  },
+  {
+   "name": "Humain Trop Humain",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071635"
+  },
+  {
+   "name": "Place de la République",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071999"
+  },
+  {
+   "name": "Phantom India",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063914"
+  },
+  {
+   "name": "Calcutta",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062773"
+  },
+  {
+   "name": "God's Country",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091125"
+  },
+  {
+   "name": "… And the Pursuit of Happiness",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092561"
+  },
+  {
+   "name": "Othello",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0045251"
+  },
+  {
+   "name": "L'Argent",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085180"
+  },
+  {
+   "name": "Exotica",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109759"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6779-c9df8c39499d132fa62404f0c1a3aa40/bxL4BqEa5L0jRdkHAsjsgj3FWSeOmU_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6779-c9df8c39499d132fa62404f0c1a3aa40/bxL4BqEa5L0jRdkHAsjsgj3FWSeOmU_original.jpg",
+ "posterShape": "landscape"
+}

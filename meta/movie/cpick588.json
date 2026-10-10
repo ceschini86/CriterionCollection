@@ -1,0 +1,116 @@
+{
+ "id": "cpick588",
+ "type": "movie",
+ "name": "Paul B. Preciado",
+ "description": "Filmes que Paul B. Preciado escolheu no Criterion Closet:\n\n• Women on the Verge of a Nervous Breakdown (1988)\n• Cría Cuervos (1976)\n• Accattone (1961)\n• Mamma Roma (1962)\n• Love Meetings (1965)\n• The Gospel According To Matthew\n• The Hawks and the Sparrows (1966)\n• Oedipus Rex (1967)\n• Teorema (1968)\n• Porcile\n• Medea (1969)\n• Salò, or the 120 Days of Sodom (1975)\n• Jour de Fête (1949)\n• Monsieur Hulot's Holiday (1953)\n• Mon Oncle (1958)\n• PlayTime (1967)\n• Trafic (1971)\n• Parade (1974)\n• La Jetée (1962)\n• Sans Soleil (1983)\n• Red Desert (1964)",
+ "links": [
+  {
+   "name": "Women on the Verge of a Nervous Breakdown",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095675"
+  },
+  {
+   "name": "Cría Cuervos",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074360"
+  },
+  {
+   "name": "Accattone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054599"
+  },
+  {
+   "name": "Mamma Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056215"
+  },
+  {
+   "name": "Love Meetings",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057960"
+  },
+  {
+   "name": "The Gospel According To Matthew",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058715"
+  },
+  {
+   "name": "The Hawks and the Sparrows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061132"
+  },
+  {
+   "name": "Oedipus Rex",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061613"
+  },
+  {
+   "name": "Teorema",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063678"
+  },
+  {
+   "name": "Porcile",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064828"
+  },
+  {
+   "name": "Medea",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066065"
+  },
+  {
+   "name": "Salò, or the 120 Days of Sodom",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073650"
+  },
+  {
+   "name": "Jour de Fête",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040497"
+  },
+  {
+   "name": "Monsieur Hulot's Holiday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046487"
+  },
+  {
+   "name": "Mon Oncle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050706"
+  },
+  {
+   "name": "PlayTime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062136"
+  },
+  {
+   "name": "Trafic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069400"
+  },
+  {
+   "name": "Parade",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071968"
+  },
+  {
+   "name": "La Jetée",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056119"
+  },
+  {
+   "name": "Sans Soleil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084628"
+  },
+  {
+   "name": "Red Desert",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058003"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5552-399c9fa4a020d1cefd59280f2c4f89dd/AeetCsvUUti3gYUF99KLVjgy9cCE9o_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5552-399c9fa4a020d1cefd59280f2c4f89dd/AeetCsvUUti3gYUF99KLVjgy9cCE9o_original.jpg",
+ "posterShape": "landscape"
+}

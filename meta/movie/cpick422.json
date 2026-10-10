@@ -1,0 +1,36 @@
+{
+ "id": "cpick422",
+ "type": "movie",
+ "name": "John Waters",
+ "description": "Filmes que John Waters escolheu no Criterion Closet:\n\n• 8½ (1963)\n• The Honeymoon Killers (1970)\n• The Blob (1958)\n• Beyond the Valley of the Dolls (1970)\n• Twin Peaks: Fire Walk with Me (1992)",
+ "links": [
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "The Honeymoon Killers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064437"
+  },
+  {
+   "name": "The Blob",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051418"
+  },
+  {
+   "name": "Beyond the Valley of the Dolls",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065466"
+  },
+  {
+   "name": "Twin Peaks: Fire Walk with Me",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0105665"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4797-fc491fe6dfb8adce23748bedf7882237/j3MwjAsVmZ8X4xRClUdSr8UgmuxOkV_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4797-fc491fe6dfb8adce23748bedf7882237/j3MwjAsVmZ8X4xRClUdSr8UgmuxOkV_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "cpick516",
+ "type": "movie",
+ "name": "Rodrigo Prieto",
+ "description": "Filmes que Rodrigo Prieto escolheu no Criterion Closet:\n\n• Amores perros (2000)\n• Women on the Verge of a Nervous Breakdown (1988)\n• Kwaidan (1965)\n• Raging Bull (1980)\n• Rumble Fish (1983)\n• After Life (1999)",
+ "links": [
+  {
+   "name": "Amores perros",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0245712"
+  },
+  {
+   "name": "Women on the Verge of a Nervous Breakdown",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095675"
+  },
+  {
+   "name": "Kwaidan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058279"
+  },
+  {
+   "name": "Raging Bull",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081398"
+  },
+  {
+   "name": "Rumble Fish",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086216"
+  },
+  {
+   "name": "After Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0165078"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5212-2088e7633e5589643cac1e4ea9e44dfa/B4PXSs0qDEL3ukSOkDNh61nFkUgdgO_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5212-2088e7633e5589643cac1e4ea9e44dfa/B4PXSs0qDEL3ukSOkDNh61nFkUgdgO_original.jpg",
+ "posterShape": "landscape"
+}

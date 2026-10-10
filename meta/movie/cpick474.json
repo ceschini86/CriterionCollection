@@ -1,0 +1,131 @@
+{
+ "id": "cpick474",
+ "type": "movie",
+ "name": "Aubrey Plaza and Jeff Baena",
+ "description": "Filmes que Aubrey Plaza and Jeff Baena escolheu no Criterion Closet:\n\n• The Lady Eve (1941)\n• For All Mankind (1989)\n• Harold and Maude (1971)\n• Being There (1979)\n• Head (1968)\n• Easy Rider (1969)\n• Five Easy Pieces (1970)\n• Drive, He Said (1971)\n• A Safe Place (1971)\n• The Last Picture Show (1971)\n• The King of Marvin Gardens (1972)\n• Under the Volcano (1984)\n• Scenes from a Marriage (1974)\n• The Squid and the Whale (2005)\n• 3 Women (1977)\n• Day for Night (1973)\n• City Lights (1931)\n• A Taste of Honey (1961)\n• Rosemary's Baby (1968)\n• Ghost World (2001)\n• The Big Chill (1983)\n• The Player (1992)\n• I Married a Witch (1942)\n• Safe (1995)",
+ "links": [
+  {
+   "name": "The Lady Eve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033804"
+  },
+  {
+   "name": "For All Mankind",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097372"
+  },
+  {
+   "name": "Harold and Maude",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067185"
+  },
+  {
+   "name": "Being There",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078841"
+  },
+  {
+   "name": "Head",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063049"
+  },
+  {
+   "name": "Easy Rider",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064276"
+  },
+  {
+   "name": "Five Easy Pieces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065724"
+  },
+  {
+   "name": "Drive, He Said",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068509"
+  },
+  {
+   "name": "A Safe Place",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067699"
+  },
+  {
+   "name": "The Last Picture Show",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067328"
+  },
+  {
+   "name": "The King of Marvin Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068805"
+  },
+  {
+   "name": "Under the Volcano",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088322"
+  },
+  {
+   "name": "Scenes from a Marriage",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6725014"
+  },
+  {
+   "name": "The Squid and the Whale",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0367089"
+  },
+  {
+   "name": "3 Women",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075612"
+  },
+  {
+   "name": "Day for Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070460"
+  },
+  {
+   "name": "City Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0021749"
+  },
+  {
+   "name": "A Taste of Honey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055506"
+  },
+  {
+   "name": "Rosemary's Baby",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063522"
+  },
+  {
+   "name": "Ghost World",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0162346"
+  },
+  {
+   "name": "The Big Chill",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085244"
+  },
+  {
+   "name": "The Player",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0105151"
+  },
+  {
+   "name": "I Married a Witch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034881"
+  },
+  {
+   "name": "Safe",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0114323"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5005-9eab0af5134fdc864f7054d6624dba0f/607m8LxjgfS9rSQleiM75ncYhYro5K_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5005-9eab0af5134fdc864f7054d6624dba0f/607m8LxjgfS9rSQleiM75ncYhYro5K_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,161 @@
+{
+ "id": "cpick984",
+ "type": "movie",
+ "name": "Christopher Nolan",
+ "description": "Filmes que Christopher Nolan escolheu no Criterion Closet:\n\n• The Killers\n• The Killers\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• For All Mankind (1989)\n• The Testament of Dr. Mabuse (1933)\n• Pather Panchali (1955)\n• Aparajito (1956)\n• Apur Sansar (1959)\n• Scorsese Shorts\n• Lucía (1968)\n• After the Curfew (1954)\n• Pixote (1980)\n• Dos Monjes\n• Soleil O (1973)\n• Downpour (1972)\n• Malcolm X (1992)\n• Lost Highway (1997)\n• Koyaanisqatsi (1982)\n• Powaqqatsi (1988)\n• Naqoyqatsi (2002)\n• The Player (1992)\n• Boyhood (2014)\n• One False Move (1992)\n• The Black Stallion (1979)\n• Citizen Kane (1941)",
+ "links": [
+  {
+   "name": "The Killers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038669"
+  },
+  {
+   "name": "The Killers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058262"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "For All Mankind",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097372"
+  },
+  {
+   "name": "The Testament of Dr. Mabuse",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0023563"
+  },
+  {
+   "name": "Pather Panchali",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048473"
+  },
+  {
+   "name": "Aparajito",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048956"
+  },
+  {
+   "name": "Apur Sansar",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052572"
+  },
+  {
+   "name": "Scorsese Shorts",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt12431770"
+  },
+  {
+   "name": "Lucía",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064609"
+  },
+  {
+   "name": "After the Curfew",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0045997"
+  },
+  {
+   "name": "Pixote",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082912"
+  },
+  {
+   "name": "Dos Monjes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0025062"
+  },
+  {
+   "name": "Soleil O",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062285"
+  },
+  {
+   "name": "Downpour",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067649"
+  },
+  {
+   "name": "Malcolm X",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104797"
+  },
+  {
+   "name": "Lost Highway",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0116922"
+  },
+  {
+   "name": "Koyaanisqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085809"
+  },
+  {
+   "name": "Powaqqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095895"
+  },
+  {
+   "name": "Naqoyqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0145937"
+  },
+  {
+   "name": "The Player",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0105151"
+  },
+  {
+   "name": "Boyhood",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1065073"
+  },
+  {
+   "name": "One False Move",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102592"
+  },
+  {
+   "name": "The Black Stallion",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078872"
+  },
+  {
+   "name": "Citizen Kane",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033467"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7464-09b18d812056672fa01bc5198688c59e/U07Gu6WsxFi8QWArPtkmsaJzzWOojS_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7464-09b18d812056672fa01bc5198688c59e/U07Gu6WsxFi8QWArPtkmsaJzzWOojS_original.jpg",
+ "posterShape": "landscape"
+}

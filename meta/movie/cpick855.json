@@ -1,0 +1,41 @@
+{
+ "id": "cpick855",
+ "type": "movie",
+ "name": "Peter Wolf",
+ "description": "Filmes que Peter Wolf escolheu no Criterion Closet:\n\n• Chimes at Midnight (1965)\n• I Know Where I'm Going! (1945)\n• Elevator to the Gallows (1958)\n• The Earrings of Madame de... (1953)\n• Band Of Outsiders\n• Seven Samurai (1954)",
+ "links": [
+  {
+   "name": "Chimes at Midnight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059012"
+  },
+  {
+   "name": "I Know Where I'm Going!",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037800"
+  },
+  {
+   "name": "Elevator to the Gallows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051378"
+  },
+  {
+   "name": "The Earrings of Madame de...",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046022"
+  },
+  {
+   "name": "Band Of Outsiders",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057869"
+  },
+  {
+   "name": "Seven Samurai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047478"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6853-14690d70214398170217d8168f434262/h3DBjQRKb3hLOwUmGSmlUJzask2REo_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6853-14690d70214398170217d8168f434262/h3DBjQRKb3hLOwUmGSmlUJzask2REo_original.jpg",
+ "posterShape": "landscape"
+}

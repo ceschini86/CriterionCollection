@@ -1,0 +1,286 @@
+{
+ "id": "cpick630",
+ "type": "movie",
+ "name": "Nuri Bilge Ceylan",
+ "description": "Filmes que Nuri Bilge Ceylan escolheu no Criterion Closet:\n\n• Crisis (1946)\n• A Ship to India (1947)\n• Port of Call (1948)\n• Thirst (1949)\n• To Joy (1950)\n• Summer Interlude (1951)\n• Waiting Women (1952)\n• Summer with Monika (1953)\n• Sawdust and Tinsel (1953)\n• A Lesson in Love (1954)\n• Dreams\n• Smiles of a Summer Night (1955)\n• The Seventh Seal (1957)\n• Wild Strawberries (1957)\n• Brink of Life (1958)\n• The Magician (1958)\n• The Virgin Spring (1960)\n• The Devil's Eye (1960)\n• Through a Glass Darkly (1961)\n• Winter Light (1963)\n• The Silence (1963)\n• All These Women (1964)\n• Persona (1966)\n• Hour of the Wolf (1968)\n• Shame (1968)\n• The Rite (1969)\n• The Passion of Anna (1969)\n• Faro Document\n• The Touch (1971)\n• Cries and Whispers (1972)\n• Scenes from a Marriage (1974)\n• The Magic Flute (1975)\n• The Serpent S Egg\n• Autumn Sonata (1978)\n• Fårö Document 1979 (1979)\n• From the Life of the Marionettes (1980)\n• Fanny and Alexander: Theatrical Version (1982)\n• Fanny And Alexander Television Version\n• After the Rehearsal (1984)\n• Saraband\n• The Bakery Girl of Monceau (1963)\n• Suzanne's Career (1963)\n• My Night at Maud's (1969)\n• La Collectionneuse (1967)\n• Claire's Knee (1970)\n• Love in the Afternoon (1972)\n• Stranger Than Paradise (1984)\n• Andrei Rublev (1966)\n• Pather Panchali (1955)\n• Aparajito (1956)\n• Apur Sansar (1959)\n• Knife in the Water (1962)\n• Where Is The Friend's House? (1987)\n• And Life Goes On\n• Through the Olive Trees (1994)",
+ "links": [
+  {
+   "name": "Crisis",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038675"
+  },
+  {
+   "name": "A Ship to India",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039834"
+  },
+  {
+   "name": "Port of Call",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040418"
+  },
+  {
+   "name": "Thirst",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041998"
+  },
+  {
+   "name": "To Joy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043048"
+  },
+  {
+   "name": "Summer Interlude",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044060"
+  },
+  {
+   "name": "Waiting Women",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044811"
+  },
+  {
+   "name": "Summer with Monika",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046345"
+  },
+  {
+   "name": "Sawdust and Tinsel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0045848"
+  },
+  {
+   "name": "A Lesson in Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047167"
+  },
+  {
+   "name": "Dreams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048272"
+  },
+  {
+   "name": "Smiles of a Summer Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048641"
+  },
+  {
+   "name": "The Seventh Seal",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050976"
+  },
+  {
+   "name": "Wild Strawberries",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050986"
+  },
+  {
+   "name": "Brink of Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052017"
+  },
+  {
+   "name": "The Magician",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051365"
+  },
+  {
+   "name": "The Virgin Spring",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053976"
+  },
+  {
+   "name": "The Devil's Eye",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053772"
+  },
+  {
+   "name": "Through a Glass Darkly",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055499"
+  },
+  {
+   "name": "Winter Light",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057358"
+  },
+  {
+   "name": "The Silence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057611"
+  },
+  {
+   "name": "All These Women",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058124"
+  },
+  {
+   "name": "Persona",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060827"
+  },
+  {
+   "name": "Hour of the Wolf",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063759"
+  },
+  {
+   "name": "Shame",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063611"
+  },
+  {
+   "name": "The Rite",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064897"
+  },
+  {
+   "name": "The Passion of Anna",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064793"
+  },
+  {
+   "name": "Faro Document",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064355"
+  },
+  {
+   "name": "The Touch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066826"
+  },
+  {
+   "name": "Cries and Whispers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069467"
+  },
+  {
+   "name": "Scenes from a Marriage",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6725014"
+  },
+  {
+   "name": "The Magic Flute",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073822"
+  },
+  {
+   "name": "The Serpent S Egg",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076686"
+  },
+  {
+   "name": "Autumn Sonata",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077711"
+  },
+  {
+   "name": "Fårö Document 1979",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079187"
+  },
+  {
+   "name": "From the Life of the Marionettes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080397"
+  },
+  {
+   "name": "Fanny and Alexander: Theatrical Version",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083922"
+  },
+  {
+   "name": "Fanny And Alexander Television Version",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083922"
+  },
+  {
+   "name": "After the Rehearsal",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087193"
+  },
+  {
+   "name": "Saraband",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0299478"
+  },
+  {
+   "name": "The Bakery Girl of Monceau",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056884"
+  },
+  {
+   "name": "Suzanne's Career",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056910"
+  },
+  {
+   "name": "My Night at Maud's",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064612"
+  },
+  {
+   "name": "La Collectionneuse",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061495"
+  },
+  {
+   "name": "Claire's Knee",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065772"
+  },
+  {
+   "name": "Love in the Afternoon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068205"
+  },
+  {
+   "name": "Stranger Than Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088184"
+  },
+  {
+   "name": "Andrei Rublev",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060107"
+  },
+  {
+   "name": "Pather Panchali",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048473"
+  },
+  {
+   "name": "Aparajito",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048956"
+  },
+  {
+   "name": "Apur Sansar",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052572"
+  },
+  {
+   "name": "Knife in the Water",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056291"
+  },
+  {
+   "name": "Where Is The Friend's House?",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093342"
+  },
+  {
+   "name": "And Life Goes On",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0105888"
+  },
+  {
+   "name": "Through the Olive Trees",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111845"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5806-7c717b461347430521b723607af421b6/5JULD1iVHgtZegItMTc7CfoXKznPg3_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5806-7c717b461347430521b723607af421b6/5JULD1iVHgtZegItMTc7CfoXKznPg3_original.jpg",
+ "posterShape": "landscape"
+}

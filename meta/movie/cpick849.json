@@ -1,0 +1,101 @@
+{
+ "id": "cpick849",
+ "type": "movie",
+ "name": "Barbie Ferreira",
+ "description": "Filmes que Barbie Ferreira escolheu no Criterion Closet:\n\n• Videodrome (1983)\n• The Vanishing (1988)\n• My Own Private Idaho (1991)\n• Drugstore Cowboy (1989)\n• Mildred Pierce (1945)\n• Betty Blue (1986)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• Polyester (1981)\n• Totally F***ed Up (1994)\n• The Doom Generation (1995)\n• Nowhere (1997)\n• Red Desert (1964)\n• Safe (1995)",
+ "links": [
+  {
+   "name": "Videodrome",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086541"
+  },
+  {
+   "name": "The Vanishing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0096163"
+  },
+  {
+   "name": "My Own Private Idaho",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102494"
+  },
+  {
+   "name": "Drugstore Cowboy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097240"
+  },
+  {
+   "name": "Mildred Pierce",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037913"
+  },
+  {
+   "name": "Betty Blue",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090563"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "Polyester",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082926"
+  },
+  {
+   "name": "Totally F***ed Up",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108366"
+  },
+  {
+   "name": "The Doom Generation",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112887"
+  },
+  {
+   "name": "Nowhere",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119809"
+  },
+  {
+   "name": "Red Desert",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058003"
+  },
+  {
+   "name": "Safe",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0114323"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6829-2e077918117dc8753b23d0ce92f93528/OfzDyfIR4jwPj65176kJIySTSEO7l5_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6829-2e077918117dc8753b23d0ce92f93528/OfzDyfIR4jwPj65176kJIySTSEO7l5_original.jpg",
+ "posterShape": "landscape"
+}

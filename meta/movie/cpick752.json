@@ -1,0 +1,36 @@
+{
+ "id": "cpick752",
+ "type": "movie",
+ "name": "Barry Sonnenfeld",
+ "description": "Filmes que Barry Sonnenfeld escolheu no Criterion Closet:\n\n• Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb\n• Fail-Safe (1964)\n• Miller's Crossing (1990)\n• Blood Simple (1984)\n• The Thin Blue Line (1988)",
+ "links": [
+  {
+   "name": "Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057012"
+  },
+  {
+   "name": "Fail-Safe",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058083"
+  },
+  {
+   "name": "Miller's Crossing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100150"
+  },
+  {
+   "name": "Blood Simple",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086979"
+  },
+  {
+   "name": "The Thin Blue Line",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0096257"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6343-616d58cdd399ae66a350d95c9ba7d912/d5aEf6qQQAjckiNePPMngvPeI2XUNL_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6343-616d58cdd399ae66a350d95c9ba7d912/d5aEf6qQQAjckiNePPMngvPeI2XUNL_original.jpg",
+ "posterShape": "landscape"
+}

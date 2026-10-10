@@ -1,0 +1,76 @@
+{
+ "id": "cpick771",
+ "type": "movie",
+ "name": "Denis Villeneuve",
+ "description": "Filmes que Denis Villeneuve escolheu no Criterion Closet:\n\n• Three Colors: Blue (1993)\n• Three Colors: White (1994)\n• Three Colors: Red (1994)\n• Through a Glass Darkly (1961)\n• Winter Light (1963)\n• The Silence (1963)\n• Che\n• The Wages of Fear (1953)\n• The Element of Crime (1984)\n• Epidemic\n• Europa (1991)\n• Fellini Satyricon\n• Seven Samurai (1954)",
+ "links": [
+  {
+   "name": "Three Colors: Blue",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108394"
+  },
+  {
+   "name": "Three Colors: White",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111507"
+  },
+  {
+   "name": "Three Colors: Red",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111495"
+  },
+  {
+   "name": "Through a Glass Darkly",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055499"
+  },
+  {
+   "name": "Winter Light",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057358"
+  },
+  {
+   "name": "The Silence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057611"
+  },
+  {
+   "name": "Che",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0892255"
+  },
+  {
+   "name": "The Wages of Fear",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046268"
+  },
+  {
+   "name": "The Element of Crime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087280"
+  },
+  {
+   "name": "Epidemic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092972"
+  },
+  {
+   "name": "Europa",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101829"
+  },
+  {
+   "name": "Fellini Satyricon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064940"
+  },
+  {
+   "name": "Seven Samurai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047478"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6426-a4f706f72e9b3c0c38b291b660c80e93/X4AyLEBQCSy89ANpnwCmRjDrBkVBYG_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6426-a4f706f72e9b3c0c38b291b660c80e93/X4AyLEBQCSy89ANpnwCmRjDrBkVBYG_original.jpg",
+ "posterShape": "landscape"
+}

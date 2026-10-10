@@ -1,0 +1,131 @@
+{
+ "id": "cpick882",
+ "type": "movie",
+ "name": "June Squibb",
+ "description": "Filmes que June Squibb escolheu no Criterion Closet:\n\n• Seven Samurai (1954)\n• Yojimbo (1961)\n• Sanjuro (1962)\n• Diabolique (1955)\n• Children of Paradise (1945)\n• Shaft (1971)\n• Buena Vista Social Club (1999)\n• Paris Is Burning (1991)\n• The Age of Innocence (1993)\n• Godzilla (1954)\n• Godzilla Raids Again (1955)\n• King Kong Vs Godzilla\n• Mothra vs. Godzilla (1964)\n• Ghidorah, the Three-Headed Monster (1964)\n• Invasion of Astro-Monster (1965)\n• Ebirah, Horror of the Deep (1966)\n• Son of Godzilla (1967)\n• Destroy All Monsters (1968)\n• All Monsters Attack (1969)\n• Godzilla vs. Hedorah (1971)\n• Godzilla vs. Gigan (1972)\n• Godzilla vs. Megalon (1973)\n• Godzilla vs. Mechagodzilla (1974)\n• Terror of Mechagodzilla (1975)",
+ "links": [
+  {
+   "name": "Seven Samurai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047478"
+  },
+  {
+   "name": "Yojimbo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055630"
+  },
+  {
+   "name": "Sanjuro",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056443"
+  },
+  {
+   "name": "Diabolique",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046911"
+  },
+  {
+   "name": "Children of Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037674"
+  },
+  {
+   "name": "Shaft",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067741"
+  },
+  {
+   "name": "Buena Vista Social Club",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0186508"
+  },
+  {
+   "name": "Paris Is Burning",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100332"
+  },
+  {
+   "name": "The Age of Innocence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0106226"
+  },
+  {
+   "name": "Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047034"
+  },
+  {
+   "name": "Godzilla Raids Again",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048127"
+  },
+  {
+   "name": "King Kong Vs Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056142"
+  },
+  {
+   "name": "Mothra vs. Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058379"
+  },
+  {
+   "name": "Ghidorah, the Three-Headed Monster",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058544"
+  },
+  {
+   "name": "Invasion of Astro-Monster",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059346"
+  },
+  {
+   "name": "Ebirah, Horror of the Deep",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060464"
+  },
+  {
+   "name": "Son of Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061856"
+  },
+  {
+   "name": "Destroy All Monsters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063172"
+  },
+  {
+   "name": "All Monsters Attack",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064373"
+  },
+  {
+   "name": "Godzilla vs. Hedorah",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067148"
+  },
+  {
+   "name": "Godzilla vs. Gigan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068371"
+  },
+  {
+   "name": "Godzilla vs. Megalon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070122"
+  },
+  {
+   "name": "Godzilla vs. Mechagodzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071565"
+  },
+  {
+   "name": "Terror of Mechagodzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073373"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6968-5b9131217bf4591691019dc5fe9a184d/CYV2Qw4qLPDVFNW77BTptV61AAmfbo_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6968-5b9131217bf4591691019dc5fe9a184d/CYV2Qw4qLPDVFNW77BTptV61AAmfbo_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,71 @@
+{
+ "id": "cpick1012",
+ "type": "movie",
+ "name": "Glenn Close",
+ "description": "Filmes que Glenn Close escolheu no Criterion Closet:\n\n• The Red Balloon (1956)\n• White Mane (1953)\n• Bim The Little Donkey\n• Stowaway In The Sky\n• Circus Angel\n• The Black Stallion (1979)\n• In the Heat of the Night (1967)\n• The Comfort of Strangers (1990)\n• The Big Chill (1983)\n• Amarcord (1973)\n• Women in Love (1969)\n• Cries and Whispers (1972)",
+ "links": [
+  {
+   "name": "The Red Balloon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048980"
+  },
+  {
+   "name": "White Mane",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044518"
+  },
+  {
+   "name": "Bim The Little Donkey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0137387"
+  },
+  {
+   "name": "Stowaway In The Sky",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056667"
+  },
+  {
+   "name": "Circus Angel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059177"
+  },
+  {
+   "name": "The Black Stallion",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078872"
+  },
+  {
+   "name": "In the Heat of the Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061811"
+  },
+  {
+   "name": "The Comfort of Strangers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0099292"
+  },
+  {
+   "name": "The Big Chill",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085244"
+  },
+  {
+   "name": "Amarcord",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071129"
+  },
+  {
+   "name": "Women in Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066579"
+  },
+  {
+   "name": "Cries and Whispers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069467"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7592-43f7bb6a9dfae741550c251a1e3689cc/TrqOH7gRLwNIwf9QLaJ7gVsA19TWnQ_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7592-43f7bb6a9dfae741550c251a1e3689cc/TrqOH7gRLwNIwf9QLaJ7gVsA19TWnQ_original.jpg",
+ "posterShape": "landscape"
+}

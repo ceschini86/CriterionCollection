@@ -1,0 +1,56 @@
+{
+ "id": "cpick1001",
+ "type": "movie",
+ "name": "Wes Anderson (Mobile)",
+ "description": "Filmes que Wes Anderson escolheu no Criterion Closet:\n\n• The 39 Steps (1935)\n• The Red Shoes (1948)\n• Heaven Can Wait (1943)\n• Design for Living (1933)\n• The Lady Eve (1941)\n• Stagecoach (1939)\n• Tootsie (1982)\n• Flow (2024)\n• Charulata (1964)",
+ "links": [
+  {
+   "name": "The 39 Steps",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0026029"
+  },
+  {
+   "name": "The Red Shoes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040725"
+  },
+  {
+   "name": "Heaven Can Wait",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035979"
+  },
+  {
+   "name": "Design for Living",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0023940"
+  },
+  {
+   "name": "The Lady Eve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033804"
+  },
+  {
+   "name": "Stagecoach",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0031971"
+  },
+  {
+   "name": "Tootsie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084805"
+  },
+  {
+   "name": "Flow",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt4772188"
+  },
+  {
+   "name": "Charulata",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057935"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7528-d5ba92edfd38f2f8b4f1f42564e560d2/N3htHiKLWE0Zu2hsg9tB5WE6hC0dfL_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7528-d5ba92edfd38f2f8b4f1f42564e560d2/N3htHiKLWE0Zu2hsg9tB5WE6hC0dfL_original.jpg",
+ "posterShape": "landscape"
+}

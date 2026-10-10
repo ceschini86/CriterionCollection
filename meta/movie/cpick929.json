@@ -1,0 +1,101 @@
+{
+ "id": "cpick929",
+ "type": "movie",
+ "name": "Diego Calva",
+ "description": "Filmes que Diego Calva escolheu no Criterion Closet:\n\n• Paris, Texas (1984)\n• City Lights (1931)\n• 8½ (1963)\n• After Hours (1985)\n• Japón (2003)\n• The Exterminating Angel (1962)\n• The Executioner (1963)\n• The 400 Blows (1959)\n• Gummo (1997)\n• Fish Tank (2009)\n• Totally F***ed Up (1994)\n• The Doom Generation (1995)\n• Nowhere (1997)\n• Slacker (1990)\n• Videodrome (1983)\n• Crash (1996)\n• Pink Flamingos (1972)\n• Do the Right Thing (1989)",
+ "links": [
+  {
+   "name": "Paris, Texas",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087884"
+  },
+  {
+   "name": "City Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0021749"
+  },
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "After Hours",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088680"
+  },
+  {
+   "name": "Japón",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0322824"
+  },
+  {
+   "name": "The Exterminating Angel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056732"
+  },
+  {
+   "name": "The Executioner",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057643"
+  },
+  {
+   "name": "The 400 Blows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053198"
+  },
+  {
+   "name": "Gummo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119237"
+  },
+  {
+   "name": "Fish Tank",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1232776"
+  },
+  {
+   "name": "Totally F***ed Up",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108366"
+  },
+  {
+   "name": "The Doom Generation",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112887"
+  },
+  {
+   "name": "Nowhere",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119809"
+  },
+  {
+   "name": "Slacker",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102943"
+  },
+  {
+   "name": "Videodrome",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086541"
+  },
+  {
+   "name": "Crash",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0115964"
+  },
+  {
+   "name": "Pink Flamingos",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069089"
+  },
+  {
+   "name": "Do the Right Thing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097216"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7212-a8f21320031de7f38732dbbe8924e833/3y4bqSIaE07lkAxI5MQe4Y6b9lvEVh_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7212-a8f21320031de7f38732dbbe8924e833/3y4bqSIaE07lkAxI5MQe4Y6b9lvEVh_original.jpg",
+ "posterShape": "landscape"
+}

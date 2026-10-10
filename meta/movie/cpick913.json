@@ -1,0 +1,41 @@
+{
+ "id": "cpick913",
+ "type": "movie",
+ "name": "Rose Byrne",
+ "description": "Filmes que Rose Byrne escolheu no Criterion Closet:\n\n• The Piano (1993)\n• Trainspotting (1996)\n• Mulholland Dr\n• Paris, Texas (1984)\n• Secrets & Lies (1996)\n• An Unmarried Woman (1978)",
+ "links": [
+  {
+   "name": "The Piano",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107822"
+  },
+  {
+   "name": "Trainspotting",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0117951"
+  },
+  {
+   "name": "Mulholland Dr",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0166924"
+  },
+  {
+   "name": "Paris, Texas",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087884"
+  },
+  {
+   "name": "Secrets & Lies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0117589"
+  },
+  {
+   "name": "An Unmarried Woman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078444"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7129-b0a0e30e40b3a7cc8f6d6b40cb1323bc/79jbObkpWKNyeANihEOr5CoJT7Pk11_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7129-b0a0e30e40b3a7cc8f6d6b40cb1323bc/79jbObkpWKNyeANihEOr5CoJT7Pk11_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "cpick968",
+ "type": "movie",
+ "name": "Bob the Drag Queen",
+ "description": "Filmes que Bob the Drag Queen escolheu no Criterion Closet:\n\n• Hedwig and the Angry Inch (2001)\n• Jo Jo Dancer, Your Life Is Calling (1986)\n• Pee-wee's Big Adventure (1985)\n• Network (1976)\n• The Wiz (1978)\n• Paris Is Burning (1991)",
+ "links": [
+  {
+   "name": "Hedwig and the Angry Inch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0248845"
+  },
+  {
+   "name": "Jo Jo Dancer, Your Life Is Calling",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091295"
+  },
+  {
+   "name": "Pee-wee's Big Adventure",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089791"
+  },
+  {
+   "name": "Network",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074958"
+  },
+  {
+   "name": "The Wiz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078504"
+  },
+  {
+   "name": "Paris Is Burning",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100332"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7377-cf43eea7a133769d5e95aaf3824732a4/9zGkr4etQEmOER72OIPVaYSDIbiFxd_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7377-cf43eea7a133769d5e95aaf3824732a4/9zGkr4etQEmOER72OIPVaYSDIbiFxd_original.jpg",
+ "posterShape": "landscape"
+}

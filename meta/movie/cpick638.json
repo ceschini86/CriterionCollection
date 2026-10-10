@@ -1,0 +1,86 @@
+{
+ "id": "cpick638",
+ "type": "movie",
+ "name": "Ben Gibbards",
+ "description": "Filmes que Ben Gibbards escolheu no Criterion Closet:\n\n• The Exterminating Angel (1962)\n• The Discreet Charm of the Bourgeoisie (1972)\n• The Phantom of Liberty (1974)\n• That Obscure Object of Desire (1977)\n• Monterey Pop (1968)\n• Jimi Plays Monterey & Shake! Otis at Monterey (1986)\n• Old Joy (2006)\n• Take Out (2008)\n• Brute Force (1947)\n• Le Havre (2011)\n• Shadows in Paradise (1986)\n• Ariel (1988)\n• The Match Factory Girl (1990)\n• Streetwise (1984)\n• Tiny: The Life of Erin Blackwell (2016)",
+ "links": [
+  {
+   "name": "The Exterminating Angel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056732"
+  },
+  {
+   "name": "The Discreet Charm of the Bourgeoisie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068361"
+  },
+  {
+   "name": "The Phantom of Liberty",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071487"
+  },
+  {
+   "name": "That Obscure Object of Desire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075824"
+  },
+  {
+   "name": "Monterey Pop",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064689"
+  },
+  {
+   "name": "Jimi Plays Monterey & Shake! Otis at Monterey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093312"
+  },
+  {
+   "name": "Old Joy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0468526"
+  },
+  {
+   "name": "Take Out",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0391483"
+  },
+  {
+   "name": "Brute Force",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039224"
+  },
+  {
+   "name": "Le Havre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1508675"
+  },
+  {
+   "name": "Shadows in Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092149"
+  },
+  {
+   "name": "Ariel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094675"
+  },
+  {
+   "name": "The Match Factory Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0098532"
+  },
+  {
+   "name": "Streetwise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088196"
+  },
+  {
+   "name": "Tiny: The Life of Erin Blackwell",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt3505094"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5830-b9808d949378fff6ada9b5c2bfa59a7a/LrM7Ng8M9HM84k4hFTHAOHNVlnYk2N_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5830-b9808d949378fff6ada9b5c2bfa59a7a/LrM7Ng8M9HM84k4hFTHAOHNVlnYk2N_original.jpg",
+ "posterShape": "landscape"
+}

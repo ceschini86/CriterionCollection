@@ -1,0 +1,46 @@
+{
+ "id": "cpick564",
+ "type": "movie",
+ "name": "Rickie Lee Jones",
+ "description": "Filmes que Rickie Lee Jones escolheu no Criterion Closet:\n\n• My Man Godfrey (1936)\n• Hedwig and the Angry Inch (2001)\n• Monterey Pop (1968)\n• Jimi Plays Monterey & Shake! Otis at Monterey (1986)\n• The Blob (1958)\n• A Taste of Honey (1961)\n• Devil in a Blue Dress (1995)",
+ "links": [
+  {
+   "name": "My Man Godfrey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028010"
+  },
+  {
+   "name": "Hedwig and the Angry Inch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0248845"
+  },
+  {
+   "name": "Monterey Pop",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064689"
+  },
+  {
+   "name": "Jimi Plays Monterey & Shake! Otis at Monterey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093312"
+  },
+  {
+   "name": "The Blob",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051418"
+  },
+  {
+   "name": "A Taste of Honey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055506"
+  },
+  {
+   "name": "Devil in a Blue Dress",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112857"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5469-a9ff453265701c8bcdb391baf9e23ad5/qSi2ZC3gYykHnYbrToZIirsbAkNGCI_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5469-a9ff453265701c8bcdb391baf9e23ad5/qSi2ZC3gYykHnYbrToZIirsbAkNGCI_original.jpg",
+ "posterShape": "landscape"
+}

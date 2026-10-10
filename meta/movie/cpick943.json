@@ -1,0 +1,36 @@
+{
+ "id": "cpick943",
+ "type": "movie",
+ "name": "Cary Elwes",
+ "description": "Filmes que Cary Elwes escolheu no Criterion Closet:\n\n• The Battle of Algiers (1966)\n• Roma\n• All That Jazz (1979)\n• The Hit (1984)\n• Odd Man Out (1947)",
+ "links": [
+  {
+   "name": "The Battle of Algiers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058946"
+  },
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069191"
+  },
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  },
+  {
+   "name": "The Hit",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087414"
+  },
+  {
+   "name": "Odd Man Out",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039677"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7271-729606aeb62f646e515f6944d6e48806/OyvQsbNRusBVqgSurfL0Rw4UULjFsx_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7271-729606aeb62f646e515f6944d6e48806/OyvQsbNRusBVqgSurfL0Rw4UULjFsx_original.jpg",
+ "posterShape": "landscape"
+}

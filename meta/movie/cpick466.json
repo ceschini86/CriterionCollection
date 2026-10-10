@@ -1,0 +1,76 @@
+{
+ "id": "cpick466",
+ "type": "movie",
+ "name": "Tim Robbins",
+ "description": "Filmes que Tim Robbins escolheu no Criterion Closet:\n\n• Antonio Gaudí (1984)\n• Warrendale (1967)\n• A Married Couple (1969)\n• Come On Children\n• Dying at Grace (2003)\n• Memory For Max Claire Ida And Company\n• La Jetée (1962)\n• Sans Soleil (1983)\n• Nashville (1975)\n• Sweet Smell of Success (1957)\n• Shock Corridor (1963)\n• My Dinner with Andre (1981)\n• Z (1969)",
+ "links": [
+  {
+   "name": "Antonio Gaudí",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086907"
+  },
+  {
+   "name": "Warrendale",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062474"
+  },
+  {
+   "name": "A Married Couple",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064640"
+  },
+  {
+   "name": "Come On Children",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0269104"
+  },
+  {
+   "name": "Dying at Grace",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0379269"
+  },
+  {
+   "name": "Memory For Max Claire Ida And Company",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0478000"
+  },
+  {
+   "name": "La Jetée",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056119"
+  },
+  {
+   "name": "Sans Soleil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084628"
+  },
+  {
+   "name": "Nashville",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073440"
+  },
+  {
+   "name": "Sweet Smell of Success",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051036"
+  },
+  {
+   "name": "Shock Corridor",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057495"
+  },
+  {
+   "name": "My Dinner with Andre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082783"
+  },
+  {
+   "name": "Z",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065234"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5292-33823c51473b9511625ac672ca61a07c/iT6rIGgua5TDrwLq2Z1Sn8Z2xkpv45_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5292-33823c51473b9511625ac672ca61a07c/iT6rIGgua5TDrwLq2Z1Sn8Z2xkpv45_original.jpg",
+ "posterShape": "landscape"
+}

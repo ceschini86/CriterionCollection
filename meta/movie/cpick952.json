@@ -1,0 +1,51 @@
+{
+ "id": "cpick952",
+ "type": "movie",
+ "name": "Elisabeth Moss",
+ "description": "Filmes que Elisabeth Moss escolheu no Criterion Closet:\n\n• Arsenic and Old Lace (1944)\n• Swing Time (1936)\n• The Cameraman (1928)\n• Holiday (1938)\n• Sweetie (1989)\n• All About Eve (1950)\n• Broadcast News (1987)\n• Don't Look Now (1973)",
+ "links": [
+  {
+   "name": "Arsenic and Old Lace",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0036613"
+  },
+  {
+   "name": "Swing Time",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028333"
+  },
+  {
+   "name": "The Cameraman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0018742"
+  },
+  {
+   "name": "Holiday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0030241"
+  },
+  {
+   "name": "Sweetie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0098725"
+  },
+  {
+   "name": "All About Eve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042192"
+  },
+  {
+   "name": "Broadcast News",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092699"
+  },
+  {
+   "name": "Don't Look Now",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069995"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7307-9eb77012de03f0fa061efef99537c559/xvDSJRirQKbQncTTla4jKnFiFnRbmc_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7307-9eb77012de03f0fa061efef99537c559/xvDSJRirQKbQncTTla4jKnFiFnRbmc_original.jpg",
+ "posterShape": "landscape"
+}

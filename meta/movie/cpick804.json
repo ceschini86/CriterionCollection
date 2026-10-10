@@ -1,0 +1,76 @@
+{
+ "id": "cpick804",
+ "type": "movie",
+ "name": "Ben Affleck",
+ "description": "Filmes que Ben Affleck escolheu no Criterion Closet:\n\n• The Rules of the Game (1939)\n• Miller's Crossing (1990)\n• Dazed and Confused (1993)\n• Badlands (1973)\n• Traffic\n• Hollywood Shuffle (1987)\n• Trainspotting (1996)\n• Malcolm X (1992)\n• Bull Durham (1988)\n• Fast Times at Ridgemont High (1982)\n• The Silence of the Lambs (1991)\n• Armageddon (1998)\n• The Elephant Man (1980)",
+ "links": [
+  {
+   "name": "The Rules of the Game",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0031885"
+  },
+  {
+   "name": "Miller's Crossing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100150"
+  },
+  {
+   "name": "Dazed and Confused",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0106677"
+  },
+  {
+   "name": "Badlands",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069762"
+  },
+  {
+   "name": "Traffic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0181865"
+  },
+  {
+   "name": "Hollywood Shuffle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093200"
+  },
+  {
+   "name": "Trainspotting",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0117951"
+  },
+  {
+   "name": "Malcolm X",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104797"
+  },
+  {
+   "name": "Bull Durham",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094812"
+  },
+  {
+   "name": "Fast Times at Ridgemont High",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083929"
+  },
+  {
+   "name": "The Silence of the Lambs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102926"
+  },
+  {
+   "name": "Armageddon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120591"
+  },
+  {
+   "name": "The Elephant Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080678"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6568-81411ec13be6b076b2ed46cbbd080cd4/jNyDwqTrtJ84DWXkursOI3gohbdfna_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6568-81411ec13be6b076b2ed46cbbd080cd4/jNyDwqTrtJ84DWXkursOI3gohbdfna_original.jpg",
+ "posterShape": "landscape"
+}

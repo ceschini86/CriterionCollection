@@ -1,0 +1,76 @@
+{
+ "id": "cpick566",
+ "type": "movie",
+ "name": "Roger & James Deakins",
+ "description": "Filmes que Roger & James Deakins escolheu no Criterion Closet:\n\n• Kameradschaft\n• Come and See (1985)\n• Tokyo Olympiad (1965)\n• Fires on the Plain (1959)\n• The Burmese Harp (1956)\n• Sid Nancy\n• Le Cercle rouge (1970)\n• Le Silence de la mer (1947)\n• The Seventh Seal (1957)\n• L'Avventura (1960)\n• Mirror (1975)\n• Solaris (1972)\n• In Cold Blood (1967)",
+ "links": [
+  {
+   "name": "Kameradschaft",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0022017"
+  },
+  {
+   "name": "Come and See",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091251"
+  },
+  {
+   "name": "Tokyo Olympiad",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059817"
+  },
+  {
+   "name": "Fires on the Plain",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053121"
+  },
+  {
+   "name": "The Burmese Harp",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049012"
+  },
+  {
+   "name": "Sid Nancy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091954"
+  },
+  {
+   "name": "Le Cercle rouge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065531"
+  },
+  {
+   "name": "Le Silence de la mer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039822"
+  },
+  {
+   "name": "The Seventh Seal",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050976"
+  },
+  {
+   "name": "L'Avventura",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053619"
+  },
+  {
+   "name": "Mirror",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072443"
+  },
+  {
+   "name": "Solaris",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069293"
+  },
+  {
+   "name": "In Cold Blood",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061809"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5458-1e01aca3017eff19c67b7a757d487746/jDRmBKVPRbd84edAJUvjbfL8EJmUHP_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5458-1e01aca3017eff19c67b7a757d487746/jDRmBKVPRbd84edAJUvjbfL8EJmUHP_original.jpg",
+ "posterShape": "landscape"
+}

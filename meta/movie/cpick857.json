@@ -1,0 +1,71 @@
+{
+ "id": "cpick857",
+ "type": "movie",
+ "name": "Jamie Lee Curtis",
+ "description": "Filmes que Jamie Lee Curtis escolheu no Criterion Closet:\n\n• Uncut Gems (2019)\n• WALL-E (2008)\n• The Princess Bride (1987)\n• Raging Bull (1980)\n• Danton (1983)\n• Monsoon Wedding (2001)\n• Downhill Racer (1969)\n• Paper Moon (1973)\n• Sweet Smell of Success (1957)\n• The Manchurian Candidate (1962)\n• A Woman Under the Influence (1974)\n• This Is Spinal Tap (1984)",
+ "links": [
+  {
+   "name": "Uncut Gems",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt5727208"
+  },
+  {
+   "name": "WALL-E",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0910970"
+  },
+  {
+   "name": "The Princess Bride",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093779"
+  },
+  {
+   "name": "Raging Bull",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081398"
+  },
+  {
+   "name": "Danton",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083789"
+  },
+  {
+   "name": "Monsoon Wedding",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0265343"
+  },
+  {
+   "name": "Downhill Racer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064253"
+  },
+  {
+   "name": "Paper Moon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070510"
+  },
+  {
+   "name": "Sweet Smell of Success",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051036"
+  },
+  {
+   "name": "The Manchurian Candidate",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056218"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "This Is Spinal Tap",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088258"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6867-978d497280b0a8ef95c8e4e50e08ed50/w5am9VvrFGM8suCwRGUZO25fFIAD17_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6867-978d497280b0a8ef95c8e4e50e08ed50/w5am9VvrFGM8suCwRGUZO25fFIAD17_original.jpg",
+ "posterShape": "landscape"
+}

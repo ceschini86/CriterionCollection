@@ -1,0 +1,231 @@
+{
+ "id": "cpick653",
+ "type": "movie",
+ "name": "Cheryl Dunye",
+ "description": "Filmes que Cheryl Dunye escolheu no Criterion Closet:\n\n• I Married a Witch (1942)\n• Mudbound (2017)\n• The Cameraman (1928)\n• Saute ma ville (1968)\n• L Enfant Aime Ou Je Joue A Etre Une Femme Mariee\n• La chambre (1972)\n• Hotel Monterey (1976)\n• Je Tu Il Elle (1974)\n• Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1976)\n• News from Home (1976)\n• Les Rendez Vous D Anna\n• To Die For (1995)\n• Ethnic Notions\n• Tongues Untied\n• Affirmations\n• Color Adjustment\n• Non Je Ne Regrette Rien No Regret\n• Black Is Black Ain T\n• The Marriage of Maria Braun (1979)\n• Veronika Voss (1982)\n• Lola\n• Varda by Agnès (2019)\n• La Pointe Courte (1956)\n• Cléo from 5 to 7 (1962)\n• Daguerréotypes (1978)\n• Le Bonheur (1965)\n• Les Creatures\n• Uncle Yanco (1967)\n• Black Panthers (1968)\n• Lions Love And Lies\n• Mur Murs (1982)\n• Documenteur (1982)\n• One Sings, the Other Doesn't (1977)\n• Vagabond (1985)\n• Jane B Par Agnes V\n• Kung-Fu Master! (1988)\n• Jacquot De Nantes\n• One Hundred and One Nights (1995)\n• The Gleaners and I (2000)\n• The Gleaners and I: Two Years Later (2002)\n• Faces Places\n• Agnes De Ci De La Varda\n• The Beaches of Agnès (2008)\n• The Watermelon Woman (1997)",
+ "links": [
+  {
+   "name": "I Married a Witch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034881"
+  },
+  {
+   "name": "Mudbound",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2396589"
+  },
+  {
+   "name": "The Cameraman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0018742"
+  },
+  {
+   "name": "Saute ma ville",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063551"
+  },
+  {
+   "name": "L Enfant Aime Ou Je Joue A Etre Une Femme Mariee",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067053"
+  },
+  {
+   "name": "La chambre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068354"
+  },
+  {
+   "name": "Hotel Monterey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068725"
+  },
+  {
+   "name": "Je Tu Il Elle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071690"
+  },
+  {
+   "name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073198"
+  },
+  {
+   "name": "News from Home",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076452"
+  },
+  {
+   "name": "Les Rendez Vous D Anna",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078152"
+  },
+  {
+   "name": "To Die For",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0114681"
+  },
+  {
+   "name": "Ethnic Notions",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091018"
+  },
+  {
+   "name": "Tongues Untied",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103099"
+  },
+  {
+   "name": "Affirmations",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0136697"
+  },
+  {
+   "name": "Color Adjustment",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103984"
+  },
+  {
+   "name": "Non Je Ne Regrette Rien No Regret",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0137129"
+  },
+  {
+   "name": "Black Is Black Ain T",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109285"
+  },
+  {
+   "name": "The Marriage of Maria Braun",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079095"
+  },
+  {
+   "name": "Veronika Voss",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084654"
+  },
+  {
+   "name": "Lola",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082671"
+  },
+  {
+   "name": "Varda by Agnès",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt9530198"
+  },
+  {
+   "name": "La Pointe Courte",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048499"
+  },
+  {
+   "name": "Cléo from 5 to 7",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055852"
+  },
+  {
+   "name": "Daguerréotypes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071384"
+  },
+  {
+   "name": "Le Bonheur",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058985"
+  },
+  {
+   "name": "Les Creatures",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060263"
+  },
+  {
+   "name": "Uncle Yanco",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0179389"
+  },
+  {
+   "name": "Black Panthers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0209942"
+  },
+  {
+   "name": "Lions Love And Lies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064591"
+  },
+  {
+   "name": "Mur Murs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081204"
+  },
+  {
+   "name": "Documenteur",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082275"
+  },
+  {
+   "name": "One Sings, the Other Doesn't",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076855"
+  },
+  {
+   "name": "Vagabond",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089960"
+  },
+  {
+   "name": "Jane B Par Agnes V",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093295"
+  },
+  {
+   "name": "Kung-Fu Master!",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093371"
+  },
+  {
+   "name": "Jacquot De Nantes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102141"
+  },
+  {
+   "name": "One Hundred and One Nights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112654"
+  },
+  {
+   "name": "The Gleaners and I",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0247380"
+  },
+  {
+   "name": "The Gleaners and I: Two Years Later",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0345128"
+  },
+  {
+   "name": "Faces Places",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt5598102"
+  },
+  {
+   "name": "Agnes De Ci De La Varda",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2125012"
+  },
+  {
+   "name": "The Beaches of Agnès",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1129435"
+  },
+  {
+   "name": "The Watermelon Woman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118125"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5896-91abb57d99be72901391198437211e1c/ABgJQnv9yLJHwIUpdYoO7NhULmthQv_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5896-91abb57d99be72901391198437211e1c/ABgJQnv9yLJHwIUpdYoO7NhULmthQv_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,91 @@
+{
+ "id": "cpick789",
+ "type": "movie",
+ "name": "Karyn Kusama",
+ "description": "Filmes que Karyn Kusama escolheu no Criterion Closet:\n\n• The Damned (1969)\n• Not a Pretty Picture (1976)\n• Chilly Scenes of Winter (1979)\n• The Discreet Charm of the Bourgeoisie (1972)\n• The Phantom of Liberty (1974)\n• That Obscure Object of Desire (1977)\n• No Country for Old Men (2007)\n• Dogfight (1991)\n• Early Spring (1956)\n• Tokyo Twilight (1957)\n• Equinox Flower (1958)\n• Late Autumn (1960)\n• The End of Summer (1961)\n• Koyaanisqatsi (1982)\n• Powaqqatsi (1988)\n• Naqoyqatsi (2002)",
+ "links": [
+  {
+   "name": "The Damned",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064118"
+  },
+  {
+   "name": "Not a Pretty Picture",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073467"
+  },
+  {
+   "name": "Chilly Scenes of Winter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079278"
+  },
+  {
+   "name": "The Discreet Charm of the Bourgeoisie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068361"
+  },
+  {
+   "name": "The Phantom of Liberty",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071487"
+  },
+  {
+   "name": "That Obscure Object of Desire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075824"
+  },
+  {
+   "name": "No Country for Old Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0477348"
+  },
+  {
+   "name": "Dogfight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101748"
+  },
+  {
+   "name": "Early Spring",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049784"
+  },
+  {
+   "name": "Tokyo Twilight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051093"
+  },
+  {
+   "name": "Equinox Flower",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051720"
+  },
+  {
+   "name": "Late Autumn",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053579"
+  },
+  {
+   "name": "The End of Summer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055052"
+  },
+  {
+   "name": "Koyaanisqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085809"
+  },
+  {
+   "name": "Powaqqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095895"
+  },
+  {
+   "name": "Naqoyqatsi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0145937"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6515-d010f892d162bdfdca31c264d183afe1/iPrXNdtJheKOACTKgDdYEscRS1WjDM_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6515-d010f892d162bdfdca31c264d183afe1/iPrXNdtJheKOACTKgDdYEscRS1WjDM_original.jpg",
+ "posterShape": "landscape"
+}

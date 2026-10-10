@@ -1,0 +1,81 @@
+{
+ "id": "cpick632",
+ "type": "movie",
+ "name": "Julio Torres",
+ "description": "Filmes que Julio Torres escolheu no Criterion Closet:\n\n• The Suitor (1962)\n• Yoyo (1965)\n• As Long as You've Got Your Health (1966)\n• Le Grand Amour (1969)\n• Land Of Milk And Honey\n• Where Is The Friend's House? (1987)\n• And Life Goes On\n• Through the Olive Trees (1994)\n• WALL-E (2008)\n• Amores perros (2000)\n• After Hours (1985)\n• Y tu mamá también (2001)\n• House (1977)\n• The Virgin Suicides (1999)",
+ "links": [
+  {
+   "name": "The Suitor",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056514"
+  },
+  {
+   "name": "Yoyo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059934"
+  },
+  {
+   "name": "As Long as You've Got Your Health",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0207145"
+  },
+  {
+   "name": "Le Grand Amour",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064390"
+  },
+  {
+   "name": "Land Of Milk And Honey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0258013"
+  },
+  {
+   "name": "Where Is The Friend's House?",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093342"
+  },
+  {
+   "name": "And Life Goes On",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0105888"
+  },
+  {
+   "name": "Through the Olive Trees",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111845"
+  },
+  {
+   "name": "WALL-E",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0910970"
+  },
+  {
+   "name": "Amores perros",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0245712"
+  },
+  {
+   "name": "After Hours",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088680"
+  },
+  {
+   "name": "Y tu mamá también",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0245574"
+  },
+  {
+   "name": "House",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076162"
+  },
+  {
+   "name": "The Virgin Suicides",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0159097"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5810-650bf5abf20066362acec04d1f409d9b/lzpqTJVcY4NWOURJPozD3T3Ogq2Tb0_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5810-650bf5abf20066362acec04d1f409d9b/lzpqTJVcY4NWOURJPozD3T3Ogq2Tb0_original.jpg",
+ "posterShape": "landscape"
+}

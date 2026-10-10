@@ -1,0 +1,46 @@
+{
+ "id": "cpick869",
+ "type": "movie",
+ "name": "Josh Brolin",
+ "description": "Filmes que Josh Brolin escolheu no Criterion Closet:\n\n• Mikey and Nicky (1976)\n• Traffic\n• Lost Highway (1997)\n• Repo Man (1984)\n• Sid Nancy\n• Drugstore Cowboy (1989)\n• No Country for Old Men (2007)",
+ "links": [
+  {
+   "name": "Mikey and Nicky",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074901"
+  },
+  {
+   "name": "Traffic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0181865"
+  },
+  {
+   "name": "Lost Highway",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0116922"
+  },
+  {
+   "name": "Repo Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087995"
+  },
+  {
+   "name": "Sid Nancy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091954"
+  },
+  {
+   "name": "Drugstore Cowboy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097240"
+  },
+  {
+   "name": "No Country for Old Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0477348"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6911-e8c566726f4f8cf6eac3c841df375da4/oYPeAxiq3SqnMqmh75vpyPueHJqJie_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6911-e8c566726f4f8cf6eac3c841df375da4/oYPeAxiq3SqnMqmh75vpyPueHJqJie_original.jpg",
+ "posterShape": "landscape"
+}

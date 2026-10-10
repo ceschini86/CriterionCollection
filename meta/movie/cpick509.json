@@ -1,0 +1,66 @@
+{
+ "id": "cpick509",
+ "type": "movie",
+ "name": "Marc Maron",
+ "description": "Filmes que Marc Maron escolheu no Criterion Closet:\n\n• Gimme Shelter (1970)\n• Burden of Dreams (1982)\n• Being There (1979)\n• Female Trouble (1974)\n• McCabe & Mrs. Miller (1971)\n• The American Friend (1977)\n• My Darling Clementine (1946)\n• Burroughs: The Movie (1984)\n• A Face in the Crowd (1957)\n• Ace in the Hole (1951)\n• Shame (1968)",
+ "links": [
+  {
+   "name": "Gimme Shelter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065780"
+  },
+  {
+   "name": "Burden of Dreams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083702"
+  },
+  {
+   "name": "Being There",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078841"
+  },
+  {
+   "name": "Female Trouble",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072979"
+  },
+  {
+   "name": "McCabe & Mrs. Miller",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067411"
+  },
+  {
+   "name": "The American Friend",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075675"
+  },
+  {
+   "name": "My Darling Clementine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038762"
+  },
+  {
+   "name": "Burroughs: The Movie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt3581384"
+  },
+  {
+   "name": "A Face in the Crowd",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050371"
+  },
+  {
+   "name": "Ace in the Hole",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043338"
+  },
+  {
+   "name": "Shame",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063611"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5182-9aec38d180597ba050806f36eba4f83a/2LEOmtVOgxnvLxHZww0wTDfrvcw5IM_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5182-9aec38d180597ba050806f36eba4f83a/2LEOmtVOgxnvLxHZww0wTDfrvcw5IM_original.jpg",
+ "posterShape": "landscape"
+}

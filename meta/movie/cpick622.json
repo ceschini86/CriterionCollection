@@ -1,0 +1,31 @@
+{
+ "id": "cpick622",
+ "type": "movie",
+ "name": "Rosine Mbakam",
+ "description": "Filmes que Rosine Mbakam escolheu no Criterion Closet:\n\n• Mandabi (1968)\n• Black Girl (1966)\n• Bicycle Thieves (1948)\n• Close-Up (1990)",
+ "links": [
+  {
+   "name": "Mandabi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063268"
+  },
+  {
+   "name": "Black Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060758"
+  },
+  {
+   "name": "Bicycle Thieves",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040522"
+  },
+  {
+   "name": "Close-Up",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100234"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5770-134fa6d816db173b38e288d62ea64556/olfkWqkiTw6p5IBSS58whHXxyZxI74_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5770-134fa6d816db173b38e288d62ea64556/olfkWqkiTw6p5IBSS58whHXxyZxI74_original.jpg",
+ "posterShape": "landscape"
+}

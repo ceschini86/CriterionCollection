@@ -1,0 +1,71 @@
+{
+ "id": "cpick556",
+ "type": "movie",
+ "name": "Michael Shannon",
+ "description": "Filmes que Michael Shannon escolheu no Criterion Closet:\n\n• Down by Law (1986)\n• Being John Malkovich (1999)\n• Seconds (1966)\n• The Elephant Man (1980)\n• Being There (1979)\n• Five Easy Pieces (1970)\n• Head (1968)\n• Easy Rider (1969)\n• Drive, He Said (1971)\n• A Safe Place (1971)\n• The Last Picture Show (1971)\n• The King of Marvin Gardens (1972)",
+ "links": [
+  {
+   "name": "Down by Law",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090967"
+  },
+  {
+   "name": "Being John Malkovich",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120601"
+  },
+  {
+   "name": "Seconds",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060955"
+  },
+  {
+   "name": "The Elephant Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080678"
+  },
+  {
+   "name": "Being There",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078841"
+  },
+  {
+   "name": "Five Easy Pieces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065724"
+  },
+  {
+   "name": "Head",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063049"
+  },
+  {
+   "name": "Easy Rider",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064276"
+  },
+  {
+   "name": "Drive, He Said",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068509"
+  },
+  {
+   "name": "A Safe Place",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067699"
+  },
+  {
+   "name": "The Last Picture Show",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067328"
+  },
+  {
+   "name": "The King of Marvin Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068805"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5438-8b7616459bb02e6dbc8a7ec8ae675162/k4Ja1pjK2qO39NPUq5zTZHpp2dewan_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5438-8b7616459bb02e6dbc8a7ec8ae675162/k4Ja1pjK2qO39NPUq5zTZHpp2dewan_original.jpg",
+ "posterShape": "landscape"
+}

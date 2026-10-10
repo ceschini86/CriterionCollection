@@ -1,0 +1,51 @@
+{
+ "id": "cpick628",
+ "type": "movie",
+ "name": "Neal Brennan",
+ "description": "Filmes que Neal Brennan escolheu no Criterion Closet:\n\n• Barry Lyndon (1975)\n• Shampoo (1975)\n• Me and You and Everyone We Know (2005)\n• A Face in the Crowd (1957)\n• Paris Is Burning (1991)\n• Bamboozled (2000)\n• Bringing Up Baby (1938)\n• Menace II Society (1993)",
+ "links": [
+  {
+   "name": "Barry Lyndon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072684"
+  },
+  {
+   "name": "Shampoo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073692"
+  },
+  {
+   "name": "Me and You and Everyone We Know",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0415978"
+  },
+  {
+   "name": "A Face in the Crowd",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050371"
+  },
+  {
+   "name": "Paris Is Burning",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100332"
+  },
+  {
+   "name": "Bamboozled",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0215545"
+  },
+  {
+   "name": "Bringing Up Baby",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0029947"
+  },
+  {
+   "name": "Menace II Society",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107554"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5794-e542781a03611c4add8bf561b1ad2dad/7OTUHX8SzQaKyCsIIXHwf8YxMzVj9i_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5794-e542781a03611c4add8bf561b1ad2dad/7OTUHX8SzQaKyCsIIXHwf8YxMzVj9i_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,71 @@
+{
+ "id": "cpick476",
+ "type": "movie",
+ "name": "Josh and Benny Safdie",
+ "description": "Filmes que Josh and Benny Safdie escolheu no Criterion Closet:\n\n• Meantime (1983)\n• A Man Escaped (1956)\n• My Beautiful Laundrette (1985)\n• Fox and His Friends (1975)\n• Bicycle Thieves (1948)\n• Walkabout (1971)\n• The Moment of Truth (1965)\n• Blood Simple (1984)\n• The Player (1992)\n• Il Posto (1961)\n• L'Argent (1983)\n• Tess (1979)",
+ "links": [
+  {
+   "name": "Meantime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082727"
+  },
+  {
+   "name": "A Man Escaped",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049902"
+  },
+  {
+   "name": "My Beautiful Laundrette",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091578"
+  },
+  {
+   "name": "Fox and His Friends",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072976"
+  },
+  {
+   "name": "Bicycle Thieves",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040522"
+  },
+  {
+   "name": "Walkabout",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067959"
+  },
+  {
+   "name": "The Moment of Truth",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059459"
+  },
+  {
+   "name": "Blood Simple",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086979"
+  },
+  {
+   "name": "The Player",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0105151"
+  },
+  {
+   "name": "Il Posto",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055320"
+  },
+  {
+   "name": "L'Argent",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085180"
+  },
+  {
+   "name": "Tess",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080009"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5057-301ccd277bf72befcc0487fdde09e457/gFD4jVjITBQodYVej7XwcfwX7f56pZ_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5057-301ccd277bf72befcc0487fdde09e457/gFD4jVjITBQodYVej7XwcfwX7f56pZ_original.jpg",
+ "posterShape": "landscape"
+}

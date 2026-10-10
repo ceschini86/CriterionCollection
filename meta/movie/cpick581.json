@@ -1,0 +1,31 @@
+{
+ "id": "cpick581",
+ "type": "movie",
+ "name": "Udo Kier",
+ "description": "Filmes que Udo Kier escolheu no Criterion Closet:\n\n• Blood for Dracula (1974)\n• Flesh for Frankenstein (1973)\n• My Own Private Idaho (1991)\n• Breaking the Waves (1996)",
+ "links": [
+  {
+   "name": "Blood for Dracula",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071233"
+  },
+  {
+   "name": "Flesh for Frankenstein",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071508"
+  },
+  {
+   "name": "My Own Private Idaho",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102494"
+  },
+  {
+   "name": "Breaking the Waves",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0115751"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5532-bcd6e0a8f87805194f60ea5af0a9516f/vENfXbkbKicfmoCm7PIBnuDn30lMd9_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5532-bcd6e0a8f87805194f60ea5af0a9516f/vENfXbkbKicfmoCm7PIBnuDn30lMd9_original.jpg",
+ "posterShape": "landscape"
+}

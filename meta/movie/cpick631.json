@@ -1,0 +1,56 @@
+{
+ "id": "cpick631",
+ "type": "movie",
+ "name": "Paul Giamatti",
+ "description": "Filmes que Paul Giamatti escolheu no Criterion Closet:\n\n• Carnival of Souls (1962)\n• The Life and Death of Colonel Blimp (1943)\n• Rashomon (1950)\n• Solaris (1972)\n• Cat People (1942)\n• Seconds (1966)\n• Blue Velvet (1986)\n• Wings (1966)\n• The Ascent (1977)",
+ "links": [
+  {
+   "name": "Carnival of Souls",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055830"
+  },
+  {
+   "name": "The Life and Death of Colonel Blimp",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0036112"
+  },
+  {
+   "name": "Rashomon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042876"
+  },
+  {
+   "name": "Solaris",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069293"
+  },
+  {
+   "name": "Cat People",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034587"
+  },
+  {
+   "name": "Seconds",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060955"
+  },
+  {
+   "name": "Blue Velvet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090756"
+  },
+  {
+   "name": "Wings",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061196"
+  },
+  {
+   "name": "The Ascent",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075404"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5802-9bd119a5a4fcb5abec5c671fd7d15a00/34oSPRFsHOSfIyhr6a8Jp63fhtptrb_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5802-9bd119a5a4fcb5abec5c671fd7d15a00/34oSPRFsHOSfIyhr6a8Jp63fhtptrb_original.jpg",
+ "posterShape": "landscape"
+}

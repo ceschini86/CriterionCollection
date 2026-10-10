@@ -1,0 +1,101 @@
+{
+ "id": "cpick552",
+ "type": "movie",
+ "name": "Carl Franklin",
+ "description": "Filmes que Carl Franklin escolheu no Criterion Closet:\n\n• The Killers\n• The Killers\n• My Life as a Dog (1985)\n• Children of Paradise (1945)\n• Tokyo Story (1953)\n• Late Spring (1949)\n• 8½ (1963)\n• To Sleep with Anger (1990)\n• Lucía (1968)\n• After the Curfew (1954)\n• Pixote (1980)\n• Dos Monjes\n• Soleil O (1973)\n• Downpour (1972)\n• Death in Venice (1971)\n• The Damned (1969)\n• Round Midnight (1986)\n• Chimes at Midnight (1965)",
+ "links": [
+  {
+   "name": "The Killers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038669"
+  },
+  {
+   "name": "The Killers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058262"
+  },
+  {
+   "name": "My Life as a Dog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089606"
+  },
+  {
+   "name": "Children of Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037674"
+  },
+  {
+   "name": "Tokyo Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046438"
+  },
+  {
+   "name": "Late Spring",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041154"
+  },
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "To Sleep with Anger",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100791"
+  },
+  {
+   "name": "Lucía",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064609"
+  },
+  {
+   "name": "After the Curfew",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0045997"
+  },
+  {
+   "name": "Pixote",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082912"
+  },
+  {
+   "name": "Dos Monjes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0025062"
+  },
+  {
+   "name": "Soleil O",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062285"
+  },
+  {
+   "name": "Downpour",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067649"
+  },
+  {
+   "name": "Death in Venice",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067445"
+  },
+  {
+   "name": "The Damned",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064118"
+  },
+  {
+   "name": "Round Midnight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090557"
+  },
+  {
+   "name": "Chimes at Midnight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059012"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5408-5ebb24070ad2fe723c8ea081c7bd2843/pCyIcTndaUJKzS5UCINclCtZBoT8xw_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5408-5ebb24070ad2fe723c8ea081c7bd2843/pCyIcTndaUJKzS5UCINclCtZBoT8xw_original.jpg",
+ "posterShape": "landscape"
+}

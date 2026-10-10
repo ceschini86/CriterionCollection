@@ -1,0 +1,51 @@
+{
+ "id": "cpick510",
+ "type": "movie",
+ "name": "Sally Potter",
+ "description": "Filmes que Sally Potter escolheu no Criterion Closet:\n\n• Pather Panchali (1955)\n• Aparajito (1956)\n• Apur Sansar (1959)\n• Come and See (1985)\n• A Matter of Life and Death (1946)\n• Dance, Girl, Dance (1940)\n• Fish Tank (2009)\n• La Strada (1954)",
+ "links": [
+  {
+   "name": "Pather Panchali",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048473"
+  },
+  {
+   "name": "Aparajito",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048956"
+  },
+  {
+   "name": "Apur Sansar",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052572"
+  },
+  {
+   "name": "Come and See",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091251"
+  },
+  {
+   "name": "A Matter of Life and Death",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038733"
+  },
+  {
+   "name": "Dance, Girl, Dance",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032376"
+  },
+  {
+   "name": "Fish Tank",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1232776"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5184-ad176002ac42e47211cc758b66939521/ZdqgmJSscurq7LNyhny0vpAAg3H6AC_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5184-ad176002ac42e47211cc758b66939521/ZdqgmJSscurq7LNyhny0vpAAg3H6AC_original.jpg",
+ "posterShape": "landscape"
+}

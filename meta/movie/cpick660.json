@@ -1,0 +1,111 @@
+{
+ "id": "cpick660",
+ "type": "movie",
+ "name": "DEVO: Gerald Casale and Mark Mothersbaugh",
+ "description": "Filmes que DEVO: Gerald Casale and Mark Mothersbaugh escolheu no Criterion Closet:\n\n• Island of Lost Souls (1932)\n• Variety Lights (1950)\n• The White Sheik (1952)\n• I Vitelloni (1953)\n• La Strada (1954)\n• Il Bidone\n• Nights of Cabiria (1957)\n• La Dolce Vita (1960)\n• 8½ (1963)\n• Juliet of the Spirits (1965)\n• Fellini Satyricon\n• Roma\n• Amarcord (1973)\n• And the Ship Sails On (1983)\n• Intervista (1987)\n• Sweet Smell of Success (1957)\n• The Atomic Submarine (1959)\n• First Man into Space (1959)\n• The Haunted Strangler (1958)\n• Corridors of Blood (1958)",
+ "links": [
+  {
+   "name": "Island of Lost Souls",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0024188"
+  },
+  {
+   "name": "Variety Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042692"
+  },
+  {
+   "name": "The White Sheik",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044000"
+  },
+  {
+   "name": "I Vitelloni",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046521"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  },
+  {
+   "name": "Il Bidone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047876"
+  },
+  {
+   "name": "Nights of Cabiria",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050783"
+  },
+  {
+   "name": "La Dolce Vita",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053779"
+  },
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "Juliet of the Spirits",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059229"
+  },
+  {
+   "name": "Fellini Satyricon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064940"
+  },
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069191"
+  },
+  {
+   "name": "Amarcord",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071129"
+  },
+  {
+   "name": "And the Ship Sails On",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087188"
+  },
+  {
+   "name": "Intervista",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093267"
+  },
+  {
+   "name": "Sweet Smell of Success",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051036"
+  },
+  {
+   "name": "The Atomic Submarine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052587"
+  },
+  {
+   "name": "First Man into Space",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052805"
+  },
+  {
+   "name": "The Haunted Strangler",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051706"
+  },
+  {
+   "name": "Corridors of Blood",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051542"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5936-08876dbabc67f6616879e25e75ee62c8/HqWFXZPjDlBY6OEdj2NeRjdc7eiAnp_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5936-08876dbabc67f6616879e25e75ee62c8/HqWFXZPjDlBY6OEdj2NeRjdc7eiAnp_original.jpg",
+ "posterShape": "landscape"
+}

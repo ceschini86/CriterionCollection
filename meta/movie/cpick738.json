@@ -1,0 +1,31 @@
+{
+ "id": "cpick738",
+ "type": "movie",
+ "name": "Nathalie Emmanuel",
+ "description": "Filmes que Nathalie Emmanuel escolheu no Criterion Closet:\n\n• The Red Shoes (1948)\n• Love & Basketball (2000)\n• Paris Is Burning (1991)\n• The Worst Person in the World (2021)",
+ "links": [
+  {
+   "name": "The Red Shoes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040725"
+  },
+  {
+   "name": "Love & Basketball",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0199725"
+  },
+  {
+   "name": "Paris Is Burning",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100332"
+  },
+  {
+   "name": "The Worst Person in the World",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt10370710"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6242-cf52c0075d062545326a95032c77fa01/XTx07gDNoEeHvM2Q5LVX6m2gW2NIvF_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6242-cf52c0075d062545326a95032c77fa01/XTx07gDNoEeHvM2Q5LVX6m2gW2NIvF_original.jpg",
+ "posterShape": "landscape"
+}

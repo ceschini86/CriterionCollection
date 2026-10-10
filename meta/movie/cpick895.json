@@ -1,0 +1,36 @@
+{
+ "id": "cpick895",
+ "type": "movie",
+ "name": "Rachel Sennott",
+ "description": "Filmes que Rachel Sennott escolheu no Criterion Closet:\n\n• Tiny Furniture (2010)\n• Happiness (1965)\n• Women on the Verge of a Nervous Breakdown (1988)\n• Punch-Drunk Love (2002)\n• To Die For (1995)",
+ "links": [
+  {
+   "name": "Tiny Furniture",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1570989"
+  },
+  {
+   "name": "Happiness",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058985"
+  },
+  {
+   "name": "Women on the Verge of a Nervous Breakdown",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095675"
+  },
+  {
+   "name": "Punch-Drunk Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0272338"
+  },
+  {
+   "name": "To Die For",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0114681"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7046-7f7219366a4e7cc8fc472f355ea1e273/4xe1fCFa13Ngf0oL29cc9KSOHvUNtq_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7046-7f7219366a4e7cc8fc472f355ea1e273/4xe1fCFa13Ngf0oL29cc9KSOHvUNtq_original.jpg",
+ "posterShape": "landscape"
+}

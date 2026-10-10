@@ -1,0 +1,36 @@
+{
+ "id": "cpick854",
+ "type": "movie",
+ "name": "Betsey Johnson",
+ "description": "Filmes que Betsey Johnson escolheu no Criterion Closet:\n\n• The Red Shoes (1948)\n• Moonstruck (1987)\n• The Silence of the Lambs (1991)\n• Blue Velvet (1986)\n• McCabe & Mrs. Miller (1971)",
+ "links": [
+  {
+   "name": "The Red Shoes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040725"
+  },
+  {
+   "name": "Moonstruck",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093565"
+  },
+  {
+   "name": "The Silence of the Lambs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102926"
+  },
+  {
+   "name": "Blue Velvet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090756"
+  },
+  {
+   "name": "McCabe & Mrs. Miller",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067411"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6849-e82d725129f5014037830a8a954749c3/Ampqg9MDf4wl21KUXmQEBskWSC99yD_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6849-e82d725129f5014037830a8a954749c3/Ampqg9MDf4wl21KUXmQEBskWSC99yD_original.jpg",
+ "posterShape": "landscape"
+}

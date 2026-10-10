@@ -1,0 +1,41 @@
+{
+ "id": "cpick561",
+ "type": "movie",
+ "name": "Raúl Castillo",
+ "description": "Filmes que Raúl Castillo escolheu no Criterion Closet:\n\n• Le Samouraï (1967)\n• Traffic\n• F for Fake (1973)\n• Blowup (1966)\n• Night of the Living Dead (1968)\n• My Own Private Idaho (1991)",
+ "links": [
+  {
+   "name": "Le Samouraï",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062229"
+  },
+  {
+   "name": "Traffic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0181865"
+  },
+  {
+   "name": "F for Fake",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072962"
+  },
+  {
+   "name": "Blowup",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060176"
+  },
+  {
+   "name": "Night of the Living Dead",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063350"
+  },
+  {
+   "name": "My Own Private Idaho",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102494"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5454-339b3b3a212f2259c3134aa3abf28ddf/9jGKKLyZs0RSbrbqBHl49GutUPwu8h_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5454-339b3b3a212f2259c3134aa3abf28ddf/9jGKKLyZs0RSbrbqBHl49GutUPwu8h_original.jpg",
+ "posterShape": "landscape"
+}

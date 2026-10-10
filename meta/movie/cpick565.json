@@ -1,0 +1,56 @@
+{
+ "id": "cpick565",
+ "type": "movie",
+ "name": "Jean-Pierre and Luc Dardenne",
+ "description": "Filmes que Jean-Pierre and Luc Dardenne escolheu no Criterion Closet:\n\n• The Age of Innocence (1993)\n• Stromboli (1950)\n• Europe '51 (1952)\n• Journey to Italy (1954)\n• An Angel at My Table (1990)\n• 4 Months, 3 Weeks and 2 Days (2007)\n• Dekalog\n• Wanda (1970)\n• Death of a Cyclist (1955)",
+ "links": [
+  {
+   "name": "The Age of Innocence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0106226"
+  },
+  {
+   "name": "Stromboli",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041931"
+  },
+  {
+   "name": "Europe '51",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043511"
+  },
+  {
+   "name": "Journey to Italy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046511"
+  },
+  {
+   "name": "An Angel at My Table",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0099040"
+  },
+  {
+   "name": "4 Months, 3 Weeks and 2 Days",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1032846"
+  },
+  {
+   "name": "Dekalog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092337"
+  },
+  {
+   "name": "Wanda",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067961"
+  },
+  {
+   "name": "Death of a Cyclist",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048394"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5462-33e2585b833ded7edb3ea9b9738db1bc/MVeZVLnB4mVyisuNPKSXCoyzJS9WJ9_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5462-33e2585b833ded7edb3ea9b9738db1bc/MVeZVLnB4mVyisuNPKSXCoyzJS9WJ9_original.jpg",
+ "posterShape": "landscape"
+}

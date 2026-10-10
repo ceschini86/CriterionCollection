@@ -1,0 +1,81 @@
+{
+ "id": "cpick519",
+ "type": "movie",
+ "name": "Elegance Bratton",
+ "description": "Filmes que Elegance Bratton escolheu no Criterion Closet:\n\n• Sid Nancy\n• Summertime (1955)\n• Ratcatcher (1999)\n• Written on the Wind (1956)\n• All That Heaven Allows (1955)\n• Rashomon (1950)\n• The Story of a Three-Day Pass (1968)\n• Watermelon Man (1970)\n• Sweet Sweetback's Baadasssss Song (1971)\n• Don't Play Us Cheap (1973)\n• Paris Is Burning (1991)\n• Bamboozled (2000)\n• The Battle of Algiers (1966)\n• Some Like It Hot (1959)",
+ "links": [
+  {
+   "name": "Sid Nancy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091954"
+  },
+  {
+   "name": "Summertime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048673"
+  },
+  {
+   "name": "Ratcatcher",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0171685"
+  },
+  {
+   "name": "Written on the Wind",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049966"
+  },
+  {
+   "name": "All That Heaven Allows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047811"
+  },
+  {
+   "name": "Rashomon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042876"
+  },
+  {
+   "name": "The Story of a Three-Day Pass",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063646"
+  },
+  {
+   "name": "Watermelon Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066550"
+  },
+  {
+   "name": "Sweet Sweetback's Baadasssss Song",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067810"
+  },
+  {
+   "name": "Don't Play Us Cheap",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069996"
+  },
+  {
+   "name": "Paris Is Burning",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100332"
+  },
+  {
+   "name": "Bamboozled",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0215545"
+  },
+  {
+   "name": "The Battle of Algiers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058946"
+  },
+  {
+   "name": "Some Like It Hot",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053291"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5220-696207eb83a207adcf10016d97a4d43e/UmypAETDvJghBRjW0655g0nCJ7Nafj_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5220-696207eb83a207adcf10016d97a4d43e/UmypAETDvJghBRjW0655g0nCJ7Nafj_original.jpg",
+ "posterShape": "landscape"
+}

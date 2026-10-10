@@ -1,0 +1,56 @@
+{
+ "id": "cpick685",
+ "type": "movie",
+ "name": "Greg Gonzalez",
+ "description": "Filmes que Greg Gonzalez escolheu no Criterion Closet:\n\n• La Bamba (1987)\n• The Last Picture Show (1971)\n• A Tale of Springtime (1990)\n• A Tale of Winter (1992)\n• A Tale Of Summer\n• A Tale Of Autumn\n• The Worst Person in the World (2021)\n• Risky Business (1983)\n• The Tales of Hoffmann (1951)",
+ "links": [
+  {
+   "name": "La Bamba",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093378"
+  },
+  {
+   "name": "The Last Picture Show",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067328"
+  },
+  {
+   "name": "A Tale of Springtime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097106"
+  },
+  {
+   "name": "A Tale of Winter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104008"
+  },
+  {
+   "name": "A Tale Of Summer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0115940"
+  },
+  {
+   "name": "A Tale Of Autumn",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0137439"
+  },
+  {
+   "name": "The Worst Person in the World",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt10370710"
+  },
+  {
+   "name": "Risky Business",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086200"
+  },
+  {
+   "name": "The Tales of Hoffmann",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044103"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6082-abcc9e4656d07762a8e9af52fb04cc28/zWGKQHvl7U50lBE8TwgKmwNtG6rWBi_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6082-abcc9e4656d07762a8e9af52fb04cc28/zWGKQHvl7U50lBE8TwgKmwNtG6rWBi_original.jpg",
+ "posterShape": "landscape"
+}

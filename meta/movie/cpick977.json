@@ -1,0 +1,51 @@
+{
+ "id": "cpick977",
+ "type": "movie",
+ "name": "Billy Eichner",
+ "description": "Filmes que Billy Eichner escolheu no Criterion Closet:\n\n• Tootsie (1982)\n• Moonstruck (1987)\n• Metropolitan (1990)\n• The Last Days of Disco (1998)\n• Barcelona (1994)\n• The Fisher King (1991)\n• The Prince of Tides (1991)\n• My Beautiful Laundrette (1985)",
+ "links": [
+  {
+   "name": "Tootsie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084805"
+  },
+  {
+   "name": "Moonstruck",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093565"
+  },
+  {
+   "name": "Metropolitan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100142"
+  },
+  {
+   "name": "The Last Days of Disco",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120728"
+  },
+  {
+   "name": "Barcelona",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109219"
+  },
+  {
+   "name": "The Fisher King",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101889"
+  },
+  {
+   "name": "The Prince of Tides",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102713"
+  },
+  {
+   "name": "My Beautiful Laundrette",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091578"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7433-a706a9408ecefa0050fcfaf1ad9804cc/lxF6OgEVT3jXx1UfLX3mIYW1qRI9f1_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7433-a706a9408ecefa0050fcfaf1ad9804cc/lxF6OgEVT3jXx1UfLX3mIYW1qRI9f1_original.jpg",
+ "posterShape": "landscape"
+}

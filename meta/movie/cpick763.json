@@ -1,0 +1,71 @@
+{
+ "id": "cpick763",
+ "type": "movie",
+ "name": "Francis Ford Coppola",
+ "description": "Filmes que Francis Ford Coppola escolheu no Criterion Closet:\n\n• Jour de Fête (1949)\n• Monsieur Hulot's Holiday (1953)\n• Mon Oncle (1958)\n• PlayTime (1967)\n• Trafic (1971)\n• Parade (1974)\n• Rumble Fish (1983)\n• Dance, Girl, Dance (1940)\n• Brief Encounter (1945)\n• In Which We Serve (1942)\n• This Happy Breed (1944)\n• Blithe Spirit (1945)",
+ "links": [
+  {
+   "name": "Jour de Fête",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040497"
+  },
+  {
+   "name": "Monsieur Hulot's Holiday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046487"
+  },
+  {
+   "name": "Mon Oncle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050706"
+  },
+  {
+   "name": "PlayTime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062136"
+  },
+  {
+   "name": "Trafic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069400"
+  },
+  {
+   "name": "Parade",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071968"
+  },
+  {
+   "name": "Rumble Fish",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086216"
+  },
+  {
+   "name": "Dance, Girl, Dance",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032376"
+  },
+  {
+   "name": "Brief Encounter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037558"
+  },
+  {
+   "name": "In Which We Serve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034891"
+  },
+  {
+   "name": "This Happy Breed",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037367"
+  },
+  {
+   "name": "Blithe Spirit",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038363"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6394-d7f89df1ecb4d264b587ab83ce83a766/U74LuaKtLPXUArSaqwr5pSKUKp6xgB_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6394-d7f89df1ecb4d264b587ab83ce83a766/U74LuaKtLPXUArSaqwr5pSKUKp6xgB_original.jpg",
+ "posterShape": "landscape"
+}

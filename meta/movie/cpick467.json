@@ -1,0 +1,76 @@
+{
+ "id": "cpick467",
+ "type": "movie",
+ "name": "Yorgos Lanthimos & Ariane Labed",
+ "description": "Filmes que Yorgos Lanthimos & Ariane Labed escolheu no Criterion Closet:\n\n• Ali: Fear Eats the Soul (1974)\n• 12 Angry Men (1957)\n• Salesman (1969)\n• Naked (1993)\n• Man Bites Dog (1992)\n• Le Samouraï (1967)\n• Five Easy Pieces (1970)\n• Viridiana (1962)\n• Things to Come (1936)\n• Branded to Kill (1967)\n• Macbeth (1971)\n• Pickpocket\n• Au Hasard Balthazar (1966)",
+ "links": [
+  {
+   "name": "Ali: Fear Eats the Soul",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071141"
+  },
+  {
+   "name": "12 Angry Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050083"
+  },
+  {
+   "name": "Salesman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064921"
+  },
+  {
+   "name": "Naked",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107653"
+  },
+  {
+   "name": "Man Bites Dog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103905"
+  },
+  {
+   "name": "Le Samouraï",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062229"
+  },
+  {
+   "name": "Five Easy Pieces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065724"
+  },
+  {
+   "name": "Viridiana",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055601"
+  },
+  {
+   "name": "Things to Come",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028358"
+  },
+  {
+   "name": "Branded to Kill",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061882"
+  },
+  {
+   "name": "Macbeth",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067372"
+  },
+  {
+   "name": "Pickpocket",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053168"
+  },
+  {
+   "name": "Au Hasard Balthazar",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060138"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5692-510205c6a1ce6b05e0260868559c7405/Dq8SS9FULlYubDJuyXhz9wh6uwDABm_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5692-510205c6a1ce6b05e0260868559c7405/Dq8SS9FULlYubDJuyXhz9wh6uwDABm_original.jpg",
+ "posterShape": "landscape"
+}

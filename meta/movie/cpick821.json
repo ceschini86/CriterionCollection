@@ -1,0 +1,66 @@
+{
+ "id": "cpick821",
+ "type": "movie",
+ "name": "Diego Luna",
+ "description": "Filmes que Diego Luna escolheu no Criterion Closet:\n\n• Amarcord (1973)\n• The 400 Blows (1959)\n• La Jetée (1962)\n• Sans Soleil (1983)\n• Y tu mamá también (2001)\n• Carlos (2010)\n• Three Colors: Blue (1993)\n• Three Colors: White (1994)\n• Three Colors: Red (1994)\n• Tótem (2023)\n• Parasite (2019)",
+ "links": [
+  {
+   "name": "Amarcord",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071129"
+  },
+  {
+   "name": "The 400 Blows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053198"
+  },
+  {
+   "name": "La Jetée",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056119"
+  },
+  {
+   "name": "Sans Soleil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084628"
+  },
+  {
+   "name": "Y tu mamá también",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0245574"
+  },
+  {
+   "name": "Carlos",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt33398096"
+  },
+  {
+   "name": "Three Colors: Blue",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108394"
+  },
+  {
+   "name": "Three Colors: White",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111507"
+  },
+  {
+   "name": "Three Colors: Red",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111495"
+  },
+  {
+   "name": "Tótem",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt26315142"
+  },
+  {
+   "name": "Parasite",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6751668"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6672-274dd9452f5c4d2a8fb0794874472f90/ExmgkJLAbYmy9q9CNSrAFX9uzeVPKE_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6672-274dd9452f5c4d2a8fb0794874472f90/ExmgkJLAbYmy9q9CNSrAFX9uzeVPKE_original.jpg",
+ "posterShape": "landscape"
+}

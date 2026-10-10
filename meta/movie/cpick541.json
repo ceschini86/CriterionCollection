@@ -1,0 +1,46 @@
+{
+ "id": "cpick541",
+ "type": "movie",
+ "name": "Nicolas Winding Refn",
+ "description": "Filmes que Nicolas Winding Refn escolheu no Criterion Closet:\n\n• Ivan's Childhood (1962)\n• Quadrophenia (1979)\n• Bigger Than Life (1956)\n• Insignificance (1985)\n• Repo Man (1984)\n• Things to Come (1936)\n• On the Waterfront (1954)",
+ "links": [
+  {
+   "name": "Ivan's Childhood",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056111"
+  },
+  {
+   "name": "Quadrophenia",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079766"
+  },
+  {
+   "name": "Bigger Than Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049010"
+  },
+  {
+   "name": "Insignificance",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089343"
+  },
+  {
+   "name": "Repo Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087995"
+  },
+  {
+   "name": "Things to Come",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028358"
+  },
+  {
+   "name": "On the Waterfront",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047296"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5348-834bd08da1e1674c56c94a70303e0ba7/md4C37PZMezSsbfQjbPD9E7Pa5dFEP_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5348-834bd08da1e1674c56c94a70303e0ba7/md4C37PZMezSsbfQjbPD9E7Pa5dFEP_original.jpg",
+ "posterShape": "landscape"
+}

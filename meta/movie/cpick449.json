@@ -1,0 +1,66 @@
+{
+ "id": "cpick449",
+ "type": "movie",
+ "name": "Jacqueline Novak and John Early",
+ "description": "Filmes que Jacqueline Novak and John Early escolheu no Criterion Closet:\n\n• Picnic at Hanging Rock (1975)\n• 3 Women (1977)\n• The Uninvited (1944)\n• Night of the Living Dead (1968)\n• Fat Girl (2001)\n• Twin Peaks: Fire Walk with Me (1992)\n• Magnificent Obsession (1954)\n• Island of Lost Souls (1932)\n• White Material (2009)\n• Female Trouble (1974)\n• Tie Me Up! Tie Me Down! (1990)",
+ "links": [
+  {
+   "name": "Picnic at Hanging Rock",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073540"
+  },
+  {
+   "name": "3 Women",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075612"
+  },
+  {
+   "name": "The Uninvited",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037415"
+  },
+  {
+   "name": "Night of the Living Dead",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063350"
+  },
+  {
+   "name": "Fat Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0243255"
+  },
+  {
+   "name": "Twin Peaks: Fire Walk with Me",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0105665"
+  },
+  {
+   "name": "Magnificent Obsession",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047203"
+  },
+  {
+   "name": "Island of Lost Souls",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0024188"
+  },
+  {
+   "name": "White Material",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1135952"
+  },
+  {
+   "name": "Female Trouble",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072979"
+  },
+  {
+   "name": "Tie Me Up! Tie Me Down!",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101026"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4905-1f6b4c81a003abeec62729b0b97abb04/Ah2zMWlQgkAuNT58DhQBrxC7Zxk3XL_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4905-1f6b4c81a003abeec62729b0b97abb04/Ah2zMWlQgkAuNT58DhQBrxC7Zxk3XL_original.jpg",
+ "posterShape": "landscape"
+}

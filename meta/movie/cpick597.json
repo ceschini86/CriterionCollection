@@ -1,0 +1,81 @@
+{
+ "id": "cpick597",
+ "type": "movie",
+ "name": "The Quay Brothers",
+ "description": "Filmes que The Quay Brothers escolheu no Criterion Closet:\n\n• Vampyr (1932)\n• Vive Le Tour (1962)\n• Humain Trop Humain\n• Place de la République (1974)\n• Phantom India\n• Calcutta (1969)\n• God's Country (1985)\n• … And the Pursuit of Happiness (1986)\n• The Children Are Watching Us (1943)\n• The Human Condition\n• Shadows in Paradise (1986)\n• Ariel (1988)\n• The Match Factory Girl (1990)\n• Le Havre (2011)",
+ "links": [
+  {
+   "name": "Vampyr",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0023649"
+  },
+  {
+   "name": "Vive Le Tour",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056662"
+  },
+  {
+   "name": "Humain Trop Humain",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071635"
+  },
+  {
+   "name": "Place de la République",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071999"
+  },
+  {
+   "name": "Phantom India",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063914"
+  },
+  {
+   "name": "Calcutta",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062773"
+  },
+  {
+   "name": "God's Country",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091125"
+  },
+  {
+   "name": "… And the Pursuit of Happiness",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092561"
+  },
+  {
+   "name": "The Children Are Watching Us",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034493"
+  },
+  {
+   "name": "The Human Condition",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053114"
+  },
+  {
+   "name": "Shadows in Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092149"
+  },
+  {
+   "name": "Ariel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094675"
+  },
+  {
+   "name": "The Match Factory Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0098532"
+  },
+  {
+   "name": "Le Havre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1508675"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5636-f4a862847334fcbf3a8ee91aad140737/QoaacvaqOVj9lW10tAttp2jHLNZQd9_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5636-f4a862847334fcbf3a8ee91aad140737/QoaacvaqOVj9lW10tAttp2jHLNZQd9_original.jpg",
+ "posterShape": "landscape"
+}

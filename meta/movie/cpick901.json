@@ -1,0 +1,101 @@
+{
+ "id": "cpick901",
+ "type": "movie",
+ "name": "David Remnick",
+ "description": "Filmes que David Remnick escolheu no Criterion Closet:\n\n• A Man Escaped (1956)\n• Citizen Kane (1941)\n• Thelonious Monk: Straight, No Chaser (1988)\n• Burden of Dreams (1982)\n• Shoot the Piano Player (1960)\n• By Brakhage: An Anthology, Volume One (2003)\n• By Brakhage An Anthology Volume Two\n• King Lear (1987)\n• Bottle Rocket (1996)\n• Rushmore (1998)\n• The Royal Tenenbaums (2001)\n• The Life Aquatic with Steve Zissou (2004)\n• The Darjeeling Limited (2007)\n• Fantastic Mr. Fox (2009)\n• Moonrise Kingdom (2012)\n• The Grand Budapest Hotel (2014)\n• Isle of Dogs (2018)\n• The French Dispatch Of The Liberty Kansas Evening Sun",
+ "links": [
+  {
+   "name": "A Man Escaped",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049902"
+  },
+  {
+   "name": "Citizen Kane",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033467"
+  },
+  {
+   "name": "Thelonious Monk: Straight, No Chaser",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0098465"
+  },
+  {
+   "name": "Burden of Dreams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083702"
+  },
+  {
+   "name": "Shoot the Piano Player",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054389"
+  },
+  {
+   "name": "By Brakhage: An Anthology, Volume One",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt13935772"
+  },
+  {
+   "name": "By Brakhage An Anthology Volume Two",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt13935772"
+  },
+  {
+   "name": "King Lear",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093349"
+  },
+  {
+   "name": "Bottle Rocket",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0115734"
+  },
+  {
+   "name": "Rushmore",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0128445"
+  },
+  {
+   "name": "The Royal Tenenbaums",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0265666"
+  },
+  {
+   "name": "The Life Aquatic with Steve Zissou",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0362270"
+  },
+  {
+   "name": "The Darjeeling Limited",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0838221"
+  },
+  {
+   "name": "Fantastic Mr. Fox",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0432283"
+  },
+  {
+   "name": "Moonrise Kingdom",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1748122"
+  },
+  {
+   "name": "The Grand Budapest Hotel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2278388"
+  },
+  {
+   "name": "Isle of Dogs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt5104604"
+  },
+  {
+   "name": "The French Dispatch Of The Liberty Kansas Evening Sun",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt8847712"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7066-631cd258d50fec7bf0de8a4e257331a2/DW45602TOrnegj8QlEdJJBqZDHibbg_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7066-631cd258d50fec7bf0de8a4e257331a2/DW45602TOrnegj8QlEdJJBqZDHibbg_original.jpg",
+ "posterShape": "landscape"
+}

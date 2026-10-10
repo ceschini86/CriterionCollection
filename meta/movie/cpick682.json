@@ -1,0 +1,116 @@
+{
+ "id": "cpick682",
+ "type": "movie",
+ "name": "Lee Daniels",
+ "description": "Filmes que Lee Daniels escolheu no Criterion Closet:\n\n• 8½ (1963)\n• Variety Lights (1950)\n• The White Sheik (1952)\n• I Vitelloni (1953)\n• La Strada (1954)\n• Il Bidone\n• Nights of Cabiria (1957)\n• La Dolce Vita (1960)\n• Juliet of the Spirits (1965)\n• Fellini Satyricon\n• Roma\n• Amarcord (1973)\n• And the Ship Sails On (1983)\n• Intervista (1987)\n• Do the Right Thing (1989)\n• Querelle (1982)\n• Female Trouble (1974)\n• Pickup on South Street (1953)\n• The Piano (1993)\n• Claudine (1974)\n• Spartacus (1960)",
+ "links": [
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "Variety Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042692"
+  },
+  {
+   "name": "The White Sheik",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044000"
+  },
+  {
+   "name": "I Vitelloni",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046521"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  },
+  {
+   "name": "Il Bidone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047876"
+  },
+  {
+   "name": "Nights of Cabiria",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050783"
+  },
+  {
+   "name": "La Dolce Vita",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053779"
+  },
+  {
+   "name": "Juliet of the Spirits",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059229"
+  },
+  {
+   "name": "Fellini Satyricon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064940"
+  },
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069191"
+  },
+  {
+   "name": "Amarcord",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071129"
+  },
+  {
+   "name": "And the Ship Sails On",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087188"
+  },
+  {
+   "name": "Intervista",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093267"
+  },
+  {
+   "name": "Do the Right Thing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097216"
+  },
+  {
+   "name": "Querelle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084565"
+  },
+  {
+   "name": "Female Trouble",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072979"
+  },
+  {
+   "name": "Pickup on South Street",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046187"
+  },
+  {
+   "name": "The Piano",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107822"
+  },
+  {
+   "name": "Claudine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071334"
+  },
+  {
+   "name": "Spartacus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054331"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6062-4b8e16b4ed88fb5c545fdc96e6d11c3a/9ztqhTWuyMhrhV5508Mpnx3jiYYbGp_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6062-4b8e16b4ed88fb5c545fdc96e6d11c3a/9ztqhTWuyMhrhV5508Mpnx3jiYYbGp_original.jpg",
+ "posterShape": "landscape"
+}

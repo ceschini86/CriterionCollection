@@ -1,0 +1,106 @@
+{
+ "id": "cpick911",
+ "type": "movie",
+ "name": "Guillermo del Toro (Mobile)",
+ "description": "Filmes que Guillermo del Toro escolheu no Criterion Closet:\n\n• The Red Shoes (1948)\n• Notorious (1946)\n• Black Narcissus (1947)\n• Salesman (1969)\n• All That Heaven Allows (1955)\n• Bottle Rocket (1996)\n• Rushmore (1998)\n• The Royal Tenenbaums (2001)\n• The Life Aquatic with Steve Zissou (2004)\n• The Darjeeling Limited (2007)\n• Fantastic Mr. Fox (2009)\n• Moonrise Kingdom (2012)\n• The Grand Budapest Hotel (2014)\n• Isle of Dogs (2018)\n• The French Dispatch Of The Liberty Kansas Evening Sun\n• Roma\n• Roma\n• The Age of Innocence (1993)\n• Au Revoir les Enfants (1987)",
+ "links": [
+  {
+   "name": "The Red Shoes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040725"
+  },
+  {
+   "name": "Notorious",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038787"
+  },
+  {
+   "name": "Black Narcissus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039192"
+  },
+  {
+   "name": "Salesman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064921"
+  },
+  {
+   "name": "All That Heaven Allows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047811"
+  },
+  {
+   "name": "Bottle Rocket",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0115734"
+  },
+  {
+   "name": "Rushmore",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0128445"
+  },
+  {
+   "name": "The Royal Tenenbaums",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0265666"
+  },
+  {
+   "name": "The Life Aquatic with Steve Zissou",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0362270"
+  },
+  {
+   "name": "The Darjeeling Limited",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0838221"
+  },
+  {
+   "name": "Fantastic Mr. Fox",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0432283"
+  },
+  {
+   "name": "Moonrise Kingdom",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1748122"
+  },
+  {
+   "name": "The Grand Budapest Hotel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2278388"
+  },
+  {
+   "name": "Isle of Dogs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt5104604"
+  },
+  {
+   "name": "The French Dispatch Of The Liberty Kansas Evening Sun",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt8847712"
+  },
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069191"
+  },
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6155172"
+  },
+  {
+   "name": "The Age of Innocence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0106226"
+  },
+  {
+   "name": "Au Revoir les Enfants",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092593"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7113-391478cf1edcf8794fc6b8387530df3b/r4NDAayEIBOp9DgMv8eGOV5A5y95lw_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7113-391478cf1edcf8794fc6b8387530df3b/r4NDAayEIBOp9DgMv8eGOV5A5y95lw_original.jpg",
+ "posterShape": "landscape"
+}

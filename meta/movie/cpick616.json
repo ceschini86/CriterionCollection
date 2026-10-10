@@ -1,0 +1,51 @@
+{
+ "id": "cpick616",
+ "type": "movie",
+ "name": "Gael Garcia Bernal",
+ "description": "Filmes que Gael Garcia Bernal escolheu no Criterion Closet:\n\n• Amores perros (2000)\n• Memories of Underdevelopment (1968)\n• Blowup (1966)\n• Purple Noon (1960)\n• Y tu mamá también (2001)\n• The Discreet Charm of the Bourgeoisie (1972)\n• The Phantom of Liberty (1974)\n• That Obscure Object of Desire (1977)",
+ "links": [
+  {
+   "name": "Amores perros",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0245712"
+  },
+  {
+   "name": "Memories of Underdevelopment",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063291"
+  },
+  {
+   "name": "Blowup",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060176"
+  },
+  {
+   "name": "Purple Noon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054189"
+  },
+  {
+   "name": "Y tu mamá también",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0245574"
+  },
+  {
+   "name": "The Discreet Charm of the Bourgeoisie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068361"
+  },
+  {
+   "name": "The Phantom of Liberty",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071487"
+  },
+  {
+   "name": "That Obscure Object of Desire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075824"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5750-c2ba82971176b4f817f5eff38db85c7b/P84Mt0COEhCCFC5kwDQ0CYFHR87x6g_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5750-c2ba82971176b4f817f5eff38db85c7b/P84Mt0COEhCCFC5kwDQ0CYFHR87x6g_original.jpg",
+ "posterShape": "landscape"
+}

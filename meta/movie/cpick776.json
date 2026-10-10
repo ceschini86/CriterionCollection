@@ -1,0 +1,46 @@
+{
+ "id": "cpick776",
+ "type": "movie",
+ "name": "Maura Tierney",
+ "description": "Filmes que Maura Tierney escolheu no Criterion Closet:\n\n• Hedwig and the Angry Inch (2001)\n• Town Bloody Hall (1979)\n• Shampoo (1975)\n• Do the Right Thing (1989)\n• The Ice Storm (1997)\n• House (1977)\n• Paper Moon (1973)",
+ "links": [
+  {
+   "name": "Hedwig and the Angry Inch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0248845"
+  },
+  {
+   "name": "Town Bloody Hall",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0217853"
+  },
+  {
+   "name": "Shampoo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073692"
+  },
+  {
+   "name": "Do the Right Thing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097216"
+  },
+  {
+   "name": "The Ice Storm",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119349"
+  },
+  {
+   "name": "House",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076162"
+  },
+  {
+   "name": "Paper Moon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070510"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6467-2cb9857517bfd343e8095d713033ef2f/oUeX2Pn1AYTfH4S4XqJ83JpNxj6cGY_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6467-2cb9857517bfd343e8095d713033ef2f/oUeX2Pn1AYTfH4S4XqJ83JpNxj6cGY_original.jpg",
+ "posterShape": "landscape"
+}

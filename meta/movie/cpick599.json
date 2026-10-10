@@ -1,0 +1,51 @@
+{
+ "id": "cpick599",
+ "type": "movie",
+ "name": "Harris Savides",
+ "description": "Filmes que Harris Savides escolheu no Criterion Closet:\n\n• Bicycle Thieves (1948)\n• The Night of the Hunter (1955)\n• Yi Yi (2000)\n• Three Colors: Blue (1993)\n• Three Colors: White (1994)\n• Three Colors: Red (1994)\n• Solaris (1972)\n• L'Avventura (1960)",
+ "links": [
+  {
+   "name": "Bicycle Thieves",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040522"
+  },
+  {
+   "name": "The Night of the Hunter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048424"
+  },
+  {
+   "name": "Yi Yi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0244316"
+  },
+  {
+   "name": "Three Colors: Blue",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108394"
+  },
+  {
+   "name": "Three Colors: White",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111507"
+  },
+  {
+   "name": "Three Colors: Red",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111495"
+  },
+  {
+   "name": "Solaris",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069293"
+  },
+  {
+   "name": "L'Avventura",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053619"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5644-aa1a1056584a88cdb75afa4168cbbb18/kLon4roREccZ2Sh8EaQmC5rEzOo8dr_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5644-aa1a1056584a88cdb75afa4168cbbb18/kLon4roREccZ2Sh8EaQmC5rEzOo8dr_original.jpg",
+ "posterShape": "landscape"
+}

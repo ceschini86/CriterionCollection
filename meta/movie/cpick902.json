@@ -1,0 +1,31 @@
+{
+ "id": "cpick902",
+ "type": "movie",
+ "name": "Rian Johnson",
+ "description": "Filmes que Rian Johnson escolheu no Criterion Closet:\n\n• Girlfight (2000)\n• Love & Basketball (2000)\n• Topsy-Turvy (1999)\n• Hell's Angels (1930)",
+ "links": [
+  {
+   "name": "Girlfight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0210075"
+  },
+  {
+   "name": "Love & Basketball",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0199725"
+  },
+  {
+   "name": "Topsy-Turvy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0151568"
+  },
+  {
+   "name": "Hell's Angels",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0020960"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7070-e587184295cca1616119038071b0496a/vaVtGBScAXI5zwbZgdr64EW6vGI3Vd_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7070-e587184295cca1616119038071b0496a/vaVtGBScAXI5zwbZgdr64EW6vGI3Vd_original.jpg",
+ "posterShape": "landscape"
+}

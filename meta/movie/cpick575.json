@@ -1,0 +1,141 @@
+{
+ "id": "cpick575",
+ "type": "movie",
+ "name": "Park Chan-wook",
+ "description": "Filmes que Park Chan-wook escolheu no Criterion Closet:\n\n• The Magician (1958)\n• Red Desert (1964)\n• Stagecoach (1939)\n• The Makioka Sisters (1983)\n• Blow Out (1981)\n• Les Cousins\n• Godzilla (1954)\n• Godzilla Raids Again (1955)\n• King Kong Vs Godzilla\n• Mothra vs. Godzilla (1964)\n• Ghidorah, the Three-Headed Monster (1964)\n• Invasion of Astro-Monster (1965)\n• Ebirah, Horror of the Deep (1966)\n• Son of Godzilla (1967)\n• Destroy All Monsters (1968)\n• All Monsters Attack (1969)\n• Godzilla vs. Hedorah (1971)\n• Godzilla vs. Gigan (1972)\n• Godzilla vs. Megalon (1973)\n• Godzilla vs. Mechagodzilla (1974)\n• Terror of Mechagodzilla (1975)\n• Life Is Sweet (1991)\n• La Notte (1961)\n• Riot in Cell Block 11 (1954)\n• Le Silence de la mer (1947)\n• Brief Encounter (1945)",
+ "links": [
+  {
+   "name": "The Magician",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051365"
+  },
+  {
+   "name": "Red Desert",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058003"
+  },
+  {
+   "name": "Stagecoach",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0031971"
+  },
+  {
+   "name": "The Makioka Sisters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086242"
+  },
+  {
+   "name": "Blow Out",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082085"
+  },
+  {
+   "name": "Les Cousins",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052708"
+  },
+  {
+   "name": "Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047034"
+  },
+  {
+   "name": "Godzilla Raids Again",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048127"
+  },
+  {
+   "name": "King Kong Vs Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056142"
+  },
+  {
+   "name": "Mothra vs. Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058379"
+  },
+  {
+   "name": "Ghidorah, the Three-Headed Monster",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058544"
+  },
+  {
+   "name": "Invasion of Astro-Monster",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059346"
+  },
+  {
+   "name": "Ebirah, Horror of the Deep",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060464"
+  },
+  {
+   "name": "Son of Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061856"
+  },
+  {
+   "name": "Destroy All Monsters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063172"
+  },
+  {
+   "name": "All Monsters Attack",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064373"
+  },
+  {
+   "name": "Godzilla vs. Hedorah",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067148"
+  },
+  {
+   "name": "Godzilla vs. Gigan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068371"
+  },
+  {
+   "name": "Godzilla vs. Megalon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070122"
+  },
+  {
+   "name": "Godzilla vs. Mechagodzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071565"
+  },
+  {
+   "name": "Terror of Mechagodzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073373"
+  },
+  {
+   "name": "Life Is Sweet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100024"
+  },
+  {
+   "name": "La Notte",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054130"
+  },
+  {
+   "name": "Riot in Cell Block 11",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047417"
+  },
+  {
+   "name": "Le Silence de la mer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039822"
+  },
+  {
+   "name": "Brief Encounter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037558"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5499-55564757f9d0bc7c6093024a489f1a64/wddwsN8LLbglFFvWxPvae5dIaaxMqD_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5499-55564757f9d0bc7c6093024a489f1a64/wddwsN8LLbglFFvWxPvae5dIaaxMqD_original.jpg",
+ "posterShape": "landscape"
+}

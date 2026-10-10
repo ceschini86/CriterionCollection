@@ -1,0 +1,76 @@
+{
+ "id": "cpick447",
+ "type": "movie",
+ "name": "Paul Dano",
+ "description": "Filmes que Paul Dano escolheu no Criterion Closet:\n\n• One-Eyed Jacks (1961)\n• Lola\n• Bay of Angels (1963)\n• The Umbrellas of Cherbourg (1964)\n• The Young Girls of Rochefort (1967)\n• Donkey Skin (1970)\n• Une Chambre En Ville\n• A Brighter Summer Day (1991)\n• Good Morning (1959)\n• Make Way for Tomorrow (1937)\n• This Sporting Life (1963)\n• Yi Yi (2000)\n• My Own Private Idaho (1991)",
+ "links": [
+  {
+   "name": "One-Eyed Jacks",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055257"
+  },
+  {
+   "name": "Lola",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055093"
+  },
+  {
+   "name": "Bay of Angels",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056846"
+  },
+  {
+   "name": "The Umbrellas of Cherbourg",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058450"
+  },
+  {
+   "name": "The Young Girls of Rochefort",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062873"
+  },
+  {
+   "name": "Donkey Skin",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066207"
+  },
+  {
+   "name": "Une Chambre En Ville",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084843"
+  },
+  {
+   "name": "A Brighter Summer Day",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101985"
+  },
+  {
+   "name": "Good Morning",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053134"
+  },
+  {
+   "name": "Make Way for Tomorrow",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0029192"
+  },
+  {
+   "name": "This Sporting Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057578"
+  },
+  {
+   "name": "Yi Yi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0244316"
+  },
+  {
+   "name": "My Own Private Idaho",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102494"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5077-2a1330b4a727c461580a9820fb7e1c4f/NxAYvJPahOi3vDjI3FaNveRhFRUVYV_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5077-2a1330b4a727c461580a9820fb7e1c4f/NxAYvJPahOi3vDjI3FaNveRhFRUVYV_original.jpg",
+ "posterShape": "landscape"
+}

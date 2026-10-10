@@ -1,0 +1,81 @@
+{
+ "id": "cpick535",
+ "type": "movie",
+ "name": "Cauleen Smith",
+ "description": "Filmes que Cauleen Smith escolheu no Criterion Closet:\n\n• Do the Right Thing (1989)\n• La Jetée (1962)\n• Sans Soleil (1983)\n• The Flavor of Green Tea Over Rice (1952)\n• Poto and Cabengo (1980)\n• Routine Pleasures\n• My Crasy Life\n• Stalker (1979)\n• Blowup (1966)\n• The Color of Pomegranates (1969)\n• Black Girl (1966)\n• To Sleep with Anger (1990)\n• Symbiopsychotaxiplasm Two Takes By William Greaves\n• The Princess Bride (1987)",
+ "links": [
+  {
+   "name": "Do the Right Thing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097216"
+  },
+  {
+   "name": "La Jetée",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056119"
+  },
+  {
+   "name": "Sans Soleil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084628"
+  },
+  {
+   "name": "The Flavor of Green Tea Over Rice",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044982"
+  },
+  {
+   "name": "Poto and Cabengo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0196866"
+  },
+  {
+   "name": "Routine Pleasures",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0274069"
+  },
+  {
+   "name": "My Crasy Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104953"
+  },
+  {
+   "name": "Stalker",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079944"
+  },
+  {
+   "name": "Blowup",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060176"
+  },
+  {
+   "name": "The Color of Pomegranates",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063555"
+  },
+  {
+   "name": "Black Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060758"
+  },
+  {
+   "name": "To Sleep with Anger",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100791"
+  },
+  {
+   "name": "Symbiopsychotaxiplasm Two Takes By William Greaves",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0296881"
+  },
+  {
+   "name": "The Princess Bride",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093779"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5320-4f7d6d8fa3ed04c1d86ebf0beca665b5/wCJ11sn5QiU1KltdXlmU1nBLJRuqPL_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5320-4f7d6d8fa3ed04c1d86ebf0beca665b5/wCJ11sn5QiU1KltdXlmU1nBLJRuqPL_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,106 @@
+{
+ "id": "cpick957",
+ "type": "movie",
+ "name": "Oscar Isaac",
+ "description": "Filmes que Oscar Isaac escolheu no Criterion Closet:\n\n• The Last Temptation of Christ (1988)\n• Rushmore (1998)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• The Fisher King (1991)\n• Dont Look Back (1967)\n• Pan's Labyrinth (2006)\n• Inside Llewyn Davis (2013)\n• Akira Kurosawa S Dreams\n• Throne of Blood (1957)\n• The Tree of Life (2011)\n• La Llorona (2019)\n• Guillermo del Toro's Pinocchio (2022)\n• Raging Bull (1980)\n• You Can Count on Me (2000)",
+ "links": [
+  {
+   "name": "The Last Temptation of Christ",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095497"
+  },
+  {
+   "name": "Rushmore",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0128445"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "The Fisher King",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101889"
+  },
+  {
+   "name": "Dont Look Back",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061589"
+  },
+  {
+   "name": "Pan's Labyrinth",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0457430"
+  },
+  {
+   "name": "Inside Llewyn Davis",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2042568"
+  },
+  {
+   "name": "Akira Kurosawa S Dreams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100998"
+  },
+  {
+   "name": "Throne of Blood",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050613"
+  },
+  {
+   "name": "The Tree of Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0478304"
+  },
+  {
+   "name": "La Llorona",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt10767168"
+  },
+  {
+   "name": "Guillermo del Toro's Pinocchio",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1488589"
+  },
+  {
+   "name": "Raging Bull",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081398"
+  },
+  {
+   "name": "You Can Count on Me",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0203230"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7323-05c5dfffa83306f23a1c6dd59092b8f2/ZbfduUEuLpFeqCErKkY09CvkQs9D4e_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7323-05c5dfffa83306f23a1c6dd59092b8f2/ZbfduUEuLpFeqCErKkY09CvkQs9D4e_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,116 @@
+{
+ "id": "cpick671",
+ "type": "movie",
+ "name": "Gina Gershon",
+ "description": "Filmes que Gina Gershon escolheu no Criterion Closet:\n\n• Don't Look Now (1973)\n• Bound (1996)\n• Brazil (1985)\n• Lola Montès (1955)\n• Godzilla (1954)\n• Godzilla Raids Again (1955)\n• King Kong Vs Godzilla\n• Mothra vs. Godzilla (1964)\n• Ghidorah, the Three-Headed Monster (1964)\n• Invasion of Astro-Monster (1965)\n• Ebirah, Horror of the Deep (1966)\n• Son of Godzilla (1967)\n• Destroy All Monsters (1968)\n• All Monsters Attack (1969)\n• Godzilla vs. Hedorah (1971)\n• Godzilla vs. Gigan (1972)\n• Godzilla vs. Megalon (1973)\n• Godzilla vs. Mechagodzilla (1974)\n• Terror of Mechagodzilla (1975)\n• The Seventh Seal (1957)\n• The Friends of Eddie Coyle (1973)",
+ "links": [
+  {
+   "name": "Don't Look Now",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069995"
+  },
+  {
+   "name": "Bound",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0115736"
+  },
+  {
+   "name": "Brazil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088846"
+  },
+  {
+   "name": "Lola Montès",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048308"
+  },
+  {
+   "name": "Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047034"
+  },
+  {
+   "name": "Godzilla Raids Again",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048127"
+  },
+  {
+   "name": "King Kong Vs Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056142"
+  },
+  {
+   "name": "Mothra vs. Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058379"
+  },
+  {
+   "name": "Ghidorah, the Three-Headed Monster",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058544"
+  },
+  {
+   "name": "Invasion of Astro-Monster",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059346"
+  },
+  {
+   "name": "Ebirah, Horror of the Deep",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060464"
+  },
+  {
+   "name": "Son of Godzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061856"
+  },
+  {
+   "name": "Destroy All Monsters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063172"
+  },
+  {
+   "name": "All Monsters Attack",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064373"
+  },
+  {
+   "name": "Godzilla vs. Hedorah",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067148"
+  },
+  {
+   "name": "Godzilla vs. Gigan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068371"
+  },
+  {
+   "name": "Godzilla vs. Megalon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070122"
+  },
+  {
+   "name": "Godzilla vs. Mechagodzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071565"
+  },
+  {
+   "name": "Terror of Mechagodzilla",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073373"
+  },
+  {
+   "name": "The Seventh Seal",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050976"
+  },
+  {
+   "name": "The Friends of Eddie Coyle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070077"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5972-9d0d38ff9a0a527b14e4ec196577aefd/UTZ91Tt6mIg2lZqia9uadxhFhfmcpu_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5972-9d0d38ff9a0a527b14e4ec196577aefd/UTZ91Tt6mIg2lZqia9uadxhFhfmcpu_original.jpg",
+ "posterShape": "landscape"
+}

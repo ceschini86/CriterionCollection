@@ -1,0 +1,51 @@
+{
+ "id": "cpick1006",
+ "type": "movie",
+ "name": "Karen O and Barnaby Clay",
+ "description": "Filmes que Karen O and Barnaby Clay escolheu no Criterion Closet:\n\n• Elevator to the Gallows (1958)\n• Woman in the Dunes (1964)\n• The Bitter Tears of Petra von Kant (1972)\n• Eraserhead (1977)\n• The Night Porter (1974)\n• The Night of the Hunter (1955)\n• Beauty and the Beast (1946)\n• Videodrome (1983)",
+ "links": [
+  {
+   "name": "Elevator to the Gallows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051378"
+  },
+  {
+   "name": "Woman in the Dunes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058625"
+  },
+  {
+   "name": "The Bitter Tears of Petra von Kant",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068278"
+  },
+  {
+   "name": "Eraserhead",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074486"
+  },
+  {
+   "name": "The Night Porter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071910"
+  },
+  {
+   "name": "The Night of the Hunter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048424"
+  },
+  {
+   "name": "Beauty and the Beast",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038348"
+  },
+  {
+   "name": "Videodrome",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086541"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7568-647708c9abd54a1c9889e850fe778103/aiblDW1xPzsl99JdDnJtGOdCNOjulX_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7568-647708c9abd54a1c9889e850fe778103/aiblDW1xPzsl99JdDnJtGOdCNOjulX_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,66 @@
+{
+ "id": "cpick435",
+ "type": "movie",
+ "name": "Desiree Akhavan",
+ "description": "Filmes que Desiree Akhavan escolheu no Criterion Closet:\n\n• Knife in the Water (1962)\n• Do the Right Thing (1989)\n• The Spirit of the Beehive (1973)\n• Ratcatcher (1999)\n• Faces (1968)\n• Love Streams (1984)\n• Tiny Furniture (2010)\n• Safe (1995)\n• I Knew Her Well (1965)\n• Day for Night (1973)\n• Life Is Sweet (1991)",
+ "links": [
+  {
+   "name": "Knife in the Water",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056291"
+  },
+  {
+   "name": "Do the Right Thing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097216"
+  },
+  {
+   "name": "The Spirit of the Beehive",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070040"
+  },
+  {
+   "name": "Ratcatcher",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0171685"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "Love Streams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087644"
+  },
+  {
+   "name": "Tiny Furniture",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1570989"
+  },
+  {
+   "name": "Safe",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0114323"
+  },
+  {
+   "name": "I Knew Her Well",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060545"
+  },
+  {
+   "name": "Day for Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070460"
+  },
+  {
+   "name": "Life Is Sweet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100024"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4849-9a77408314d8409d96450ff7e7f6aa54/QSBSui942SI4WHmnCQ63U4nlzjpGAT_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4849-9a77408314d8409d96450ff7e7f6aa54/QSBSui942SI4WHmnCQ63U4nlzjpGAT_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,111 @@
+{
+ "id": "cpick775",
+ "type": "movie",
+ "name": "Ken Burns",
+ "description": "Filmes que Ken Burns escolheu no Criterion Closet:\n\n• Odd Man Out (1947)\n• Seven Samurai (1954)\n• To Be or Not to Be (1942)\n• Rebecca (1940)\n• Hunger (2008)\n• Variety Lights (1950)\n• The White Sheik (1952)\n• I Vitelloni (1953)\n• La Strada (1954)\n• Il Bidone\n• Nights of Cabiria (1957)\n• La Dolce Vita (1960)\n• 8½ (1963)\n• Juliet of the Spirits (1965)\n• Fellini Satyricon\n• Roma\n• Amarcord (1973)\n• And the Ship Sails On (1983)\n• Intervista (1987)\n• Pina (2011)",
+ "links": [
+  {
+   "name": "Odd Man Out",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039677"
+  },
+  {
+   "name": "Seven Samurai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047478"
+  },
+  {
+   "name": "To Be or Not to Be",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035446"
+  },
+  {
+   "name": "Rebecca",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032976"
+  },
+  {
+   "name": "Hunger",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0986233"
+  },
+  {
+   "name": "Variety Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042692"
+  },
+  {
+   "name": "The White Sheik",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044000"
+  },
+  {
+   "name": "I Vitelloni",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046521"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  },
+  {
+   "name": "Il Bidone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047876"
+  },
+  {
+   "name": "Nights of Cabiria",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050783"
+  },
+  {
+   "name": "La Dolce Vita",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053779"
+  },
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "Juliet of the Spirits",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059229"
+  },
+  {
+   "name": "Fellini Satyricon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064940"
+  },
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069191"
+  },
+  {
+   "name": "Amarcord",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071129"
+  },
+  {
+   "name": "And the Ship Sails On",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087188"
+  },
+  {
+   "name": "Intervista",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093267"
+  },
+  {
+   "name": "Pina",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1440266"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6459-e6bc55ee2b633ac9970d39b3c4ac3d47/VFQkVij3qfthdXuiHU5k7kysdxjLIP_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6459-e6bc55ee2b633ac9970d39b3c4ac3d47/VFQkVij3qfthdXuiHU5k7kysdxjLIP_original.jpg",
+ "posterShape": "landscape"
+}

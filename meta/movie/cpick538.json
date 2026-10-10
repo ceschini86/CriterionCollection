@@ -1,0 +1,56 @@
+{
+ "id": "cpick538",
+ "type": "movie",
+ "name": "Mike Leigh",
+ "description": "Filmes que Mike Leigh escolheu no Criterion Closet:\n\n• Bicycle Thieves (1948)\n• Vivre Sa Vie (1962)\n• A Hard Day's Night (1964)\n• Late Spring (1949)\n• The Firemen's Ball (1967)\n• Berlin Alexanderplatz (1980)\n• Jules and Jim (1962)\n• Divorce Italian Style (1961)\n• Judex (1963)",
+ "links": [
+  {
+   "name": "Bicycle Thieves",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040522"
+  },
+  {
+   "name": "Vivre Sa Vie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056663"
+  },
+  {
+   "name": "A Hard Day's Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058182"
+  },
+  {
+   "name": "Late Spring",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041154"
+  },
+  {
+   "name": "The Firemen's Ball",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061781"
+  },
+  {
+   "name": "Berlin Alexanderplatz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080196"
+  },
+  {
+   "name": "Jules and Jim",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055032"
+  },
+  {
+   "name": "Divorce Italian Style",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055913"
+  },
+  {
+   "name": "Judex",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057207"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5332-d04e3fbbba92a5c4bb984879df0996c9/0m9Hib9xGw9tvGCLZUsMZInyE1VDh0_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5332-d04e3fbbba92a5c4bb984879df0996c9/0m9Hib9xGw9tvGCLZUsMZInyE1VDh0_original.jpg",
+ "posterShape": "landscape"
+}

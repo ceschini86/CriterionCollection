@@ -1,0 +1,86 @@
+{
+ "id": "cpick489",
+ "type": "movie",
+ "name": "Robert Downey Sr.",
+ "description": "Filmes que Robert Downey Sr. escolheu no Criterion Closet:\n\n• 8½ (1963)\n• Head (1968)\n• Easy Rider (1969)\n• Five Easy Pieces (1970)\n• Drive, He Said (1971)\n• A Safe Place (1971)\n• The Last Picture Show (1971)\n• The King of Marvin Gardens (1972)\n• Two-Lane Blacktop (1971)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)",
+ "links": [
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "Head",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063049"
+  },
+  {
+   "name": "Easy Rider",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064276"
+  },
+  {
+   "name": "Five Easy Pieces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065724"
+  },
+  {
+   "name": "Drive, He Said",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068509"
+  },
+  {
+   "name": "A Safe Place",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067699"
+  },
+  {
+   "name": "The Last Picture Show",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067328"
+  },
+  {
+   "name": "The King of Marvin Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068805"
+  },
+  {
+   "name": "Two-Lane Blacktop",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067893"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5117-c87b645c206efb866ad2373ba05193a1/vYCuee6qgF6k5KQWNoDToCBF11sv7t_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5117-c87b645c206efb866ad2373ba05193a1/vYCuee6qgF6k5KQWNoDToCBF11sv7t_original.jpg",
+ "posterShape": "landscape"
+}

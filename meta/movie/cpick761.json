@@ -1,0 +1,41 @@
+{
+ "id": "cpick761",
+ "type": "movie",
+ "name": "Andrew Stanton",
+ "description": "Filmes que Andrew Stanton escolheu no Criterion Closet:\n\n• Paper Moon (1973)\n• Brazil (1985)\n• Local Hero (1983)\n• The Worst Person in the World (2021)\n• Defending Your Life (1991)\n• Matewan (1987)",
+ "links": [
+  {
+   "name": "Paper Moon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070510"
+  },
+  {
+   "name": "Brazil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088846"
+  },
+  {
+   "name": "Local Hero",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085859"
+  },
+  {
+   "name": "The Worst Person in the World",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt10370710"
+  },
+  {
+   "name": "Defending Your Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101698"
+  },
+  {
+   "name": "Matewan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093509"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6386-a7516b7cdf2c6b7719b1d782b094a039/FZQDMgErXQL7nDb9bqkUtR5tp3Iabb_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6386-a7516b7cdf2c6b7719b1d782b094a039/FZQDMgErXQL7nDb9bqkUtR5tp3Iabb_original.jpg",
+ "posterShape": "landscape"
+}

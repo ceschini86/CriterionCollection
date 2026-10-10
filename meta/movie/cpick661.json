@@ -1,0 +1,81 @@
+{
+ "id": "cpick661",
+ "type": "movie",
+ "name": "Jeremy O. Harris",
+ "description": "Filmes que Jeremy O. Harris escolheu no Criterion Closet:\n\n• The Story of a Three-Day Pass (1968)\n• Watermelon Man (1970)\n• Sweet Sweetback's Baadasssss Song (1971)\n• Don't Play Us Cheap (1973)\n• Original Cast Album: Company (1970)\n• The Celebration (1998)\n• Teorema (1968)\n• Salò, or the 120 Days of Sodom (1975)\n• Tiny Furniture (2010)\n• Girlfriends (1978)\n• All That Jazz (1979)\n• Ali: Fear Eats the Soul (1974)\n• Yi Yi (2000)\n• Metropolitan (1990)",
+ "links": [
+  {
+   "name": "The Story of a Three-Day Pass",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063646"
+  },
+  {
+   "name": "Watermelon Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066550"
+  },
+  {
+   "name": "Sweet Sweetback's Baadasssss Song",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067810"
+  },
+  {
+   "name": "Don't Play Us Cheap",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069996"
+  },
+  {
+   "name": "Original Cast Album: Company",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0293475"
+  },
+  {
+   "name": "The Celebration",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0154420"
+  },
+  {
+   "name": "Teorema",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063678"
+  },
+  {
+   "name": "Salò, or the 120 Days of Sodom",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073650"
+  },
+  {
+   "name": "Tiny Furniture",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1570989"
+  },
+  {
+   "name": "Girlfriends",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077613"
+  },
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  },
+  {
+   "name": "Ali: Fear Eats the Soul",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071141"
+  },
+  {
+   "name": "Yi Yi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0244316"
+  },
+  {
+   "name": "Metropolitan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100142"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5943-11d7605a7d7f1c63b9e0e8c75c39a263/XHhTCQBeCCixcqnQRA8eTjcreuY6MG_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5943-11d7605a7d7f1c63b9e0e8c75c39a263/XHhTCQBeCCixcqnQRA8eTjcreuY6MG_original.jpg",
+ "posterShape": "landscape"
+}

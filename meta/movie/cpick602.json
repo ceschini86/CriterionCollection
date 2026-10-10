@@ -1,0 +1,41 @@
+{
+ "id": "cpick602",
+ "type": "movie",
+ "name": "Michael K. Williams",
+ "description": "Filmes que Michael K. Williams escolheu no Criterion Closet:\n\n• Gomorrah (2008)\n• The Fugitive Kind (1959)\n• Hunger (2008)\n• The Night of the Hunter (1955)\n• Dazed and Confused (1993)\n• Modern Times (1936)",
+ "links": [
+  {
+   "name": "Gomorrah",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0929425"
+  },
+  {
+   "name": "The Fugitive Kind",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052832"
+  },
+  {
+   "name": "Hunger",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0986233"
+  },
+  {
+   "name": "The Night of the Hunter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048424"
+  },
+  {
+   "name": "Dazed and Confused",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0106677"
+  },
+  {
+   "name": "Modern Times",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0027977"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5648-4d8c0336895e8ca13764155044e7ec4d/MVC236EElnC4ZpZBisvl7zQHLj6aMD_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5648-4d8c0336895e8ca13764155044e7ec4d/MVC236EElnC4ZpZBisvl7zQHLj6aMD_original.jpg",
+ "posterShape": "landscape"
+}

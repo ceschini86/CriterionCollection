@@ -1,0 +1,36 @@
+{
+ "id": "cpick584",
+ "type": "movie",
+ "name": "Roger Corman",
+ "description": "Filmes que Roger Corman escolheu no Criterion Closet:\n\n• Targets (1968)\n• The Gunfighter (1950)\n• Amarcord (1973)\n• War and Peace (1965)\n• Raging Bull (1980)",
+ "links": [
+  {
+   "name": "Targets",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063671"
+  },
+  {
+   "name": "The Gunfighter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042531"
+  },
+  {
+   "name": "Amarcord",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071129"
+  },
+  {
+   "name": "War and Peace",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063794"
+  },
+  {
+   "name": "Raging Bull",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081398"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5536-a7a0624c4dab6cd45667060e58bbf05c/KHKzktlAwq6InW9oX93tTeAIAF1jml_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5536-a7a0624c4dab6cd45667060e58bbf05c/KHKzktlAwq6InW9oX93tTeAIAF1jml_original.jpg",
+ "posterShape": "landscape"
+}

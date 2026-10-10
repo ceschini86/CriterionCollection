@@ -1,0 +1,41 @@
+{
+ "id": "cpick980",
+ "type": "movie",
+ "name": "Finneas",
+ "description": "Filmes que Finneas escolheu no Criterion Closet:\n\n• A Hard Day's Night (1964)\n• Eyes Wide Shut (1999)\n• Sound of Metal (2019)\n• WALL-E (2008)\n• Punch-Drunk Love (2002)\n• Roma",
+ "links": [
+  {
+   "name": "A Hard Day's Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058182"
+  },
+  {
+   "name": "Eyes Wide Shut",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120663"
+  },
+  {
+   "name": "Sound of Metal",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt5363618"
+  },
+  {
+   "name": "WALL-E",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0910970"
+  },
+  {
+   "name": "Punch-Drunk Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0272338"
+  },
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6155172"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7445-7215ca3c8a973fca3bc47794fa5a3a9b/Fvj9fMunPS3fHNE490SlpAQggb3RFD_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7445-7215ca3c8a973fca3bc47794fa5a3a9b/Fvj9fMunPS3fHNE490SlpAQggb3RFD_original.jpg",
+ "posterShape": "landscape"
+}

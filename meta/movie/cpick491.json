@@ -1,0 +1,51 @@
+{
+ "id": "cpick491",
+ "type": "movie",
+ "name": "Michael Cera (2014)",
+ "description": "Filmes que Michael Cera escolheu no Criterion Closet:\n\n• Good Morning (1959)\n• Close-Up (1990)\n• Warrendale (1967)\n• A Married Couple (1969)\n• Come On Children\n• Dying at Grace (2003)\n• Memory For Max Claire Ida And Company\n• Tootsie (1982)",
+ "links": [
+  {
+   "name": "Good Morning",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053134"
+  },
+  {
+   "name": "Close-Up",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100234"
+  },
+  {
+   "name": "Warrendale",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062474"
+  },
+  {
+   "name": "A Married Couple",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064640"
+  },
+  {
+   "name": "Come On Children",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0269104"
+  },
+  {
+   "name": "Dying at Grace",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0379269"
+  },
+  {
+   "name": "Memory For Max Claire Ida And Company",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0478000"
+  },
+  {
+   "name": "Tootsie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084805"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5125-bfca125ef775409e502a86ff53d9e7f4/Pp3i7tuaTq09cWXuTfVFYwSqPrLr5c_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5125-bfca125ef775409e502a86ff53d9e7f4/Pp3i7tuaTq09cWXuTfVFYwSqPrLr5c_original.jpg",
+ "posterShape": "landscape"
+}

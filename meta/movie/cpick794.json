@@ -1,0 +1,46 @@
+{
+ "id": "cpick794",
+ "type": "movie",
+ "name": "Kevin Bacon",
+ "description": "Filmes que Kevin Bacon escolheu no Criterion Closet:\n\n• Seven Samurai (1954)\n• The Blob (1958)\n• Do the Right Thing (1989)\n• Gimme Shelter (1970)\n• Sullivan's Travels (1942)\n• The Fugitive Kind (1959)\n• Jules and Jim (1962)",
+ "links": [
+  {
+   "name": "Seven Samurai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047478"
+  },
+  {
+   "name": "The Blob",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051418"
+  },
+  {
+   "name": "Do the Right Thing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097216"
+  },
+  {
+   "name": "Gimme Shelter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065780"
+  },
+  {
+   "name": "Sullivan's Travels",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034240"
+  },
+  {
+   "name": "The Fugitive Kind",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052832"
+  },
+  {
+   "name": "Jules and Jim",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055032"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6532-8a6974078011079774462a27fef4969c/JchBe65Ln5DztW8z0FlO1CwG45VIcs_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6532-8a6974078011079774462a27fef4969c/JchBe65Ln5DztW8z0FlO1CwG45VIcs_original.jpg",
+ "posterShape": "landscape"
+}

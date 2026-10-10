@@ -1,0 +1,56 @@
+{
+ "id": "cpick785",
+ "type": "movie",
+ "name": "Azazel Jacobs",
+ "description": "Filmes que Azazel Jacobs escolheu no Criterion Closet:\n\n• The Exterminating Angel (1962)\n• Hobson's Choice (1954)\n• La Vie de Bohème (1992)\n• La Ciénaga (2001)\n• Girlfriends (1978)\n• Tótem (2023)\n• Miracle in Milan (1951)\n• The Breakfast Club (1985)\n• Pandora's Box (1929)",
+ "links": [
+  {
+   "name": "The Exterminating Angel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056732"
+  },
+  {
+   "name": "Hobson's Choice",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047094"
+  },
+  {
+   "name": "La Vie de Bohème",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0105750"
+  },
+  {
+   "name": "La Ciénaga",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0240419"
+  },
+  {
+   "name": "Girlfriends",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077613"
+  },
+  {
+   "name": "Tótem",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt26315142"
+  },
+  {
+   "name": "Miracle in Milan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043809"
+  },
+  {
+   "name": "The Breakfast Club",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088847"
+  },
+  {
+   "name": "Pandora's Box",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0018737"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6499-d90431f01244947cfced422afca59e5f/zAO9GjhwVNmay8aCmg4WM3A1Ima6Ta_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6499-d90431f01244947cfced422afca59e5f/zAO9GjhwVNmay8aCmg4WM3A1Ima6Ta_original.jpg",
+ "posterShape": "landscape"
+}

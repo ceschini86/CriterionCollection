@@ -1,0 +1,41 @@
+{
+ "id": "cpick419",
+ "type": "movie",
+ "name": "Joanna Hogg",
+ "description": "Filmes que Joanna Hogg escolheu no Criterion Closet:\n\n• 8½ (1963)\n• La Strada (1954)\n• The Red Shoes (1948)\n• Bad Timing (1980)\n• All That Jazz (1979)\n• The Age of Innocence (1993)",
+ "links": [
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  },
+  {
+   "name": "The Red Shoes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040725"
+  },
+  {
+   "name": "Bad Timing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080408"
+  },
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  },
+  {
+   "name": "The Age of Innocence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0106226"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4785-bd0636f6348b2c507cac17670881ac2e/GBuBYITfJX1trKrIDOe0hAHiEAHek2_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4785-bd0636f6348b2c507cac17670881ac2e/GBuBYITfJX1trKrIDOe0hAHiEAHek2_original.jpg",
+ "posterShape": "landscape"
+}

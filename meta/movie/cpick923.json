@@ -1,0 +1,46 @@
+{
+ "id": "cpick923",
+ "type": "movie",
+ "name": "Nicholas Britell",
+ "description": "Filmes que Nicholas Britell escolheu no Criterion Closet:\n\n• The Underground Railroad (2021)\n• Citizen Kane (1941)\n• The Double Life of Véronique (1991)\n• Tokyo Olympiad (1965)\n• La Jetée (1962)\n• Sans Soleil (1983)\n• Malcolm X (1992)",
+ "links": [
+  {
+   "name": "The Underground Railroad",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6704972"
+  },
+  {
+   "name": "Citizen Kane",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033467"
+  },
+  {
+   "name": "The Double Life of Véronique",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101765"
+  },
+  {
+   "name": "Tokyo Olympiad",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059817"
+  },
+  {
+   "name": "La Jetée",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056119"
+  },
+  {
+   "name": "Sans Soleil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084628"
+  },
+  {
+   "name": "Malcolm X",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104797"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7192-f5e8ab5c53165a133856e3f010bb3a5d/NMuApqmkkPojx83khkMVafKZ4R8zYm_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7192-f5e8ab5c53165a133856e3f010bb3a5d/NMuApqmkkPojx83khkMVafKZ4R8zYm_original.jpg",
+ "posterShape": "landscape"
+}

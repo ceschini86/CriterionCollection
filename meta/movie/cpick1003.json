@@ -1,0 +1,86 @@
+{
+ "id": "cpick1003",
+ "type": "movie",
+ "name": "Jack Coyne",
+ "description": "Filmes que Jack Coyne escolheu no Criterion Closet:\n\n• The Last Waltz (1978)\n• Written on the Wind (1956)\n• Shadows in Paradise (1986)\n• Ariel (1988)\n• The Match Factory Girl (1990)\n• The Celebration (1998)\n• Pierrot le Fou (1965)\n• Love Affair (1939)\n• The Worst Person in the World (2021)\n• Now, Voyager (1942)\n• Mildred Pierce (1945)\n• Leave Her to Heaven (1945)\n• The Marriage of Maria Braun (1979)\n• Veronika Voss (1982)\n• Lola",
+ "links": [
+  {
+   "name": "The Last Waltz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077838"
+  },
+  {
+   "name": "Written on the Wind",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049966"
+  },
+  {
+   "name": "Shadows in Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092149"
+  },
+  {
+   "name": "Ariel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094675"
+  },
+  {
+   "name": "The Match Factory Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0098532"
+  },
+  {
+   "name": "The Celebration",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0154420"
+  },
+  {
+   "name": "Pierrot le Fou",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059592"
+  },
+  {
+   "name": "Love Affair",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0031593"
+  },
+  {
+   "name": "The Worst Person in the World",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt10370710"
+  },
+  {
+   "name": "Now, Voyager",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035140"
+  },
+  {
+   "name": "Mildred Pierce",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037913"
+  },
+  {
+   "name": "Leave Her to Heaven",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037865"
+  },
+  {
+   "name": "The Marriage of Maria Braun",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079095"
+  },
+  {
+   "name": "Veronika Voss",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084654"
+  },
+  {
+   "name": "Lola",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082671"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7556-c31f6ce8439c9651d03626edfe923453/lQ7SgYnMFcS2LSaGRMARVjs4uLEp5Y_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7556-c31f6ce8439c9651d03626edfe923453/lQ7SgYnMFcS2LSaGRMARVjs4uLEp5Y_original.jpg",
+ "posterShape": "landscape"
+}

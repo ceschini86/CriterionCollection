@@ -1,0 +1,76 @@
+{
+ "id": "cpick974",
+ "type": "movie",
+ "name": "Hannah Einbinder",
+ "description": "Filmes que Hannah Einbinder escolheu no Criterion Closet:\n\n• Tampopo (1985)\n• Paper Moon (1973)\n• Before Sunrise (1995)\n• Before Sunset (2004)\n• Before Midnight (2013)\n• Thelma & Louise (1991)\n• The Philadelphia Story (1940)\n• His Girl Friday (1940)\n• Valerie and Her Week of Wonders (1970)\n• Crash (1996)\n• Lost Highway (1997)\n• Defending Your Life (1991)\n• High Art (1998)",
+ "links": [
+  {
+   "name": "Tampopo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092048"
+  },
+  {
+   "name": "Paper Moon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070510"
+  },
+  {
+   "name": "Before Sunrise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112471"
+  },
+  {
+   "name": "Before Sunset",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0381681"
+  },
+  {
+   "name": "Before Midnight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2209418"
+  },
+  {
+   "name": "Thelma & Louise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103074"
+  },
+  {
+   "name": "The Philadelphia Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032904"
+  },
+  {
+   "name": "His Girl Friday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032599"
+  },
+  {
+   "name": "Valerie and Her Week of Wonders",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066516"
+  },
+  {
+   "name": "Crash",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0115964"
+  },
+  {
+   "name": "Lost Highway",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0116922"
+  },
+  {
+   "name": "Defending Your Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101698"
+  },
+  {
+   "name": "High Art",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0139362"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7417-e1a42cacb30bdf4091001b6088cae20a/nlbQDhD9UV3iQ7dNc5X9oOMrwNntXQ_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7417-e1a42cacb30bdf4091001b6088cae20a/nlbQDhD9UV3iQ7dNc5X9oOMrwNntXQ_original.jpg",
+ "posterShape": "landscape"
+}

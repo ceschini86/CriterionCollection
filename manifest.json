@@ -1,16 +1,22 @@
 {
  "id": "br.mateus.criterion-closet",
- "version": "1.0.0",
+ "version": "1.1.0",
  "name": "Criterion Closet Picks",
- "description": "Um catálogo por visita ao Criterion Closet.",
+ "description": "Um catálogo por visita ao Criterion Closet, com busca por convidado.",
  "resources": [
-  "catalog"
+  "catalog",
+  {
+   "name": "meta",
+   "types": [
+    "movie"
+   ],
+   "idPrefixes": [
+    "cpick"
+   ]
+  }
  ],
  "types": [
   "movie"
- ],
- "idPrefixes": [
-  "tt"
  ],
  "catalogs": [
   {
@@ -2092,6 +2098,17 @@
    "type": "movie",
    "id": "cp570",
    "name": "Christian Petzold"
+  },
+  {
+   "type": "movie",
+   "id": "closet-search",
+   "name": "Closet Picks",
+   "extra": [
+    {
+     "name": "search",
+     "isRequired": true
+    }
+   ]
   }
  ]
 }

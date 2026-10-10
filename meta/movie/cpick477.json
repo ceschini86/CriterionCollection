@@ -1,0 +1,61 @@
+{
+ "id": "cpick477",
+ "type": "movie",
+ "name": "Lee Unkrich",
+ "description": "Filmes que Lee Unkrich escolheu no Criterion Closet:\n\n• Three Colors: Blue (1993)\n• Three Colors: White (1994)\n• Three Colors: Red (1994)\n• Bicycle Thieves (1948)\n• Loves of a Blonde (1965)\n• The Graduate (1967)\n• Punch-Drunk Love (2002)\n• An Angel at My Table (1990)\n• Seconds (1966)\n• All That Jazz (1979)",
+ "links": [
+  {
+   "name": "Three Colors: Blue",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108394"
+  },
+  {
+   "name": "Three Colors: White",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111507"
+  },
+  {
+   "name": "Three Colors: Red",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111495"
+  },
+  {
+   "name": "Bicycle Thieves",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040522"
+  },
+  {
+   "name": "Loves of a Blonde",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059415"
+  },
+  {
+   "name": "The Graduate",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061722"
+  },
+  {
+   "name": "Punch-Drunk Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0272338"
+  },
+  {
+   "name": "An Angel at My Table",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0099040"
+  },
+  {
+   "name": "Seconds",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060955"
+  },
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5616-6503a38e782f48639f7f6e35216b1758/qv0fW7tQlMOeZU6IGKDLbGmz7sahF3_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5616-6503a38e782f48639f7f6e35216b1758/qv0fW7tQlMOeZU6IGKDLbGmz7sahF3_original.jpg",
+ "posterShape": "landscape"
+}

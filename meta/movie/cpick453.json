@@ -1,0 +1,151 @@
+{
+ "id": "cpick453",
+ "type": "movie",
+ "name": "Joachim Trier",
+ "description": "Filmes que Joachim Trier escolheu no Criterion Closet:\n\n• Mishima: A Life in Four Chapters (1985)\n• All That Jazz (1979)\n• High and Low (1963)\n• The Emigrants (1971)\n• The New Land (1972)\n• La Jetée (1962)\n• Sans Soleil (1983)\n• The Phantom Carriage (1921)\n• Lola\n• Bay of Angels (1963)\n• The Umbrellas of Cherbourg (1964)\n• The Young Girls of Rochefort (1967)\n• Donkey Skin (1970)\n• Une Chambre En Ville\n• La Pointe Courte (1956)\n• Cléo from 5 to 7 (1962)\n• Le Bonheur (1965)\n• Vagabond (1985)\n• House (1977)\n• White Material (2009)\n• Solaris (1972)\n• Heaven's Gate (1980)\n• The Bakery Girl of Monceau (1963)\n• Suzanne's Career (1963)\n• My Night at Maud's (1969)\n• La Collectionneuse (1967)\n• Claire's Knee (1970)\n• Love in the Afternoon (1972)",
+ "links": [
+  {
+   "name": "Mishima: A Life in Four Chapters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089603"
+  },
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  },
+  {
+   "name": "High and Low",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057565"
+  },
+  {
+   "name": "The Emigrants",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067919"
+  },
+  {
+   "name": "The New Land",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069035"
+  },
+  {
+   "name": "La Jetée",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056119"
+  },
+  {
+   "name": "Sans Soleil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084628"
+  },
+  {
+   "name": "The Phantom Carriage",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0012364"
+  },
+  {
+   "name": "Lola",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055093"
+  },
+  {
+   "name": "Bay of Angels",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056846"
+  },
+  {
+   "name": "The Umbrellas of Cherbourg",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058450"
+  },
+  {
+   "name": "The Young Girls of Rochefort",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062873"
+  },
+  {
+   "name": "Donkey Skin",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066207"
+  },
+  {
+   "name": "Une Chambre En Ville",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084843"
+  },
+  {
+   "name": "La Pointe Courte",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048499"
+  },
+  {
+   "name": "Cléo from 5 to 7",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055852"
+  },
+  {
+   "name": "Le Bonheur",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058985"
+  },
+  {
+   "name": "Vagabond",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089960"
+  },
+  {
+   "name": "House",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076162"
+  },
+  {
+   "name": "White Material",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1135952"
+  },
+  {
+   "name": "Solaris",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069293"
+  },
+  {
+   "name": "Heaven's Gate",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080855"
+  },
+  {
+   "name": "The Bakery Girl of Monceau",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056884"
+  },
+  {
+   "name": "Suzanne's Career",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056910"
+  },
+  {
+   "name": "My Night at Maud's",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064612"
+  },
+  {
+   "name": "La Collectionneuse",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061495"
+  },
+  {
+   "name": "Claire's Knee",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065772"
+  },
+  {
+   "name": "Love in the Afternoon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068205"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5600-b338aca5366bc0a7889c9123b273142f/iFplblgIKuoGuOPbanijd4chbnZd7F_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5600-b338aca5366bc0a7889c9123b273142f/iFplblgIKuoGuOPbanijd4chbnZd7F_original.jpg",
+ "posterShape": "landscape"
+}

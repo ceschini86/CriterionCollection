@@ -1,0 +1,46 @@
+{
+ "id": "cpick853",
+ "type": "movie",
+ "name": "Ronan Farrow",
+ "description": "Filmes que Ronan Farrow escolheu no Criterion Closet:\n\n• Brazil (1985)\n• Notorious (1946)\n• Klute (1971)\n• Barry Lyndon (1975)\n• Fanny and Alexander: Theatrical Version (1982)\n• Fanny And Alexander Television Version\n• The Making of Fanny and Alexander (1982)",
+ "links": [
+  {
+   "name": "Brazil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088846"
+  },
+  {
+   "name": "Notorious",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038787"
+  },
+  {
+   "name": "Klute",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067309"
+  },
+  {
+   "name": "Barry Lyndon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072684"
+  },
+  {
+   "name": "Fanny and Alexander: Theatrical Version",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083922"
+  },
+  {
+   "name": "Fanny And Alexander Television Version",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083922"
+  },
+  {
+   "name": "The Making of Fanny and Alexander",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090955"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6845-177d80adaaabcce89c0c1b3f7ff9226d/AWBvtexYJyOg6FQol8bNDx5Zc9lkik_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6845-177d80adaaabcce89c0c1b3f7ff9226d/AWBvtexYJyOg6FQol8bNDx5Zc9lkik_original.jpg",
+ "posterShape": "landscape"
+}

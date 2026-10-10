@@ -1,0 +1,41 @@
+{
+ "id": "cpick651",
+ "type": "movie",
+ "name": "Manuel Garcia-Rulfo",
+ "description": "Filmes que Manuel Garcia-Rulfo escolheu no Criterion Closet:\n\n• The Cremator (1969)\n• Onibaba (1964)\n• Amores perros (2000)\n• Canoa: A Shameful Memory (1975)\n• The New World (2006)\n• Cold War (2018)",
+ "links": [
+  {
+   "name": "The Cremator",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063633"
+  },
+  {
+   "name": "Onibaba",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058430"
+  },
+  {
+   "name": "Amores perros",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0245712"
+  },
+  {
+   "name": "Canoa: A Shameful Memory",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0131335"
+  },
+  {
+   "name": "The New World",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0402399"
+  },
+  {
+   "name": "Cold War",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6543652"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5892-3d39671a24c38489e8a4864be0be040d/vGnDX5yDHiIN4V0mqhyvN9I6HmJXwG_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5892-3d39671a24c38489e8a4864be0be040d/vGnDX5yDHiIN4V0mqhyvN9I6HmJXwG_original.jpg",
+ "posterShape": "landscape"
+}

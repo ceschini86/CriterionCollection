@@ -1,0 +1,171 @@
+{
+ "id": "cpick681",
+ "type": "movie",
+ "name": "Jerry Schatzberg",
+ "description": "Filmes que Jerry Schatzberg escolheu no Criterion Closet:\n\n• Knife in the Water (1962)\n• Morocco (1930)\n• Dishonored (1931)\n• Shanghai Express (1932)\n• Blonde Venus (1932)\n• The Scarlet Empress (1934)\n• The Devil Is a Woman (1935)\n• On the Waterfront (1954)\n• Round Midnight (1986)\n• The Shooting (1966)\n• Varda by Agnès (2019)\n• La Pointe Courte (1956)\n• Cléo from 5 to 7 (1962)\n• Daguerréotypes (1978)\n• Le Bonheur (1965)\n• Les Creatures\n• Uncle Yanco (1967)\n• Black Panthers (1968)\n• Lions Love And Lies\n• Mur Murs (1982)\n• Documenteur (1982)\n• One Sings, the Other Doesn't (1977)\n• Vagabond (1985)\n• Jane B Par Agnes V\n• Kung-Fu Master! (1988)\n• Jacquot De Nantes\n• One Hundred and One Nights (1995)\n• The Gleaners and I (2000)\n• The Gleaners and I: Two Years Later (2002)\n• Faces Places\n• Agnes De Ci De La Varda\n• The Beaches of Agnès (2008)",
+ "links": [
+  {
+   "name": "Knife in the Water",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056291"
+  },
+  {
+   "name": "Morocco",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0021156"
+  },
+  {
+   "name": "Dishonored",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0021800"
+  },
+  {
+   "name": "Shanghai Express",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0023458"
+  },
+  {
+   "name": "Blonde Venus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0022698"
+  },
+  {
+   "name": "The Scarlet Empress",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0025746"
+  },
+  {
+   "name": "The Devil Is a Woman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0026276"
+  },
+  {
+   "name": "On the Waterfront",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047296"
+  },
+  {
+   "name": "Round Midnight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090557"
+  },
+  {
+   "name": "The Shooting",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062262"
+  },
+  {
+   "name": "Varda by Agnès",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt9530198"
+  },
+  {
+   "name": "La Pointe Courte",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048499"
+  },
+  {
+   "name": "Cléo from 5 to 7",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055852"
+  },
+  {
+   "name": "Daguerréotypes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071384"
+  },
+  {
+   "name": "Le Bonheur",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058985"
+  },
+  {
+   "name": "Les Creatures",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060263"
+  },
+  {
+   "name": "Uncle Yanco",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0179389"
+  },
+  {
+   "name": "Black Panthers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0209942"
+  },
+  {
+   "name": "Lions Love And Lies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064591"
+  },
+  {
+   "name": "Mur Murs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081204"
+  },
+  {
+   "name": "Documenteur",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082275"
+  },
+  {
+   "name": "One Sings, the Other Doesn't",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076855"
+  },
+  {
+   "name": "Vagabond",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089960"
+  },
+  {
+   "name": "Jane B Par Agnes V",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093295"
+  },
+  {
+   "name": "Kung-Fu Master!",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093371"
+  },
+  {
+   "name": "Jacquot De Nantes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102141"
+  },
+  {
+   "name": "One Hundred and One Nights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112654"
+  },
+  {
+   "name": "The Gleaners and I",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0247380"
+  },
+  {
+   "name": "The Gleaners and I: Two Years Later",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0345128"
+  },
+  {
+   "name": "Faces Places",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt5598102"
+  },
+  {
+   "name": "Agnes De Ci De La Varda",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2125012"
+  },
+  {
+   "name": "The Beaches of Agnès",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1129435"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6046-55133c60894c97c964f2efac5e4b6f87/Yvj3QH0lzSbVSmrXzT5Z5P2JVIxT75_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6046-55133c60894c97c964f2efac5e4b6f87/Yvj3QH0lzSbVSmrXzT5Z5P2JVIxT75_original.jpg",
+ "posterShape": "landscape"
+}

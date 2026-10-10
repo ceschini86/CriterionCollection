@@ -1,0 +1,191 @@
+{
+ "id": "cpick471",
+ "type": "movie",
+ "name": "Ben Wheatley",
+ "description": "Filmes que Ben Wheatley escolheu no Criterion Closet:\n\n• The Horse's Mouth (1958)\n• Grey Gardens (1976)\n• Two-Lane Blacktop (1971)\n• Things to Come (1936)\n• Fishing with John (1991)\n• Seven Samurai (1954)\n• The Tale of Zatoichi (1962)\n• The Tale of Zatoichi Continues (1962)\n• New Tale of Zatoichi (1963)\n• Zatoichi the Fugitive (1963)\n• Zatoichi on the Road (1963)\n• Zatoichi and the Chest of Gold (1964)\n• Zatoichi's Flashing Sword (1964)\n• Fight, Zatoichi, Fight (1964)\n• Adventures of Zatoichi (1964)\n• Zatoichi's Revenge (1965)\n• Zatoichi and the Doomed Man (1965)\n• Zatoichi and the Chess Expert (1965)\n• Zatoichi's Vengeance (1966)\n• Zatoichi's Pilgrimage (1966)\n• Zatoichi's Cane Sword (1967)\n• Zatoichi the Outlaw (1967)\n• Zatoichi Challenged (1967)\n• Zatoichi and the Fugitives (1968)\n• Samaritan Zatoichi (1968)\n• Zatoichi Meets Yojimbo (1970)\n• Zatoichi Goes to the Fire Festival (1970)\n• Zatoichi Meets the One-Armed Swordsman (1971)\n• Zatoichi at Large (1972)\n• Zatoichi in Desperation (1972)\n• Zatoichi's Conspiracy (1973)\n• Seconds (1966)\n• Sweet Smell of Success (1957)\n• Crumb (1994)\n• Rumble Fish (1983)\n• Watership Down (1978)",
+ "links": [
+  {
+   "name": "The Horse's Mouth",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051739"
+  },
+  {
+   "name": "Grey Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073076"
+  },
+  {
+   "name": "Two-Lane Blacktop",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067893"
+  },
+  {
+   "name": "Things to Come",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028358"
+  },
+  {
+   "name": "Fishing with John",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0139776"
+  },
+  {
+   "name": "Seven Samurai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047478"
+  },
+  {
+   "name": "The Tale of Zatoichi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056714"
+  },
+  {
+   "name": "The Tale of Zatoichi Continues",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0200309"
+  },
+  {
+   "name": "New Tale of Zatoichi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057503"
+  },
+  {
+   "name": "Zatoichi the Fugitive",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057715"
+  },
+  {
+   "name": "Zatoichi on the Road",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057714"
+  },
+  {
+   "name": "Zatoichi and the Chest of Gold",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0130377"
+  },
+  {
+   "name": "Zatoichi's Flashing Sword",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0191664"
+  },
+  {
+   "name": "Fight, Zatoichi, Fight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0123334"
+  },
+  {
+   "name": "Adventures of Zatoichi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0164984"
+  },
+  {
+   "name": "Zatoichi's Revenge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0123335"
+  },
+  {
+   "name": "Zatoichi and the Doomed Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0202154"
+  },
+  {
+   "name": "Zatoichi and the Chess Expert",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059942"
+  },
+  {
+   "name": "Zatoichi's Vengeance",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0143012"
+  },
+  {
+   "name": "Zatoichi's Pilgrimage",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0199905"
+  },
+  {
+   "name": "Zatoichi's Cane Sword",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0186725"
+  },
+  {
+   "name": "Zatoichi the Outlaw",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062518"
+  },
+  {
+   "name": "Zatoichi Challenged",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063834"
+  },
+  {
+   "name": "Zatoichi and the Fugitives",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063835"
+  },
+  {
+   "name": "Samaritan Zatoichi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0164983"
+  },
+  {
+   "name": "Zatoichi Meets Yojimbo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066603"
+  },
+  {
+   "name": "Zatoichi Goes to the Fire Festival",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0164982"
+  },
+  {
+   "name": "Zatoichi Meets the One-Armed Swordsman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066602"
+  },
+  {
+   "name": "Zatoichi at Large",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0202153"
+  },
+  {
+   "name": "Zatoichi in Desperation",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0201922"
+  },
+  {
+   "name": "Zatoichi's Conspiracy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072439"
+  },
+  {
+   "name": "Seconds",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060955"
+  },
+  {
+   "name": "Sweet Smell of Success",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051036"
+  },
+  {
+   "name": "Crumb",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109508"
+  },
+  {
+   "name": "Rumble Fish",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086216"
+  },
+  {
+   "name": "Watership Down",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078480"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4993-b6d32390c3b767a24684f4d1caea2299/FYQdFeYyx1zfFPucVcNUZs4WUj1yo1_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4993-b6d32390c3b767a24684f4d1caea2299/FYQdFeYyx1zfFPucVcNUZs4WUj1yo1_original.jpg",
+ "posterShape": "landscape"
+}

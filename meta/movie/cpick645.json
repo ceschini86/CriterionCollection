@@ -1,0 +1,51 @@
+{
+ "id": "cpick645",
+ "type": "movie",
+ "name": "Guillermo del Toro",
+ "description": "Filmes que Guillermo del Toro escolheu no Criterion Closet:\n\n• The Red Shoes (1948)\n• The 400 Blows (1959)\n• Charade (1963)\n• Crumb (1994)\n• The Thin Red Line (1998)\n• The Magician (1958)\n• Repulsion (1965)\n• Paths of Glory (1957)",
+ "links": [
+  {
+   "name": "The Red Shoes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040725"
+  },
+  {
+   "name": "The 400 Blows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053198"
+  },
+  {
+   "name": "Charade",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056923"
+  },
+  {
+   "name": "Crumb",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0109508"
+  },
+  {
+   "name": "The Thin Red Line",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120863"
+  },
+  {
+   "name": "The Magician",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051365"
+  },
+  {
+   "name": "Repulsion",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059646"
+  },
+  {
+   "name": "Paths of Glory",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050825"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5861-a6ad4f3d5b9ff8b91beadce7674f4176/X21HYmeIX3cgwCw5Gh6w3FHewbrodP_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5861-a6ad4f3d5b9ff8b91beadce7674f4176/X21HYmeIX3cgwCw5Gh6w3FHewbrodP_original.jpg",
+ "posterShape": "landscape"
+}

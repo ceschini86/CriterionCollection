@@ -1,0 +1,56 @@
+{
+ "id": "cpick594",
+ "type": "movie",
+ "name": "Hari Nef",
+ "description": "Filmes que Hari Nef escolheu no Criterion Closet:\n\n• The Naked Kiss (1964)\n• Women on the Verge of a Nervous Breakdown (1988)\n• Belle de Jour (1967)\n• Grey Gardens (1976)\n• The Red Shoes (1948)\n• Black Narcissus (1947)\n• Mishima: A Life in Four Chapters (1985)\n• Design for Living (1933)\n• The Last Days of Disco (1998)",
+ "links": [
+  {
+   "name": "The Naked Kiss",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058390"
+  },
+  {
+   "name": "Women on the Verge of a Nervous Breakdown",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0095675"
+  },
+  {
+   "name": "Belle de Jour",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061395"
+  },
+  {
+   "name": "Grey Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073076"
+  },
+  {
+   "name": "The Red Shoes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040725"
+  },
+  {
+   "name": "Black Narcissus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039192"
+  },
+  {
+   "name": "Mishima: A Life in Four Chapters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089603"
+  },
+  {
+   "name": "Design for Living",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0023940"
+  },
+  {
+   "name": "The Last Days of Disco",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120728"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5742-d8ca6bcdd168f9316ade21d1badeb714/XdHfRvOKcXB0apK7gehv1e2KmYLuSU_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5742-d8ca6bcdd168f9316ade21d1badeb714/XdHfRvOKcXB0apK7gehv1e2KmYLuSU_original.jpg",
+ "posterShape": "landscape"
+}

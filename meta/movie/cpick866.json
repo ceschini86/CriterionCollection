@@ -1,0 +1,41 @@
+{
+ "id": "cpick866",
+ "type": "movie",
+ "name": "Wyclef Jean",
+ "description": "Filmes que Wyclef Jean escolheu no Criterion Closet:\n\n• Spartacus (1960)\n• La Bamba (1987)\n• The Three Musketeers\n• The Four Musketeers\n• Menace II Society (1993)\n• Black Orpheus (1959)",
+ "links": [
+  {
+   "name": "Spartacus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054331"
+  },
+  {
+   "name": "La Bamba",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093378"
+  },
+  {
+   "name": "The Three Musketeers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072281"
+  },
+  {
+   "name": "The Four Musketeers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073012"
+  },
+  {
+   "name": "Menace II Society",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107554"
+  },
+  {
+   "name": "Black Orpheus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053146"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6903-cb9cef5bfe413c09f25d310307b73220/cS4qew4UfGnn0DTkaZLfrqhtZ3Kmq1_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6903-cb9cef5bfe413c09f25d310307b73220/cS4qew4UfGnn0DTkaZLfrqhtZ3Kmq1_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,91 @@
+{
+ "id": "cpick865",
+ "type": "movie",
+ "name": "Judd Apatow",
+ "description": "Filmes que Judd Apatow escolheu no Criterion Closet:\n\n• George Washington (2000)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• Fast Times at Ridgemont High (1982)\n• Defending Your Life (1991)\n• Original Cast Album: Company (1970)\n• Tootsie (1982)\n• The Life Aquatic with Steve Zissou (2004)\n• In The Mood For Love\n• The Age of Innocence (1993)\n• Guillermo del Toro's Pinocchio (2022)\n• Kameradschaft",
+ "links": [
+  {
+   "name": "George Washington",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0262432"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "Fast Times at Ridgemont High",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083929"
+  },
+  {
+   "name": "Defending Your Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101698"
+  },
+  {
+   "name": "Original Cast Album: Company",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0293475"
+  },
+  {
+   "name": "Tootsie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084805"
+  },
+  {
+   "name": "The Life Aquatic with Steve Zissou",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0362270"
+  },
+  {
+   "name": "In The Mood For Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118694"
+  },
+  {
+   "name": "The Age of Innocence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0106226"
+  },
+  {
+   "name": "Guillermo del Toro's Pinocchio",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1488589"
+  },
+  {
+   "name": "Kameradschaft",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0022017"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6899-adda60be2f0a546caf3f390dec403117/FjlON53L6nKCPyuXK0hZlK7aDqX8ZK_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6899-adda60be2f0a546caf3f390dec403117/FjlON53L6nKCPyuXK0hZlK7aDqX8ZK_original.jpg",
+ "posterShape": "landscape"
+}

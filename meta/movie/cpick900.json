@@ -1,0 +1,51 @@
+{
+ "id": "cpick900",
+ "type": "movie",
+ "name": "Yorgos Lanthimos",
+ "description": "Filmes que Yorgos Lanthimos escolheu no Criterion Closet:\n\n• Inland Empire (2006)\n• Carnal Knowledge (1971)\n• Mikey and Nicky (1976)\n• Black God, White Devil (1964)\n• Persona (1966)\n• The Discreet Charm of the Bourgeoisie (1972)\n• The Phantom of Liberty (1974)\n• That Obscure Object of Desire (1977)",
+ "links": [
+  {
+   "name": "Inland Empire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0460829"
+  },
+  {
+   "name": "Carnal Knowledge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066892"
+  },
+  {
+   "name": "Mikey and Nicky",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074901"
+  },
+  {
+   "name": "Black God, White Devil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058006"
+  },
+  {
+   "name": "Persona",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060827"
+  },
+  {
+   "name": "The Discreet Charm of the Bourgeoisie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068361"
+  },
+  {
+   "name": "The Phantom of Liberty",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071487"
+  },
+  {
+   "name": "That Obscure Object of Desire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075824"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7062-0979010d753778ce7f5683ce1d0d3cb4/qBNUH6vIsNalhl2qzKVphfhR6uoTiV_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7062-0979010d753778ce7f5683ce1d0d3cb4/qBNUH6vIsNalhl2qzKVphfhR6uoTiV_original.jpg",
+ "posterShape": "landscape"
+}

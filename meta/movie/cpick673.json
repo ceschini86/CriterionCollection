@@ -1,0 +1,71 @@
+{
+ "id": "cpick673",
+ "type": "movie",
+ "name": "Jeremy Thomas",
+ "description": "Filmes que Jeremy Thomas escolheu no Criterion Closet:\n\n• A Touch of Zen (1970)\n• The Leopard (1963)\n• Beau Travail (1999)\n• The Last Wave (1977)\n• The Discreet Charm of the Bourgeoisie (1972)\n• The Phantom of Liberty (1974)\n• That Obscure Object of Desire (1977)\n• The Rules of the Game (1939)\n• Alice in the Cities (1974)\n• Wrong Move (1975)\n• Kings of the Road (1976)\n• La Strada (1954)",
+ "links": [
+  {
+   "name": "A Touch of Zen",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064451"
+  },
+  {
+   "name": "The Leopard",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057091"
+  },
+  {
+   "name": "Beau Travail",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0209933"
+  },
+  {
+   "name": "The Last Wave",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076299"
+  },
+  {
+   "name": "The Discreet Charm of the Bourgeoisie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068361"
+  },
+  {
+   "name": "The Phantom of Liberty",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071487"
+  },
+  {
+   "name": "That Obscure Object of Desire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075824"
+  },
+  {
+   "name": "The Rules of the Game",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0031885"
+  },
+  {
+   "name": "Alice in the Cities",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069687"
+  },
+  {
+   "name": "Wrong Move",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071483"
+  },
+  {
+   "name": "Kings of the Road",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073152"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5980-8eeb919851ee18b8bb3d2a8b85aa1250/SqkSOCm4yZn8nzu3N6dsjfNsgslyZ6_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5980-8eeb919851ee18b8bb3d2a8b85aa1250/SqkSOCm4yZn8nzu3N6dsjfNsgslyZ6_original.jpg",
+ "posterShape": "landscape"
+}

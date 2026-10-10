@@ -1,0 +1,126 @@
+{
+ "id": "cpick831",
+ "type": "movie",
+ "name": "Michelle Zauner",
+ "description": "Filmes que Michelle Zauner escolheu no Criterion Closet:\n\n• Variety Lights (1950)\n• The White Sheik (1952)\n• I Vitelloni (1953)\n• La Strada (1954)\n• Il Bidone\n• Nights of Cabiria (1957)\n• La Dolce Vita (1960)\n• 8½ (1963)\n• Juliet of the Spirits (1965)\n• Fellini Satyricon\n• Roma\n• Amarcord (1973)\n• And the Ship Sails On (1983)\n• Intervista (1987)\n• A Brighter Summer Day (1991)\n• Still Walking (2008)\n• Touki Bouki (1973)\n• Redes (1936)\n• A River Called Titas (1973)\n• Dry Summer (1963)\n• Trances (1982)\n• The Housemaid (1960)\n• The Spirit of the Beehive (1973)",
+ "links": [
+  {
+   "name": "Variety Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042692"
+  },
+  {
+   "name": "The White Sheik",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044000"
+  },
+  {
+   "name": "I Vitelloni",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046521"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  },
+  {
+   "name": "Il Bidone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047876"
+  },
+  {
+   "name": "Nights of Cabiria",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050783"
+  },
+  {
+   "name": "La Dolce Vita",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053779"
+  },
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "Juliet of the Spirits",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059229"
+  },
+  {
+   "name": "Fellini Satyricon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064940"
+  },
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069191"
+  },
+  {
+   "name": "Amarcord",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071129"
+  },
+  {
+   "name": "And the Ship Sails On",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087188"
+  },
+  {
+   "name": "Intervista",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093267"
+  },
+  {
+   "name": "A Brighter Summer Day",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101985"
+  },
+  {
+   "name": "Still Walking",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1087578"
+  },
+  {
+   "name": "Touki Bouki",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070820"
+  },
+  {
+   "name": "Redes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028165"
+  },
+  {
+   "name": "A River Called Titas",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070809"
+  },
+  {
+   "name": "Dry Summer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062322"
+  },
+  {
+   "name": "Trances",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0406280"
+  },
+  {
+   "name": "The Housemaid",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0150980"
+  },
+  {
+   "name": "The Spirit of the Beehive",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070040"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6756-b1cde5febb146c8dfff3d42f4975215b/o4JD4sBe4V30qbMoto3eVWQgc4TQlc_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6756-b1cde5febb146c8dfff3d42f4975215b/o4JD4sBe4V30qbMoto3eVWQgc4TQlc_original.jpg",
+ "posterShape": "landscape"
+}

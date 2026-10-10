@@ -1,0 +1,86 @@
+{
+ "id": "cpick879",
+ "type": "movie",
+ "name": "Tracy Letts",
+ "description": "Filmes que Tracy Letts escolheu no Criterion Closet:\n\n• Kwaidan (1965)\n• Do the Right Thing (1989)\n• Hoop Dreams (1994)\n• Berlin Alexanderplatz (1980)\n• Winchester '73 (1950)\n• Red River (1948)\n• The Tall T\n• Decision At Sundown\n• Buchanan Rides Alone\n• Ride Lonesome\n• Comanche Station\n• Round Midnight (1986)\n• Thelonious Monk: Straight, No Chaser (1988)\n• Choose Me (1984)\n• Love Jones (1997)",
+ "links": [
+  {
+   "name": "Kwaidan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058279"
+  },
+  {
+   "name": "Do the Right Thing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097216"
+  },
+  {
+   "name": "Hoop Dreams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0110057"
+  },
+  {
+   "name": "Berlin Alexanderplatz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080196"
+  },
+  {
+   "name": "Winchester '73",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043137"
+  },
+  {
+   "name": "Red River",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040724"
+  },
+  {
+   "name": "The Tall T",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051047"
+  },
+  {
+   "name": "Decision At Sundown",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050296"
+  },
+  {
+   "name": "Buchanan Rides Alone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051437"
+  },
+  {
+   "name": "Ride Lonesome",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053220"
+  },
+  {
+   "name": "Comanche Station",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053729"
+  },
+  {
+   "name": "Round Midnight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090557"
+  },
+  {
+   "name": "Thelonious Monk: Straight, No Chaser",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0098465"
+  },
+  {
+   "name": "Choose Me",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087054"
+  },
+  {
+   "name": "Love Jones",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119572"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6956-11991c90fca8806fdd3e09cae54bba14/DCVVgetRGc5lPlvxL9JHlvR1P65Om9_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6956-11991c90fca8806fdd3e09cae54bba14/DCVVgetRGc5lPlvxL9JHlvR1P65Om9_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "cpick1013",
+ "type": "movie",
+ "name": "Aaron Sorkin",
+ "description": "Filmes que Aaron Sorkin escolheu no Criterion Closet:\n\n• Tanner '88 (1988)\n• Broadcast News (1987)\n• The Graduate (1967)\n• Network (1976)\n• The Princess Bride (1987)",
+ "links": [
+  {
+   "name": "Tanner '88",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0094562"
+  },
+  {
+   "name": "Broadcast News",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092699"
+  },
+  {
+   "name": "The Graduate",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061722"
+  },
+  {
+   "name": "Network",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074958"
+  },
+  {
+   "name": "The Princess Bride",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093779"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7596-d8d0b0221c711e6d4e73b0a0a6d89e82/Ur0ui4JGAuWONigdArejN1Ogvww76k_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7596-d8d0b0221c711e6d4e73b0a0a6d89e82/Ur0ui4JGAuWONigdArejN1Ogvww76k_original.jpg",
+ "posterShape": "landscape"
+}

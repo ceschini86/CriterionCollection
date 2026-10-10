@@ -1,0 +1,96 @@
+{
+ "id": "cpick897",
+ "type": "movie",
+ "name": "Derek Cianfrance",
+ "description": "Filmes que Derek Cianfrance escolheu no Criterion Closet:\n\n• Short Cuts (1993)\n• To Sleep with Anger (1990)\n• Freaks\n• The Unknown (1927)\n• The Mystic\n• Accattone (1961)\n• Mamma Roma (1962)\n• Love Meetings (1965)\n• The Gospel According To Matthew\n• The Hawks and the Sparrows (1966)\n• Oedipus Rex (1967)\n• Teorema (1968)\n• Porcile\n• Medea (1969)\n• By Brakhage: An Anthology, Volume One (2003)\n• By Brakhage An Anthology Volume Two\n• Certified Copy (2010)",
+ "links": [
+  {
+   "name": "Short Cuts",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108122"
+  },
+  {
+   "name": "To Sleep with Anger",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100791"
+  },
+  {
+   "name": "Freaks",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0022913"
+  },
+  {
+   "name": "The Unknown",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0018528"
+  },
+  {
+   "name": "The Mystic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0016142"
+  },
+  {
+   "name": "Accattone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054599"
+  },
+  {
+   "name": "Mamma Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056215"
+  },
+  {
+   "name": "Love Meetings",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057960"
+  },
+  {
+   "name": "The Gospel According To Matthew",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058715"
+  },
+  {
+   "name": "The Hawks and the Sparrows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061132"
+  },
+  {
+   "name": "Oedipus Rex",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061613"
+  },
+  {
+   "name": "Teorema",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063678"
+  },
+  {
+   "name": "Porcile",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064828"
+  },
+  {
+   "name": "Medea",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066065"
+  },
+  {
+   "name": "By Brakhage: An Anthology, Volume One",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt13935772"
+  },
+  {
+   "name": "By Brakhage An Anthology Volume Two",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt13935772"
+  },
+  {
+   "name": "Certified Copy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1020773"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7050-2f3f0282e4c9e3df50f752e5d61a4c9f/7ZwwdWrvZIF8l12ghSrShm7VBgjVd5_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7050-2f3f0282e4c9e3df50f752e5d61a4c9f/7ZwwdWrvZIF8l12ghSrShm7VBgjVd5_original.jpg",
+ "posterShape": "landscape"
+}

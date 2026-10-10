@@ -1,0 +1,56 @@
+{
+ "id": "cpick424",
+ "type": "movie",
+ "name": "Ben Sinclair",
+ "description": "Filmes que Ben Sinclair escolheu no Criterion Closet:\n\n• Short Cuts (1993)\n• Bad Timing (1980)\n• Close-Up (1990)\n• Punch-Drunk Love (2002)\n• Being John Malkovich (1999)\n• Funny Games (1997)\n• Old Joy (2006)\n• The Princess Bride (1987)\n• Midnight Cowboy (1969)",
+ "links": [
+  {
+   "name": "Short Cuts",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108122"
+  },
+  {
+   "name": "Bad Timing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080408"
+  },
+  {
+   "name": "Close-Up",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100234"
+  },
+  {
+   "name": "Punch-Drunk Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0272338"
+  },
+  {
+   "name": "Being John Malkovich",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120601"
+  },
+  {
+   "name": "Funny Games",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119167"
+  },
+  {
+   "name": "Old Joy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0468526"
+  },
+  {
+   "name": "The Princess Bride",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093779"
+  },
+  {
+   "name": "Midnight Cowboy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064665"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5073-7391e304581c5499fc1a6645a98fe4a9/xR0ztMgSDhHCnxOPqsKdw4KhewUxVx_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5073-7391e304581c5499fc1a6645a98fe4a9/xR0ztMgSDhHCnxOPqsKdw4KhewUxVx_original.jpg",
+ "posterShape": "landscape"
+}

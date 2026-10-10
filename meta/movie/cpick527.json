@@ -1,0 +1,51 @@
+{
+ "id": "cpick527",
+ "type": "movie",
+ "name": "Floyd Norman",
+ "description": "Filmes que Floyd Norman escolheu no Criterion Closet:\n\n• Elephant Boy (1937)\n• The Drum (1938)\n• Jungle Book (1942)\n• The Thief of Bagdad (1940)\n• The Hidden Fortress (1958)\n• Rebecca (1940)\n• Malcolm X (1992)\n• My Man Godfrey (1936)",
+ "links": [
+  {
+   "name": "Elephant Boy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028827"
+  },
+  {
+   "name": "The Drum",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0030082"
+  },
+  {
+   "name": "Jungle Book",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034928"
+  },
+  {
+   "name": "The Thief of Bagdad",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033152"
+  },
+  {
+   "name": "The Hidden Fortress",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051808"
+  },
+  {
+   "name": "Rebecca",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032976"
+  },
+  {
+   "name": "Malcolm X",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104797"
+  },
+  {
+   "name": "My Man Godfrey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028010"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5280-8d56fedd54a9ab7369ee1b8020848655/5x9jwNecDzk3CEjhHJbY2kcUgp22qS_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5280-8d56fedd54a9ab7369ee1b8020848655/5x9jwNecDzk3CEjhHJbY2kcUgp22qS_original.jpg",
+ "posterShape": "landscape"
+}

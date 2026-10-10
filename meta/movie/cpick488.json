@@ -1,0 +1,46 @@
+{
+ "id": "cpick488",
+ "type": "movie",
+ "name": "Bill Hader (2011)",
+ "description": "Filmes que Bill Hader escolheu no Criterion Closet:\n\n• Amarcord (1973)\n• House (1977)\n• Salò, or the 120 Days of Sodom (1975)\n• Green for Danger (1946)\n• Loves of a Blonde (1965)\n• The Daytrippers (1997)\n• Antichrist (2009)",
+ "links": [
+  {
+   "name": "Amarcord",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071129"
+  },
+  {
+   "name": "House",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076162"
+  },
+  {
+   "name": "Salò, or the 120 Days of Sodom",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073650"
+  },
+  {
+   "name": "Green for Danger",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038577"
+  },
+  {
+   "name": "Loves of a Blonde",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059415"
+  },
+  {
+   "name": "The Daytrippers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0116041"
+  },
+  {
+   "name": "Antichrist",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0870984"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5113-cb5a96775667999c893df57e2bcfa182/sbRbMyoMHoRM9odKAE4BVUmpT8WdlU_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5113-cb5a96775667999c893df57e2bcfa182/sbRbMyoMHoRM9odKAE4BVUmpT8WdlU_original.jpg",
+ "posterShape": "landscape"
+}

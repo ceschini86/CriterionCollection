@@ -1,0 +1,46 @@
+{
+ "id": "cpick517",
+ "type": "movie",
+ "name": "Vicky Krieps",
+ "description": "Filmes que Vicky Krieps escolheu no Criterion Closet:\n\n• Female Trouble (1974)\n• Ikiru (1952)\n• Dazed and Confused (1993)\n• Blue Velvet (1986)\n• La Vie de Jésus (1997)\n• La Piscine (1969)\n• La Strada (1954)",
+ "links": [
+  {
+   "name": "Female Trouble",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072979"
+  },
+  {
+   "name": "Ikiru",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044741"
+  },
+  {
+   "name": "Dazed and Confused",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0106677"
+  },
+  {
+   "name": "Blue Velvet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090756"
+  },
+  {
+   "name": "La Vie de Jésus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120448"
+  },
+  {
+   "name": "La Piscine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064816"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5208-9b2ea5e8646ece7379e32eeba0ca3225/A7IMTA2adTg3NsTc5ClKAWlFVwLjuq_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5208-9b2ea5e8646ece7379e32eeba0ca3225/A7IMTA2adTg3NsTc5ClKAWlFVwLjuq_original.jpg",
+ "posterShape": "landscape"
+}

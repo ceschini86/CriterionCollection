@@ -1,0 +1,81 @@
+{
+ "id": "cpick1011",
+ "type": "movie",
+ "name": "Sharon Horgan",
+ "description": "Filmes que Sharon Horgan escolheu no Criterion Closet:\n\n• The Princess Bride (1987)\n• Loves of a Blonde (1965)\n• Kes (1969)\n• Before Sunrise (1995)\n• Before Sunset (2004)\n• Before Midnight (2013)\n• The Velvet Underground (2021)\n• The Graduate (1967)\n• The Red Balloon (1956)\n• White Mane (1953)\n• Bim The Little Donkey\n• Stowaway In The Sky\n• Circus Angel\n• It's a Mad, Mad, Mad, Mad World (1963)",
+ "links": [
+  {
+   "name": "The Princess Bride",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093779"
+  },
+  {
+   "name": "Loves of a Blonde",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059415"
+  },
+  {
+   "name": "Kes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064541"
+  },
+  {
+   "name": "Before Sunrise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112471"
+  },
+  {
+   "name": "Before Sunset",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0381681"
+  },
+  {
+   "name": "Before Midnight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2209418"
+  },
+  {
+   "name": "The Velvet Underground",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt7230750"
+  },
+  {
+   "name": "The Graduate",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061722"
+  },
+  {
+   "name": "The Red Balloon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048980"
+  },
+  {
+   "name": "White Mane",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044518"
+  },
+  {
+   "name": "Bim The Little Donkey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0137387"
+  },
+  {
+   "name": "Stowaway In The Sky",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056667"
+  },
+  {
+   "name": "Circus Angel",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059177"
+  },
+  {
+   "name": "It's a Mad, Mad, Mad, Mad World",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057193"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7588-1e840ad639cc312cd6eb40275a68e214/ZrJ3BY9glEbSg1mGh4eOfcArgyaSjF_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7588-1e840ad639cc312cd6eb40275a68e214/ZrJ3BY9glEbSg1mGh4eOfcArgyaSjF_original.jpg",
+ "posterShape": "landscape"
+}

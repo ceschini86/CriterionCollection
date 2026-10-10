@@ -1,0 +1,76 @@
+{
+ "id": "cpick677",
+ "type": "movie",
+ "name": "Winona Ryder",
+ "description": "Filmes que Winona Ryder escolheu no Criterion Closet:\n\n• Au Revoir les Enfants (1987)\n• The Learning Tree (1969)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• Ghost Dog: The Way of the Samurai (1999)\n• Down by Law (1986)\n• Lost in America (1985)\n• Matewan (1987)\n• After Life (1999)",
+ "links": [
+  {
+   "name": "Au Revoir les Enfants",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092593"
+  },
+  {
+   "name": "The Learning Tree",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064579"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "Ghost Dog: The Way of the Samurai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0165798"
+  },
+  {
+   "name": "Down by Law",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090967"
+  },
+  {
+   "name": "Lost in America",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089504"
+  },
+  {
+   "name": "Matewan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093509"
+  },
+  {
+   "name": "After Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0165078"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5996-a49f74980baf9c8635ac8868d2b1033b/TQD0F8noeZBCdvee1bg6pt8qnDsIrr_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5996-a49f74980baf9c8635ac8868d2b1033b/TQD0F8noeZBCdvee1bg6pt8qnDsIrr_original.jpg",
+ "posterShape": "landscape"
+}

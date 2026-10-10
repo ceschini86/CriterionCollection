@@ -1,0 +1,191 @@
+{
+ "id": "cpick470",
+ "type": "movie",
+ "name": "Barry Jenkins",
+ "description": "Filmes que Barry Jenkins escolheu no Criterion Closet:\n\n• Pather Panchali (1955)\n• Aparajito (1956)\n• Apur Sansar (1959)\n• Weekend (1967)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• Dekalog\n• Three Colors: Blue (1993)\n• Three Colors: White (1994)\n• Three Colors: Red (1994)\n• La Haine (1995)\n• Blood Simple (1984)\n• Fat Girl (2001)\n• Monsoon Wedding (2001)\n• La Ciénaga (2001)\n• Ratcatcher (1999)\n• George Washington (2000)\n• Rashomon (1950)\n• Breathless (1960)\n• Lola\n• Bay of Angels (1963)\n• The Umbrellas of Cherbourg (1964)\n• The Young Girls of Rochefort (1967)\n• Donkey Skin (1970)\n• Une Chambre En Ville\n• Jour de Fête (1949)\n• Monsieur Hulot's Holiday (1953)\n• Mon Oncle (1958)\n• PlayTime (1967)\n• Trafic (1971)\n• Parade (1974)\n• A Brighter Summer Day (1991)",
+ "links": [
+  {
+   "name": "Pather Panchali",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048473"
+  },
+  {
+   "name": "Aparajito",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048956"
+  },
+  {
+   "name": "Apur Sansar",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052572"
+  },
+  {
+   "name": "Weekend",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062480"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "Dekalog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092337"
+  },
+  {
+   "name": "Three Colors: Blue",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108394"
+  },
+  {
+   "name": "Three Colors: White",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111507"
+  },
+  {
+   "name": "Three Colors: Red",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111495"
+  },
+  {
+   "name": "La Haine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0113247"
+  },
+  {
+   "name": "Blood Simple",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086979"
+  },
+  {
+   "name": "Fat Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0243255"
+  },
+  {
+   "name": "Monsoon Wedding",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0265343"
+  },
+  {
+   "name": "La Ciénaga",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0240419"
+  },
+  {
+   "name": "Ratcatcher",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0171685"
+  },
+  {
+   "name": "George Washington",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0262432"
+  },
+  {
+   "name": "Rashomon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042876"
+  },
+  {
+   "name": "Breathless",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053472"
+  },
+  {
+   "name": "Lola",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055093"
+  },
+  {
+   "name": "Bay of Angels",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056846"
+  },
+  {
+   "name": "The Umbrellas of Cherbourg",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058450"
+  },
+  {
+   "name": "The Young Girls of Rochefort",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062873"
+  },
+  {
+   "name": "Donkey Skin",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066207"
+  },
+  {
+   "name": "Une Chambre En Ville",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084843"
+  },
+  {
+   "name": "Jour de Fête",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040497"
+  },
+  {
+   "name": "Monsieur Hulot's Holiday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046487"
+  },
+  {
+   "name": "Mon Oncle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050706"
+  },
+  {
+   "name": "PlayTime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062136"
+  },
+  {
+   "name": "Trafic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069400"
+  },
+  {
+   "name": "Parade",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071968"
+  },
+  {
+   "name": "A Brighter Summer Day",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101985"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5061-3059eb9923c5d2022eae451f0007a64b/ijxPicAs0Lqe0ggxnvrDF67v95gkIw_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5061-3059eb9923c5d2022eae451f0007a64b/ijxPicAs0Lqe0ggxnvrDF67v95gkIw_original.jpg",
+ "posterShape": "landscape"
+}

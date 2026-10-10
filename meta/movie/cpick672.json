@@ -1,0 +1,41 @@
+{
+ "id": "cpick672",
+ "type": "movie",
+ "name": "Paul Scheer",
+ "description": "Filmes que Paul Scheer escolheu no Criterion Closet:\n\n• Walker (1987)\n• Mikey and Nicky (1976)\n• Two-Lane Blacktop (1971)\n• Hopscotch (1980)\n• Make Way for Tomorrow (1937)\n• Klute (1971)",
+ "links": [
+  {
+   "name": "Walker",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0096409"
+  },
+  {
+   "name": "Mikey and Nicky",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074901"
+  },
+  {
+   "name": "Two-Lane Blacktop",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067893"
+  },
+  {
+   "name": "Hopscotch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080889"
+  },
+  {
+   "name": "Make Way for Tomorrow",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0029192"
+  },
+  {
+   "name": "Klute",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067309"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5976-880a89b8d59afebc3fe6767bddb38637/XsThoDkoezn9MRz3GZlztWPX5KMOsC_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5976-880a89b8d59afebc3fe6767bddb38637/XsThoDkoezn9MRz3GZlztWPX5KMOsC_original.jpg",
+ "posterShape": "landscape"
+}

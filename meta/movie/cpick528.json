@@ -1,0 +1,36 @@
+{
+ "id": "cpick528",
+ "type": "movie",
+ "name": "André Bonzel",
+ "description": "Filmes que André Bonzel escolheu no Criterion Closet:\n\n• The 400 Blows (1959)\n• Stranger Than Paradise (1984)\n• The Scarlet Empress (1934)\n• Brazil (1985)\n• House (1977)",
+ "links": [
+  {
+   "name": "The 400 Blows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053198"
+  },
+  {
+   "name": "Stranger Than Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088184"
+  },
+  {
+   "name": "The Scarlet Empress",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0025746"
+  },
+  {
+   "name": "Brazil",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088846"
+  },
+  {
+   "name": "House",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076162"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5284-da1fffce06bbe329b9332479899b0259/gaohTvzP2Lqd2qNjgmTZhiyW5jdCnN_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5284-da1fffce06bbe329b9332479899b0259/gaohTvzP2Lqd2qNjgmTZhiyW5jdCnN_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "cpick996",
+ "type": "movie",
+ "name": "Terry Zwigoff",
+ "description": "Filmes que Terry Zwigoff escolheu no Criterion Closet:\n\n• Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb\n• The Killers\n• The Killers\n• Army of Shadows (1969)\n• The Asphalt Jungle (1950)\n• All About My Mother (1999)",
+ "links": [
+  {
+   "name": "Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057012"
+  },
+  {
+   "name": "The Killers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038669"
+  },
+  {
+   "name": "The Killers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058262"
+  },
+  {
+   "name": "Army of Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064040"
+  },
+  {
+   "name": "The Asphalt Jungle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042208"
+  },
+  {
+   "name": "All About My Mother",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0185125"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7516-6f23a38e5d7715a565d8a13fe838ffbb/cNLAePQwCPSD8279AZyMSiZ6TIyw2l_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7516-6f23a38e5d7715a565d8a13fe838ffbb/cNLAePQwCPSD8279AZyMSiZ6TIyw2l_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "cpick971",
+ "type": "movie",
+ "name": "John C. Reilly",
+ "description": "Filmes que John C. Reilly escolheu no Criterion Closet:\n\n• Down by Law (1986)\n• The Killing of a Chinese Bookie (1976)\n• The Brood (1979)\n• Defending Your Life (1991)\n• On the Waterfront (1954)\n• The Great Escape (1963)",
+ "links": [
+  {
+   "name": "Down by Law",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090967"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "The Brood",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078908"
+  },
+  {
+   "name": "Defending Your Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101698"
+  },
+  {
+   "name": "On the Waterfront",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047296"
+  },
+  {
+   "name": "The Great Escape",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057115"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7405-feefafc3cd662a0b95b666a3a70ef213/2PitBnwqRagmT72YPaJ6vBB2TTN5uF_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7405-feefafc3cd662a0b95b666a3a70ef213/2PitBnwqRagmT72YPaJ6vBB2TTN5uF_original.jpg",
+ "posterShape": "landscape"
+}

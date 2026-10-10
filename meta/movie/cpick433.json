@@ -1,0 +1,46 @@
+{
+ "id": "cpick433",
+ "type": "movie",
+ "name": "John Dwyer",
+ "description": "Filmes que John Dwyer escolheu no Criterion Closet:\n\n• Naked Lunch (1991)\n• Grey Gardens (1976)\n• Repo Man (1984)\n• Odd Man Out (1947)\n• The Manchurian Candidate (1962)\n• True Stories (1986)\n• Night of the Living Dead (1968)",
+ "links": [
+  {
+   "name": "Naked Lunch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102511"
+  },
+  {
+   "name": "Grey Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073076"
+  },
+  {
+   "name": "Repo Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087995"
+  },
+  {
+   "name": "Odd Man Out",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039677"
+  },
+  {
+   "name": "The Manchurian Candidate",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056218"
+  },
+  {
+   "name": "True Stories",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092117"
+  },
+  {
+   "name": "Night of the Living Dead",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063350"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5069-f2abe19871591d9cd8a5fe4529169255/wttH0p432cMIWzvZlBfcG6R0cuaj7f_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5069-f2abe19871591d9cd8a5fe4529169255/wttH0p432cMIWzvZlBfcG6R0cuaj7f_original.jpg",
+ "posterShape": "landscape"
+}

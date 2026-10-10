@@ -1,0 +1,76 @@
+{
+ "id": "cpick640",
+ "type": "movie",
+ "name": "Bertrand Bonello",
+ "description": "Filmes que Bertrand Bonello escolheu no Criterion Closet:\n\n• The Age of Innocence (1993)\n• Crash (1996)\n• Clean, Shaven (1995)\n• Accattone (1961)\n• Mamma Roma (1962)\n• Love Meetings (1965)\n• The Gospel According To Matthew\n• The Hawks and the Sparrows (1966)\n• Oedipus Rex (1967)\n• Teorema (1968)\n• Porcile\n• Medea (1969)\n• Close-Up (1990)",
+ "links": [
+  {
+   "name": "The Age of Innocence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0106226"
+  },
+  {
+   "name": "Crash",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0115964"
+  },
+  {
+   "name": "Clean, Shaven",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0106579"
+  },
+  {
+   "name": "Accattone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054599"
+  },
+  {
+   "name": "Mamma Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056215"
+  },
+  {
+   "name": "Love Meetings",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057960"
+  },
+  {
+   "name": "The Gospel According To Matthew",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058715"
+  },
+  {
+   "name": "The Hawks and the Sparrows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061132"
+  },
+  {
+   "name": "Oedipus Rex",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061613"
+  },
+  {
+   "name": "Teorema",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063678"
+  },
+  {
+   "name": "Porcile",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064828"
+  },
+  {
+   "name": "Medea",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066065"
+  },
+  {
+   "name": "Close-Up",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100234"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5845-8b822805de6ab8d191e9d07b32d77620/WjAslvKcZCEpvJOZGBjiRdfSwrk5tj_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5845-8b822805de6ab8d191e9d07b32d77620/WjAslvKcZCEpvJOZGBjiRdfSwrk5tj_original.jpg",
+ "posterShape": "landscape"
+}

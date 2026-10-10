@@ -1,0 +1,66 @@
+{
+ "id": "cpick808",
+ "type": "movie",
+ "name": "Aimee Lou Wood",
+ "description": "Filmes que Aimee Lou Wood escolheu no Criterion Closet:\n\n• Broadcast News (1987)\n• Cold War (2018)\n• Thelma & Louise (1991)\n• Petite Maman (2021)\n• The Big Chill (1983)\n• Moonstruck (1987)\n• Punch-Drunk Love (2002)\n• Before Sunrise (1995)\n• Before Sunset (2004)\n• Before Midnight (2013)\n• Funny Girl (1968)",
+ "links": [
+  {
+   "name": "Broadcast News",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092699"
+  },
+  {
+   "name": "Cold War",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6543652"
+  },
+  {
+   "name": "Thelma & Louise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103074"
+  },
+  {
+   "name": "Petite Maman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt13204490"
+  },
+  {
+   "name": "The Big Chill",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085244"
+  },
+  {
+   "name": "Moonstruck",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093565"
+  },
+  {
+   "name": "Punch-Drunk Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0272338"
+  },
+  {
+   "name": "Before Sunrise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112471"
+  },
+  {
+   "name": "Before Sunset",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0381681"
+  },
+  {
+   "name": "Before Midnight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2209418"
+  },
+  {
+   "name": "Funny Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062994"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6584-661d943bc0d4bfbafbe2440935519f51/lwgjh2o2HVC4IsxCeUTKQjiZVPICM0_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6584-661d943bc0d4bfbafbe2440935519f51/lwgjh2o2HVC4IsxCeUTKQjiZVPICM0_original.jpg",
+ "posterShape": "landscape"
+}

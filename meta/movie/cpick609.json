@@ -1,0 +1,116 @@
+{
+ "id": "cpick609",
+ "type": "movie",
+ "name": "Slavoj Žižek",
+ "description": "Filmes que Slavoj Žižek escolheu no Criterion Closet:\n\n• Trouble in Paradise (1932)\n• Sweet Smell of Success (1957)\n• Picnic at Hanging Rock (1975)\n• Murmur of the Heart (1971)\n• Pearls of the Deep (1966)\n• Daisies (1966)\n• A Report On The Party And Guests\n• Return of the Prodigal Son (1976)\n• Capricious Summer (1968)\n• The Joke (1969)\n• Stranger Than Paradise (1984)\n• Great Expectations (1946)\n• Cartesius\n• Blaise Pascal (1972)\n• City Lights (1931)\n• Day of Wrath (1943)\n• Ordet (1955)\n• Gertrud (1964)\n• Carl Th. Dreyer: My Metier (1995)\n• Y tu mamá también (2001)\n• Antichrist (2009)",
+ "links": [
+  {
+   "name": "Trouble in Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0023622"
+  },
+  {
+   "name": "Sweet Smell of Success",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051036"
+  },
+  {
+   "name": "Picnic at Hanging Rock",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073540"
+  },
+  {
+   "name": "Murmur of the Heart",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067778"
+  },
+  {
+   "name": "Pearls of the Deep",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059581"
+  },
+  {
+   "name": "Daisies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060959"
+  },
+  {
+   "name": "A Report On The Party And Guests",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063371"
+  },
+  {
+   "name": "Return of the Prodigal Son",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074168"
+  },
+  {
+   "name": "Capricious Summer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063527"
+  },
+  {
+   "name": "The Joke",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065241"
+  },
+  {
+   "name": "Stranger Than Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088184"
+  },
+  {
+   "name": "Great Expectations",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038574"
+  },
+  {
+   "name": "Cartesius",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0161382"
+  },
+  {
+   "name": "Blaise Pascal",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066839"
+  },
+  {
+   "name": "City Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0021749"
+  },
+  {
+   "name": "Day of Wrath",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0036506"
+  },
+  {
+   "name": "Ordet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048452"
+  },
+  {
+   "name": "Gertrud",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058138"
+  },
+  {
+   "name": "Carl Th. Dreyer: My Metier",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112631"
+  },
+  {
+   "name": "Y tu mamá también",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0245574"
+  },
+  {
+   "name": "Antichrist",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0870984"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5680-2b502be3ed983a9b175ba6b13a7e7ff0/zEyC1mnnOqKU5bDNKjU4K7IBss04aj_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5680-2b502be3ed983a9b175ba6b13a7e7ff0/zEyC1mnnOqKU5bDNKjU4K7IBss04aj_original.jpg",
+ "posterShape": "landscape"
+}

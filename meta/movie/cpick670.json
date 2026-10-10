@@ -1,0 +1,71 @@
+{
+ "id": "cpick670",
+ "type": "movie",
+ "name": "Viggo Mortensen",
+ "description": "Filmes que Viggo Mortensen escolheu no Criterion Closet:\n\n• Stagecoach (1939)\n• Red River (1948)\n• Forty Guns (1957)\n• The Gunfighter (1950)\n• The Furies (1950)\n• 3:10 to Yuma (1957)\n• McCabe & Mrs. Miller (1971)\n• The Tall T\n• Decision At Sundown\n• Buchanan Rides Alone\n• Ride Lonesome\n• Comanche Station",
+ "links": [
+  {
+   "name": "Stagecoach",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0031971"
+  },
+  {
+   "name": "Red River",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040724"
+  },
+  {
+   "name": "Forty Guns",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050407"
+  },
+  {
+   "name": "The Gunfighter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042531"
+  },
+  {
+   "name": "The Furies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042490"
+  },
+  {
+   "name": "3:10 to Yuma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050086"
+  },
+  {
+   "name": "McCabe & Mrs. Miller",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067411"
+  },
+  {
+   "name": "The Tall T",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051047"
+  },
+  {
+   "name": "Decision At Sundown",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050296"
+  },
+  {
+   "name": "Buchanan Rides Alone",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051437"
+  },
+  {
+   "name": "Ride Lonesome",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053220"
+  },
+  {
+   "name": "Comanche Station",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053729"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5968-f9aaf6c53697f22d092e7aecc9943785/Lft4iSZTlzAAjKBWEKari4YCKCeZzw_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5968-f9aaf6c53697f22d092e7aecc9943785/Lft4iSZTlzAAjKBWEKari4YCKCeZzw_original.jpg",
+ "posterShape": "landscape"
+}

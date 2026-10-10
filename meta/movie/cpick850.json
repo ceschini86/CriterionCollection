@@ -1,0 +1,51 @@
+{
+ "id": "cpick850",
+ "type": "movie",
+ "name": "Danny Boyle",
+ "description": "Filmes que Danny Boyle escolheu no Criterion Closet:\n\n• All That Jazz (1979)\n• Anora (2024)\n• Prince of Broadway (2010)\n• The Grifters (1990)\n• Fish Tank (2009)\n• Blood Simple (1984)\n• I Am Cuba (1964)\n• Memories of Underdevelopment (1968)",
+ "links": [
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  },
+  {
+   "name": "Anora",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt28607951"
+  },
+  {
+   "name": "Prince of Broadway",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1000769"
+  },
+  {
+   "name": "The Grifters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0099703"
+  },
+  {
+   "name": "Fish Tank",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1232776"
+  },
+  {
+   "name": "Blood Simple",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086979"
+  },
+  {
+   "name": "I Am Cuba",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058604"
+  },
+  {
+   "name": "Memories of Underdevelopment",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063291"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6841-073a065a02b0654a9dc5ccff687e748e/DFEjrj9AiL6npohtP2ftH6VD9fYz4f_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6841-073a065a02b0654a9dc5ccff687e748e/DFEjrj9AiL6npohtP2ftH6VD9fYz4f_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "cpick511",
+ "type": "movie",
+ "name": "Ron Shelton",
+ "description": "Filmes que Ron Shelton escolheu no Criterion Closet:\n\n• The Lady Vanishes (1938)\n• Straw Dogs (1971)\n• Badlands (1973)\n• Some Like It Hot (1959)\n• His Girl Friday (1940)\n• On the Waterfront (1954)",
+ "links": [
+  {
+   "name": "The Lady Vanishes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0030341"
+  },
+  {
+   "name": "Straw Dogs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067800"
+  },
+  {
+   "name": "Badlands",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069762"
+  },
+  {
+   "name": "Some Like It Hot",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053291"
+  },
+  {
+   "name": "His Girl Friday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032599"
+  },
+  {
+   "name": "On the Waterfront",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047296"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5188-fac1a65969fb8b51ca49c97a38bd89e7/al0heoOXZwMz6UzujJlpHnfrLjIehl_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5188-fac1a65969fb8b51ca49c97a38bd89e7/al0heoOXZwMz6UzujJlpHnfrLjIehl_original.jpg",
+ "posterShape": "landscape"
+}

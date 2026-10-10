@@ -1,0 +1,96 @@
+{
+ "id": "cpick492",
+ "type": "movie",
+ "name": "Gina Prince-Bythewood",
+ "description": "Filmes que Gina Prince-Bythewood escolheu no Criterion Closet:\n\n• Love & Basketball (2000)\n• Black Orpheus (1959)\n• In The Mood For Love\n• Broadcast News (1987)\n• A Dry White Season (1989)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• Ratcatcher (1999)\n• Fish Tank (2009)\n• Devil in a Blue Dress (1995)\n• Claudine (1974)\n• Fear and Loathing in Las Vegas (1998)\n• An Actor's Revenge (1963)",
+ "links": [
+  {
+   "name": "Love & Basketball",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0199725"
+  },
+  {
+   "name": "Black Orpheus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053146"
+  },
+  {
+   "name": "In The Mood For Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118694"
+  },
+  {
+   "name": "Broadcast News",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092699"
+  },
+  {
+   "name": "A Dry White Season",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097243"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "Ratcatcher",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0171685"
+  },
+  {
+   "name": "Fish Tank",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1232776"
+  },
+  {
+   "name": "Devil in a Blue Dress",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112857"
+  },
+  {
+   "name": "Claudine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071334"
+  },
+  {
+   "name": "Fear and Loathing in Las Vegas",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120669"
+  },
+  {
+   "name": "An Actor's Revenge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057710"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5129-edc11e7f04b70fcf3636158711758f38/7YbO2QqmT13SsvXBPrvHQQjcVjNj05_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5129-edc11e7f04b70fcf3636158711758f38/7YbO2QqmT13SsvXBPrvHQQjcVjNj05_original.jpg",
+ "posterShape": "landscape"
+}

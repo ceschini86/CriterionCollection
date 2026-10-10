@@ -1,0 +1,131 @@
+{
+ "id": "cpick944",
+ "type": "movie",
+ "name": "Sofia Coppola & Marc Jacobs",
+ "description": "Filmes que Sofia Coppola & Marc Jacobs escolheu no Criterion Closet:\n\n• Grey Gardens (1976)\n• Loves of a Blonde (1965)\n• All That Jazz (1979)\n• The Bitter Tears of Petra von Kant (1972)\n• Paris Is Burning (1991)\n• Female Trouble (1974)\n• Klute (1971)\n• The Virgin Suicides (1999)\n• After Hours (1985)\n• Summer with Monika (1953)\n• I Knew Her Well (1965)\n• Pather Panchali (1955)\n• Aparajito (1956)\n• Apur Sansar (1959)\n• Belle de Jour (1967)\n• Flow (2024)\n• Ryuichi Sakamoto | Opus (2023)\n• Totally F***ed Up (1994)\n• The Doom Generation (1995)\n• Nowhere (1997)\n• The Heiress (1949)\n• Funny Games (1997)\n• Fast Times at Ridgemont High (1982)\n• The Grifters (1990)",
+ "links": [
+  {
+   "name": "Grey Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073076"
+  },
+  {
+   "name": "Loves of a Blonde",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059415"
+  },
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  },
+  {
+   "name": "The Bitter Tears of Petra von Kant",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068278"
+  },
+  {
+   "name": "Paris Is Burning",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100332"
+  },
+  {
+   "name": "Female Trouble",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072979"
+  },
+  {
+   "name": "Klute",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067309"
+  },
+  {
+   "name": "The Virgin Suicides",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0159097"
+  },
+  {
+   "name": "After Hours",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0088680"
+  },
+  {
+   "name": "Summer with Monika",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046345"
+  },
+  {
+   "name": "I Knew Her Well",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060545"
+  },
+  {
+   "name": "Pather Panchali",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048473"
+  },
+  {
+   "name": "Aparajito",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048956"
+  },
+  {
+   "name": "Apur Sansar",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052572"
+  },
+  {
+   "name": "Belle de Jour",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061395"
+  },
+  {
+   "name": "Flow",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt4772188"
+  },
+  {
+   "name": "Ryuichi Sakamoto | Opus",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt28490873"
+  },
+  {
+   "name": "Totally F***ed Up",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0108366"
+  },
+  {
+   "name": "The Doom Generation",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112887"
+  },
+  {
+   "name": "Nowhere",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119809"
+  },
+  {
+   "name": "The Heiress",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041452"
+  },
+  {
+   "name": "Funny Games",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119167"
+  },
+  {
+   "name": "Fast Times at Ridgemont High",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083929"
+  },
+  {
+   "name": "The Grifters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0099703"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7275-b38a442d84c3ded32e4521ead1ee1aec/4TmihJzynTj6A6cP9hZdyklVJgZD3j_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7275-b38a442d84c3ded32e4521ead1ee1aec/4TmihJzynTj6A6cP9hZdyklVJgZD3j_original.jpg",
+ "posterShape": "landscape"
+}

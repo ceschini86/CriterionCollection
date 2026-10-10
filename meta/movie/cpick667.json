@@ -1,0 +1,51 @@
+{
+ "id": "cpick667",
+ "type": "movie",
+ "name": "Bill and Turner Ross",
+ "description": "Filmes que Bill and Turner Ross escolheu no Criterion Closet:\n\n• Dead Man (1995)\n• Touki Bouki (1973)\n• Les Blank Always For Pleasure\n• Time (2020)\n• Dekalog\n• The Cameraman (1928)\n• Close-Up (1990)\n• Harlan County U.S.A. (1976)",
+ "links": [
+  {
+   "name": "Dead Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112817"
+  },
+  {
+   "name": "Touki Bouki",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070820"
+  },
+  {
+   "name": "Les Blank Always For Pleasure",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077154"
+  },
+  {
+   "name": "Time",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt11416746"
+  },
+  {
+   "name": "Dekalog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092337"
+  },
+  {
+   "name": "The Cameraman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0018742"
+  },
+  {
+   "name": "Close-Up",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100234"
+  },
+  {
+   "name": "Harlan County U.S.A.",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074605"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5960-820328c7eaf510b00eec5a1f82454f0a/YvmCWpOpTc4KbvLssPv6Ei9wx5B3ux_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5960-820328c7eaf510b00eec5a1f82454f0a/YvmCWpOpTc4KbvLssPv6Ei9wx5B3ux_original.jpg",
+ "posterShape": "landscape"
+}

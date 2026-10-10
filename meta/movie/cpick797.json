@@ -1,0 +1,56 @@
+{
+ "id": "cpick797",
+ "type": "movie",
+ "name": "Mark Rylance",
+ "description": "Filmes que Mark Rylance escolheu no Criterion Closet:\n\n• The Hidden Fortress (1958)\n• Ikiru (1952)\n• Miracle in Milan (1951)\n• The Tree of Wooden Clogs (1978)\n• High Sierra (1941)\n• Dodes'ka-den (1970)\n• The Friends of Eddie Coyle (1973)\n• Woman in the Dunes (1964)\n• After Life (1999)",
+ "links": [
+  {
+   "name": "The Hidden Fortress",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051808"
+  },
+  {
+   "name": "Ikiru",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044741"
+  },
+  {
+   "name": "Miracle in Milan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043809"
+  },
+  {
+   "name": "The Tree of Wooden Clogs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077138"
+  },
+  {
+   "name": "High Sierra",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033717"
+  },
+  {
+   "name": "Dodes'ka-den",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065649"
+  },
+  {
+   "name": "The Friends of Eddie Coyle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070077"
+  },
+  {
+   "name": "Woman in the Dunes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058625"
+  },
+  {
+   "name": "After Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0165078"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6544-84bd19f44f0f8a3114594b160908d156/kNmUJk7s7aMPj2xa3mexidN5emmyh3_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6544-84bd19f44f0f8a3114594b160908d156/kNmUJk7s7aMPj2xa3mexidN5emmyh3_original.jpg",
+ "posterShape": "landscape"
+}

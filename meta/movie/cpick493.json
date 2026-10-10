@@ -1,0 +1,101 @@
+{
+ "id": "cpick493",
+ "type": "movie",
+ "name": "Wilco",
+ "description": "Filmes que Wilco escolheu no Criterion Closet:\n\n• Being There (1979)\n• A Poem Is a Naked Person (1974)\n• Rumble Fish (1983)\n• Heart of a Dog (2015)\n• The Parallax View (1974)\n• My Winnipeg (2008)\n• Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese (2019)\n• Le Deuxième Souffle (1966)\n• Head (1968)\n• Easy Rider (1969)\n• Five Easy Pieces (1970)\n• Drive, He Said (1971)\n• A Safe Place (1971)\n• The Last Picture Show (1971)\n• The King of Marvin Gardens (1972)\n• Who Are You, Polly Maggoo? (1966)\n• Mr. Freedom (1969)\n• The Model Couple (1977)",
+ "links": [
+  {
+   "name": "Being There",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078841"
+  },
+  {
+   "name": "A Poem Is a Naked Person",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0424359"
+  },
+  {
+   "name": "Rumble Fish",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086216"
+  },
+  {
+   "name": "Heart of a Dog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt4935446"
+  },
+  {
+   "name": "The Parallax View",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071970"
+  },
+  {
+   "name": "My Winnipeg",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1093842"
+  },
+  {
+   "name": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt9577852"
+  },
+  {
+   "name": "Le Deuxième Souffle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060305"
+  },
+  {
+   "name": "Head",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063049"
+  },
+  {
+   "name": "Easy Rider",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064276"
+  },
+  {
+   "name": "Five Easy Pieces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065724"
+  },
+  {
+   "name": "Drive, He Said",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068509"
+  },
+  {
+   "name": "A Safe Place",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067699"
+  },
+  {
+   "name": "The Last Picture Show",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067328"
+  },
+  {
+   "name": "The King of Marvin Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068805"
+  },
+  {
+   "name": "Who Are You, Polly Maggoo?",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060879"
+  },
+  {
+   "name": "Mr. Freedom",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064674"
+  },
+  {
+   "name": "The Model Couple",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0191053"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5133-71aa132073fefac061fe24605b9c19f5/abhF3kOf23jYZHgj2FhWcWkvJ5S6HY_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5133-71aa132073fefac061fe24605b9c19f5/abhF3kOf23jYZHgj2FhWcWkvJ5S6HY_original.jpg",
+ "posterShape": "landscape"
+}

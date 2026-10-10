@@ -1,0 +1,56 @@
+{
+ "id": "cpick420",
+ "type": "movie",
+ "name": "Rodarte",
+ "description": "Filmes que Rodarte escolheu no Criterion Closet:\n\n• In The Mood For Love\n• The Double Life of Véronique (1991)\n• Videodrome (1983)\n• Sisters (1973)\n• In a Lonely Place (1950)\n• Polyester (1981)\n• Shampoo (1975)\n• Multiple Maniacs (1970)\n• The Red Shoes (1948)",
+ "links": [
+  {
+   "name": "In The Mood For Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118694"
+  },
+  {
+   "name": "The Double Life of Véronique",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101765"
+  },
+  {
+   "name": "Videodrome",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086541"
+  },
+  {
+   "name": "Sisters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070698"
+  },
+  {
+   "name": "In a Lonely Place",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042593"
+  },
+  {
+   "name": "Polyester",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082926"
+  },
+  {
+   "name": "Shampoo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073692"
+  },
+  {
+   "name": "Multiple Maniacs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067454"
+  },
+  {
+   "name": "The Red Shoes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040725"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4789-fb7728c49507e3656af1eea8c578d3e4/FsiLey4jdd5DCtETiMG749HfIRNVHM_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4789-fb7728c49507e3656af1eea8c578d3e4/FsiLey4jdd5DCtETiMG749HfIRNVHM_original.jpg",
+ "posterShape": "landscape"
+}

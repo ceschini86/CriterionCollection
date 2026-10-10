@@ -1,0 +1,141 @@
+{
+ "id": "cpick652",
+ "type": "movie",
+ "name": "Ryusuke Hamaguchi",
+ "description": "Filmes que Ryusuke Hamaguchi escolheu no Criterion Closet:\n\n• Late Spring (1949)\n• Army of Shadows (1969)\n• La Haine (1995)\n• Toni (1935)\n• Beau Travail (1999)\n• Until the End of the World (1991)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• Heaven Can Wait (1943)\n• A Story of Floating Weeds (1934)\n• Floating Weeds (1959)\n• Lola\n• Bay of Angels (1963)\n• The Umbrellas of Cherbourg (1964)\n• The Young Girls of Rochefort (1967)\n• Donkey Skin (1970)\n• Une Chambre En Ville\n• Judex (1963)\n• Bigger Than Life (1956)\n• Fists in the Pocket (1965)\n• Cure (1997)\n• My Darling Clementine (1946)",
+ "links": [
+  {
+   "name": "Late Spring",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041154"
+  },
+  {
+   "name": "Army of Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064040"
+  },
+  {
+   "name": "La Haine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0113247"
+  },
+  {
+   "name": "Toni",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0025898"
+  },
+  {
+   "name": "Beau Travail",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0209933"
+  },
+  {
+   "name": "Until the End of the World",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101458"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "Heaven Can Wait",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035979"
+  },
+  {
+   "name": "A Story of Floating Weeds",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0025929"
+  },
+  {
+   "name": "Floating Weeds",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053390"
+  },
+  {
+   "name": "Lola",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055093"
+  },
+  {
+   "name": "Bay of Angels",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056846"
+  },
+  {
+   "name": "The Umbrellas of Cherbourg",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058450"
+  },
+  {
+   "name": "The Young Girls of Rochefort",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062873"
+  },
+  {
+   "name": "Donkey Skin",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066207"
+  },
+  {
+   "name": "Une Chambre En Ville",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0084843"
+  },
+  {
+   "name": "Judex",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057207"
+  },
+  {
+   "name": "Bigger Than Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049010"
+  },
+  {
+   "name": "Fists in the Pocket",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059619"
+  },
+  {
+   "name": "Cure",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0123948"
+  },
+  {
+   "name": "My Darling Clementine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038762"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5916-b2ea1f3ff2a543968b157bbb1cde166f/ej0teG1hBVvu5WhMhExgoPtH50Q1fy_original.png",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5916-b2ea1f3ff2a543968b157bbb1cde166f/ej0teG1hBVvu5WhMhExgoPtH50Q1fy_original.png",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,66 @@
+{
+ "id": "cpick512",
+ "type": "movie",
+ "name": "Amir Naderi",
+ "description": "Filmes que Amir Naderi escolheu no Criterion Closet:\n\n• A Brighter Summer Day (1991)\n• The Discreet Charm of the Bourgeoisie (1972)\n• The Phantom of Liberty (1974)\n• That Obscure Object of Desire (1977)\n• Through a Glass Darkly (1961)\n• Winter Light (1963)\n• The Silence (1963)\n• Dekalog\n• Pather Panchali (1955)\n• Aparajito (1956)\n• Apur Sansar (1959)",
+ "links": [
+  {
+   "name": "A Brighter Summer Day",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101985"
+  },
+  {
+   "name": "The Discreet Charm of the Bourgeoisie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068361"
+  },
+  {
+   "name": "The Phantom of Liberty",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071487"
+  },
+  {
+   "name": "That Obscure Object of Desire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0075824"
+  },
+  {
+   "name": "Through a Glass Darkly",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055499"
+  },
+  {
+   "name": "Winter Light",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057358"
+  },
+  {
+   "name": "The Silence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057611"
+  },
+  {
+   "name": "Dekalog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092337"
+  },
+  {
+   "name": "Pather Panchali",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048473"
+  },
+  {
+   "name": "Aparajito",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048956"
+  },
+  {
+   "name": "Apur Sansar",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052572"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5192-c21f04de872196ba83b921cbaae3b146/ti7TRWLx8KautxRdVW3WNJkO4odAu4_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5192-c21f04de872196ba83b921cbaae3b146/ti7TRWLx8KautxRdVW3WNJkO4odAu4_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "cpick457",
+ "type": "movie",
+ "name": "Alicia Malone",
+ "description": "Filmes que Alicia Malone escolheu no Criterion Closet:\n\n• Breaker Morant (1980)\n• Eraserhead (1977)\n• Ikiru (1952)\n• Lady Snowblood (1973)\n• Weekend (1967)\n• Gilda (1946)\n• His Girl Friday (1940)\n• Walkabout (1971)",
+ "links": [
+  {
+   "name": "Breaker Morant",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080310"
+  },
+  {
+   "name": "Eraserhead",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074486"
+  },
+  {
+   "name": "Ikiru",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0044741"
+  },
+  {
+   "name": "Lady Snowblood",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0158714"
+  },
+  {
+   "name": "Weekend",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062480"
+  },
+  {
+   "name": "Gilda",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038559"
+  },
+  {
+   "name": "His Girl Friday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032599"
+  },
+  {
+   "name": "Walkabout",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067959"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5264-782fc7fb0050ef8e1f7462a633594479/oEIV6hXEQ9hOQjQJvNKJ0eVBP3DFnz_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5264-782fc7fb0050ef8e1f7462a633594479/oEIV6hXEQ9hOQjQJvNKJ0eVBP3DFnz_original.jpg",
+ "posterShape": "landscape"
+}

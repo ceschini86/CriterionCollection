@@ -1,0 +1,31 @@
+{
+ "id": "cpick758",
+ "type": "movie",
+ "name": "Norman Reedus",
+ "description": "Filmes que Norman Reedus escolheu no Criterion Closet:\n\n• Blue Velvet (1986)\n• The Color of Pomegranates (1969)\n• Videodrome (1983)\n• My Own Private Idaho (1991)",
+ "links": [
+  {
+   "name": "Blue Velvet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090756"
+  },
+  {
+   "name": "The Color of Pomegranates",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063555"
+  },
+  {
+   "name": "Videodrome",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086541"
+  },
+  {
+   "name": "My Own Private Idaho",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102494"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6374-f2b0a0b9376d1220f6f617e800cda84b/fgJAyh5YdQL1k5RsDvcf7OYWOVwgUg_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6374-f2b0a0b9376d1220f6f617e800cda84b/fgJAyh5YdQL1k5RsDvcf7OYWOVwgUg_original.jpg",
+ "posterShape": "landscape"
+}

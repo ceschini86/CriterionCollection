@@ -1,0 +1,41 @@
+{
+ "id": "cpick747",
+ "type": "movie",
+ "name": "Eric Bana",
+ "description": "Filmes que Eric Bana escolheu no Criterion Closet:\n\n• The Silence of the Lambs (1991)\n• The Blob (1958)\n• Badlands (1973)\n• Breaker Morant (1980)\n• The Great Escape (1963)\n• Night on Earth (1991)",
+ "links": [
+  {
+   "name": "The Silence of the Lambs",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102926"
+  },
+  {
+   "name": "The Blob",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051418"
+  },
+  {
+   "name": "Badlands",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069762"
+  },
+  {
+   "name": "Breaker Morant",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080310"
+  },
+  {
+   "name": "The Great Escape",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057115"
+  },
+  {
+   "name": "Night on Earth",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102536"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6442-abb219e68d9fc63e11fb9eae1f342726/QPgppCgzZWWlSHfPPBMeECJ4aOIcnt_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6442-abb219e68d9fc63e11fb9eae1f342726/QPgppCgzZWWlSHfPPBMeECJ4aOIcnt_original.jpg",
+ "posterShape": "landscape"
+}

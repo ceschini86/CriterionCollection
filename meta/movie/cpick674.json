@@ -1,0 +1,61 @@
+{
+ "id": "cpick674",
+ "type": "movie",
+ "name": "Lily Gladstone & Erica Tremblay",
+ "description": "Filmes que Lily Gladstone & Erica Tremblay escolheu no Criterion Closet:\n\n• Local Hero (1983)\n• Quadrophenia (1979)\n• After Life (1999)\n• Old Joy (2006)\n• Scorsese Shorts\n• Certain Women (2016)\n• Down by Law (1986)\n• Frances Ha (2013)\n• The Adventures of Baron Munchausen (1988)\n• Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese (2019)",
+ "links": [
+  {
+   "name": "Local Hero",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085859"
+  },
+  {
+   "name": "Quadrophenia",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079766"
+  },
+  {
+   "name": "After Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0165078"
+  },
+  {
+   "name": "Old Joy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0468526"
+  },
+  {
+   "name": "Scorsese Shorts",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt12431770"
+  },
+  {
+   "name": "Certain Women",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt4468634"
+  },
+  {
+   "name": "Down by Law",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090967"
+  },
+  {
+   "name": "Frances Ha",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2347569"
+  },
+  {
+   "name": "The Adventures of Baron Munchausen",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0096764"
+  },
+  {
+   "name": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt9577852"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5984-2c5de354db47c447d18d83c9ede553b3/DPtbfmRgZ119fZq66FARo3s5sLbQGh_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5984-2c5de354db47c447d18d83c9ede553b3/DPtbfmRgZ119fZq66FARo3s5sLbQGh_original.jpg",
+ "posterShape": "landscape"
+}

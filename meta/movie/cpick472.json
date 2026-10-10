@@ -1,0 +1,46 @@
+{
+ "id": "cpick472",
+ "type": "movie",
+ "name": "Agnès Varda",
+ "description": "Filmes que Agnès Varda escolheu no Criterion Closet:\n\n• An Angel at My Table (1990)\n• Sweetie (1989)\n• Taste of Cherry (1997)\n• La Promesse (1996)\n• Band Of Outsiders\n• Tiny Furniture (2010)\n• The Marriage of Maria Braun (1979)",
+ "links": [
+  {
+   "name": "An Angel at My Table",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0099040"
+  },
+  {
+   "name": "Sweetie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0098725"
+  },
+  {
+   "name": "Taste of Cherry",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0120265"
+  },
+  {
+   "name": "La Promesse",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0117398"
+  },
+  {
+   "name": "Band Of Outsiders",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057869"
+  },
+  {
+   "name": "Tiny Furniture",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1570989"
+  },
+  {
+   "name": "The Marriage of Maria Braun",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079095"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5055-1fd3c3db3f7a60477369904c9f0c0a2b/c48xPqukuzEhv9GlLvf03JEMOiTB49_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5055-1fd3c3db3f7a60477369904c9f0c0a2b/c48xPqukuzEhv9GlLvf03JEMOiTB49_original.jpg",
+ "posterShape": "landscape"
+}

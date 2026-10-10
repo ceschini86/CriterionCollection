@@ -1,0 +1,51 @@
+{
+ "id": "cpick734",
+ "type": "movie",
+ "name": "Amelia Dimoldenberg",
+ "description": "Filmes que Amelia Dimoldenberg escolheu no Criterion Closet:\n\n• Fish Tank (2009)\n• A Hard Day's Night (1964)\n• 12 Angry Men (1957)\n• All That Jazz (1979)\n• The Worst Person in the World (2021)\n• Portrait of a Lady on Fire (2019)\n• Petite Maman (2021)\n• Girlfriends (1978)",
+ "links": [
+  {
+   "name": "Fish Tank",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1232776"
+  },
+  {
+   "name": "A Hard Day's Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058182"
+  },
+  {
+   "name": "12 Angry Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050083"
+  },
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  },
+  {
+   "name": "The Worst Person in the World",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt10370710"
+  },
+  {
+   "name": "Portrait of a Lady on Fire",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt8613070"
+  },
+  {
+   "name": "Petite Maman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt13204490"
+  },
+  {
+   "name": "Girlfriends",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077613"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6230-300d4e149b96f2cb75c79501e7200d8d/MABrNATcUueRZHZrhYzlQxrRckHM6W_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6230-300d4e149b96f2cb75c79501e7200d8d/MABrNATcUueRZHZrhYzlQxrRckHM6W_original.jpg",
+ "posterShape": "landscape"
+}

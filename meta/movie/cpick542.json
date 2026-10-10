@@ -1,0 +1,56 @@
+{
+ "id": "cpick542",
+ "type": "movie",
+ "name": "William Friedkin",
+ "description": "Filmes que William Friedkin escolheu no Criterion Closet:\n\n• Sunday, Bloody Sunday (1971)\n• The Killing of a Chinese Bookie (1976)\n• Vampyr (1932)\n• Pickpocket\n• Umberto D. (1952)\n• All That Money Can Buy A K A The Devil And Daniel Webster\n• M (1931)\n• Brute Force (1947)\n• 8½ (1963)",
+ "links": [
+  {
+   "name": "Sunday, Bloody Sunday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067805"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Vampyr",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0023649"
+  },
+  {
+   "name": "Pickpocket",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053168"
+  },
+  {
+   "name": "Umberto D.",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0045274"
+  },
+  {
+   "name": "All That Money Can Buy A K A The Devil And Daniel Webster",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0033532"
+  },
+  {
+   "name": "M",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0022100"
+  },
+  {
+   "name": "Brute Force",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039224"
+  },
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5352-c98fb5724bef90ed3ee29ef954f1caf7/4CCEZCeKHFcozMGfnjMRqvnLwWD1RT_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5352-c98fb5724bef90ed3ee29ef954f1caf7/4CCEZCeKHFcozMGfnjMRqvnLwWD1RT_original.jpg",
+ "posterShape": "landscape"
+}

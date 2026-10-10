@@ -1,0 +1,51 @@
+{
+ "id": "cpick908",
+ "type": "movie",
+ "name": "Tom Rothman",
+ "description": "Filmes que Tom Rothman escolheu no Criterion Closet:\n\n• Down by Law (1986)\n• To Be or Not to Be (1942)\n• Harlan County U.S.A. (1976)\n• Winchester '73 (1950)\n• To Sleep with Anger (1990)\n• The Ice Storm (1997)\n• The Big Chill (1983)\n• The Philadelphia Story (1940)",
+ "links": [
+  {
+   "name": "Down by Law",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0090967"
+  },
+  {
+   "name": "To Be or Not to Be",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035446"
+  },
+  {
+   "name": "Harlan County U.S.A.",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074605"
+  },
+  {
+   "name": "Winchester '73",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043137"
+  },
+  {
+   "name": "To Sleep with Anger",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100791"
+  },
+  {
+   "name": "The Ice Storm",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119349"
+  },
+  {
+   "name": "The Big Chill",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085244"
+  },
+  {
+   "name": "The Philadelphia Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032904"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7101-f07907e5862c7fdbb7406a4e6db6ed3c/t0pqMbVd0Fx8Cj2THfKVtQKDvLDcPc_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7101-f07907e5862c7fdbb7406a4e6db6ed3c/t0pqMbVd0Fx8Cj2THfKVtQKDvLDcPc_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,56 @@
+{
+ "id": "cpick494",
+ "type": "movie",
+ "name": "Saul Williams and Anisia Uzeyman",
+ "description": "Filmes que Saul Williams and Anisia Uzeyman escolheu no Criterion Closet:\n\n• Videodrome (1983)\n• Do the Right Thing (1989)\n• Mirror (1975)\n• Time (2020)\n• In The Mood For Love\n• Touki Bouki (1973)\n• The Decameron (1971)\n• The Canterbury Tales (1972)\n• Arabian Nights (1974)",
+ "links": [
+  {
+   "name": "Videodrome",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0086541"
+  },
+  {
+   "name": "Do the Right Thing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097216"
+  },
+  {
+   "name": "Mirror",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072443"
+  },
+  {
+   "name": "Time",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt11416746"
+  },
+  {
+   "name": "In The Mood For Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118694"
+  },
+  {
+   "name": "Touki Bouki",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070820"
+  },
+  {
+   "name": "The Decameron",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065622"
+  },
+  {
+   "name": "The Canterbury Tales",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067647"
+  },
+  {
+   "name": "Arabian Nights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071502"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5137-53a4113877fbaacff4807b9fa2b3f397/TxEDbQPIV4BLxTtPL84deennb8PhiR_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5137-53a4113877fbaacff4807b9fa2b3f397/TxEDbQPIV4BLxTtPL84deennb8PhiR_original.jpg",
+ "posterShape": "landscape"
+}

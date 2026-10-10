@@ -1,0 +1,131 @@
+{
+ "id": "cpick537",
+ "type": "movie",
+ "name": "Louis Garrel",
+ "description": "Filmes que Louis Garrel escolheu no Criterion Closet:\n\n• The Suitor (1962)\n• Yoyo (1965)\n• As Long as You've Got Your Health (1966)\n• Le Grand Amour (1969)\n• Land Of Milk And Honey\n• Jour de Fête (1949)\n• Monsieur Hulot's Holiday (1953)\n• Mon Oncle (1958)\n• PlayTime (1967)\n• Trafic (1971)\n• Parade (1974)\n• Summer with Monika (1953)\n• Poto and Cabengo (1980)\n• Routine Pleasures\n• My Crasy Life\n• Persona (1966)\n• Stromboli (1950)\n• Europe '51 (1952)\n• Journey to Italy (1954)\n• Loves of a Blonde (1965)\n• Sólo Con Tu Pareja (1991)\n• Jules and Jim (1962)\n• Amarcord (1973)\n• Europa (1991)",
+ "links": [
+  {
+   "name": "The Suitor",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056514"
+  },
+  {
+   "name": "Yoyo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059934"
+  },
+  {
+   "name": "As Long as You've Got Your Health",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0207145"
+  },
+  {
+   "name": "Le Grand Amour",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064390"
+  },
+  {
+   "name": "Land Of Milk And Honey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0258013"
+  },
+  {
+   "name": "Jour de Fête",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040497"
+  },
+  {
+   "name": "Monsieur Hulot's Holiday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046487"
+  },
+  {
+   "name": "Mon Oncle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050706"
+  },
+  {
+   "name": "PlayTime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062136"
+  },
+  {
+   "name": "Trafic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069400"
+  },
+  {
+   "name": "Parade",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071968"
+  },
+  {
+   "name": "Summer with Monika",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046345"
+  },
+  {
+   "name": "Poto and Cabengo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0196866"
+  },
+  {
+   "name": "Routine Pleasures",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0274069"
+  },
+  {
+   "name": "My Crasy Life",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104953"
+  },
+  {
+   "name": "Persona",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060827"
+  },
+  {
+   "name": "Stromboli",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041931"
+  },
+  {
+   "name": "Europe '51",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043511"
+  },
+  {
+   "name": "Journey to Italy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046511"
+  },
+  {
+   "name": "Loves of a Blonde",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059415"
+  },
+  {
+   "name": "Sólo Con Tu Pareja",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102958"
+  },
+  {
+   "name": "Jules and Jim",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055032"
+  },
+  {
+   "name": "Amarcord",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071129"
+  },
+  {
+   "name": "Europa",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101829"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5336-85d08b9436c7f7555cf3273f436ba8fc/ZfZljSaJGDX1UMZpHlu1iZgpJ7Ws19_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5336-85d08b9436c7f7555cf3273f436ba8fc/ZfZljSaJGDX1UMZpHlu1iZgpJ7Ws19_original.jpg",
+ "posterShape": "landscape"
+}

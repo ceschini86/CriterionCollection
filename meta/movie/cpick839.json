@@ -1,0 +1,46 @@
+{
+ "id": "cpick839",
+ "type": "movie",
+ "name": "Steve Coogan",
+ "description": "Filmes que Steve Coogan escolheu no Criterion Closet:\n\n• The Lady Vanishes (1938)\n• 12 Angry Men (1957)\n• The Spy Who Came in from the Cold (1965)\n• A Matter of Life and Death (1946)\n• The Servant (1963)\n• Klute (1971)\n• His Girl Friday (1940)",
+ "links": [
+  {
+   "name": "The Lady Vanishes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0030341"
+  },
+  {
+   "name": "12 Angry Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050083"
+  },
+  {
+   "name": "The Spy Who Came in from the Cold",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059749"
+  },
+  {
+   "name": "A Matter of Life and Death",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038733"
+  },
+  {
+   "name": "The Servant",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057490"
+  },
+  {
+   "name": "Klute",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067309"
+  },
+  {
+   "name": "His Girl Friday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032599"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6783-c861c41989618d973ea237fe9b0a9958/U87YiwqDV7HrAbrY7ZaBcfncgzyHoM_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6783-c861c41989618d973ea237fe9b0a9958/U87YiwqDV7HrAbrY7ZaBcfncgzyHoM_original.jpg",
+ "posterShape": "landscape"
+}

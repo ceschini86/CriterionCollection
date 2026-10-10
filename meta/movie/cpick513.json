@@ -1,0 +1,46 @@
+{
+ "id": "cpick513",
+ "type": "movie",
+ "name": "Jerzy Skolimowski",
+ "description": "Filmes que Jerzy Skolimowski escolheu no Criterion Closet:\n\n• Diamonds of the Night (1964)\n• Ashes and Diamonds (1958)\n• Come and See (1985)\n• Ivan's Childhood (1962)\n• La Strada (1954)\n• 8½ (1963)\n• Loves of a Blonde (1965)",
+ "links": [
+  {
+   "name": "Diamonds of the Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0058001"
+  },
+  {
+   "name": "Ashes and Diamonds",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0052080"
+  },
+  {
+   "name": "Come and See",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091251"
+  },
+  {
+   "name": "Ivan's Childhood",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056111"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  },
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "Loves of a Blonde",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059415"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5196-d1432e447d39f62ba363c07605d13f0e/uYCMC3mVtEnlmWOkGq7XyMOo0IrTnc_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5196-d1432e447d39f62ba363c07605d13f0e/uYCMC3mVtEnlmWOkGq7XyMOo0IrTnc_original.jpg",
+ "posterShape": "landscape"
+}

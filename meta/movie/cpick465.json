@@ -1,0 +1,46 @@
+{
+ "id": "cpick465",
+ "type": "movie",
+ "name": "Amy Heckerling",
+ "description": "Filmes que Amy Heckerling escolheu no Criterion Closet:\n\n• Ace in the Hole (1951)\n• City Lights (1931)\n• 8½ (1963)\n• I Vitelloni (1953)\n• Naked Lunch (1991)\n• Tokyo Story (1953)\n• M (1931)",
+ "links": [
+  {
+   "name": "Ace in the Hole",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043338"
+  },
+  {
+   "name": "City Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0021749"
+  },
+  {
+   "name": "8½",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056801"
+  },
+  {
+   "name": "I Vitelloni",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046521"
+  },
+  {
+   "name": "Naked Lunch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102511"
+  },
+  {
+   "name": "Tokyo Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046438"
+  },
+  {
+   "name": "M",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0022100"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5308-fd0c10eb683e82a212c31a1d608a6ac5/M4DFws0RLD7Wrg90XdoT6WH21nPyA0_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5308-fd0c10eb683e82a212c31a1d608a6ac5/M4DFws0RLD7Wrg90XdoT6WH21nPyA0_original.jpg",
+ "posterShape": "landscape"
+}

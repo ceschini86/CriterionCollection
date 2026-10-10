@@ -1,0 +1,66 @@
+{
+ "id": "cpick557",
+ "type": "movie",
+ "name": "Yo La Tengo",
+ "description": "Filmes que Yo La Tengo escolheu no Criterion Closet:\n\n• The Daytrippers (1997)\n• Monterey Pop (1968)\n• Jimi Plays Monterey & Shake! Otis at Monterey (1986)\n• Black Girl (1966)\n• Beyond the Valley of the Dolls (1970)\n• I Wanna Hold Your Hand (1978)\n• The Velvet Underground (2021)\n• Tokyo Story (1953)\n• The Girl Can't Help It (1956)\n• Ministry of Fear (1944)\n• Carnival of Souls (1962)",
+ "links": [
+  {
+   "name": "The Daytrippers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0116041"
+  },
+  {
+   "name": "Monterey Pop",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064689"
+  },
+  {
+   "name": "Jimi Plays Monterey & Shake! Otis at Monterey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093312"
+  },
+  {
+   "name": "Black Girl",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060758"
+  },
+  {
+   "name": "Beyond the Valley of the Dolls",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065466"
+  },
+  {
+   "name": "I Wanna Hold Your Hand",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077714"
+  },
+  {
+   "name": "The Velvet Underground",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt7230750"
+  },
+  {
+   "name": "Tokyo Story",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046438"
+  },
+  {
+   "name": "The Girl Can't Help It",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049263"
+  },
+  {
+   "name": "Ministry of Fear",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037075"
+  },
+  {
+   "name": "Carnival of Souls",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055830"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5442-65e103ea57b4af7d985b338cbc687a4f/d4O3CG8WwipNmPrYbn3IQETmGZVyc8_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5442-65e103ea57b4af7d985b338cbc687a4f/d4O3CG8WwipNmPrYbn3IQETmGZVyc8_original.jpg",
+ "posterShape": "landscape"
+}

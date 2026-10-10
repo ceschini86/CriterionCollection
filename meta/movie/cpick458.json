@@ -1,0 +1,116 @@
+{
+ "id": "cpick458",
+ "type": "movie",
+ "name": "Sean Baker",
+ "description": "Filmes que Sean Baker escolheu no Criterion Closet:\n\n• I Married a Witch (1942)\n• Naked (1993)\n• Life Is Sweet (1991)\n• Repo Man (1984)\n• Kes (1969)\n• Secret Sunshine (2007)\n• Jellyfish Eyes (2013)\n• Yi Yi (2000)\n• El Norte (1983)\n• La chambre (1972)\n• Hotel Monterey (1976)\n• News from Home (1976)\n• Je Tu Il Elle (1974)\n• Les Rendez Vous D Anna\n• Eating Raoul (1982)\n• The Bakery Girl of Monceau (1963)\n• Suzanne's Career (1963)\n• My Night at Maud's (1969)\n• La Collectionneuse (1967)\n• Claire's Knee (1970)\n• Love in the Afternoon (1972)",
+ "links": [
+  {
+   "name": "I Married a Witch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0034881"
+  },
+  {
+   "name": "Naked",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107653"
+  },
+  {
+   "name": "Life Is Sweet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100024"
+  },
+  {
+   "name": "Repo Man",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087995"
+  },
+  {
+   "name": "Kes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064541"
+  },
+  {
+   "name": "Secret Sunshine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0817225"
+  },
+  {
+   "name": "Jellyfish Eyes",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2006181"
+  },
+  {
+   "name": "Yi Yi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0244316"
+  },
+  {
+   "name": "El Norte",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085482"
+  },
+  {
+   "name": "La chambre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068354"
+  },
+  {
+   "name": "Hotel Monterey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068725"
+  },
+  {
+   "name": "News from Home",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076452"
+  },
+  {
+   "name": "Je Tu Il Elle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071690"
+  },
+  {
+   "name": "Les Rendez Vous D Anna",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078152"
+  },
+  {
+   "name": "Eating Raoul",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083869"
+  },
+  {
+   "name": "The Bakery Girl of Monceau",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056884"
+  },
+  {
+   "name": "Suzanne's Career",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056910"
+  },
+  {
+   "name": "My Night at Maud's",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064612"
+  },
+  {
+   "name": "La Collectionneuse",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061495"
+  },
+  {
+   "name": "Claire's Knee",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065772"
+  },
+  {
+   "name": "Love in the Afternoon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068205"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5624-64b26d94ce684af7f3a3c6874f320df4/CFEK5DIq6TDvzEcyh9WXMZZ7T00ObR_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5624-64b26d94ce684af7f3a3c6874f320df4/CFEK5DIq6TDvzEcyh9WXMZZ7T00ObR_original.jpg",
+ "posterShape": "landscape"
+}

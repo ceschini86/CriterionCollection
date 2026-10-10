@@ -1,0 +1,46 @@
+{
+ "id": "cpick666",
+ "type": "movie",
+ "name": "Ayo Edebiri",
+ "description": "Filmes que Ayo Edebiri escolheu no Criterion Closet:\n\n• High and Low (1963)\n• Charade (1963)\n• Bottle Rocket (1996)\n• Thief (1981)\n• The Funeral (1984)\n• To Sleep with Anger (1990)\n• Eyimofe (This Is My Desire) (2021)",
+ "links": [
+  {
+   "name": "High and Low",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057565"
+  },
+  {
+   "name": "Charade",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056923"
+  },
+  {
+   "name": "Bottle Rocket",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0115734"
+  },
+  {
+   "name": "Thief",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083190"
+  },
+  {
+   "name": "The Funeral",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089746"
+  },
+  {
+   "name": "To Sleep with Anger",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100791"
+  },
+  {
+   "name": "Eyimofe (This Is My Desire)",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt10365870"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5956-5ebd0a5920925a1aebb58d09274da3f5/ssF5CNKeE4mX2L1SlOiSmFIGxaM8oU_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5956-5ebd0a5920925a1aebb58d09274da3f5/ssF5CNKeE4mX2L1SlOiSmFIGxaM8oU_original.jpg",
+ "posterShape": "landscape"
+}

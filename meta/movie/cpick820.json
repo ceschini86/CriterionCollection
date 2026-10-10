@@ -1,0 +1,156 @@
+{
+ "id": "cpick820",
+ "type": "movie",
+ "name": "Natasha Lyonne",
+ "description": "Filmes que Natasha Lyonne escolheu no Criterion Closet:\n\n• Naked (1993)\n• Hoop Dreams (1994)\n• Heaven Can Wait (1943)\n• La Strada (1954)\n• Naked Lunch (1991)\n• Umberto D. (1952)\n• Uncut Gems (2019)\n• Devil in a Blue Dress (1995)\n• Raging Bull (1980)\n• Town Bloody Hall (1979)\n• Pickpocket\n• The Decameron (1971)\n• The Canterbury Tales (1972)\n• Arabian Nights (1974)\n• Sunday, Bloody Sunday (1971)\n• Stromboli (1950)\n• Europe '51 (1952)\n• Journey to Italy (1954)\n• City Lights (1931)\n• Pandora's Box (1929)\n• The Bakery Girl of Monceau (1963)\n• Suzanne's Career (1963)\n• My Night at Maud's (1969)\n• La Collectionneuse (1967)\n• Claire's Knee (1970)\n• Love in the Afternoon (1972)\n• Sweet Smell of Success (1957)\n• Jo Jo Dancer, Your Life Is Calling (1986)\n• All That Jazz (1979)",
+ "links": [
+  {
+   "name": "Naked",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0107653"
+  },
+  {
+   "name": "Hoop Dreams",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0110057"
+  },
+  {
+   "name": "Heaven Can Wait",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035979"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  },
+  {
+   "name": "Naked Lunch",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102511"
+  },
+  {
+   "name": "Umberto D.",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0045274"
+  },
+  {
+   "name": "Uncut Gems",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt5727208"
+  },
+  {
+   "name": "Devil in a Blue Dress",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112857"
+  },
+  {
+   "name": "Raging Bull",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081398"
+  },
+  {
+   "name": "Town Bloody Hall",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0217853"
+  },
+  {
+   "name": "Pickpocket",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053168"
+  },
+  {
+   "name": "The Decameron",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065622"
+  },
+  {
+   "name": "The Canterbury Tales",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067647"
+  },
+  {
+   "name": "Arabian Nights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071502"
+  },
+  {
+   "name": "Sunday, Bloody Sunday",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067805"
+  },
+  {
+   "name": "Stromboli",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041931"
+  },
+  {
+   "name": "Europe '51",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043511"
+  },
+  {
+   "name": "Journey to Italy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046511"
+  },
+  {
+   "name": "City Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0021749"
+  },
+  {
+   "name": "Pandora's Box",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0018737"
+  },
+  {
+   "name": "The Bakery Girl of Monceau",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056884"
+  },
+  {
+   "name": "Suzanne's Career",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056910"
+  },
+  {
+   "name": "My Night at Maud's",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064612"
+  },
+  {
+   "name": "La Collectionneuse",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061495"
+  },
+  {
+   "name": "Claire's Knee",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065772"
+  },
+  {
+   "name": "Love in the Afternoon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068205"
+  },
+  {
+   "name": "Sweet Smell of Success",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051036"
+  },
+  {
+   "name": "Jo Jo Dancer, Your Life Is Calling",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0091295"
+  },
+  {
+   "name": "All That Jazz",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078754"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6676-33e8efdceb08063848234abe3617aacc/P3UGaKJvVM2fgq1sYuPsyno8fTLjQm_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6676-33e8efdceb08063848234abe3617aacc/P3UGaKJvVM2fgq1sYuPsyno8fTLjQm_original.jpg",
+ "posterShape": "landscape"
+}

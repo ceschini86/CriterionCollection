@@ -1,0 +1,36 @@
+{
+ "id": "cpick871",
+ "type": "movie",
+ "name": "Jay Duplass",
+ "description": "Filmes que Jay Duplass escolheu no Criterion Closet:\n\n• Slacker (1990)\n• No Country for Old Men (2007)\n• Husbands (1970)\n• Secrets & Lies (1996)\n• Close-Up (1990)",
+ "links": [
+  {
+   "name": "Slacker",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0102943"
+  },
+  {
+   "name": "No Country for Old Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0477348"
+  },
+  {
+   "name": "Husbands",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0065867"
+  },
+  {
+   "name": "Secrets & Lies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0117589"
+  },
+  {
+   "name": "Close-Up",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100234"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6919-dab1526614914132ec311f61ed852fc7/MokKzUj0beuBdEqZjK4MCcYW3tMqHv_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6919-dab1526614914132ec311f61ed852fc7/MokKzUj0beuBdEqZjK4MCcYW3tMqHv_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,86 @@
+{
+ "id": "cpick910",
+ "type": "movie",
+ "name": "Lucy Liu",
+ "description": "Filmes que Lucy Liu escolheu no Criterion Closet:\n\n• Half a Loaf of Kung Fu (1978)\n• Spiritual Kung Fu (1978)\n• The Fearless Hyena\n• Fearless Hyena Ii\n• The Young Master (1980)\n• My Lucky Stars (1985)\n• Roma\n• The Big Boss\n• Fist Of Fury\n• The Way Of The Dragon\n• Enter The Dragon\n• Game Of Death\n• On the Waterfront (1954)\n• The Grifters (1990)\n• In The Mood For Love",
+ "links": [
+  {
+   "name": "Half a Loaf of Kung Fu",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0080623"
+  },
+  {
+   "name": "Spiritual Kung Fu",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078128"
+  },
+  {
+   "name": "The Fearless Hyena",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079315"
+  },
+  {
+   "name": "Fearless Hyena Ii",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0085864"
+  },
+  {
+   "name": "The Young Master",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0081499"
+  },
+  {
+   "name": "My Lucky Stars",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0089177"
+  },
+  {
+   "name": "Roma",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6155172"
+  },
+  {
+   "name": "The Big Boss",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067824"
+  },
+  {
+   "name": "Fist Of Fury",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068767"
+  },
+  {
+   "name": "The Way Of The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068935"
+  },
+  {
+   "name": "Enter The Dragon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070034"
+  },
+  {
+   "name": "Game Of Death",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0077594"
+  },
+  {
+   "name": "On the Waterfront",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047296"
+  },
+  {
+   "name": "The Grifters",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0099703"
+  },
+  {
+   "name": "In The Mood For Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0118694"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/7109-a3c25353464b51eb7fe3bcc79dfa83e4/au6kwaWsadL6pbLCGq3JWUHyPjau49_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/7109-a3c25353464b51eb7fe3bcc79dfa83e4/au6kwaWsadL6pbLCGq3JWUHyPjau49_original.jpg",
+ "posterShape": "landscape"
+}

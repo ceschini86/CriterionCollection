@@ -1,0 +1,86 @@
+{
+ "id": "cpick675",
+ "type": "movie",
+ "name": "Zoë Kravitz and Channing Tatum",
+ "description": "Filmes que Zoë Kravitz and Channing Tatum escolheu no Criterion Closet:\n\n• A Woman Under the Influence (1974)\n• Harlan County U.S.A. (1976)\n• Paris Is Burning (1991)\n• Lord of the Flies (1963)\n• The Vanishing (1988)\n• Seven Samurai (1954)\n• The Killing (1956)\n• The Fisher King (1991)\n• The Rose (1979)\n• Moonstruck (1987)\n• Midnight Cowboy (1969)\n• Where Is The Friend's House? (1987)\n• And Life Goes On\n• Through the Olive Trees (1994)\n• Thelma & Louise (1991)",
+ "links": [
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "Harlan County U.S.A.",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074605"
+  },
+  {
+   "name": "Paris Is Burning",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0100332"
+  },
+  {
+   "name": "Lord of the Flies",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0057261"
+  },
+  {
+   "name": "The Vanishing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0096163"
+  },
+  {
+   "name": "Seven Samurai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047478"
+  },
+  {
+   "name": "The Killing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0049406"
+  },
+  {
+   "name": "The Fisher King",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101889"
+  },
+  {
+   "name": "The Rose",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079826"
+  },
+  {
+   "name": "Moonstruck",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093565"
+  },
+  {
+   "name": "Midnight Cowboy",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064665"
+  },
+  {
+   "name": "Where Is The Friend's House?",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093342"
+  },
+  {
+   "name": "And Life Goes On",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0105888"
+  },
+  {
+   "name": "Through the Olive Trees",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0111845"
+  },
+  {
+   "name": "Thelma & Louise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0103074"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6004-5f5be8fb5fe62e97cdd1a15cb7540901/exZFlKQTNHvlJGZLPlUtEBDiIP90EY_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6004-5f5be8fb5fe62e97cdd1a15cb7540901/exZFlKQTNHvlJGZLPlUtEBDiIP90EY_original.jpg",
+ "posterShape": "landscape"
+}

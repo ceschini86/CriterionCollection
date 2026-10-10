@@ -1,0 +1,31 @@
+{
+ "id": "cpick490",
+ "type": "movie",
+ "name": "Edgar Wright (2)",
+ "description": "Filmes que Edgar Wright escolheu no Criterion Closet:\n\n• Eyes Without a Face (1960)\n• Walker (1987)\n• Throne of Blood (1957)\n• Don't Look Now (1973)",
+ "links": [
+  {
+   "name": "Eyes Without a Face",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053459"
+  },
+  {
+   "name": "Walker",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0096409"
+  },
+  {
+   "name": "Throne of Blood",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050613"
+  },
+  {
+   "name": "Don't Look Now",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069995"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5121-1dc19bfea8abf2811ed304729da0ca2f/I9VKIPfJaXyMcAjuzhpLVXyGoyfMSr_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5121-1dc19bfea8abf2811ed304729da0ca2f/I9VKIPfJaXyMcAjuzhpLVXyGoyfMSr_original.jpg",
+ "posterShape": "landscape"
+}

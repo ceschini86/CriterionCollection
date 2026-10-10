@@ -1,0 +1,66 @@
+{
+ "id": "cpick425",
+ "type": "movie",
+ "name": "Richard E. Grant",
+ "description": "Filmes que Richard E. Grant escolheu no Criterion Closet:\n\n• Jules and Jim (1962)\n• Cries and Whispers (1972)\n• Hamlet (1948)\n• The Tin Drum (1979)\n• City Lights (1931)\n• The French Lieutenant's Woman (1981)\n• Nashville (1975)\n• The Graduate (1967)\n• Day for Night (1973)\n• Some Like It Hot (1959)\n• La Strada (1954)",
+ "links": [
+  {
+   "name": "Jules and Jim",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055032"
+  },
+  {
+   "name": "Cries and Whispers",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0069467"
+  },
+  {
+   "name": "Hamlet",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0040416"
+  },
+  {
+   "name": "The Tin Drum",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078875"
+  },
+  {
+   "name": "City Lights",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0021749"
+  },
+  {
+   "name": "The French Lieutenant's Woman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0082416"
+  },
+  {
+   "name": "Nashville",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073440"
+  },
+  {
+   "name": "The Graduate",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0061722"
+  },
+  {
+   "name": "Day for Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070460"
+  },
+  {
+   "name": "Some Like It Hot",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053291"
+  },
+  {
+   "name": "La Strada",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047528"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4809-05448fda3bc74bfa353446403e69017e/Y9uw4U2SvDtAkuLeWg6fhvqLgnfOvb_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4809-05448fda3bc74bfa353446403e69017e/Y9uw4U2SvDtAkuLeWg6fhvqLgnfOvb_original.jpg",
+ "posterShape": "landscape"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "cpick421",
+ "type": "movie",
+ "name": "Kemp Powers",
+ "description": "Filmes que Kemp Powers escolheu no Criterion Closet:\n\n• Cronos (1993)\n• 12 Angry Men (1957)\n• Watership Down (1978)\n• Matewan (1987)\n• Deep Cover (1992)\n• One Night in Miami... (2020)",
+ "links": [
+  {
+   "name": "Cronos",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104029"
+  },
+  {
+   "name": "12 Angry Men",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050083"
+  },
+  {
+   "name": "Watership Down",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078480"
+  },
+  {
+   "name": "Matewan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093509"
+  },
+  {
+   "name": "Deep Cover",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104073"
+  },
+  {
+   "name": "One Night in Miami...",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt10612922"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/4793-b2160be8f5b222852819bd13bffcd7e7/yznb55ksSqDwcUVkTd6NsmIjh02UTP_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/4793-b2160be8f5b222852819bd13bffcd7e7/yznb55ksSqDwcUVkTd6NsmIjh02UTP_original.jpg",
+ "posterShape": "landscape"
+}

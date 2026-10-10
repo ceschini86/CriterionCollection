@@ -1,0 +1,51 @@
+{
+ "id": "cpick633",
+ "type": "movie",
+ "name": "Matteo Garrone",
+ "description": "Filmes que Matteo Garrone escolheu no Criterion Closet:\n\n• The Cameraman (1928)\n• Andrei Rublev (1966)\n• A Story From Chikamatsu\n• The Story of the Last Chrysanthemum (1939)\n• Mulholland Dr\n• Rome, Open City (1945)\n• Paisan (1946)\n• Germany, Year Zero (1948)",
+ "links": [
+  {
+   "name": "The Cameraman",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0018742"
+  },
+  {
+   "name": "Andrei Rublev",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0060107"
+  },
+  {
+   "name": "A Story From Chikamatsu",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046851"
+  },
+  {
+   "name": "The Story of the Last Chrysanthemum",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032156"
+  },
+  {
+   "name": "Mulholland Dr",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0166924"
+  },
+  {
+   "name": "Rome, Open City",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038890"
+  },
+  {
+   "name": "Paisan",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0038823"
+  },
+  {
+   "name": "Germany, Year Zero",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0039417"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5814-b4841687c72cbbc2c14cc7a039ebb320/OhoDF4YelvMStVMoYYjlq9uy5RJvgJ_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5814-b4841687c72cbbc2c14cc7a039ebb320/OhoDF4YelvMStVMoYYjlq9uy5RJvgJ_original.jpg",
+ "posterShape": "landscape"
+}

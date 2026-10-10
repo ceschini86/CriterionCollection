@@ -1,0 +1,41 @@
+{
+ "id": "cpick788",
+ "type": "movie",
+ "name": "Julia Fox",
+ "description": "Filmes que Julia Fox escolheu no Criterion Closet:\n\n• The Virgin Suicides (1999)\n• A Face in the Crowd (1957)\n• Grey Gardens (1976)\n• Tiny Furniture (2010)\n• All About My Mother (1999)\n• Ugetsu (1953)",
+ "links": [
+  {
+   "name": "The Virgin Suicides",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0159097"
+  },
+  {
+   "name": "A Face in the Crowd",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0050371"
+  },
+  {
+   "name": "Grey Gardens",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073076"
+  },
+  {
+   "name": "Tiny Furniture",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt1570989"
+  },
+  {
+   "name": "All About My Mother",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0185125"
+  },
+  {
+   "name": "Ugetsu",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0046478"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6511-946e37646f644d92c83a36d15bb64ad3/4s9KQrhZJLX9Nlm4VouQd2FCtv5ADd_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6511-946e37646f644d92c83a36d15bb64ad3/4s9KQrhZJLX9Nlm4VouQd2FCtv5ADd_original.jpg",
+ "posterShape": "landscape"
+}

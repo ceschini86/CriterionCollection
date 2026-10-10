@@ -1,0 +1,86 @@
+{
+ "id": "cpick786",
+ "type": "movie",
+ "name": "Julia Garner",
+ "description": "Filmes que Julia Garner escolheu no Criterion Closet:\n\n• All About Eve (1950)\n• Shampoo (1975)\n• Do the Right Thing (1989)\n• Parasite (2019)\n• The Element of Crime (1984)\n• Epidemic\n• Europa (1991)\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• The Princess Bride (1987)\n• Wanda (1970)",
+ "links": [
+  {
+   "name": "All About Eve",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0042192"
+  },
+  {
+   "name": "Shampoo",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073692"
+  },
+  {
+   "name": "Do the Right Thing",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0097216"
+  },
+  {
+   "name": "Parasite",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt6751668"
+  },
+  {
+   "name": "The Element of Crime",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0087280"
+  },
+  {
+   "name": "Epidemic",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092972"
+  },
+  {
+   "name": "Europa",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0101829"
+  },
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "The Princess Bride",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0093779"
+  },
+  {
+   "name": "Wanda",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067961"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6507-652f4bba4fa34372e567b2f52dda1edd/9mhg0c978rinlBN6TTxx0NEaQP4rBV_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6507-652f4bba4fa34372e567b2f52dda1edd/9mhg0c978rinlBN6TTxx0NEaQP4rBV_original.jpg",
+ "posterShape": "landscape"
+}

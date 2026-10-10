@@ -1,0 +1,51 @@
+{
+ "id": "cpick834",
+ "type": "movie",
+ "name": "Ryan Coogler",
+ "description": "Filmes que Ryan Coogler escolheu no Criterion Closet:\n\n• Malcolm X (1992)\n• Love Jones (1997)\n• Thief (1981)\n• Following (1999)\n• Seven Samurai (1954)\n• Late Spring (1949)\n• Devil in a Blue Dress (1995)\n• Love & Basketball (2000)",
+ "links": [
+  {
+   "name": "Malcolm X",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0104797"
+  },
+  {
+   "name": "Love Jones",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0119572"
+  },
+  {
+   "name": "Thief",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0083190"
+  },
+  {
+   "name": "Following",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0154506"
+  },
+  {
+   "name": "Seven Samurai",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0047478"
+  },
+  {
+   "name": "Late Spring",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0041154"
+  },
+  {
+   "name": "Devil in a Blue Dress",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112857"
+  },
+  {
+   "name": "Love & Basketball",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0199725"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6764-afdfdcef5b5fcf9beeb1e5cc3bd4959a/nsguahCHspGqSHXj6GEht6TeKUFtKn_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6764-afdfdcef5b5fcf9beeb1e5cc3bd4959a/nsguahCHspGqSHXj6GEht6TeKUFtKn_original.jpg",
+ "posterShape": "landscape"
+}

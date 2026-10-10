@@ -1,0 +1,56 @@
+{
+ "id": "cpick772",
+ "type": "movie",
+ "name": "Chiara Mastroianni",
+ "description": "Filmes que Chiara Mastroianni escolheu no Criterion Closet:\n\n• Rebecca (1940)\n• To Be or Not to Be (1942)\n• Divorce Italian Style (1961)\n• Mean Streets (1973)\n• Cure (1997)\n• The Night of the Hunter (1955)\n• A Special Day (1977)\n• The Organizer (1963)\n• Things to Come (1936)",
+ "links": [
+  {
+   "name": "Rebecca",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0032976"
+  },
+  {
+   "name": "To Be or Not to Be",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0035446"
+  },
+  {
+   "name": "Divorce Italian Style",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0055913"
+  },
+  {
+   "name": "Mean Streets",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0070379"
+  },
+  {
+   "name": "Cure",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0123948"
+  },
+  {
+   "name": "The Night of the Hunter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0048424"
+  },
+  {
+   "name": "A Special Day",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076085"
+  },
+  {
+   "name": "The Organizer",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056945"
+  },
+  {
+   "name": "Things to Come",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028358"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6430-32f5e95ffdcd3070dea3b714a0d66296/vQLKRri5iegz0MFpD96fsKwHxJe0yJ_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6430-32f5e95ffdcd3070dea3b714a0d66296/vQLKRri5iegz0MFpD96fsKwHxJe0yJ_original.jpg",
+ "posterShape": "landscape"
+}

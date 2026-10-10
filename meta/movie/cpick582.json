@@ -1,0 +1,36 @@
+{
+ "id": "cpick582",
+ "type": "movie",
+ "name": "Rebecca Miller",
+ "description": "Filmes que Rebecca Miller escolheu no Criterion Closet:\n\n• Devi (1960)\n• The Color of Pomegranates (1969)\n• Dekalog\n• Loves of a Blonde (1965)\n• Children of Paradise (1945)",
+ "links": [
+  {
+   "name": "Devi",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053765"
+  },
+  {
+   "name": "The Color of Pomegranates",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063555"
+  },
+  {
+   "name": "Dekalog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092337"
+  },
+  {
+   "name": "Loves of a Blonde",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0059415"
+  },
+  {
+   "name": "Children of Paradise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0037674"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/5524-d1e574e56a3e2a52ab413c36f2ec9246/dQL5IHab0f15lpn49zrIc94GLdFIyU_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/5524-d1e574e56a3e2a52ab413c36f2ec9246/dQL5IHab0f15lpn49zrIc94GLdFIyU_original.jpg",
+ "posterShape": "landscape"
+}

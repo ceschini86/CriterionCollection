@@ -1,0 +1,96 @@
+{
+ "id": "cpick864",
+ "type": "movie",
+ "name": "Kristin Scott Thomas",
+ "description": "Filmes que Kristin Scott Thomas escolheu no Criterion Closet:\n\n• The Night Porter (1974)\n• Casque d'Or (1952)\n• The Awful Truth (1937)\n• Women in Love (1969)\n• Elevator to the Gallows (1958)\n• Purple Noon (1960)\n• You Can Count on Me (2000)\n• La Piscine (1969)\n• Ivan's Childhood (1962)\n• Saute ma ville (1968)\n• L Enfant Aime Ou Je Joue A Etre Une Femme Mariee\n• La chambre (1972)\n• Hotel Monterey (1976)\n• Je Tu Il Elle (1974)\n• Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1976)\n• News from Home (1976)\n• Les Rendez Vous D Anna",
+ "links": [
+  {
+   "name": "The Night Porter",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071910"
+  },
+  {
+   "name": "Casque d'Or",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0043386"
+  },
+  {
+   "name": "The Awful Truth",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0028597"
+  },
+  {
+   "name": "Women in Love",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0066579"
+  },
+  {
+   "name": "Elevator to the Gallows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0051378"
+  },
+  {
+   "name": "Purple Noon",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0054189"
+  },
+  {
+   "name": "You Can Count on Me",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0203230"
+  },
+  {
+   "name": "La Piscine",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0064816"
+  },
+  {
+   "name": "Ivan's Childhood",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0056111"
+  },
+  {
+   "name": "Saute ma ville",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063551"
+  },
+  {
+   "name": "L Enfant Aime Ou Je Joue A Etre Une Femme Mariee",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067053"
+  },
+  {
+   "name": "La chambre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068354"
+  },
+  {
+   "name": "Hotel Monterey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068725"
+  },
+  {
+   "name": "Je Tu Il Elle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071690"
+  },
+  {
+   "name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073198"
+  },
+  {
+   "name": "News from Home",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076452"
+  },
+  {
+   "name": "Les Rendez Vous D Anna",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078152"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6895-0a8f4d0f87850dca0268737eb0cdbaa5/5du7RSEyhD3NDCqLlNcmPSA92qK0XF_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6895-0a8f4d0f87850dca0268737eb0cdbaa5/5du7RSEyhD3NDCqLlNcmPSA92qK0XF_original.jpg",
+ "posterShape": "landscape"
+}

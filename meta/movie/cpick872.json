@@ -1,0 +1,111 @@
+{
+ "id": "cpick872",
+ "type": "movie",
+ "name": "Mark Duplass",
+ "description": "Filmes que Mark Duplass escolheu no Criterion Closet:\n\n• Shadows (1960)\n• Faces (1968)\n• A Woman Under the Influence (1974)\n• The Killing of a Chinese Bookie (1976)\n• Opening Night (1977)\n• A Constant Forge (2000)\n• Before Sunrise (1995)\n• Before Sunset (2004)\n• Before Midnight (2013)\n• Dekalog\n• Saute ma ville (1968)\n• L Enfant Aime Ou Je Joue A Etre Une Femme Mariee\n• La chambre (1972)\n• Hotel Monterey (1976)\n• Je Tu Il Elle (1974)\n• Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1976)\n• News from Home (1976)\n• Les Rendez Vous D Anna\n• Lone Star (1996)\n• Flow (2024)",
+ "links": [
+  {
+   "name": "Shadows",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0053270"
+  },
+  {
+   "name": "Faces",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0062952"
+  },
+  {
+   "name": "A Woman Under the Influence",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0072417"
+  },
+  {
+   "name": "The Killing of a Chinese Bookie",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0074749"
+  },
+  {
+   "name": "Opening Night",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0079672"
+  },
+  {
+   "name": "A Constant Forge",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0346794"
+  },
+  {
+   "name": "Before Sunrise",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0112471"
+  },
+  {
+   "name": "Before Sunset",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0381681"
+  },
+  {
+   "name": "Before Midnight",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt2209418"
+  },
+  {
+   "name": "Dekalog",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0092337"
+  },
+  {
+   "name": "Saute ma ville",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0063551"
+  },
+  {
+   "name": "L Enfant Aime Ou Je Joue A Etre Une Femme Mariee",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0067053"
+  },
+  {
+   "name": "La chambre",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068354"
+  },
+  {
+   "name": "Hotel Monterey",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0068725"
+  },
+  {
+   "name": "Je Tu Il Elle",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0071690"
+  },
+  {
+   "name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0073198"
+  },
+  {
+   "name": "News from Home",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0076452"
+  },
+  {
+   "name": "Les Rendez Vous D Anna",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0078152"
+  },
+  {
+   "name": "Lone Star",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt0116905"
+  },
+  {
+   "name": "Flow",
+   "category": "Escolhas",
+   "url": "stremio:///detail/movie/tt4772188"
+  }
+ ],
+ "poster": "https://s3.amazonaws.com/criterion-production/images/6923-d8cb0c085f2785536659e02c7b03434d/apt5yuH84L89utochs11jX1LZrDKfD_original.jpg",
+ "background": "https://s3.amazonaws.com/criterion-production/images/6923-d8cb0c085f2785536659e02c7b03434d/apt5yuH84L89utochs11jX1LZrDKfD_original.jpg",
+ "posterShape": "landscape"
+}
